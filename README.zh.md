@@ -1,10 +1,35 @@
+<div align="center">
+
+<img src="gm-tools/public/kryuger.png" alt="Kryuger" width="128" />
+
 # Kryuger
 
+**少女前线英文版私服：真实逻辑、数据持久化与管理面板**
+
+[![Release](https://img.shields.io/github/v/release/jhon1466/Kryuger?style=for-the-badge&color=f97316&label=release)](https://github.com/jhon1466/Kryuger/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/jhon1466/Kryuger/total?style=for-the-badge&color=0ea5e9)](https://github.com/jhon1466/Kryuger/releases)
+[![Last commit](https://img.shields.io/github/last-commit/jhon1466/Kryuger?style=for-the-badge&color=22c55e)](https://github.com/jhon1466/Kryuger/commits/main)
+
+![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-server-239120?style=flat-square)
+![LiteDB](https://img.shields.io/badge/LiteDB-database-0f766e?style=flat-square)
+![Tauri 2](https://img.shields.io/badge/Tauri-2-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-UI-2C4F7C?style=flat-square&logo=solid&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square)
+
+<a href="https://github.com/jhon1466/Kryuger/releases/latest"><img src="https://img.shields.io/badge/下载%20Kryuger%20GM%20Tools-f97316?style=for-the-badge&logo=github&logoColor=white" alt="下载 Kryuger GM Tools" /></a>
+
 [Español](README.md) · [English](README.en.md) · **中文** · [日本語](README.ja.md)
+
+</div>
+
+---
 
 **少女前线**（Steam 英文版客户端）私服，使用 C#（.NET 8）和 LiteDB 数据库编写。它根据游戏自带的数据表还原官方服务器的逻辑：你的修改会被保存，任务按真实目标判定胜利，敌人会在自己的回合行动。
 
 > 本项目为非营利项目，仅用于学习和保存目的。与 SunBorn 及任何游戏发行商无关。不包含任何游戏文件：你需要自行安装客户端。
+
+---
 
 ## 使用方法：Kryuger GM Tools
 
@@ -28,11 +53,15 @@
 
 服务器的 GM API（`/gm`）只响应 `127.0.0.1`，并需要 `KRYUGER_GM_TOKEN.txt` 中的令牌，该令牌在服务器启动时生成。每次修改都会记录在 `gm_audit.log` 中。
 
+---
+
 ## 运行要求
 
 - Windows 10/11。
 - 通过 Steam 安装的少女前线英文版（文件夹会自动检测）。
 - 首次运行（下载服务器和 .NET）以及 Steam 登录时需要联网。
+
+---
 
 ## 工作原理
 
@@ -50,44 +79,45 @@ gm-tools/           Kryuger GM Tools（Tauri 2 + Astro + SolidJS）
 
 服务器监听 `127.0.0.1`（端口 5000、80 和 443）。运行期间会在游戏文件夹放置 `version.dll` 以重定向流量，停止时将其移除。
 
+---
+
 ## 路线图
 
 ### 已完成
 
-**账号与登录**
-- Steam 登录、AuthCode 加密，响应采用官方格式。
-- 名称、个人简介、副官、游戏设置、新手教程和格琳娜的皮肤。
-- 重新登录后继续进行中的任务。
-
-**工厂与人形**
-- 人形建造（普通、批量和快速）、装备建造和妖精建造。
-- 梯队、阵型、强化、扩编、回收、锁定、按真实生命上限修复、技能训练、心智升级、誓约和皮肤。
-- 装备和妖精：装备、强化、回收和锁定。
-
-**战斗**
-- 开始任务、移动、战斗、补给、结束回合和撤退，包含官方响应的全部字段。
-- 每场战斗后的经验、等级、剩余生命、评级和好感度。
-- 真实的胜利条件：占领指挥部、全歼敌人、击败 N 个敌人、击败指定敌人、抵达指定节点、占领指挥部节点、坚守 N 回合、回合限制、营救人质和建筑目标。
-- 敌方回合按数据表中的 AI 行动（待机、巡逻、警戒、扩张、追击和进攻指挥部），失去指挥部时任务失败。
-- 人质（解救、护送和营救）以及生命值会保留的首领。
-- 友军和第三方部队及其 AI、背叛和转化。
-- 建筑：易主、摧毁和防御。
-- 带迷雾的夜战任务：只显示梯队视野内的内容。
-- 任务、章节、活动和模拟作战按正常进度解锁。
-
-**进度与经济**
-- 后勤支援（真实时长和奖励）以及自律作战。
-- 每日和每周任务，以及按真实进度计算的成就。
-- 邮件（列表、领取、全部领取和删除）、商店和战斗通行证。
+| 类别 | 功能 | 状态 |
+|---|---|:---:|
+| 账号与登录 | Steam 登录、AuthCode 加密，响应采用官方格式。 | `已完成` |
+|  | 名称、个人简介、副官、游戏设置、新手教程和格琳娜的皮肤。 | `已完成` |
+|  | 重新登录后继续进行中的任务。 | `已完成` |
+| 工厂与人形 | 人形建造（普通、批量和快速）、装备建造和妖精建造。 | `已完成` |
+|  | 梯队、阵型、强化、扩编、回收、锁定、按真实生命上限修复、技能训练、心智升级、誓约和皮肤。 | `已完成` |
+|  | 装备和妖精：装备、强化、回收和锁定。 | `已完成` |
+| 战斗 | 开始任务、移动、战斗、补给、结束回合和撤退，包含官方响应的全部字段。 | `已完成` |
+|  | 每场战斗后的经验、等级、剩余生命、评级和好感度。 | `已完成` |
+|  | 真实的胜利条件：占领指挥部、全歼敌人、击败 N 个敌人、击败指定敌人、抵达指定节点、占领指挥部节点、坚守 N 回合、回合限制、营救人质和建筑目标。 | `已完成` |
+|  | 敌方回合按数据表中的 AI 行动（待机、巡逻、警戒、扩张、追击和进攻指挥部），失去指挥部时任务失败。 | `已完成` |
+|  | 人质（解救、护送和营救）以及生命值会保留的首领。 | `已完成` |
+|  | 友军和第三方部队及其 AI、背叛和转化。 | `已完成` |
+|  | 建筑：易主、摧毁和防御。 | `已完成` |
+|  | 带迷雾的夜战任务：只显示梯队视野内的内容。 | `已完成` |
+|  | 任务、章节、活动和模拟作战按正常进度解锁。 | `已完成` |
+| 进度与经济 | 后勤支援（真实时长和奖励）以及自律作战。 | `已完成` |
+|  | 每日和每周任务，以及按真实进度计算的成就。 | `已完成` |
+|  | 邮件（列表、领取、全部领取和删除）、商店和战斗通行证。 | `已完成` |
 
 ### 待完成
 
-- 建筑的主动效果（导弹、炮塔和雷达攻击节点）。
-- 友军与敌人之间的战斗。
-- 用官方抓包确认友军背叛/转化的通知格式，以及根据地图计算的 AI 参数。
-- 完整的宿舍（家具、访问和电池）和好友。
-- 活动、剧场、战棋、重装部队、铁血、载具和探索。
-- 强化界面：`Gun/eatGunIndex` 的格式尚未确认。
+| 功能 | 状态 |
+|---|:---:|
+| 建筑的主动效果（导弹、炮塔和雷达攻击节点）。 | `待完成` |
+| 友军与敌人之间的战斗。 | `待完成` |
+| 用官方抓包确认友军背叛/转化的通知格式，以及根据地图计算的 AI 参数。 | `待完成` |
+| 完整的宿舍（家具、访问和电池）和好友。 | `待完成` |
+| 活动、剧场、战棋、重装部队、铁血、载具和探索。 | `待完成` |
+| 强化界面：`Gun/eatGunIndex` 的格式尚未确认。 | `待完成` |
+
+---
 
 ## 手动编译（可选）
 

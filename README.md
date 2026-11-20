@@ -1,10 +1,35 @@
+<div align="center">
+
+<img src="gm-tools/public/kryuger.png" alt="Kryuger" width="128" />
+
 # Kryuger
 
+**Servidor privado de Girls' Frontline EN con lógica real, persistencia y panel de administración**
+
+[![Release](https://img.shields.io/github/v/release/jhon1466/Kryuger?style=for-the-badge&color=f97316&label=release)](https://github.com/jhon1466/Kryuger/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/jhon1466/Kryuger/total?style=for-the-badge&color=0ea5e9)](https://github.com/jhon1466/Kryuger/releases)
+[![Last commit](https://img.shields.io/github/last-commit/jhon1466/Kryuger?style=for-the-badge&color=22c55e)](https://github.com/jhon1466/Kryuger/commits/main)
+
+![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-server-239120?style=flat-square)
+![LiteDB](https://img.shields.io/badge/LiteDB-database-0f766e?style=flat-square)
+![Tauri 2](https://img.shields.io/badge/Tauri-2-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-UI-2C4F7C?style=flat-square&logo=solid&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square)
+
+<a href="https://github.com/jhon1466/Kryuger/releases/latest"><img src="https://img.shields.io/badge/Descargar%20Kryuger%20GM%20Tools-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Descargar Kryuger GM Tools" /></a>
+
 **Español** · [English](README.en.md) · [中文](README.zh.md) · [日本語](README.ja.md)
+
+</div>
+
+---
 
 Servidor privado para **Girls' Frontline** (cliente EN de Steam), escrito en C# (.NET 8) con base de datos LiteDB. Reproduce la lógica del servidor oficial a partir de las tablas del juego: los cambios se guardan, las misiones se ganan con sus objetivos reales y los enemigos actúan en su turno.
 
 > Proyecto sin ánimo de lucro con fines educativos y de preservación. No está afiliado a SunBorn ni a ninguna distribuidora del juego. No incluye archivos del juego: necesitas tu propio cliente instalado.
+
+---
 
 ## Cómo se usa: Kryuger GM Tools
 
@@ -28,11 +53,15 @@ Disponible en español, inglés, chino y japonés.
 
 La API GM del servidor (`/gm`) solo responde a `127.0.0.1` y exige el token de `KRYUGER_GM_TOKEN.txt`, que el servidor genera al arrancar. Cada cambio queda registrado en `gm_audit.log`.
 
+---
+
 ## Requisitos
 
 - Windows 10/11.
 - Girls' Frontline EN instalado desde Steam (la carpeta se detecta sola).
 - Conexión a internet la primera vez (descarga del servidor y de .NET) y para el inicio de sesión de Steam.
+
+---
 
 ## Cómo funciona
 
@@ -50,44 +79,45 @@ gm-tools/           Kryuger GM Tools (Tauri 2 + Astro + SolidJS)
 
 El servidor escucha en `127.0.0.1` (puertos 5000, 80 y 443). Mientras está encendido coloca `version.dll` en la carpeta del juego para redirigir el tráfico; al apagarse lo retira.
 
+---
+
 ## Hoja de ruta
 
 ### Funciona
 
-**Cuenta y sesión**
-- Inicio de sesión con Steam, cifrado AuthCode y respuestas con el formato oficial.
-- Nombre, presentación, ayudantes, ajustes del juego, tutorial y skin de Kalina.
-- Reanudar una misión en curso al volver a entrar.
-
-**Fábrica y muñecas**
-- Construcción de muñecas (normal, múltiple y rápida), de equipo y de hadas.
-- Escuadrones, formación, mejora, enlaces, retiro, bloqueo, reparación con la vida máxima real, entrenamiento de habilidades, neuromejora, juramento y skins.
-- Equipo y hadas: equipar, mejorar, retirar y bloquear.
-
-**Combate**
-- Inicio de misión, movimiento, combate, reabastecimiento, fin de turno y abandono, con todos los campos de la respuesta oficial.
-- Experiencia, nivel, vida restante, rango y afinidad tras cada combate.
-- Condiciones de victoria reales: cuartel general, eliminar a todos, eliminar a N, derrotar a un enemigo concreto, llegar a un punto, tomar puestos de mando, sobrevivir N rondas, límite de turnos, rescatar rehenes y objetivos de edificios.
-- Turno enemigo con IA según las tablas (quietos, patrulla, alerta, expansión, persecución y avance al puesto de mando) y derrota si se pierde el puesto de mando.
-- Rehenes (liberar, escoltar y rescatar) y jefes con vida persistente.
-- Aliados y unidades de terceros con su IA, traiciones y transformaciones.
-- Edificios: cambio de dueño, destrucción y defensa.
-- Misiones nocturnas con niebla: solo se ve lo que alcanzan los escuadrones.
-- Desbloqueo natural de misiones, capítulos, campañas y simulacros.
-
-**Progreso y economía**
-- Logística con duración y recompensas reales, y operaciones automáticas.
-- Misiones diarias y semanales, y logros con progreso real.
-- Correo (lista, cobrar, cobrar todo y borrar), tienda y pase de batalla.
+| Área | Función | Estado |
+|---|---|:---:|
+| Cuenta y sesión | Inicio de sesión con Steam, cifrado AuthCode y respuestas con el formato oficial. | `Listo` |
+|  | Nombre, presentación, ayudantes, ajustes del juego, tutorial y skin de Kalina. | `Listo` |
+|  | Reanudar una misión en curso al volver a entrar. | `Listo` |
+| Fábrica y muñecas | Construcción de muñecas (normal, múltiple y rápida), de equipo y de hadas. | `Listo` |
+|  | Escuadrones, formación, mejora, enlaces, retiro, bloqueo, reparación con la vida máxima real, entrenamiento de habilidades, neuromejora, juramento y skins. | `Listo` |
+|  | Equipo y hadas: equipar, mejorar, retirar y bloquear. | `Listo` |
+| Combate | Inicio de misión, movimiento, combate, reabastecimiento, fin de turno y abandono, con todos los campos de la respuesta oficial. | `Listo` |
+|  | Experiencia, nivel, vida restante, rango y afinidad tras cada combate. | `Listo` |
+|  | Condiciones de victoria reales: cuartel general, eliminar a todos, eliminar a N, derrotar a un enemigo concreto, llegar a un punto, tomar puestos de mando, sobrevivir N rondas, límite de turnos, rescatar rehenes y objetivos de edificios. | `Listo` |
+|  | Turno enemigo con IA según las tablas (quietos, patrulla, alerta, expansión, persecución y avance al puesto de mando) y derrota si se pierde el puesto de mando. | `Listo` |
+|  | Rehenes (liberar, escoltar y rescatar) y jefes con vida persistente. | `Listo` |
+|  | Aliados y unidades de terceros con su IA, traiciones y transformaciones. | `Listo` |
+|  | Edificios: cambio de dueño, destrucción y defensa. | `Listo` |
+|  | Misiones nocturnas con niebla: solo se ve lo que alcanzan los escuadrones. | `Listo` |
+|  | Desbloqueo natural de misiones, capítulos, campañas y simulacros. | `Listo` |
+| Progreso y economía | Logística con duración y recompensas reales, y operaciones automáticas. | `Listo` |
+|  | Misiones diarias y semanales, y logros con progreso real. | `Listo` |
+|  | Correo (lista, cobrar, cobrar todo y borrar), tienda y pase de batalla. | `Listo` |
 
 ### Pendiente
 
-- Efectos activos de los edificios (misiles, torres y radar que atacan casillas).
-- Combates entre aliados y enemigos.
-- Confirmar con capturas oficiales el aviso de traición o transformación de aliados y el parámetro de IA calculado a partir del mapa.
-- Dormitorio completo (muebles, visitas y batería) y amigos.
-- Eventos, Teatro, ajedrez, equipos HOC, Sangvis, vehículos y exploración.
-- Pantalla de mejora: el formato de `Gun/eatGunIndex` no está confirmado.
+| Función | Estado |
+|---|:---:|
+| Efectos activos de los edificios (misiles, torres y radar que atacan casillas). | `Pendiente` |
+| Combates entre aliados y enemigos. | `Pendiente` |
+| Confirmar con capturas oficiales el aviso de traición o transformación de aliados y el parámetro de IA calculado a partir del mapa. | `Pendiente` |
+| Dormitorio completo (muebles, visitas y batería) y amigos. | `Pendiente` |
+| Eventos, Teatro, ajedrez, equipos HOC, Sangvis, vehículos y exploración. | `Pendiente` |
+| Pantalla de mejora: el formato de `Gun/eatGunIndex` no está confirmado. | `Pendiente` |
+
+---
 
 ## Compilar a mano (opcional)
 
