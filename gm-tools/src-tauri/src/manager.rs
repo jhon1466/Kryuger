@@ -19,7 +19,8 @@ const SERVER_PORT: u16 = 5000;
 const SERVER_PROJECT: &str = "src/Kryuger.Server/Kryuger.Server.csproj";
 const GAME_FOLDER: &str = "GIRLS' FRONTLINE EN";
 const GAME_EXE: &str = "GirlsFrontLine.exe";
-const COMMIT_MARKER: &str = ".kryuger-commit";
+// v2: earlier versions could record a commit while extracting a stale cached main.zip.
+const COMMIT_MARKER: &str = ".kryuger-commit-v2";
 const BUILT_MARKER: &str = ".kryuger-built";
 
 /// UI language chosen in the app (0 es, 1 en, 2 zh, 3 ja); messages sent to the UI follow it.
@@ -139,12 +140,12 @@ fn local_commit(root: &Path) -> String {
     fs::read_to_string(root.join(COMMIT_MARKER)).unwrap_or_default().trim().to_string()
 }
 
-fn download_project(root: &Path) -> Result<(), String> {
+fn download_project(root: &Path, sha: &str) -> Result<(), String> {
     let script = format!(
         r#"{PS_PRELUDE}$tempDir = Join-Path $env:TEMP ('kryuger-update-' + [guid]::NewGuid().ToString('N'))
 New-Item -ItemType Directory -Path $tempDir | Out-Null
 $archive = Join-Path $tempDir 'project.zip'
-Download-File 'https://github.com/{REPO}/archive/refs/heads/main.zip' $archive
+Download-File 'https://github.com/{REPO}/archive/{sha}.zip' $archive
 Expand-Archive -LiteralPath $archive -DestinationPath $tempDir
 $source = Get-ChildItem -LiteralPath $tempDir -Directory | Select-Object -First 1
 if (!(Test-Path -LiteralPath (Join-Path $source.FullName '{SERVER_PROJECT}'))) {{ throw 'The download does not contain the Kryuger server.' }}
@@ -176,11 +177,10 @@ fn ensure_project(root: &Path, app: &AppHandle) -> Result<(), String> {
         }
         progress(app, "update", 5.0, tr("Descargando el servidor Kryuger…", "Downloading the Kryuger server…", "正在下载 Kryuger 服务器…", "Kryuger サーバーをダウンロード中…"));
     }
-    match download_project(root) {
+    let sha = remote.unwrap_or_default();
+    match download_project(root, &sha) {
         Ok(()) => {
-            if let Some(sha) = remote {
-                let _ = fs::write(root.join(COMMIT_MARKER), sha);
-            }
+            let _ = fs::write(root.join(COMMIT_MARKER), &sha);
             Ok(())
         }
         Err(e) if installed => {
