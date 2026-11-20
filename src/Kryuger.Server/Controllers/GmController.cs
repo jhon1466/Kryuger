@@ -138,6 +138,13 @@ namespace Kryuger.Server.Controllers
                 if (p == null) return NotFound(new { error = "player not found" });
                 var gc = new GameController(_db);
                 string done;
+                if (req.Id == 0 && req.Kind is "gun" or "skin" or "item" or "equip" or "fairy")
+                {
+                    done = GiveAll(gc, p, req.Kind, req.Count);
+                    _db.SavePlayer(p);
+                    Audit($"give uid={req.Uid} {done}");
+                    return Ok(new { ok = true, message = done });
+                }
                 switch (req.Kind)
                 {
                     case "resources":
@@ -172,6 +179,44 @@ namespace Kryuger.Server.Controllers
                 return Ok(new { ok = true, message = done });
             }
             finally { GameController._requestLock.Release(); }
+        }
+
+        /// <summary>"All" grants: every doll/fairy/skin the account does not own yet, one of every equipment,
+        /// and `count` of every named item. Capacity limits are raised so the client can show everything.</summary>
+        private static string GiveAll(GameController gc, PlayerAccount p, string kind, int count)
+        {
+            int n = 0;
+            switch (kind)
+            {
+                case "gun":
+                    var ownedGuns = new HashSet<int>(p.Guns.Select(g => g.GunId));
+                    foreach (var id in Tables.Get("gun").Values.Select(r => r.Int("id")).Where(id => id > 0 && id < 9000).OrderBy(x => x))
+                        if (ownedGuns.Add(id)) { gc.GmGiveGun(p, id); n++; }
+                    p.MaxGun = Math.Max(p.MaxGun, p.Guns.Count + 100);
+                    return $"+{n} dolls (all missing)";
+                case "skin":
+                    foreach (var id in Tables.Get("skin").Values.Select(r => r.Int("id")).Where(id => id > 0))
+                        if (!p.Skins.Contains(id)) { p.Skins.Add(id); n++; }
+                    return $"+{n} skins (all)";
+                case "item":
+                    foreach (var r in Tables.Get("item").Values)
+                    {
+                        int id = r.Int("id");
+                        if (id <= 0 || string.IsNullOrEmpty(Text("item", r["item_name"]?.ToString()))) continue;
+                        gc.GmAddItem(p, id, count); n++;
+                    }
+                    return $"+{count} of {n} items (all)";
+                case "equip":
+                    foreach (var id in Tables.Get("equip").Values.Select(r => r.Int("id")).Where(id => id > 0).OrderBy(x => x))
+                    { gc.GmGiveEquip(p, id); n++; }
+                    p.MaxEquip = Math.Max(p.MaxEquip, p.Equips.Count + 100);
+                    return $"+{n} equipment (all)";
+                default:
+                    var ownedFairies = new HashSet<int>(p.Fairies.Select(f => f.FairyId));
+                    foreach (var id in Tables.Get("fairy").Values.Select(r => r.Int("id")).Where(id => id > 0).OrderBy(x => x))
+                        if (ownedFairies.Add(id)) { gc.GmGiveFairy(p, id); n++; }
+                    return $"+{n} fairies (all missing)";
+            }
         }
 
         public class SetReq
