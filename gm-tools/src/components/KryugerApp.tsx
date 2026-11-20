@@ -340,6 +340,8 @@ const KINDS: { key: string; label: string; list?: keyof Catalog }[] = [
   { key: 'gun', label: 'kGun', list: 'guns' }, { key: 'item', label: 'kItem', list: 'items' },
   { key: 'equip', label: 'kEquip', list: 'equips' }, { key: 'fairy', label: 'kFairy', list: 'fairies' },
   { key: 'skin', label: 'kSkin', list: 'skins' }, { key: 'gem', label: 'kGem' }, { key: 'resources', label: 'kResources' },
+  { key: 'all:gun', label: 'allGun' }, { key: 'all:skin', label: 'allSkin' }, { key: 'all:item', label: 'allItem' },
+  { key: 'all:equip', label: 'allEquip' }, { key: 'all:fairy', label: 'allFairy' },
 ];
 
 function Operations(props: { online: boolean; players: Player[]; catalog?: Catalog; reload: () => void; notify: (t: string, e?: boolean) => void }) {
@@ -348,7 +350,6 @@ function Operations(props: { online: boolean; players: Player[]; catalog?: Catal
   const [kind, setKind] = createSignal('gun');
   const [picked, setPicked] = createSignal<Entry>();
   const [count, setCount] = createSignal('1');
-  const [all, setAll] = createSignal(false);
   const [setUidV, setSetUid] = createSignal('');
   const [field, setField] = createSignal('gem');
   const [value, setValue] = createSignal('');
@@ -358,9 +359,9 @@ function Operations(props: { online: boolean; players: Player[]; catalog?: Catal
   const give = async (e: Event) => {
     e.preventDefault();
     if (!uid()) return props.notify(t('needUid'), true);
-    const everything = !!kindInfo().list && all();
-    if (kindInfo().list && !everything && !picked()) return props.notify(t('needPick'), true);
-    try { const r = await gm<{ message: string }>('POST', '/gm/give', { uid: +uid(), kind: kind(), id: everything ? 0 : picked()?.id ?? 0, count: Math.max(1, +count() || 1) }); props.notify(`${t('granted')} ${uid()}: ${r.message}`); props.reload(); }
+    const everything = kind().startsWith('all:');
+    if (kindInfo().list && !picked()) return props.notify(t('needPick'), true);
+    try { const r = await gm<{ message: string }>('POST', '/gm/give', { uid: +uid(), kind: everything ? kind().slice(4) : kind(), id: everything ? 0 : picked()?.id ?? 0, count: Math.max(1, +count() || 1) }); props.notify(`${t('granted')} ${uid()}: ${r.message}`); props.reload(); }
     catch (err) { props.notify(String(err), true); }
   };
   const apply = async (e: Event) => {
@@ -381,14 +382,10 @@ function Operations(props: { online: boolean; players: Player[]; catalog?: Catal
             <Field label={t('type')}><select class="input-field" value={kind()} onChange={(e) => { setKind(e.currentTarget.value); setPicked(undefined); }}><For each={KINDS}>{(k) => <option value={k.key}>{t(k.label)}</option>}</For></select></Field>
           </div>
           <Show when={kindInfo().list}>
-            <label class="mb-3 flex cursor-pointer items-center gap-2 text-sm text-ice-200">
-              <input type="checkbox" checked={all()} onChange={(e) => setAll(e.currentTarget.checked)} /> {t('giveAll')}
-            </label>
-            <Show when={!all()} fallback={<p class="card-caption mb-3">{t(`giveAllHint_${kind()}`)}</p>}>
-              <Field label={`${t('search')}: ${t(kindInfo().label)}`}><CatalogPicker entries={entries()} picked={picked()} pick={setPicked} /></Field>
-            </Show>
+            <Field label={`${t('search')}: ${t(kindInfo().label)}`}><CatalogPicker entries={entries()} picked={picked()} pick={setPicked} /></Field>
           </Show>
-          <Field label={kind() === 'gem' || kind() === 'resources' || (all() && kind() === 'item') ? t('amount') : t('copies')}><input class="input-field" inputmode="numeric" value={count()} onInput={(e) => setCount(e.currentTarget.value)} /></Field>
+          <Show when={kind().startsWith('all:')}><p class="card-caption mb-3">{t(`giveAllHint_${kind().slice(4)}`)}</p></Show>
+          <Field label={kind() === 'gem' || kind() === 'resources' || kind() === 'all:item' ? t('amount') : t('copies')}><input class="input-field" inputmode="numeric" value={count()} onInput={(e) => setCount(e.currentTarget.value)} /></Field>
           <button class="primary-button w-full" type="submit"><Gift size={15} /> {t('give')}</button>
         </form>
 

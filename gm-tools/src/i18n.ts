@@ -6,7 +6,11 @@ export const LANGUAGES: { id: Language; label: string }[] = [
 type Dict = Record<string, [string, string, string, string]>; // es, en, zh, ja
 
 const dict: Dict = {
-  giveAll: ['Entregar todos', 'Give all', '全部发放', 'すべて付与'],
+  allGun: ['Todas las muñecas', 'All T-Dolls', '全部人形', 'すべての人形'],
+  allSkin: ['Todas las skins', 'All skins', '全部皮肤', 'すべてのスキン'],
+  allItem: ['Todos los objetos', 'All items', '全部道具', 'すべてのアイテム'],
+  allEquip: ['Todo el equipo', 'All equipment', '全部装备', 'すべての装備'],
+  allFairy: ['Todas las hadas', 'All fairies', '全部妖精', 'すべての妖精'],
   giveAllHint_gun: ['Entrega una copia de cada muñeca que la cuenta aún no tiene.', 'Gives one copy of every T-Doll the account does not own yet.', '发放账号尚未拥有的每个人形各一个。', 'アカウントが未所持の人形をすべて 1 体ずつ付与します。'],
   giveAllHint_skin: ['Desbloquea todas las skins.', 'Unlocks every skin.', '解锁全部皮肤。', 'すべてのスキンを解放します。'],
   giveAllHint_item: ['Entrega la cantidad indicada de cada objeto.', 'Gives the amount below of every item.', '按下方数量发放每种道具。', 'すべてのアイテムを下記の数だけ付与します。'],
