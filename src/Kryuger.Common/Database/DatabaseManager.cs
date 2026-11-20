@@ -36,7 +36,8 @@ namespace Kryuger.Common.Database
                 return player;
             }
 
-            // Create new player with starter T-Dolls and starter items
+            // New commanders start like on the official server: level 1, base resources, no free dolls.
+            // The three starter handguns are handed out by the game server on the first user info request.
             long newId = _players.Count() > 0 ? (_players.Max(x => x.Id) + 1) : 100001;
             if (newId < 100001) newId = 100001;
 
@@ -47,62 +48,30 @@ namespace Kryuger.Common.Database
                 SteamId = steamId,
                 SignKey = Guid.NewGuid().ToString("N")[..16],
                 Name = "",
-                Level = 100,
-                Experience = 2500000,
-                Gem = 100000,
-                GemPay = 50000,
-                Ammo = 300000,
-                Mre = 300000,
-                Part = 300000,
-                Mp = 300000,
-                Bp = 9999,
-                MaxGun = 500,
-                MaxEquip = 800,
-                MaxTeam = 10
+                Level = 1,
+                Experience = 0,
+                Gem = 0,
+                GemPay = 0,
+                Ammo = 5000,
+                Mre = 5000,
+                Part = 5000,
+                Mp = 5000,
+                Bp = 0,
+                MaxGun = 100,
+                MaxEquip = 100,
+                MaxTeam = 4,
+                CollectionSeeded = true
             };
-
-            // Starter items: T-Doll contracts (item 1), Equipment contracts (item 2), Quick Production (item 3), Quick Repair (item 4), Core (item 41), Calibration (item 42), Tokens (item 50)
-            player.Items["1"] = 9999;
-            player.Items["2"] = 9999;
-            player.Items["3"] = 9999;
-            player.Items["4"] = 9999;
-            player.Items["41"] = 9999;
-            player.Items["42"] = 9999;
-            player.Items["50"] = 9999;
-
-            // Starter Iconic Dolls (AR Team + popular dolls)
-            // 55: M4A1, 56: M4 SOPMOD II, 57: ST AR-15, 54: M16A1, 143: RO635, 113: UMP45, 114: UMP9, 106: FAL, 62: G41, 197: Carcano M91/38
-            int[] starterGunIds = { 55, 56, 57, 54, 143, 113, 114, 106, 62, 197 };
-            long gunInstId = 1;
-
-            for (int i = 0; i < starterGunIds.Length; i++)
-            {
-                var gun = new PlayerGun
-                {
-                    Id = gunInstId++,
-                    UserId = player.Id,
-                    GunId = starterGunIds[i],
-                    GunLevel = 100,
-                    GunExp = 0,
-                    Number = 5,
-                    Life = 1000,
-                    Favor = 1000000,
-                    MaxFavor = 2000000,
-                    Skill1 = 10,
-                    Skill2 = 10,
-                    TeamId = (i < 5) ? 1 : 0,
-                    // location = slot order in the echelon (1-5), position = formation grid cell (official format)
-                    Location = (i < 5) ? (i + 1) : 1,
-                    Position = (i < 5) ? (new int[] { 7, 8, 9, 12, 13 }[i]) : 0
-                };
-                player.Guns.Add(gun);
-            }
+            player.Extra["official_start"] = "1";
+            player.Extra["starter_pending"] = "1";
 
             _players.Insert(player);
             return player;
         }
 
         public List<PlayerAccount> AllPlayers() => _players.FindAll().ToList();
+
+        public bool DeletePlayer(long id) => _players.Delete(id);
 
         public PlayerAccount? GetPlayerById(long id)
         {
@@ -112,6 +81,9 @@ namespace Kryuger.Common.Database
         public void EnsureAllGunsAndSkins(PlayerAccount player, IEnumerable<int> allGunIds, IEnumerable<int> allSkinIds)
         {
             bool changed = false;
+
+            // Accounts created with the official start never receive the old test collection or limits.
+            if (player.Extra.ContainsKey("official_start")) return;
 
             if (player.MaxGun < 1000)
             {

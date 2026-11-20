@@ -6,6 +6,18 @@ export const LANGUAGES: { id: Language; label: string }[] = [
 type Dict = Record<string, [string, string, string, string]>; // es, en, zh, ja
 
 const dict: Dict = {
+  experience: ['Experiencia', 'Experience', '经验', '経験値'],
+  maxGun: ['Límite de muñecas', 'T-Doll capacity', '人形上限', '人形の上限'],
+  maxEquip: ['Límite de equipo', 'Equipment capacity', '装备上限', '装備の上限'],
+  maxTeam: ['Escuadrones', 'Echelons', '梯队数', '部隊数'],
+  editAccount: ['Editar cuenta', 'Edit account', '编辑账号', 'アカウントを編集'],
+  saveChanges: ['Guardar cambios', 'Save changes', '保存修改', '変更を保存'],
+  noChanges: ['No hay cambios', 'No changes', '没有修改', '変更はありません'],
+  saved: ['cambios guardados', 'changes saved', '修改已保存', '変更を保存しました'],
+  deleteAccount: ['Borrar cuenta', 'Delete account', '删除账号', 'アカウントを削除'],
+  confirmDelete: ['Confirmar borrado', 'Confirm delete', '确认删除', '削除を確定'],
+  deleted: ['cuenta borrada', 'account deleted', '账号已删除', 'アカウントを削除しました'],
+  cancel: ['Cancelar', 'Cancel', '取消', 'キャンセル'],
   workspace: ['Espacio de trabajo', 'Workspace', '工作区', 'ワークスペース'],
   language: ['Idioma', 'Language', '语言', '言語'],
   navServer: ['Servidor', 'Server', '服务器', 'サーバー'],

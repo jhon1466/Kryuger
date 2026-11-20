@@ -548,6 +548,19 @@ namespace Kryuger.Server.Controllers
             if (player == null)
                 return BadRequest("Player not found");
 
+            if (player.Extra.Remove("starter_pending"))
+            {
+                // Official starter echelon: M1911, M1895 (Nagant Revolver) and P38 in echelon 1.
+                int[] starters = { 2, 5, 9 };
+                int[] cells = { 7, 12, 17 };
+                for (int i = 0; i < starters.Length; i++)
+                {
+                    var g = GiveGun(player, starters[i]);
+                    g.TeamId = 1; g.Location = i + 1; g.Position = cells[i];
+                }
+                _db.SavePlayer(player);
+            }
+
             _db.EnsureAllGunsAndSkins(
                 player,
                 MasterDataManager.Instance.Guns.Keys.Where(id => id < 9000),

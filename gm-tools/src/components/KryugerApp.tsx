@@ -3,7 +3,7 @@ import { invoke } from '@tauri-apps/api/core';
 import { listen } from '@tauri-apps/api/event';
 import {
   Activity, ArrowRight, Boxes, Check, Coins, Cpu, FolderOpen, Gamepad2, Gauge, Gift, HardDrive, LayoutDashboard,
-  Play, Power, RefreshCw, Search, Server, ShieldCheck, SlidersHorizontal, Sparkles, Square, Users, Wifi, X,
+  Play, Power, RefreshCw, Save, Search, Server, ShieldCheck, Trash2, SlidersHorizontal, Sparkles, Square, Users, Wifi, X,
 } from 'lucide-solid';
 import { initialLanguage, LANGUAGES, translate, type Language } from '../i18n';
 
@@ -11,7 +11,7 @@ type Status = {
   appVersion: string; repoRoot: string; managed: boolean; installed: boolean; built: boolean; localCommit: string;
   serverRunning: boolean; gameDir: string | null; hookInstalled: boolean; gmReady: boolean; dataDir: string;
 };
-type Player = { id: number; name: string; openId: string; level: number; gem: number; mp: number; ammo: number; mre: number; part: number; guns: number; equips: number; fairies: number };
+type Player = { id: number; name: string; openId: string; level: number; experience: number; maxGun: number; maxEquip: number; maxTeam: number; gem: number; mp: number; ammo: number; mre: number; part: number; guns: number; equips: number; fairies: number };
 type Entry = { id: number; name: string; rank?: number; gun?: number; type?: number };
 type Catalog = { guns: Entry[]; items: Entry[]; equips: Entry[]; fairies: Entry[]; skins: Entry[] };
 type Tab = 'server' | 'overview' | 'accounts' | 'operations';
@@ -97,7 +97,7 @@ export default function KryugerApp() {
           <div class="content-scroll flex-1 overflow-y-auto px-8 py-7">
             <Show when={tab() === 'server'}><ServerPanel status={status()} refresh={refresh} notify={notify} /></Show>
             <Show when={tab() === 'overview'}><Overview status={status()} players={players() ?? []} catalog={catalog()} go={setTab} /></Show>
-            <Show when={tab() === 'accounts'}><Accounts online={online()} players={players() ?? []} reload={reloadPlayers} /></Show>
+            <Show when={tab() === 'accounts'}><Accounts online={online()} players={players() ?? []} reload={reloadPlayers} notify={notify} /></Show>
             <Show when={tab() === 'operations'}><Operations online={online()} players={players() ?? []} catalog={catalog()} reload={reloadPlayers} notify={notify} /></Show>
           </div>
           <footer class="flex h-9 shrink-0 items-center justify-between border-t border-white/[0.06] px-8 text-[10px] text-ice-500">
@@ -230,7 +230,7 @@ function Overview(props: { status?: Status; players: Player[]; catalog?: Catalog
 
 // ------------------------------------------------------------------ accounts
 
-function Accounts(props: { online: boolean; players: Player[]; reload: () => void }) {
+function Accounts(props: { online: boolean; players: Player[]; reload: () => void; notify: (t: string, e?: boolean) => void }) {
   const t = useT();
   const [query, setQuery] = createSignal('');
   const [selected, setSelected] = createSignal<number>();
@@ -265,10 +265,72 @@ function Accounts(props: { online: boolean; players: Player[]; reload: () => voi
                 <Metric label={t('manpower')} value={p().mp} /><Metric label={t('ammo')} value={p().ammo} /><Metric label={t('rations')} value={p().mre} /><Metric label={t('parts')} value={p().part} />
               </div>
               <div class="detail-row"><Sparkles size={15} class="text-aqua-300" /><span class="flex-1">{t('fairies')}</span><b>{p().fairies}</b></div>
+              <AccountEditor player={p()} reload={props.reload} notify={props.notify} onDeleted={() => setSelected(undefined)} />
             </>)}</Show>
         </section>
       </div>
     </Show>
+  );
+}
+
+const EDIT_FIELDS: { key: string; label: string; get: (p: Player) => string | number }[] = [
+  { key: 'name', label: 'name', get: (p) => p.name }, { key: 'level', label: 'level', get: (p) => p.level },
+  { key: 'experience', label: 'experience', get: (p) => p.experience }, { key: 'gem', label: 'gems', get: (p) => p.gem },
+  { key: 'mp', label: 'manpower', get: (p) => p.mp }, { key: 'ammo', label: 'ammo', get: (p) => p.ammo },
+  { key: 'mre', label: 'rations', get: (p) => p.mre }, { key: 'part', label: 'parts', get: (p) => p.part },
+  { key: 'maxgun', label: 'maxGun', get: (p) => p.maxGun }, { key: 'maxequip', label: 'maxEquip', get: (p) => p.maxEquip },
+  { key: 'maxteam', label: 'maxTeam', get: (p) => p.maxTeam },
+];
+
+function AccountEditor(props: { player: Player; reload: () => void; notify: (t: string, e?: boolean) => void; onDeleted: () => void }) {
+  const t = useT();
+  const [draft, setDraft] = createSignal<Record<string, string>>({});
+  const [confirming, setConfirming] = createSignal(false);
+  const [busy, setBusy] = createSignal(false);
+  const value = (f: (typeof EDIT_FIELDS)[number]) => draft()[f.key] ?? String(f.get(props.player) ?? '');
+
+  const save = async (e: Event) => {
+    e.preventDefault();
+    const changed = EDIT_FIELDS.filter((f) => draft()[f.key] !== undefined && draft()[f.key] !== String(f.get(props.player) ?? ''));
+    if (!changed.length) return props.notify(t('noChanges'));
+    setBusy(true);
+    try {
+      for (const f of changed) await gm('POST', '/gm/set', { uid: props.player.id, field: f.key, value: draft()[f.key] });
+      setDraft({});
+      props.notify(`${t('account')} ${props.player.id}: ${t('saved')}`);
+      props.reload();
+    } catch (err) { props.notify(String(err), true); }
+    finally { setBusy(false); }
+  };
+  const remove = async () => {
+    if (!confirming()) return setConfirming(true);
+    setBusy(true);
+    try {
+      await gm('POST', '/gm/delete', { uid: props.player.id });
+      props.notify(`${t('account')} ${props.player.id}: ${t('deleted')}`);
+      setConfirming(false);
+      props.onDeleted();
+      props.reload();
+    } catch (err) { props.notify(String(err), true); }
+    finally { setBusy(false); }
+  };
+
+  return (
+    <form class="mt-4 border-t border-white/[0.06] pt-4" onSubmit={save}>
+      <h4 class="card-title mb-3 text-sm">{t('editAccount')}</h4>
+      <div class="grid grid-cols-3 gap-2">
+        <For each={EDIT_FIELDS}>{(f) => (
+          <Field label={t(f.label)}><input class="input-field" value={value(f)} onInput={(e) => setDraft({ ...draft(), [f.key]: e.currentTarget.value })} /></Field>
+        )}</For>
+      </div>
+      <div class="mt-4 flex gap-2">
+        <button class="primary-button flex-1" type="submit" disabled={busy()}><Save size={15} /> {t('saveChanges')}</button>
+        <button class="quiet-button" type="button" disabled={busy()} onClick={remove} style={confirming() ? 'color:#f87171;border-color:#f8717166' : ''}>
+          <Trash2 size={15} /> {confirming() ? t('confirmDelete') : t('deleteAccount')}
+        </button>
+        <Show when={confirming()}><button class="quiet-button" type="button" onClick={() => setConfirming(false)}>{t('cancel')}</button></Show>
+      </div>
+    </form>
   );
 }
 

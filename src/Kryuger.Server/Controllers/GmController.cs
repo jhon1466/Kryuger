@@ -112,6 +112,7 @@ namespace Kryuger.Server.Controllers
             return Ok(_db.AllPlayers().Select(p => new
             {
                 id = p.Id, name = p.Name, openId = p.OpenId, level = p.Level, experience = p.Experience,
+                maxGun = p.MaxGun, maxEquip = p.MaxEquip, maxTeam = p.MaxTeam,
                 gem = p.Gem, mp = p.Mp, ammo = p.Ammo, mre = p.Mre, part = p.Part,
                 guns = p.Guns.Count, equips = p.Equips.Count, fairies = p.Fairies.Count, lastLogin = p.LastLoginAt
             }).OrderBy(p => p.id));
@@ -205,12 +206,37 @@ namespace Kryuger.Server.Controllers
                         case "mre": p.Mre = v; break;
                         case "part": p.Part = v; break;
                         case "level": p.Level = Math.Clamp(v, 1, 300); break;
+                        case "experience": p.Experience = v; break;
+                        case "maxgun": p.MaxGun = Math.Clamp(v, 1, 5000); break;
+                        case "maxequip": p.MaxEquip = Math.Clamp(v, 1, 5000); break;
+                        case "maxteam": p.MaxTeam = Math.Clamp(v, 1, 14); break;
                         default: return BadRequest(new { error = "unknown field" });
                     }
                 }
                 _db.SavePlayer(p);
                 Audit($"set uid={req.Uid} {req.Field}={req.Value}");
                 return Ok(new { ok = true, message = $"{req.Field} = {req.Value}" });
+            }
+            finally { GameController._requestLock.Release(); }
+        }
+
+        public class DeleteReq
+        {
+            public long Uid { get; set; }
+        }
+
+        [HttpPost("delete")]
+        public async Task<IActionResult> Delete([FromBody] DeleteReq req)
+        {
+            if (!Allowed()) return Unauthorized();
+            await GameController._requestLock.WaitAsync();
+            try
+            {
+                var p = _db.GetPlayerById(req.Uid);
+                if (p == null) return NotFound(new { error = "player not found" });
+                if (!_db.DeletePlayer(req.Uid)) return StatusCode(500, new { error = "delete failed" });
+                Audit($"delete uid={req.Uid} name={p.Name}");
+                return Ok(new { ok = true, message = $"account {req.Uid} deleted" });
             }
             finally { GameController._requestLock.Release(); }
         }
