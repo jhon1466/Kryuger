@@ -706,7 +706,7 @@ namespace Kryuger.Server.Controllers
                     ["spend_point"] = 0,
                     ["gem_mall_ids"] = "",
                     ["product_type21_ids"] = "",
-                    ["seven_type"] = 3,
+                    ["seven_type"] = SevenType(player),
                     ["seven_start_time"] = GetSevenStartTime(player),
                     ["seven_attendance_days"] = GetSevenAttendanceDays(player),
                     ["seven_spend_point"] = 0,
@@ -1258,6 +1258,10 @@ namespace Kryuger.Server.Controllers
             return ts;
         }
 
+        /// <summary>Seven-day check-in table: type 1 is the newcomer track (rewards on all 7 days) used by accounts
+        /// created with the official start; older accounts keep type 3, as captured from the official server.</summary>
+        private static int SevenType(PlayerAccount player) => player.Extra.ContainsKey("official_start") ? 1 : 3;
+
         private static string GetSevenAttendanceDays(PlayerAccount player)
         {
             int count = int.TryParse(player.Extra.GetValueOrDefault("seven_att_count"), out int c) ? Math.Clamp(c, 0, 7) : 0;
@@ -1283,7 +1287,7 @@ namespace Kryuger.Server.Controllers
                 {
                     days++;
                     var rewardRow = _sevenAttendanceCache.FirstOrDefault(r =>
-                        r["type"]?.ToString() == "3" && r["day"]?.ToString() == days.ToString());
+                        r["type"]?.ToString() == SevenType(player).ToString() && r["day"]?.ToString() == days.ToString());
                     if (rewardRow != null) GrantRow(player, rewardRow);
                 }
                 player.Extra["seven_att_count"] = days.ToString();
