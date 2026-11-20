@@ -21,7 +21,8 @@ const GAME_FOLDER: &str = "GIRLS' FRONTLINE EN";
 const GAME_EXE: &str = "GirlsFrontLine.exe";
 // v2: earlier versions could record a commit while extracting a stale cached main.zip.
 const COMMIT_MARKER: &str = ".kryuger-commit-v2";
-const BUILT_MARKER: &str = ".kryuger-built";
+// v2: earlier builds were incremental and skipped sources extracted with old timestamps.
+const BUILT_MARKER: &str = ".kryuger-built-v2";
 
 /// UI language chosen in the app (0 es, 1 en, 2 zh, 3 ja); messages sent to the UI follow it.
 static LANG: std::sync::atomic::AtomicU8 = std::sync::atomic::AtomicU8::new(0);
@@ -246,7 +247,7 @@ fn ensure_built(root: &Path, app: &AppHandle) -> Result<(), String> {
     let mut cmd = Command::new(&dotnet);
     hidden(&mut cmd)
         .current_dir(root)
-        .args(["build", SERVER_PROJECT, "-c", "Release", "--nologo", "-v", "q"])
+        .args(["build", SERVER_PROJECT, "-c", "Release", "--no-incremental", "--nologo", "-v", "q"])
         .env("DOTNET_CLI_TELEMETRY_OPTOUT", "1")
         .env("DOTNET_NOLOGO", "1")
         .stdout(Stdio::piped())
