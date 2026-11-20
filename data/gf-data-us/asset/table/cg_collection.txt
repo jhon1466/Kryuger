@@ -1,0 +1,208 @@
+cg_collection-10000001,Closed Loop
+cg_collection-20000001,Though we are still forging ahead through the fog//c has the ending already been decided?
+cg_collection-10000002,Gap
+cg_collection-20000002,A planned destiny? It's just another kind of excuse.
+cg_collection-10000003,Faint Sound
+cg_collection-20000003,Shouting is utterly extinguished in the abyss of absolute silence.
+cg_collection-10000004,We
+cg_collection-20000004,Please don't be surprised//c the future will be more...
+cg_collection-10000005,Hurricane
+cg_collection-20000005,Like a blade//c the storm cuts through the night.
+cg_collection-10000006,Trap
+cg_collection-20000006,Perhaps you and I will be sacrifices for the truth.
+cg_collection-10000007,Finale
+cg_collection-20000007,Did destruction and rebirth always mean the same thing?
+cg_collection-10000008,Revelation
+cg_collection-20000008,Anyone can have a future//c right?
+cg_collection-10000009,Set Forth
+cg_collection-20000009,The enemy's position is clear//c prepare for battle!
+cg_collection-10000010,Set Forth Again
+cg_collection-20000010,Everything is the same as usual//c Commander. I will continue to stay by your side.
+cg_collection-10000011,Fallen Feathers
+cg_collection-20000011,"I've delivered Death to your doorstep."
+cg_collection-10000012,Final Challenge
+cg_collection-20000012,We were separated as we fled the battlefield with the assistance of a local Griffin squad//c and were only reunited today…
+cg_collection-10000013,Operation Uproot
+cg_collection-20000013,Thanks to a multi-pronged pincer attack from multiple Griffin echelons//c "Scarecrow" was successfully captured.
+cg_collection-10000014,First Encounter
+cg_collection-20000014,"Right now//c I only have a single request... Save us."
+cg_collection-10000015,Frontline Breakthrough
+cg_collection-20000015,"Intruder" issued us a challenge//c but we seized her territory first.
+cg_collection-10000016,Withstanding Ambush
+cg_collection-20000016,"How do you feel now? Can you still fight?"
+cg_collection-10000017,Pursuit Order
+cg_collection-20000017,ST AR-15 has gone rogue and the S.F. forces have been driven off... but have we won or have we lost? Compared to that//c our current circumstances are hardly a mystery...
+cg_collection-10000018,404 Deploys
+cg_collection-20000018,416 and Gr G11 escape the trap set by "Ouroboros". After meeting up with UMP45 and UMP9 they begin looking for someone who knows the location of the jammer.
+cg_collection-10000019,Side Collapse
+cg_collection-20000019,After the battle with "Executioner" and "Ouroboros'" ambush//c 404 Squad defeats the main S.F. fighting force in Sector S06 and successfully complete the operation.
+cg_collection-10000020,Prisoner
+cg_collection-20000020,"M4A1... Who exactly are you?"
+cg_collection-10000021,Belated Farewell
+cg_collection-20000021,It was a grand burial... and a silent farewell.
+cg_collection-10000022,Reunion
+cg_collection-20000022,We have no idea what's happening inside the detention center; all we can do is prepare for the final battle and hope that the assistant Persica sent over will be able to help.
+cg_collection-10000023,Lighting Curfew IV
+cg_collection-20000023,Another S.F. Ringleader//c "Architect"//c discovers the location of 404 Squad//c which plays right into 45's hands. The breakthrough and rescue operation officially begins.
+cg_collection-10000024,Operation Homecoming
+cg_collection-20000024,"So please be nice to me. I know a lot of interesting things."
+cg_collection-10000025,Directional Algorithm
+cg_collection-20000025,M4A1's Report: Why is Architect here... No//c I can't think too much about it//c I need to win...
+cg_collection-10000026,Mission
+cg_collection-20000026,M16 gives no reply other than a single gesture. An incredibly ordinary gesture.
+cg_collection-10000027,Birth
+cg_collection-20000027,"This is lovely... Everyone's with me..."
+cg_collection-10000028,Circular Destiny
+cg_collection-20000028,"After countless loops and countless cycles of forgetting//c all that she has left is her final obsession."
+cg_collection-10000029,Humans
+cg_collection-20000029,"One of the reasons I'm still in the world is to kill you."
+cg_collection-10000030,Eyes of Time
+cg_collection-20000030,The proud alpha wolf will never allow others to sense her weakness. On this bloodcolored snowfield//c she stubbornly gazes into the distance.
+cg_collection-10000031,Crouched Portrait
+cg_collection-20000031,"It's all up to you now//c Commander. We're going to win."
+cg_collection-10000032,Lost Bloodstains
+cg_collection-20000032,In the dark underground passage//c Morridow reunites with her former enemy.
+cg_collection-10000033,Curtainfall
+cg_collection-20000033,She strokes the icy-cold gestation vat. The womb that had once birthed her is also her ultimate tomb.
+cg_collection-10000034,Prayer For A Lonely Soul
+cg_collection-20000034,No matter the world//c no matter your choices//c Agent "Angelia" will always be your comrade.
+cg_collection-10000035,
+cg_collection-20000035,"Even if I'm the only one left... I have to live on..."
+cg_collection-10000036,Confrontation
+cg_collection-20000036,With the threat of a dirty bomb looming in the background//c Angelia faces off against Yegor.
+cg_collection-10000037,Safety For Each Other
+cg_collection-20000037,...No goodbyes mean no attachments. And no attachments means safety for each other.
+cg_collection-10000038,Short-Lived Peace
+cg_collection-20000038,"But if we’re all idiots… Doesn’t that make us a family?"
+cg_collection-10000039,Rescue
+cg_collection-20000039,416 carries out the Commander's special mission and heads into the contaminated zone to rescue Angelia.
+cg_collection-10000040,Interrogation
+cg_collection-20000040,Are you going to make up stories again//c Griffin's Commander?
+cg_collection-10000041,Exile
+cg_collection-20000041,And in the moment when I come face to face with the truth//c I will need to choose whether to take it for my own//c or destroy it...
+cg_collection-10000042,Remembrance
+cg_collection-20000042,At the patriot's memorial//c Angelia and M4A1 discuss the meaning of sacrifice.
+cg_collection-10000043,Wolf and Owl
+cg_collection-20000043,M16A1 suddenly arrives with many S.F. ringleaders in tow and they instantly destroy the white faction forces inside the theater.
+cg_collection-10000044,Discord
+cg_collection-20000044,As Sangvis forces take aim at them//c ST AR-15 and AN-94 drop their weapons and raise their hands.
+cg_collection-10000045,Shark and the Sea
+cg_collection-20000045,Nimogen goes mad after her head ornament is shot off.
+cg_collection-10000046,Pursuit
+cg_collection-20000046,Beak speeds away with M16A1 in tow//c trying to evade Task Force DEFY's pursuit.
+cg_collection-10000047,Ephemeral Memories
+cg_collection-20000047,In the base layer of the white faction units' memories//c they find a half-remembered scene from M4A1's memories.
+cg_collection-10000048,Enantiomer Overload
+cg_collection-20000048,"Inside the power control room full of slumbering enemies//c UMP45 throws the main control switch..."
+cg_collection-10000049,Crystal Reforging
+cg_collection-20000049,Once again//c UMP45 relives the simualted memories of Operation Butterfly.
+cg_collection-10000050,Seeking The Truth
+cg_collection-20000050,M4A1 decides to send the rest of the AR Team to support the Commander while she heads off to stop M16A1 by herself.
+cg_collection-10000051,Alpha Wolf
+cg_collection-20000051,Task Force DEFY squares off against the "Sinner" mech in a deadly duel//c and they ultimately defeat Yegor.
+cg_collection-10000052,Hyperbolic Function
+cg_collection-20000052,UMP45 decides to carry on by herself//c undeterred by S.F. Meanwhile//c Destroyer's brand new form is finally revealed to the others. The final showdown with Destroyer... er//c I mean//c Cerberus is at hand!
+cg_collection-10000053,Deception
+cg_collection-20000053,"The program will stop running as long as one of us dies."
+cg_collection-10000054,Hawk and Hound II
+cg_collection-20000054,RO's Report: The Commander says that they're taking part in a banquet which might be the lead-in to a major event//c but the focus is still on the minor incidents around us...
+cg_collection-10000055,Hawk and Hound IV
+cg_collection-20000055,RO's Report: We've spotted Judge again! If only we had more allies to help us this time...
+cg_collection-10000056,Betrayal
+cg_collection-20000056,Yegor blasts open the door to the safehouse and kills the defenseless RO635.
+cg_collection-10000057,Purgatory
+cg_collection-20000057,M4A1 sits numbly in place. She doesn't move//c and looks like she's crying.
+cg_collection-10000058,Splinter Point
+cg_collection-20000058,With M4A1 on her back//c ST AR-15 runs at full tilt to escape the S.F. forces' pursuit.
+cg_collection-10000059,Exhaust II
+cg_collection-20000059,"Griffin’s headed toward Sector S11? I see it//c it’s a total mess over here."
+cg_collection-10000060,Arrest
+cg_collection-20000060,Carter sends military forces to Griffin PMC to arrest Kryuger on trumped-up charges.
+cg_collection-10000061,Deadlock
+cg_collection-20000061,"All humans must die//c and I am always happy to oblige them."
+cg_collection-10000062,Last Resort
+cg_collection-20000062,The best way to put out a fire is to blow it out by setting off a bigger explosion beside it.
+cg_collection-10000063,Meeting
+cg_collection-20000063,M4A1 meets Elisa at the arranged location. After realizing OGAS has deceived them//c both sides begin an intense battle.
+cg_collection-10000064,Last Resort V
+cg_collection-20000064,"404! Can you still hold out?!"
+cg_collection-10000065,Endgame
+cg_collection-20000065,"People are like trees. The higher the branches grow into the bright sky//c the deeper the roots must grow into the lightless underground."
+cg_collection-10000066,Desperate Escape
+cg_collection-20000066,I never imagined that a few months later I would be in a place like this//c facing a situation like this//c and that our last hope rests entirely on...
+cg_collection-10000067,Choice
+cg_collection-20000067,"After this//c you will face countless trials//c and the right choices are always the ones that hurt you the most..."
+cg_collection-10000068,Dead City
+cg_collection-20000068,One figure after another appears amidst the ruins.
+cg_collection-10000069,Sigh
+cg_collection-20000069,As UMP45 investigates the source of the jamming//c a distant voice speaks into her ear.
+cg_collection-10000070,Infinite Connections
+cg_collection-20000070,"Venture deeper into her neural cloud."
+cg_collection-10000071,Flowers of the End
+cg_collection-20000071,In a valley of blooming flowers//c M4A1 engages the OGAS system that has stolen Nimogen's body in an intense battle.
+cg_collection-10000072,Betrayal II
+cg_collection-20000072,What's the situation with M4A1? The Commander and I are very worried. Do you have any way to fix her//c RO...?
+cg_collection-10000073,Old Friend
+cg_collection-20000073,Dandelion seizes onto a momentary weakness of M16's and connects to the OGAS inside her neural cloud//c while M4 recovers the deleted memory fragments from her...
+cg_collection-10000074,Turnaround
+cg_collection-20000074,Amidst the flames inside the old S.F. base//c "Architect" rejects "Gager's" suggestion to bring her back to Sangvis Ferri.
+cg_collection-10000075,Contemplation
+cg_collection-20000075,Angelia stands on the balcony and falls into contemplation as she watches the unrest on the streets from afar.
+cg_collection-10000076,Bridge of Eternity
+cg_collection-20000076,Angelia sees through Morridow's disguise//c and Morridow flings open the cabin door and jumps off the helicopter.
+cg_collection-10000077,Magic Box
+cg_collection-20000077,"I want to be human//c Ange."
+cg_collection-10000078,Pandora
+cg_collection-20000078,After a long battle with RPK-16//c AK-15 finally manages to subdue her.
+cg_collection-10000079,Regret
+cg_collection-20000079,"...Thank you//c Robin."
+cg_collection-10000080,Return
+cg_collection-20000080,"Nobody's sacrifice is without value... I'm back."
+cg_collection-10000081,Ⅴ A
+cg_collection-20000081,"I remember now... You're the last T-Doll of the AR Team..."
+cg_collection-10000082,Reversal
+cg_collection-20000082,M16A1 knocks out Morridow as she attempts to flee and recovers the unconscious Dandelion.
+cg_collection-10000083,beta
+cg_collection-20000083,"Your heart once beat with compassion//c Mrs. Gray."
+cg_collection-10000084,Dawnlight
+cg_collection-20000084,Just as the Commander's situation in the warehouse grows desperate//c Griffin's S.F. forces arrive to aid them.
+cg_collection-10000085,"Dead Sea"
+cg_collection-20000085,"It is a land of death that not even birds can fly over. We call it 'Avernus'."
+cg_collection-10000086,Pre-Battle Conference
+cg_collection-20000086,RO635 assigns each team a distinct objective and conducts final battle preparations.
+cg_collection-10000087,Traitor
+cg_collection-20000087,M16A1 pins RPK-16 against a wall and seizes RPK-16 by the throat.
+cg_collection-10000088,Crisis
+cg_collection-20000088,When Paradeus attacks//c Erma moves in front of Lyudmila.
+cg_collection-10000089,Overflight
+cg_collection-20000089,Right now//c she is bathed in firelight. She holds her head high atop this mass of steel.
+cg_collection-10000090,5-β7 Cavalleria Rusticana
+cg_collection-20000090,"If your attack power is 5//c then hers would be 530//c000."
+cg_collection-10000091,Zigeunerweisen
+cg_collection-20000091,"On board the collapsing Colt Express//c Erma holds on tightly to Maggie."
+cg_collection-10000092,Farewell
+cg_collection-20000092,"You're free//c Erma."
+cg_collection-10000093,15 Window with a View
+cg_collection-20000093,"Having a weakness is a terrifying thing."
+cg_collection-10000094,19 Elegant Bouquet on the Table
+cg_collection-20000094,"You should be in the world of the humans. You belong there."
+cg_collection-10000095,35-R4 Piano Concerto in F minor
+cg_collection-20000095,"Turns out... all I've ever wanted is the gratification of saving lives..."
+cg_collection-10000096,Restoration
+cg_collection-20000096,...The night is quiet again.
+cg_collection-10000097,WTR The Pontine Marshes at Sunset
+cg_collection-20000097,"That's because right now//c your world is too small."
+cg_collection-10000098,SPR Gray Tree
+cg_collection-20000098,"From that day//c I had past the point of no return."
+cg_collection-10000099,SPR Wing of a Blue Roller
+cg_collection-20000099,"So we're different."
+cg_collection-10000100,Girl Before a Mirror
+cg_collection-20000100,"Please give me... the dignity to die like a human..."
+cg_collection-10000101,F17 Black Cross
+cg_collection-20000101,"Just a brief moment. Even just a brief moment of freedom will do."
+cg_collection-10000102,Sunset
+cg_collection-20000102,Avernus falls//c amidst Ruslan II's thunder.
+cg_collection-10000103,Breakdown
+cg_collection-20000103,Bloodstains//c uniforms... The last line of defense has collapsed.
+cg_collection-10000104,Lies
+cg_collection-20000104,A lie told with malice aforethought...

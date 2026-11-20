@@ -1,0 +1,106 @@
+medal-10000001,Elite Griffin Medal 
+medal-20000001,Awarded to Commanders who complete all battle challenges during a major limited-time event.//n
+medal-10000002,Combat Ranking Medal
+medal-20000002,Awarded to Commanders who achieve outstanding results during a Theater-scale major combat event.//n
+medal-10000003,Collection Ranking Medal
+medal-20000003,Awarded to Commanders who achieve outstanding results in Doll and furniture collection. //n
+medal-10000004,Challenger Medal
+medal-20000004,Awarded to Commanders who achieve extraordinary results during a carnival event. //n
+medal-10000005,Elite Adventurer Medal
+medal-20000005,Awarded to Commanders who complete all battle challenges during a limited-time collaboration event.//n
+medal-10000006,Sangvis-Griffin Coalition Medal
+medal-20000006,Awarded to Commanders who achieve exceptional results with Coalition Units during a major limited-time event.//n
+medal-10000007,Chess Champion Medal
+medal-20000007,Awarded to Commanders who achieve extraordinary results in Luffberry Chess.//n
+medal-10000008,Wind-Calmer's Medal
+medal-20000008,Awarded to Commanders who have completed all battle challenges during the major limited-time event "Fixed Point".//n
+medal-10000009,Hell-Walker's Medal
+medal-20000009,Awarded to Commanders who achieve outstanding results during the scoring mode of the major limited-time event "Fixed Point".//n
+medal-10000010,8th Theater Pioneer Medal
+medal-20000010,Awarded to Commanders who achieved an outstanding score in the 8th Theater Event.//n
+medal-10000011,8th Theater Conqueror Medal
+medal-20000011,Awarded to Commanders who delivered exceptional performance in the final stage of the 8th Theater Event.//n
+medal-10000012,Chaos Render Medal
+medal-20000012,Awarded to Commanders who achieved exceptional results in ranking mode "Reign of Chaos+".//n
+medal-10000013,Iron Storm
+medal-20000013,Awarded to Commanders who have completed all missions in the major event "Longitudinal Strain".//n
+medal-10000014,Longitudinal Dominator Medal
+medal-20000014,Awarded to Commanders who have achieved a brilliant score in the major event "Longitudinal Strain".//n
+medal-10000015,9th Theater Pioneer Medal
+medal-20000015,Awarded to Commanders who achieved an outstanding score in the 9th Theater Event.//n
+medal-10000016,9th Theater Conqueror Medal
+medal-20000016,Awarded to Commanders who delivered exceptional performance in the final stage of the 9th Theater Event.//n
+medal-10000017,Destroyer of the End Medal
+medal-20000017,Awarded to Commanders who have achieved a brilliant score in the ranking stage "Flowers of the End+" in the major event "Shattered Connexion".//n
+medal-10000018,Eclipse Observer
+medal-20000018,Awarded to Commanders who have cleared all battles in the time-limited event "Eclipses & Saros".//n
+medal-10000019,Golden Mic Music Medal
+medal-20000019,Awarded to Commanders who have cleared all battles in the time-limited event The Glistening Bloom.//n
+medal-10000020,Theater 10 Pioneer Medal
+medal-20000020,To commend this Commander and the T-Dolls under their command for the fantastic score they have achieved through tireless hard work in Theater 10.//n
+medal-10000021,Theater 10 Conqueror Medal
+medal-20000021,To commend this Commander and the T-Dolls under their command for their outstanding achievements in Theater 10.//n
+medal-10000022,Navigator of the Deep Lake
+medal-20000022,Awarded to Commanders who have completed all missions in the major event "Slow Shock".//n
+medal-10000023,Snow Line in the Sea Medal
+medal-20000023,Awarded to Commanders who have achieved a brilliant score in the major event "Slow Shock".//n
+medal-10000024,End of the Labyrinth Medal
+medal-20000024,Awarded to Commanders who have achieved a brilliant score in the ranking stage "Labyrinthine Defense+" in the major event "Polarized Light".//n
+medal-10000025,
+medal-20000025,
+medal-10000026,
+medal-20000026,
+medal-10000027,
+medal-20000027,
+medal-10000028,
+medal-20000028,
+medal-10000029,Theater 11 Pioneer Medal
+medal-20000029,To commend this Commander and the T-Dolls under their command for the fantastic score they have achieved through tireless hard work in Theater 11.//n
+medal-10000030,Theater 11 Conqueror Medal
+medal-20000030,To commend this Commander and the T-Dolls under their command for their outstanding achievements in Theater 11.//n
+medal-10000031,Light-Bringer in Perpetual Occultation Medal
+medal-20000031,Awarded to Commanders who have achieved a brilliant score in the scoring stage "Vortex of Secrets+" in the major event "Dual Randomness".//n
+medal-10000032,Mirror Image Recurser Medal
+medal-20000032,Awarded to Commanders who have completed all missions in the collaboration event "Through the Looking-Glass".//n
+medal-10000033,Time Redeemer Medal
+medal-20000033,Awarded to Commanders who have cleared all battles in the time-limited event The Summer Garden of Forking Paths.//n
+medal-10000034,Beyond the Mist Medal
+medal-20000034,Awarded to Commanders who have achieved a brilliant score in the ranking stage "Operation Mistbuster+" in the major event "Mirror Stage".//n
+medal-10000035,Theater 12 Pioneer Medal
+medal-20000035,To commend this Commander and the T-Dolls under their command for the fantastic score they have achieved through tireless hard work in Theater 12.//n
+medal-10000036,Theater 12 Conqueror Medal
+medal-20000036,To commend this Commander and the T-Dolls under their command for their outstanding achievements in Theater 12.//n
+medal-10000037,Choice of Eternal Return Medal
+medal-20000037,Awarded to Commanders who have completed all missions in the event "Cartesian Theater".//n
+medal-10000038,End of the Ominous Nightmare Medal
+medal-20000038,Awarded to Commanders who have achieved a brilliant score in the ranking stage "City of Nightmares+" in the major event "Poincare Recurrence".//n
+medal-10000039,Eye of the Witness Medal
+medal-20000039,Awarded to Commanders who have completed all missions in the event "Zero Charge".//n
+medal-10000040,Deadlock Breaker Medal
+medal-20000040,Awarded to Commanders who have completed all missions in the event "Angular Gyrus".//n
+medal-10000041,Theater 13 Pioneer Medal
+medal-20000041,To commend this Commander and the T-Dolls under their command for the fantastic score they have achieved through tireless hard work in Theater 13.//n
+medal-10000042,Theater 13 Conqueror Medal
+medal-20000042,To commend this Commander and the T-Dolls under their command for their outstanding achievements in Theater 13.//n
+medal-10000043,Isolation Forest Guardian Medal
+medal-20000043,Awarded to Commanders who have completed all missions in the event "Isolation Forest".//n
+medal-10000044,Light Chaser Medal
+medal-20000044,Awarded to Commanders who have completed all missions in the collaboration event "Butterfly Nebula".//n
+medal-10000045,Fire in the Ashes Medal
+medal-20000045,Awarded to Commanders who have completed all missions in the major event "Convolutional Kernel".//n
+medal-10000046,Gold in the Fire Medal
+medal-20000046,Awarded to Commanders who have achieved a brilliant score in the scoring stage "Leaping from the Penrose Stairs" in the major event "Convolutional Kernel".//n
+medal-10000047,Marine Theater Pioneer Medal
+medal-20000047,Awarded to Commanders who have achieved a brilliant score in the Marine Theater event.
+medal-10000048,Marine Theater Conqueror Medal
+medal-20000048,Awarded to Commanders who have achieved an exceptional score in the final stage of the Marine Theater event.
+medal-10000050,Roche Radius Medal
+medal-20000050,This medal is awarded as a commendation to the Commander and their Dolls for their outstanding performance in the Roche Limit event.//n
+medal-10000051,Virtual Observer Medal
+medal-20000051,This medal is awarded as a commendation to the Commander and their Dolls for their outstanding performance in the Virtual Pair event. //n
+medal-10000052,Flow-Defyer's Medal
+medal-20000052,Granted to Commanders who completed all missions in the new ranking mode Silent Sandtable.//n
+medal-10000054,Light On The Far Shore Medal
+medal-20000054,Granted to Commanders who completed all missions in the major limited-time event Quantum Fluctuations.//n
+medal-10000055,Rainmaker Badge Medal
+medal-20000055,Awarded to Commanders who achieve outstanding scores during the "Steel Rain Salute" ranked battle.//n

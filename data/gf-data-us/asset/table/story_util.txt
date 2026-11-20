@@ -1,0 +1,2832 @@
+story_util-10000001,M4A1's Report: The AR Team is infiltrating Area S09 to retrieve data left behind by a human named "Lyco" under Persica's commission.
+story_util-20000001,Warm-Up Exercise
+story_util-10000002,M4A1's Report: The AR Team has located the data in Safe House 3//c but fell into a trap laid by Sangvis Ringleader "Agent".
+story_util-20000002,Dark Information
+story_util-10000003,M4A1's Report: We managed to stay until the data transfer was complete//c but were chased into a blind alley before we could evacuate from the safe house.
+story_util-20000003,Defend the Base
+story_util-10000004,M4A1's Report: We were separated as we fled the battlefield with the assistance of a local Grifon squad//c and were only reunited today…
+story_util-20000004,Final Challenge
+story_util-10000005,Today//c our commander officially reported for duty and started our first drill with my assistance.
+story_util-20000005,Drill
+story_util-10000006,We received our first mission from HQ - scouting S.F. movements in the area.
+story_util-20000006,Transport the Injured
+story_util-10000007,A few T-Dolls survived the Sangvis ambush. We escorted them back to base.
+story_util-20000007,Investigate Anomalies
+story_util-10000008,With the commander providing cover//c the surviving T-Dolls rescued their captured companion.
+story_util-20000008,Missing Party
+story_util-10000009,We found the Sangvis Ringleader lurking in the area thanks to information provided by the T-Doll. It seems to be looking for someone...
+story_util-20000009,Rescue Signal
+story_util-10000010,We defeated Scarecrow but couldn't stop it from transmitting key information to its associate.
+story_util-20000010,Operation Uproot
+story_util-10000011,The commander was invited by Miss Helian to participate in a special operation drill.
+story_util-20000011,Advanced Training I
+story_util-10000012,This drill seems to have something to do with talent scouting. Looks like Grifon has very high hopes for our commander.
+story_util-20000012,Advanced Training II
+story_util-10000013,The commander asked me about Sangvis Ferri//c but I was more concerned about Miss Helian's missing an appointment again...
+story_util-20000013,Advanced Training III
+story_util-10000014,So Helian is the very "Mixer Underdog" in Grifon gossips. This doesn't bode well... Should I help?
+story_util-20000014,Advanced Training IV
+story_util-10000015,MP5 is conveying intelligence under the commander's guidance. Her first stop was WA2000. It went well...sorta.
+story_util-20000015,Petite Courrier I
+story_util-10000016,MP5 got it touch with P7 and gave her some kind of..."education" (?) on behalf of many other T-Dolls. Whatever that means.
+story_util-20000016,Petite Courrier II
+story_util-10000017,MP5 ran into a bit of trouble but managed to get out of danger thanks to MG5's threats and G36's bribe. All was well.
+story_util-20000017,Petite Courrier III
+story_util-10000018,With the Commander's help//c MP5 successfully conveyed the intelligence to Miss Helian. But to us//c this is where our work truly begins.
+story_util-20000018,Petite Courrier IV
+story_util-10000019,We tried to look for ways to make amends//c but to no avail. And so we've been ordered to drop all investigations...
+story_util-20000019,Record Trace
+story_util-10000020,HQ keeps sending us trivial missions. Guess that means we're back to our daily routine...
+story_util-20000020,Emergency Reinforcement
+story_util-10000021,We repulsed yet another Sangvis guerilla attack. But it's all for naught if HQ doesn't order us to go on the offensive.
+story_util-20000021,Enemy Investigation
+story_util-10000022,Persica from 16LAB sent a sudden request for us to collect data under heavy crossfire. Does everyone just let her do as she pleases...?
+story_util-20000022,Data Collection
+story_util-10000023,Persica still wanted to boss us around. Thank goodness HQ finally ordered us to resume our operation. We can finally return to the battlefield!
+story_util-20000023,Additional Commission
+story_util-10000024,We defeated Executioner and rendezvoused with Elite T-Doll M4A1 of the AR Team. So she's...the one Sangvis Ferri is after?
+story_util-20000024,Termination
+story_util-10000025,The Commander has accepted Persica's request to collect parts of Sangvis units as samples for experiment.
+story_util-20000025,Field Samples I
+story_util-10000026,Persica doesn't seem keen on contacting M4A1//c even though she'd given us all sorts of aid off the record in finding her...
+story_util-20000026,Field Samples II
+story_util-10000027,M4A1 got in touch with Persica her and dispelled Persica's sense of guilt for issuing her previous request. It's nice that she no longer feels burdened.
+story_util-20000027,Field Samples III
+story_util-10000028,We've fulfilled Persica's request//c but initial analysis reveals great differences between the technologies behind Sangvis and Grifon T-Dolls. How on earth did Sangvis Ferri come to be?
+story_util-20000028,Field Samples IV
+story_util-10000029,We provided cover for Thompson's squad to reach their bases. They're gonna assist the military in suppressing rioting armored machines.
+story_util-20000029,Professional Help I
+story_util-10000030,Thompson managed to put every unruly T-Doll demurely in their place - such tact!
+story_util-20000030,Professional Help II
+story_util-10000031,The military messed up our plan by advancing the operation//c but we always have an ace up our sleeve...
+story_util-20000031,Professional Help III
+story_util-10000032,We snatched the data from the control room//c and the military could say nothing about that... Mission accomplished - small revenge also accomplished.
+story_util-20000032,Professional Help IV
+story_util-10000033,The commander's performance so far has been acknowledged by HQ. We've been ordered to press ahead and recover all lost territories in Area S09.
+story_util-20000033,Clearing a Path
+story_util-10000034,As we move//c M4A1 has been contacting other members of the AR Team//c from whom she was separated during a certain mission.
+story_util-20000034,Intercepted Intelligence
+story_util-10000035,The commander successfully recovered SOP-II from the AR Team//c but learned that AR-15//c who had stayed behind to bring up the rear//c was still missing.
+story_util-20000035,Covert Reinforcement
+story_util-10000036,The Command Post was ambushed. We managed to return just in time to defend it thanks to intelligence provided by SOP-II.
+story_util-20000036,Defensive Operation
+story_util-10000037,HQ ordered us to search for the local Sangvis Ringleader's base. It's pretty eyecatching//c all right//c but we just can't get in...
+story_util-20000037,Swift Counterattack
+story_util-10000038,Hunter's base fell into disarray all of a sudden//c then AR-15 emerged from within//c covered in injuries. What on earth happened in there...?
+story_util-20000038,No Hunting
+story_util-10000039,I applied for this mission without consulting the commander//c but the commander still decided to accept the challenge even though it was much harder than I expected. All the best!
+story_util-20000039,Data Retrieval I
+story_util-10000040,We have recovered a few military hard disks but can't read the content... I'm dying to know what's inside... 
+story_util-20000040,Data Retrieval II
+story_util-10000041,Sangvis forces came after the hard disks//c which means they're a big deal to them. They must contain some kind of important data!
+story_util-20000041,Data Retrieval III
+story_util-10000042,The commander listened to some of the recordings on the hard disks after the mission and looked a bit grave... Does S.F. still have many aces up their sleeve? 
+story_util-20000042,Data Retrieval IV
+story_util-10000043,Makarov requested the commander to assist her in infiltrating Sangvis territory to rescue the trapped Nagant M1895.
+story_util-20000043,Anonymous Rescue I
+story_util-10000044,Despite Makarov's misgivings toward her aids//c the operation has been going smoothly so far.
+story_util-20000044,Anonymous Rescue II
+story_util-10000045,We rescued Nagant M1895//c but Makarov's squad ran into danger. I hope her escape plan wouldn't be too outrageous...
+story_util-20000045,Anonymous Rescue III
+story_util-10000046,Mission accomplished. We have recovered the important item in Nagant M1895's hands. Hopefully it'll prove useful to subsequent operations//c otherwise...
+story_util-20000046,Anonymous Rescue IV
+story_util-10000047,We provided support and cover for an elite squad in regaining full control over Area S09. Sadly we still never found out who they were in the end.
+story_util-20000047,Assist the Mercenaries
+story_util-10000048,We received prior information about the local Ringleader for this operation//c and we finally got in touch with M16A1//c the last member of the AR Team. All is going well.
+story_util-20000048,Cut Off Reinforcement
+story_util-10000049,"Intruder" showed itself and taunted us//c but we had already fought our way into its territory.
+story_util-20000049,Break Through Enemy Lines
+story_util-10000050,As we were heading deeper into enemy territory//c we suddenly received an order to search for that elite squad from before. We seem to have lost track of them...
+story_util-20000050,Search for Companions
+story_util-10000051,That elusive squad seemes to be out of danger and has even left us coordinates denoting the weak spots in the Sangvis base's defense. That's how we managed to get in.
+story_util-20000051,Locate the Coordinates
+story_util-10000052,Control over Area S09 is fully restored//c and M16A1 is also back with us. But she has brought unsettling news... What exactly is Plan "Parapluie"?
+story_util-20000052,Eradicate the Disturbance
+story_util-10000053,While carrying out an investigation suggested by M4A1//c we stumbled across a cryptic audio file that seems to have come from a T-Doll's neural cloud.
+story_util-20000053,Reminiscing I
+story_util-10000054,SOP-II joined us in the investigation and confirmed the rumors about her... Innocence doesn't necessarily have to be cute//c though she's still pretty cute as she is.
+story_util-20000054,Reminiscing II
+story_util-10000055,AR-15 also helped//c then gave M4A1 a lecture. She's always so oblique...but nonetheless very reliable.
+story_util-20000055,Reminiscing III
+story_util-10000056,The AR Team listened to the combined audio recordings and decrypted them with my help. The file they ended up getting was...
+story_util-20000056,Reminiscing IV
+story_util-10000057,The commander was invited to attend a clandestine meeting to discuss measures of countering Plan "Parapluie"//c but lost contact with us five minutes ago. What on earth is going on?
+story_util-20000057,Drill Attendance
+story_util-10000058,Sangvis Ferri caught wind of the location of the base and surrounded it. Thank goodness the commander is safe//c and is now entrusted with the counterstrike by Mr. Kryuger.
+story_util-20000058,Raid Resistance
+story_util-10000059,Miss Helian found the local Sangvis command post//c but "Destroyer" somehow learned of this and managed to give us the slip.
+story_util-20000059,Counterstrike
+story_util-10000060,HQ believes AR-15 is the source of the leak and has taken her away... This is ridiculous! How could it be AR-15... This can't be right...
+story_util-20000060,Safeguard Retreat
+story_util-10000061,AR-15 has gone AWOL. Without even a single word...
+story_util-20000061,Internal Phenomenon
+story_util-10000062,AR-15 deserted us//c but we fought off Sangvis Ferri... Does that make it a victory or a loss? Though compared to the mystery we're faced with//c this is actually nothing...
+story_util-20000062,Order to Pursue
+story_util-10000063,The AR Team had previously encountered a baffling and terrifying airstrike while in pursuit of Destroyer. They had no choice but to make a hasty retreat...
+story_util-20000063,Solving the Mystery I
+story_util-10000064,We ran into Mr. Kryuger during the search for AR-15. What is he investigating...or reflecting on here?
+story_util-20000064,Solving the Mystery II
+story_util-10000065,Everyone on the AR Team is in a terrible state//c but they all know where their duties lie. The commander and I should probably try to console them a bit later on...
+story_util-20000065,Solving the Mystery III
+story_util-10000066,We were just notified by HQ that a new operation is about the commence... I hope we can prepare in time for whatever that's coming our way...
+story_util-20000066,Solving the Mystery IV
+story_util-10000067,A few days later//c Squad Negev of Grifon was ordered to search for AR-15 in Area S08//c but they've gone missing there. Their comms modules are also jammed.
+story_util-20000067,Squad Negev
+story_util-10000068,The AR Team went in to investigate//c and successfully rendezvoused with the squad member dispatched by Negev to send the distress signal. We then lanched the rescue mission.
+story_util-20000068,Double Rescue
+story_util-10000069,We fended off "Alchemist". Squad Negev got out of danger//c but we've lost track of M4A1 and SOP-II when their signal got blocked again…
+story_util-20000069,Reunion
+story_util-10000070,M16A1 found SOP-II unconscious//c but a large amount of Sangvis forces have suddenly swarmed into Area S08 so we must move out immediately!
+story_util-20000070,Prisoner
+story_util-10000071,The commander has rebuffed the Sangvis vanguard for the time being//c but Negev made a spine-chilling conjecture - AR-15 is the source of the jam...
+story_util-20000071,Resolve
+story_util-10000072,After a long and brutal fight//c all T-Dolls have withdrawn from Area S08...except...AR-15...
+story_util-20000072,Late Farewell
+story_util-10000073,AR-15 was trapped by Alchemist during the withdrawal. Meanwhile//c Grifon's troops were also in grave danger...
+story_util-20000073,Final Wish I
+story_util-10000074,SOP-II took the risk of heading onto the battlefiled and created an opening for AR-15 just in time. She also bought time for the rest of our troops to retreat safely.
+story_util-20000074,Final Wish II
+story_util-10000075,M16A1 returned with a message from AR-15. As the host of "Parapluie"//c there's no coming back for her. The only thing she can do is…
+story_util-20000075,Final Wish III
+story_util-10000076,AR-15... The commander and I have no idea what you did in the end... All we know is that...you saved all of us...
+story_util-20000076,Final Wish IV
+story_util-10000077,RO's Report: I am back at Grifon//c leading an ad-hoc squad in search for Document 36. After many days of stagnation//c we are finally making some headway.
+story_util-20000077,One-Week Teammates I
+story_util-10000078,RO's Report: This is the only human left who knows about Document 36. We must find him ASAP! Come on//c RO//c you can do it!
+story_util-20000078,One-Week Teammates II
+story_util-10000079,RO's Report: Sangvis Ferri destroyed the city with artillery//c and the status of my teammates is unclear. I don't want to lose any more friends. I have to do something…
+story_util-20000079,One-Week Teammates III
+story_util-10000080,RO's Report: Mission accomplished. I hope we will have all the fun we can tonight...as I shall be heading over to the AR Team tomorrow to take over from HER.
+story_util-20000080,One-Week Teammates IV
+story_util-10000081,Five days after what happened with AR-15//c the commander started a new job in Area S05 under Grifon jurisdiction.
+story_util-20000081,New Job
+story_util-10000082,Sangvis activities were detected along the borders of Area S05. To keep the detained AR Team safe//c the commander decided to destroy the enemy forces.
+story_util-20000082,Sabotage
+story_util-10000083,Another day of patrol duties... I wonder if Helian would accept my request...
+story_util-20000083,Daily Patrols
+story_util-10000084,The signal is blocked in the detention center. Meanwhile//c a large number of Sangvis units have suddenly appeared within Area S05...
+story_util-20000084,Ambush
+story_util-10000085,The battle to eliminate Sangvis forces rages on and everyone is too busy to do anything else. At this moment//c we receive an ecrypted communications request...
+story_util-20000085,Cat and Mouse
+story_util-10000086,We have no way of knowing the situation inside the detention center. All we can do is to prepare for the final battle. I hope the assistants sent by Persica will be of use to us...
+story_util-20000086,Reunion
+story_util-10000087,Nearly 40 days after the incident in Area S08//c RO leads M16 and SOP2 in a mission to collect the Sangvis Scout's companion.
+story_util-20000087,Retrieval I
+story_util-10000088,M16 gets in touch with the "Palette" team and searches for SOP2 under Sangvis bombardment.
+story_util-20000088,Retrieval II
+story_util-10000089,Dreamer induces SOP2 into a fit of mind-broken rage. You must rescue the crazed SOP2 as soon as possible!
+story_util-20000089,Retrieval III
+story_util-10000090,RO has destroyed the Jupiter Cannon//c but the Commander needs to break through Dreamer's blockade and save the AR Team and the members of "Palette" who are in danger.
+story_util-20000090,Retrieval IV
+story_util-10000091,M99 and her adjutant are given an order to go to a Sangvis-controlled area to recover the remaining supplies there.
+story_util-20000091,Peculiar Vendor I
+story_util-10000092,After meeting up with 56-1 and picking up the package that needs to be delivered//c the team endures starvation and sets off to assist NZ75//c who is responsible for reconnaissance.
+story_util-20000092,Peculiar Vendor II
+story_util-10000093,When the squad members transported the goods to the human settlements//c a violent conflict broke out due to a food shortage//c and they come to a shocking realization...
+story_util-20000093,Peculiar Vendor III
+story_util-10000094,A powerful Sangvis Ringleader has brought a terrible catastrophe//c but at the same time//c toughened the resolve of the comrades-in-arms. The decisive battle is at hand!
+story_util-20000094,Peculiar Vendor IV
+story_util-10000095,After AR-15 departs from Grifon//c the 404 Squad begins a secret mission: infiltrate the Sangvis Ferri base under the cover of the night to stop the operation of a jammer.
+story_util-20000095,Seven-Step Puzzle
+story_util-10000096,HK416 and G11 regroups with UMP45 and UMP9 after escaping from the traps of Sangvis Ringleader Ouroboros. They then began to search for personnel that knows of the whereabouts of the jammer.
+story_util-20000096,Corner Breaker
+story_util-10000097,As Ouroboros cut off Hunter's consciousness//c Sangvis forces are unable to continue to track the 404 Squad. At this moment//c UMP45 brings in a little aide...
+story_util-20000097,Layer Reversal
+story_util-10000098,With the battle to the death with Executioner ending in an explosion//c the doubting Ouroboros launched a comprehensive encirclement operation. How is the 404 Squad going to get away this time?...
+story_util-20000098,Side Collapse
+story_util-10000099,Dozens of days after the mind breaking of M4A1//c the AR Team is attacked by a Jupiter Cannon bombardment while coming back from a visit. They must find a way out in this world of ice and snow.
+story_util-20000099,The Wolves Gather I
+story_util-10000100,After confirming the current situation of being hungry//c cold//c and deep in enemy territory//c the AR Team continues their search for a comms station in an attempt to establish contact with Helian...
+story_util-20000100,The Wolves Gather II
+story_util-10000101,The AR Team struggles to find a resupply station in this terrible weather. Coincidentally//c they receive a new mission: search for an important T-Doll survivor.
+story_util-20000101,The Wolves Gather III
+story_util-10000102,Sangvis Ringleader Gager discovers the AR Team and places the entire area on lockdown. With the darkness of the night quickly approaching//c the AR Team begins their final breakthrough...
+story_util-20000102,The Wolves Gather IV
+story_util-10000103,That night//c UMP45 received an assignment from Helian. The task is to head towards the Sangvis Ferri Jupiter Cannon testing grounds to rescue the AR Team that has been MIA until now.
+story_util-20000103,Lighting Curfew I
+story_util-10000104,On the other side//c HK416 and G11 have also started their operation. Their task is to provide cover for 45 and 9 and then link up afterwards.
+story_util-20000104,Lighting Curfew II
+story_util-10000105,Under the cover of darkness//c the members of the 404 Squad regroups together. 45 prepares to investigate a safe house that was used by the AR Team to assess the current situation.
+story_util-20000105,Lighting Curfew III
+story_util-10000106,Another Sangvis Ringleader//c Architect//c discovered the whereabouts of the 404 Squad//c exactly as 45 had planned. Operation Breakthrough and Rescue starts now.
+story_util-20000106,Lighting Curfew IV
+story_util-10000107,The AR Team and the 404 Squad have successfully linked up//c but the crisis is still far from being resolved. Commander RO has decided to find a safe location to reestablish communications with Grifon first.
+story_util-20000107,Operation Homecoming I
+story_util-10000108,We are still very far off from the exfil Heliport. 45 suggests we eliminate Sangvis Ferri's ability to monitor the area first to ensure that we can get away safely.
+story_util-20000108,Operation Homecoming II
+story_util-10000109,Sangvis has stepped up their encirclement operations. The AR Team must seize the moment to collect enough supplies to evacuate.
+story_util-20000109,Operation Homecoming III
+story_util-10000110,RO accepts 45's plan for evacuation under worsening conditions. But...do things really always go as planned?
+story_util-20000110,Operation Homecoming IV
+story_util-10000112,M4A1's Report: ......Where...am I?
+story_util-20000112,Cross Base
+story_util-10000113,M4A1's Report: I hate responsibility//c yet it has found me once again. P08//c I will lead everyone here to safety.
+story_util-20000113,Bearing Miscalculation
+story_util-10000114,M4A1's Report: Why is Architect here of all places? ...I can't get psyched out. I must achieve victory…
+story_util-20000114,Directional Algorithm
+story_util-10000115,M4A1's Report: Ouroboros...what in the world is going on...what...is this place...can we...survive…
+story_util-20000115,Reverse Sequence
+story_util-10000116,RO635's Report: After attending a military party//c Mister Kruger has decided to pressure Miss Persica to speed up the collection of Lyco's documents.
+story_util-20000116,Report Meeting
+story_util-10000117,RO635's Report: M16A1 suggests that I should gather some intel through covert reconnaissance before we start the operation.
+story_util-20000117,The Last Supper
+story_util-10000118,RO635's Report: I've found the location of Document 7. It's time for me to contact Miss Persica.
+story_util-20000118,Acceleration
+story_util-10000119,RO635's Report: We've started downloading Document 7. I wonder what sort of danger lies in wait for us…
+story_util-20000119,Unwelcomed Guest
+story_util-10000120,RO635's Report: Dreamer has us pinned down with bombardment. The only thing we can do at this point is to wait for Document 7 to finish downloading.
+story_util-20000120,Shadow in the Sky
+story_util-10000121,RO635's Report: It's time to retreat! But//c the exfil route has been…
+story_util-20000121,Mission
+story_util-10000122,Persica's Report: RO and SOP2 have been successfully extracted. Commander//c start the search for M16A1.
+story_util-20000122,Parader I
+story_util-10000123,Persica's Report: The Commander's search is still ongoing. I must continue my work as well.
+story_util-20000123,Parader II
+story_util-10000124,Persica's Report: Let's take a look at M4A1's condition...I'll give her a try with a new memory…
+story_util-20000124,Parader III
+story_util-10000125,Persica's Report: The experiment is at its final step. That person...should be almost ready by now…
+story_util-20000125,Parader IV
+story_util-10000126,FAL's Report: The FN squad has begun to investigate the recent missing T-Doll incidents in the area.
+story_util-20000126,People in the Flask I
+story_util-10000127,FAL's Report: The FN squad has dispatched two T-Dolls//c FNC and FN49//c to bait our target//c Alchemist//c into revealing herself.
+story_util-20000127,People in the Flask II
+story_util-10000128,FAL's Report: The FN squad dispatches an elite T-Doll once again. I think the plan is coming to its final stages.
+story_util-20000128,People in the Flask III
+story_util-10000129,FAL's Report: The final step in intercepting Alchemist shall begin with me. I hope 57 and her squad will arrive on time…
+story_util-20000129,People in the Flask IV
+story_util-10000130,M16A1 has been missing for a week//c but RO and SOP2 are still fervently searching for her. However//c the Commander has left the base after receiving an urgent assignment...
+story_util-20000130,Banquet after Dark
+story_util-10000131,Things between RO and SOP2 are pretty awkward as they're still trying to get comfortable around each other. I hope the Commander that's at the banquet right now will be able to assist them in time...
+story_util-20000131,Probe
+story_util-10000132,RO reports that SOP2 is still a bit mentally unstable. Wow//c I can tell SOP2 is really restraining herself compared to previous records.
+story_util-20000132,Forum
+story_util-10000133,RO has urgently reported the incident that had just happened//c but it seems like SOP2 has a plan of her own...
+story_util-20000133,Double Search
+story_util-10000134,The Commander complained that the food at the banquet was not as good as he thought it would be//c but look at me! I had to eat take-out on base! Meanwhile//c it seems like RO just encountered another new Sangvis Ringleader. This overtime is killing me!
+story_util-20000134,Prelude
+story_util-10000135,Newly encountered Sangvis Ringleader "Judge" is hunting down RO and SOP2. It's up to them themselves to come up with an escape plan…
+story_util-20000135,Breakthrough
+story_util-10000136,RO's Report: SOP2 once again finds herself in trouble as we are pursuing Judge. I hope reinforcements from the Commander will arrive in time…
+story_util-20000136,Hawk and Hound I
+story_util-10000137,RO's Report: The Commander said that the banquet he's at right now is a precursor of a large event to come//c but the immediate focus is still on the little incidents around us right now…
+story_util-20000137,Hawk and Hound II
+story_util-10000138,RO's Report: SOP2 began opening up to me...we'll get along well//c and things will slowly turn out for the better...I'm sure of it…
+story_util-20000138,Hawk and Hound III
+story_util-10000139,RO's Report: We're right on Judge's tail! If we had some more help right now…
+story_util-20000139,Hawk and Hound IV
+story_util-10000140,The joint operation with the military has officially started. While the Commander is waiting for his first order//c something happens…
+story_util-20000140,Departure Day
+story_util-10000141,We linked up with M4A1 and came under Sangvis attack. The Commander is too far away to assist us//c so we can only ask the military for help.
+story_util-20000141,Toward the Frontlines
+story_util-10000142,AR Team reassembles and charges with us to the frontline. We are now pushing toward the core stronghold of Sangvis Ferri!
+story_util-20000142,Into the Hinterland
+story_util-10000143,The next task is to protect the military's anti-jammer equipment. This task is tough//c but M4A1 has a bold proposal.
+story_util-20000143,Cleanup
+story_util-10000144,The military is pushing too quickly and we can't keep up with the rearguard formation//c but M4A1 comes up with another plan. The new M4A1 seems to be much more proactive than before.
+story_util-20000144,On the Run
+story_util-10000145,Due to miscommunications with military intelligence (I don't know why)//c AR Team finds themselves in grave danger. The Commander is on the way with reinforcements. Just hold on!
+story_util-20000145,Desperate Breakout
+story_util-10000146,AR Team is fighting desperately to resist the Sangvis forces while the Commander is trying to break the encirclement from the outside. I hope everything will be alright…
+story_util-20000146,Betrayal I
+story_util-10000147,What is the situation with M4A1? The Commander and I are both very worried. Does RO know of a way to restore her…?
+story_util-20000147,Betrayal II
+story_util-10000148,The military forces have finally shown up. Although we still can't establish comms with them//c they should be able to join the fray very soon. We are very close to rescuing AR Team!
+story_util-20000148,Betrayal III
+story_util-10000149,Hey! Hey! What is going on?! Everything is a mess! What happened to AR Team? What about our base? What should I do//c Commander?!
+story_util-20000149,Betrayal IV
+story_util-10000150,UMP45 has received a new task from her employer. For this task//c they will need to undergo a new kind of training.
+story_util-20000150,Cognitive Conundrum I  
+story_util-10000151,Cyberwarfare training is going smoothly//c but UMP45 finds a message from the past…
+story_util-20000151,Cognitive Conundrum II  
+story_util-10000152,As they dive deeper into the training session//c UMP45 unlocks a memory that was sealed in her neural system.
+story_util-20000152,Cognitive Conundrum III
+story_util-10000153,A Griffin T-Doll is ensnared in a data trap. The opportunity to put the cyberwarfare training into practice has come.
+story_util-20000153,Cognitive Conundrum IV  
+story_util-10000154,The search mission has begun. The keen Sangvis forces have also quickly acted in response.
+story_util-20000154,Hyperbolic Function I  
+story_util-10000155,The Sangvis Ringleader unceasingly provokes Squad 404//c but UMP45's attention is focused on something else…
+story_util-20000155,Hyperbolic Function II
+story_util-10000156,UMP45 is not afraid of Sangvis Ferri and decides to go on alone. Meanwhile//c Destroyer finally reveals her new form in front of everyone...
+story_util-20000156,Hyperbolic Function III
+story_util-10000157,The decisive battle against Destroyer//c or rather//c Cerberus//c has begun!
+story_util-20000157,Hyperbolic Function IV 
+story_util-10000158,UMP45's neural system is under Sangvis intrusion. 404 must collect enough pieces of memories to wake her up before Sangvis succeeds in their attack.
+story_util-20000158,Relative Behavior I  
+story_util-10000159,More and more pieces of 45's memories are being uncovered. Dreamer has also begun remodeling Destroyer for the second time…
+story_util-20000159,Relative Behavior II
+story_util-10000160,The cyberwarfare battles have left 404 exhausted. Yet at this time//c Destroyer shows up in a brand new form!
+story_util-20000160,Relative Behavior III
+story_util-10000161,The final battle to escape has begun. Can 404 awaken UMP45//c shake off Perfect Form (self-proclaimed) Destroyer//c and safely escape?
+story_util-20000161,Relative Behavior IV 
+story_util-10000162,Negev: In a small corner of an unknown battlefield//c Jericho and I are huddled up//c waiting for a rescue that may never come…
+story_util-20000162,One-Sided Memory I
+story_util-10000163,Negev: In the darkness engulfed by fear and despair//c I reminisce about a glorious victory of the past…
+story_util-20000163,One-Sided Memory II
+story_util-10000164,Negev: We rekindle our hearts with this memory and reach for an already-irresversible future…
+story_util-20000164,One-Sided Memory III
+story_util-10000165,Negev: In the end//c I woke up and remembered everything…
+story_util-20000165,One-Sided Memory IV
+story_util-10000166,IWS 2000 report: We suspect Sangvis Ferri may be in possession of CBRN weapons. We must let go of our past setbacks and take the initiative against them.
+story_util-20000166,Eagle and Jackdaw I
+story_util-10000167,IWS 2000 report: We have discovered a nuclear weapon in a S.F. base. Although it is a crude thing//c Sangvis Ferri does not seem to be willing to give it up without a fight.
+story_util-20000167,Eagle and Jackdaw II
+story_util-10000168,IWS 2000 report: It was a trap! Sangvis Ferri tricked us with a cheap bait! Their true goal is to plant poison onto a T-Doll to kill the Commander!
+story_util-20000168,Eagle and Jackdaw III
+story_util-10000169,IWS 2000 report: If the sacrifice of my life alone can stop an atrocity//c then isn't that a worthwhile exchange?
+story_util-20000169,Eagle and Jackdaw IV
+story_util-10000170,Just a few months ago//c I would never have thought I'd be here//c facing circumstances such as these... 
+story_util-20000170,Torrent Breaker
+story_util-10000171,To find our target informant//c we have come to this unfamiliar city and commenced a low-profile hacking operation.
+story_util-20000171,Electronic Eye
+story_util-10000172,While we were trawling through the records//c a civilian Doll dressed as a maid caught our eye. In fact//c not just ours...
+story_util-20000172,Silent Pursuit
+story_util-10000173,We're running out of time! Her neural cloud is about to... This is our last hope! We mustn't -
+story_util-20000173,Prior to Destruction
+story_util-10000174,Following instructions//c we arrived at our destination - the hiding place of our informant. I hope we aren't too late//c but things aren't looking good...
+story_util-20000174,House in the Street
+story_util-10000175,After extensive investigation//c we have confirmed that the informant has been brought...underground. That will be where this mission ends.
+story_util-20000175,Underworld
+story_util-10000176,To find out Ange's whereabouts//c the Commander has led us to the train station. We'll be taking the train bound for Belgrade//c where we are to find the only person with this information.
+story_util-20000176,Strange Journey
+story_util-10000177,We have confirmed the informant's location. All that's left is to seize the outpost and rescue our target. But first//c we must prepare.
+story_util-20000177,Plan of Attack
+story_util-10000178,The preparation is complete. A huge commotion has been created so that we can take over the control room. Now let's finally storm this outpost in the sewers!
+story_util-20000178,Fishing in Troubled Waters
+story_util-10000179,Just a few months ago//c I would never have thought I'd be here//c facing circumstances such as these//c with our faith...placed entirely on...
+story_util-20000179,Great Escape
+story_util-10000192,Though the AR Team survived the crisis//c Persica has made a final request - to capture a Jupiter mortar. Defend against the Sangvis onslaught while the mission is underway!
+story_util-20000192,Down the Rabbit Hole
+story_util-10000193,
+story_util-20000193,T-Doll Annihilation
+story_util-10000194,
+story_util-20000194,St. Elmo
+story_util-10000195,
+story_util-20000195,Hunting Game
+story_util-10000196,
+story_util-20000196,Operation Rabbit Hunt
+story_util-10000197,According to Helian's broadcast//c Griffin forces are in grave danger on the battlefield. UMP45 has decided to help with the retreat - for a price//c of course...
+story_util-20000197,Imaginary Maze
+story_util-10000198,
+story_util-20000198,Imminent Collapse
+story_util-10000199,
+story_util-20000199,Curiosity Killed the Cat
+story_util-10000200,
+story_util-20000200,Kiana Strikes
+story_util-10000201,
+story_util-20000201,Do Not Enter
+story_util-10000202,
+story_util-20000202,Ominous Thunder
+story_util-10000203,
+story_util-20000203,Swelling Desire
+story_util-10000204,
+story_util-20000204,Resentment
+story_util-10000205,
+story_util-20000205,I Only Hope That One Day…
+story_util-10000206,"I have no eyes for this. All Griffin forces are retreating. Leaving her here would only mean certain death for her. What do you think...?"
+story_util-20000206,Starting Point
+story_util-10000207,"Where...exactly am I...?"
+story_util-20000207,Splinter Point
+story_util-10000208,"Ange//c we've retrieved M4A1. Any further instructions?"
+story_util-20000208,Exhaust I
+story_util-10000209,"Griffin is moving into Area S11? I see. So it's turning into a shitshow here."
+story_util-20000209,Exhaust II
+story_util-10000210,"I'm receiving a transmission request with AK-12's plain code. Should I take it?"
+story_util-20000210,Exhaust III
+story_util-10000211,"We have paid a huge price//c but that should be enough to safeguard the route to the rendezvous point."
+story_util-20000211,Exhaust IV
+story_util-10000212,"You do remember that this is your forte//c don't you//c AK-12?
+story_util-20000212,Compression I
+story_util-10000213,"Just a simple disconnection was enough to completely scramble her neural cloud... She's too mentally fragile even for an old model..."
+story_util-20000213,Compression II
+story_util-10000214,"Are you really okay with leaving all these enemies to her alone?"
+story_util-20000214,Compression III
+story_util-10000215,"That'll be enough//c M4. These are allies. Members of Task Force DEFY//c Ange and AN-94.
+story_util-20000215,Compression IV
+story_util-10000216,"Thanks for the hard work! Please stay at your posts//c account for all our injured//c and await new directives from the Commander!"
+story_util-20000216,Ignition I
+story_util-10000217,"Still no way of contacting the Commander? What about the Military? Nothing either?"
+story_util-20000217,Ignition II
+story_util-10000218,"...That's all we know about the situation in Area S09."
+story_util-20000218,Ignition III
+story_util-10000219,"Commander//c we've successfully brought back the T-Dolls on the other side!"
+story_util-20000219,Ignition IV
+story_util-10000220,"...Yes. We must...prevent the Military from acquiring the Mastermind at all costs."
+story_util-20000220,Splinter Point
+story_util-10000221,"Is it going well//c Ange?"
+story_util-20000221,Queen's Gambit I
+story_util-10000222,"Persica//c you must stop what you're doing right now."
+story_util-20000222,Queen's Gambit II
+story_util-10000223,"Persica//c I've already ordered them to drop everything and have AK-12 and AN-94 prepare for electronic warfare."
+story_util-20000223,Queen's Gambit III
+story_util-10000224,"Comms are back up... Not sure if that's good news or bad news..."
+story_util-20000224,Queen's Gambit IV
+story_util-10000225,"I'm guessing you're not gonna let this go//c are you?"
+story_util-20000225,Castling I
+story_util-10000226,"I'm back. Things really aren't looking good... After all//c these are the Military's main forces..."
+story_util-20000226,Castling II
+story_util-10000227,"I'm curious. Were you disappointed at all...when Ange told us our rescue target is Squad 404?"
+story_util-20000227,Castling III
+story_util-10000228,"Agent//c M4A1 has returned and established contact with Squad 404//c currently located in the large database."
+story_util-20000228,Castling IV
+story_util-10000229,"45//c Griffin forces will arrive in three minutes."
+story_util-20000229,Promotion I
+story_util-10000230,"Have we all got enough rest//c girls? Let's get cracking then."
+story_util-20000230,Promotion II
+story_util-10000231,"45//c their firepower is way too much!"
+story_util-20000231,Promotion III
+story_util-10000232,"Is our backup still not here? If we fall back any farther//c we'll have to use the Sangvis database as cover."
+story_util-20000232,Promotion IV
+story_util-10000233,"Emergency//c Commander! We've discovered Sangvis elite Gager's forces on our retreat!"
+story_util-20000233,Weakling's End I
+story_util-10000234,"It's coming back to me... All the things that happened..."
+story_util-20000234,Weakling's End II
+story_util-10000235,"So...what do we do now?"
+story_util-20000235,Weakling's End III
+story_util-10000236,"It's my honor//c mighty Commander of Griffin//c to meet an adversary like you on the battlefield...and tear you apart with my own hands."
+story_util-20000236,Weakling's End IV
+story_util-10000237,"Wake up//c M4. Mission is go."
+story_util-20000237,Last Resort I
+story_util-10000238,"Remaining Sangvis units all eradicated."
+story_util-20000238,Last Resort II
+story_util-10000239,"I'm sure you//c too//c understand that things are pretty critical. Just killing Sangvis forces won't be enough to stop the Military."
+story_util-20000239,Last Resort III
+story_util-10000240,"You're finally here."
+story_util-20000240,Last Resort IV
+story_util-10000241,"Can you hold it any longer//c Squad 404?!"
+story_util-20000241,Last Resort V
+story_util-10000242,"The Military units have all frozen... Are they too close to the explosion?"
+story_util-20000242,Endgame
+story_util-10000243,"My//c you're the Commander?!"
+story_util-20000243,Messenger
+story_util-10000244,"Hmm//c the Commander is here... Thank you for giving me the chance to regroup with G3."
+story_util-20000244,Survivor
+story_util-10000245,"The Military//c Sangvis Ferri//c Griffin...and some unknown forces. What a mess."
+story_util-20000245,Goodbye//c Dragon Palace
+story_util-10000246,"Oh dear... Is that where they're aiming this time? Those big boys seriously wanna level our home//c don't they?"
+story_util-20000246,Hornet's Nest
+story_util-10000247,"Before reaching our destination//c we have to... Mastermind...where?!"
+story_util-20000247,Endgame
+story_util-10000248,
+story_util-20000248,Stalker
+story_util-10000249,
+story_util-20000249,HeartBeat
+story_util-10000250,
+story_util-20000250,Waiting For You!
+story_util-10000251,
+story_util-20000251,Sunset Rider
+story_util-10000252,
+story_util-20000252,Fate
+story_util-10000253,
+story_util-20000253,End of the Moonlight
+story_util-10000254,
+story_util-20000254,Stalker EX
+story_util-10000255,
+story_util-20000255,HeartBeat EX
+story_util-10000256,
+story_util-20000256,Waiting For You! EX
+story_util-10000257,
+story_util-20000257,Sunset Rider EX
+story_util-10000258,
+story_util-20000258,Fate EX
+story_util-10000259,
+story_util-20000259,End of the Moonlight EX
+story_util-10000260,
+story_util-20000260,Down the Rabbit Hole+
+story_util-10000261,"Should I...actually trust her...?"
+story_util-20000261,Waste
+story_util-10000262,"Not enough...blood..."
+story_util-20000262,Nightfall
+story_util-10000263,"I can't appear...just yet... They're all counting on you..."
+story_util-20000263,Safe House
+story_util-10000264,"Dear RO635...the things I do for friendship."
+story_util-20000264,Auxiliary Power
+story_util-10000265,"We must save them no matter how dangerous it is. We're allies on the battlefield."
+story_util-20000265,Reserve Outpost
+story_util-10000266,"Have you cared about them at all? You've been on your own since the beginning..."
+story_util-20000266,Farewell//c Scarecrow
+story_util-10000267,"I for one think I'm lucky to have run into prey like you at the last moment."
+story_util-20000267,The Last Day
+story_util-10000268,"...Nothing left behind. Nothing changed."
+story_util-20000268,Bloodless Battlefield
+story_util-10000269,"Do Sangvis Ferri...do things for their friends//c too?"
+story_util-20000269,Peaceful Negotiations
+story_util-10000270,"At least//c having met you//c I don't think I'm so weird anymore."
+story_util-20000270,Fortunate?
+story_util-10000271,"Is M4A1 under such immense pressure on every operation...?"
+story_util-20000271,Sangvis Elite Outpost
+story_util-10000272,"So what do you think? T-Dolls have emotions... Does that make us defective?"
+story_util-20000272,Neural Fragments
+story_util-10000273,"If I knew it would turn out like this//c I would've saved my tears for now..."
+story_util-20000273,Darkest Desire
+story_util-10000274,"...White enemies. Certainly never seen them before."
+story_util-20000274,Unknown Enemy
+story_util-10000275,"Commander//c we can't keep cowering in here!"
+story_util-20000275,"Support"
+story_util-10000276,"That's because while you're busy drinking yourself stupid at the base//c I've been working my butt off out there."
+story_util-20000276,Griffin Expendables
+story_util-10000277,"I hope I'll remember you...next time..."
+story_util-20000277,Defense Outpost 2
+story_util-10000278,"I'm not here to organize a picnic//c guys. Do as I say and we'll all get home."
+story_util-20000278,Defense Outpost 3
+story_util-10000279,"...Just kidding."
+story_util-20000279,Just Kidding
+story_util-10000280,"So you crash someone's birthday party and tell them they're gonna die one day?"
+story_util-20000280,Defense Outpost 4
+story_util-10000281,"Oh look//c our brave hero is back."
+story_util-20000281,Exploratory Attack
+story_util-10000282,"I must say...the odds are not in our favor..."
+story_util-20000282,General Offensive
+story_util-10000283,"I must survive for the sake of my next bottle of vodka."
+story_util-20000283,For the Future
+story_util-10000284,"I used to...be part of Griffin as well."
+story_util-20000284,Black Doll
+story_util-10000285,"...Let's go. We must hold out till the Commander comes to our rescue."
+story_util-20000285,ELID-Infected
+story_util-10000286,"Quick//c set up their retreat route//c Commander."
+story_util-20000286,Signal Flare
+story_util-10000287,"I believe in the Commander! Cough... H-hurry!"
+story_util-20000287,Red Zone
+story_util-10000288,"I...I'll...make up my mind soon..."
+story_util-20000288,Yellow Zone
+story_util-10000289,"Then I can find you and avenge my subordinates myself!"
+story_util-20000289,Vengeance
+story_util-10000290,"Task Force DEFY has finally found the mark left by the rescue team!"
+story_util-20000290,Mark
+story_util-10000291,"Oh...don't mind me. Just know that I'm your ally. Good evening//c Miss Ange."
+story_util-20000291,A New Hope
+story_util-10000292,"My greatest regret right now is that humans don't get to live a second time."
+story_util-20000292,Sum of All Wraths
+story_util-10000293,"But even for me...this is a bit too risky..."
+story_util-20000293,Vile Rats
+story_util-10000294,"...Now//c good night."
+story_util-20000294,Luck
+story_util-10000295,"If you give up//c what are we going to do?"
+story_util-20000295,Bad News
+story_util-10000296,"I believe you'll make the right decision - perhaps a better one than mine."
+story_util-20000296,IED
+story_util-10000297,"She's provoking me...which is why I must end her myself."
+story_util-20000297,Stumbling Block
+story_util-10000298,"What on earth...are 'they'?"
+story_util-20000298,White Doll
+story_util-10000299,"Look! It's our carrier!"
+story_util-20000299,Roaring Sun
+story_util-10000300,"So it really turned out this way..."
+story_util-20000300,Howl of Terror
+story_util-10000301,"You owe them a farewell."
+story_util-20000301,Safe and Sound
+story_util-10000302,"It's just that...I've been through so much..."
+story_util-20000302,Short-lived Peace
+story_util-10000303,"416//c you'll be back//c right? It's tiring having to walk by myself."
+story_util-20000303,Final Flight
+story_util-10000304,"Congratulations on surviving...even though it was painful."
+story_util-20000304,Hurricane Rescue
+story_util-10000305,"They're...unkillable."
+story_util-20000305,Final Destination
+story_util-10000306,"She wants us...to kill her."
+story_util-20000306,Final Order
+story_util-10000307,"I am what history says I am..."
+story_util-20000307,Victor
+story_util-10000308,"We need the truth. Don't get it wrong."
+story_util-20000308,Ground Zero
+story_util-10000309,"To face the truth//c you must either possess it or destroy it..."
+story_util-20000309,Exile
+story_util-10000310,
+story_util-20000310,Imaginary Maze+
+story_util-10000311,"The lurking threats have begun to move."
+story_util-20000311,Souvenir
+story_util-10000312,"If you want to get enough information//c you'll have to negotiate for it."
+story_util-20000312,Illusory Peace I
+story_util-10000313,"We attempt to find the truth that's shrouded in layer upon layer of mystery."
+story_util-20000313,Illusory Peace II
+story_util-10000314,"There's no better choice than you for the job. There will be greater and more arduous tasks ahead of you."
+story_util-20000314,Illusory Peace II//n Branch
+story_util-10000315,"Being a Doll doesn't seem so bad after all."
+story_util-20000315,Illusory Peace III
+story_util-10000316,"The small fry outside have been taken care of. That means what comes next is the main event."
+story_util-20000316,Illusory Peace I//n Branch
+story_util-10000317,"Keep all team leaders on alert and make sure they do their part."
+story_util-20000317,Illusory Peace IV
+story_util-10000318,"Kill everything in your way//c whether they're Infected or Paradeus."
+story_util-20000318,Illusory Peace V
+story_util-10000319,"The purpose for our existence is to complete our tasks and support a certain someone."
+story_util-20000319,Cat and Mouse I
+story_util-10000320,"The clue for which we've been searching long and hard has surfaced at last."
+story_util-20000320,Cat and Mouse II
+story_util-10000321,"That's...the only way for us now."
+story_util-20000321,Cat and Mouse III
+story_util-10000322,"They discovered something strange in the underground tunnels."
+story_util-20000322,Cat and Mouse III//n Branch
+story_util-10000323,"Rise up//c let your rage boil over//c unleash havoc! NOW!"
+story_util-20000323,Cat and Mouse IV
+story_util-10000324,"Your name is unknown//c your deeds are immortal." 
+story_util-20000324,Beyond the Border I
+story_util-10000325,"The leaves always wither after the roots rot."
+story_util-20000325,Beyond the Border II
+story_util-10000326,"You have to stop them//c otherwise the entire city will be doomed..."
+story_util-20000326,Beyond the Border III
+story_util-10000327," The situation is already out of my control."
+story_util-20000327,Beyond the Border IV
+story_util-10000328,"Will we make it? Before the Commander gets here..."
+story_util-20000328,Faith of Blood I
+story_util-10000329,"What matters now is to survive."
+story_util-20000329,Faith of Blood I//n Branch I
+story_util-10000330,"I'm the only one who can tell where your loyalties lie//c and only I can truly protect you."
+story_util-20000330,Faith of Blood I//n Branch II
+story_util-10000331,"I want everybody to live...which is why we'll keep fighting."
+story_util-20000331,Faith of Blood II
+story_util-10000332,"It's as you just said. The retreat has been going smoothly."
+story_util-20000332,Faith of Blood II//n Branch
+story_util-10000333,"If I come out of this alive//c gladly."
+story_util-20000333,Faith of Blood III
+story_util-10000334,"We've got to get out of here before their reinforcements arrive!"
+story_util-20000334,Wolf and Owl I
+story_util-10000335,"You should prioritize your own safety//c and I//c too//c will always choose to save you over myself."
+story_util-20000335,Wolf and Owl I//n Branch
+story_util-10000336,"She shall stand when She appeareth//c for She is like a refiner's fire."
+story_util-20000336,Wolf and Owl II
+story_util-10000337,"I must reach her before "that thing" does!"
+story_util-20000337,Wolf and Owl III
+story_util-10000338,"Old friends make the worst enemies."
+story_util-20000338,Wolf and Owl IV
+story_util-10000339,"Behind the wall is my country and my people. I have to protect it."
+story_util-20000339,Under the Wall I
+story_util-10000340,"This battle is far from over."
+story_util-20000340,Under the Wall II
+story_util-10000341,"... the only refrain on the road."
+story_util-20000341,Lost Bargaining Chip I
+story_util-10000342,"Give me answer soon. This isn't an offer...but an order."
+story_util-20000342,Lost Bargaining Chip II
+story_util-10000343,"No matter what the enemy plans on doing... Please stop them if you can."
+story_util-20000343,Lost Bargaining Chip III
+story_util-10000344,"We have a tough fight ahead. Are you ready?"
+story_util-20000344,Shark and the Sea I
+story_util-10000345,"Sangvis Ferri has just as many cards up our sleeves as any rotten human."
+story_util-20000345,Shark and the Sea II
+story_util-10000346,"No matter what you want to do//c do it!"
+story_util-20000346,Shark and the Sea III
+story_util-10000347,"Our objective concerns something more important than the fate of two Dolls."
+story_util-20000347,Shark and the Sea IV
+story_util-10000348,"We're different than what we used to be."
+story_util-20000348,Shark and the Sea V
+story_util-10000349,"I've still got some questions that I need answering."
+story_util-20000349,Shark and the Sea VI
+story_util-10000350,"I won't let it end just like that."
+story_util-20000350,Shark and the Sea VII
+story_util-10000351," We've got to hurry back to Belgrade and fortify the city."
+story_util-20000351,Above the Hubbub I
+story_util-10000352,"Anyone who gets in my way are my enemies//c whoever they may be."
+story_util-20000352,Above the Hubbub II
+story_util-10000353,"With the truth still hidden//c I still owe him a satisfactory answer."
+story_util-20000353,Above the Hubbub II//n Branch
+story_util-10000354,"We can't afford to linger here."
+story_util-20000354,Above the Hubbub III
+story_util-10000355,"M16//c you're not getting away from me!"
+story_util-20000355,Above the Hubbub IV
+story_util-10000356,"There's only one answer."
+story_util-20000356,Above the Hubbub V
+story_util-10000357,"I need to be more powerful - powerful enough to keep everyone safe from harm."
+story_util-20000357,Above the Hubbub VI
+story_util-10000358,"As if nothing has ever happened."
+story_util-20000358,Above the Hubbub VI//n Branch I
+story_util-10000359,"Right now//c we do need her strength."
+story_util-20000359,Above the Hubbub VI//n Branch II
+story_util-10000360,"Please lead us all out of here!"
+story_util-20000360,Reign of Chaos
+story_util-10000361,Script Scene 1: Take some footages of engaging S.F. in battle at the predetermined location. Looking good so far. Garand.
+story_util-20000361,The Way Back is Paved with Light I
+story_util-10000362,Script Scene 2: M3 and AK【scratched】 are cast as M4 and M16. AK-47 can't make it//c so we have to resort to our backup plan... Not that I know what that is. T65.
+story_util-20000362,The Way Back is Paved with Light II
+story_util-10000363,Script 【scratched】 【scratched】. We won't need a script anymore. M16 is back. T77.
+story_util-20000363,The Way Back is Paved with Light III
+story_util-10000364,【scratched】. Even if it's the truth//c it has no choice but to compromise with us.
+story_util-20000364,The Way Back is Paved with Light IV
+story_util-10000365,Didgeridoo Tutorial
+story_util-20000365,Didgeridoo Tutorial
+story_util-10000366,Adolescence
+story_util-20000366,Adolescence
+story_util-10000367,Pioneer
+story_util-20000367,Pioneer
+story_util-10000368,Sonic Boom
+story_util-20000368,Sonic Boom
+story_util-10000369,Chicken Breast
+story_util-20000369,Chicken Breast
+story_util-10000370,Fear of Public Speaking
+story_util-20000370,Fear of Public Speaking
+story_util-10000371,Truth or Dare
+story_util-20000371,Truth or Dare
+story_util-10000372,The Last Rain In The World
+story_util-20000372,The Last Rain In The World
+story_util-10000373,Didgeridoo Tutorial EX
+story_util-20000373,Didgeridoo Tutorial EX
+story_util-10000374,Adolescence EX
+story_util-20000374,Adolescence EX
+story_util-10000375,Pioneer EX
+story_util-20000375,Pioneer EX
+story_util-10000376,Sonic Boom EX
+story_util-20000376,Sonic Boom EX
+story_util-10000377,Chicken Breast EX
+story_util-20000377,Chicken Breast EX
+story_util-10000378,Fear of Public Speaking EX
+story_util-20000378,Truth or Dare EX
+story_util-10000379,Truth or Dare EX
+story_util-20000379,Truth or Dare EX
+story_util-10000380,The Last Rain In The World EX
+story_util-20000380,The Last Rain In The World EX
+story_util-10000381,"Once we get there//c the answer will be made clear."
+story_util-20000381,Quiet Presence
+story_util-10000382,Quiet Presence - Combat
+story_util-20000382,Quiet Presence - Combat
+story_util-10000383,"Getting closer to the truth of what happened that day is enough."
+story_util-20000383,Two Jobs
+story_util-10000384,"The more we learn about the truth//c the closer we are to the dangerous pit of flames."
+story_util-20000384,Tracing the Source
+story_util-10000385,"We're the safety fuse - there's no point in pulling ourselves taut so soon. "
+story_util-20000385,Reunion with Old Friends
+story_util-10000386,Reunion with Old Friends - Combat
+story_util-20000386,Reunion with Old Friends - Combat
+story_util-10000387,"The city has returned to life."
+story_util-20000387,Shackled Spirit I
+story_util-10000388,Bound Spirit I - Combat
+story_util-20000388,Bound Spirit I - Combat
+story_util-10000389,Confidential Information I
+story_util-20000389,Confidential Information I
+story_util-10000390,Confidential Information II
+story_util-20000390,Confidential Information II
+story_util-10000391,Confidential Information III
+story_util-20000391,Confidential Information III
+story_util-10000392,"We must find the source of the connexions soon."
+story_util-20000392,Bound Spirit II
+story_util-10000393,Bound Spirit II - Combat
+story_util-20000393,Bound Spirit II - Combat
+story_util-10000394,"We're approaching the source of the interference."
+story_util-20000394,Intangible Sigh I
+story_util-10000395,Intangible Sigh I - Combat
+story_util-20000395,Intangible Sigh I - Combat
+story_util-10000396,"Out of the frying pan and into the fire."
+story_util-20000396,Nameless Exiles I
+story_util-10000397,Nameless Exiles I - Combat
+story_util-20000397,Nameless Exiles I - Combat
+story_util-10000398,"What are dreams? What is reality?"
+story_util-20000398,Nameless Exiles II
+story_util-10000399,Nameless Exiles II - Combat
+story_util-20000399,Nameless Exiles II - Combat
+story_util-10000400,"Does the fifth stand before me?"
+story_util-20000400,Intangible Sigh II
+story_util-10000401,Confidential Information IV
+story_util-20000401,Confidential Information IV
+story_util-10000402,Confidential Information V
+story_util-20000402,Confidential Information V
+story_util-10000403,Confidential Information VI
+story_util-20000403,Confidential Information VI
+story_util-10000404,"If I get stuck in there//c will you drag me back out?"
+story_util-20000404,Fractured Cognition II
+story_util-10000405,Fractured Cognition II - Combat
+story_util-20000405,Fractured Cognition II - Combat
+story_util-10000406,"If you want to find the exit from this maze//c you must venture deeper into it."
+story_util-20000406,Subsurface Homecoming I
+story_util-10000407,Fractured Cognition I - Combat
+story_util-20000407,Fractured Cognition I - Combat
+story_util-10000408,"The 'monster' living inside a Doll's neural cloud."
+story_util-20000408,The Unwelcome
+story_util-10000409,"I can't leave before I learn the truth-"
+story_util-20000409,Fractured Cognition III
+story_util-10000410,"If her neural cloud breaks down//c we won't be able to get out of this in one piece."
+story_util-20000410,Fractured Cognition IV- Combat
+story_util-10000411,"I want to know everything I want to know."
+story_util-20000411,Fractured Cognition IV
+story_util-10000412,Confidential Information VII
+story_util-20000412,Confidential Information VII
+story_util-10000413,Confidential Information VIII
+story_util-20000413,Confidential Information VIII
+story_util-10000414,Confidential Information IX
+story_util-20000414,Confidential Information IX
+story_util-10000415,"Let's venture deeper into her neural cloud."
+story_util-20000415,Infinite Connections
+story_util-10000416,"Everyone must be connected..."
+story_util-20000416,Subsurface Homecoming II
+story_util-10000417,Subsurface Homecoming II - Combat
+story_util-20000417,Subsurface Homecoming II - Combat
+story_util-10000418,"The flowers of despair are about to bloom. There is little time left."
+story_util-20000418,Isomer I
+story_util-10000419,Isomer I - Combat
+story_util-20000419,Isomer I - Combat
+story_util-10000420,"If we can finish this//c she won't need to die."
+story_util-20000420,Subsurface Homecoming III
+story_util-10000421,Subsurface Homecoming III - Combat
+story_util-20000421,Subsurface Homecoming III - Combat
+story_util-10000422,"Before you go//c at least free us from this eternal purgatory..."
+story_util-20000422,Isomer II
+story_util-10000423,Isomer II - Combat
+story_util-20000423,Isomer II - Combat
+story_util-10000424,Confidential Information X
+story_util-20000424,Confidential Information X
+story_util-10000425,Confidential Information XI
+story_util-20000425,Confidential Information XI
+story_util-10000426,Confidential Information XII
+story_util-20000426,Confidential Information XII
+story_util-10000427,"Running away will cost you the entire future."
+story_util-20000427,A Rock and a Hard Place
+story_util-10000428,A Rock and a Hard Place - Combat
+story_util-20000428,A Rock and a Hard Place - Combat
+story_util-10000429,"Please guard the control room for Squad 404!"
+story_util-20000429,Operation Defang I
+story_util-10000430,Operation Defang I - Combat I
+story_util-20000430,Operation Defang I - Combat I
+story_util-10000431,Operation Defang I - Combat II
+story_util-20000431,Operation Defang I - Combat II
+story_util-10000432,"I will do whatever I can to defend the place where you belong."
+story_util-20000432,Operation Defang II
+story_util-10000433,Operation Defang II - Combat
+story_util-20000433,Operation Defang II - Combat
+story_util-10000434,"These divine flowers will soon blossom//c and this ridiculous farce will end."
+story_util-20000434,All-Devouring Sea of Flowers
+story_util-10000435,"As humans//c we need to guide her onto the right path."
+story_util-20000435,Fractured Cognition I
+story_util-10000436,All-Devouring Sea of Flowers - Combat
+story_util-20000436,All-Devouring Sea of Flowers - Combat
+story_util-10000437,"This is the final battle. I'm sure you will be able to lead us to victory."
+story_util-20000437,Farewell//c Tallinn I
+story_util-10000438,Farewell//c Tallinn I - Combat I
+story_util-20000438,Farewell//c Tallinn I - Combat I
+story_util-10000439,Farewell//c Tallinn I - Combat II
+story_util-20000439,Farewell//c Tallinn I - Combat II
+story_util-10000440,"This is merely the beginning."
+story_util-20000440,Farewell//c Tallinn II
+story_util-10000441,Confidential Information XIII
+story_util-20000441,Confidential Information XIII
+story_util-10000442,Confidential Information XIV
+story_util-20000442,Confidential Information XIV
+story_util-10000443,Confidential Information XV
+story_util-20000443,Confidential Information XV
+story_util-10000444,Flowers of the End
+story_util-20000444,Flowers of the End
+story_util-10000445,
+story_util-20000445,
+story_util-10000446,Spoiled Staccato
+story_util-20000446,Spoiled Staccato
+story_util-10000447,Open Bag Surprise
+story_util-20000447,Open Bag Surprise
+story_util-10000448,Shelf Life
+story_util-20000448,Shelf Life
+story_util-10000449,Preservative
+story_util-20000449,Preservative
+story_util-10000450,I won't give up on any opportunity... I shall think of a way to repel S.F. and become Griffin's new star!
+story_util-20000450,The Battlefield without Her I
+story_util-10000451,Can't believe Fräulein Kar wants me to wait here at the lookout like an idiot. Intel collection is my forte. I must find information about Sangvis Ferri.
+story_util-20000451,The Battlefield without Her II
+story_util-10000452,Is Sangvis Ferri...actually this powerful? N-nein//c there's still hope... If I we use THAT... I shall have both victory and credit//c and I won't let either go.
+story_util-20000452,The Battlefield without Her III
+story_util-10000453,Credit or whatever doesn't matter anymore. What matters is we won this battle...! Though...I hope someone will remember my contribution after I'm reactivated...
+story_util-20000453,The Battlefield without Her IV
+story_util-10000454,Sangvis Orphan
+story_util-20000454,Sangvis Orphan
+story_util-10000455,Mission: Dinergate
+story_util-20000455,Mission: Dinergate
+story_util-10000456,X-Dinergates
+story_util-20000456,X-Dinergates
+story_util-10000457,Ode to Gifts
+story_util-20000457,Ode to Gifts
+story_util-10000458,SOP-II goes berserk when she comes face-to-face with an independent OGAS.
+story_util-20000458,Rein Buckle
+story_util-10000459,The truth buried deep beneath the flowers and broken pieces is just starting to be unearthed.
+story_util-20000459,Chasing Phantoms
+story_util-10000460,We have no choice but grow stronger - so that we won't die to such circumstances.
+story_util-20000460,The Philosophy of Killing
+story_util-10000461,M4A1 and ST AR-15 embark on the journey back.
+story_util-20000461,Smoke Signal
+story_util-10000462,Even without joy//c there is still pain and suffering.
+story_util-20000462,Ephemeral Memories
+story_util-10000463,We'll have to resume our journey the moment the train is repaired.
+story_util-20000463,Goodbye//c Daybreak
+story_util-10000464,Squad 404 prepares to defend the train from our enemies.
+story_util-20000464,Morning Conference I
+story_util-10000465,Get to know her better - that's exactly what she wants.
+story_util-20000465,Morning Conference II
+story_util-10000466,This is just the beginning. I will patiently await the day you accept yourself.
+story_util-20000466,Morning Conference III
+story_util-10000467,We have finally set off on our journey home. I wonder what awaits us.
+story_util-20000467,Morning Conference IV
+story_util-10000468,
+story_util-20000468,Tempering II
+story_util-10000469,
+story_util-20000469,Silvering II
+story_util-10000470,
+story_util-20000470,Silvering III
+story_util-10000471,
+story_util-20000471,Critical Angle EX-I
+story_util-10000472,
+story_util-20000472,Labyrinthine Defense
+story_util-10000473,"The train stops outside an unfamiliar base//c and a new storm is brewing."
+story_util-20000473,Lamp Starter
+story_util-10000474,"I know this is a gamble//c but it's the only option we have."
+story_util-20000474,Propagation I
+story_util-10000475,"The AR Team sets out in order to take the coastal defense artillery."
+story_util-20000475,Refraction Point
+story_util-10000476,"Squad 404 sets out in order to open the gate blocking the Commander's path."
+story_util-20000476,Critical Angle I
+story_util-10000477,"The various Griffin squads fight a blocking action to stop the Military."
+story_util-20000477,Reflector I
+story_util-10000478,"The path to the objective is always filled with obstacles..."
+story_util-20000478,Critical Angle III
+story_util-10000479,"The Doll corpses littering the ground hint at some tragic battle that took place here in the past."
+story_util-20000479,Total Internal Reflection I
+story_util-10000480,"Though it's broad daylight//c the blue aurora fills the sky."
+story_util-20000480,Sine Curve
+story_util-10000481,"The snowy skies of Estonia herald the enemy's advance."
+story_util-20000481,Reversibility I
+story_util-10000482,"The curtain rises on a terrible battle."
+story_util-20000482,Cosine Signal
+story_util-10000483,"Behind the clearing smoke is our first encounter with Task Force DEFY."
+story_util-20000483,Polarizer I
+story_util-10000484,"I only have two mags left."
+story_util-20000484,Diffraction Grating
+story_util-10000485,"With the help of Squad 404//c the gate finally opens for the Griffin squads."
+story_util-20000485,Waveguide I
+story_util-10000486,"It's time to squeeze the last bit of value out of this train..."
+story_util-20000486,Beam Splitter
+story_util-10000487,"On the other side//c the Jeep carrying the AR Team is rushing toward the coastal defense artillery at top speed..."
+story_util-20000487,Interferometer I
+story_util-10000488,"M4 and the enemy squad leader engage in a life-or-death pursuit//c and the one who finally takes hold of the control lever is..."
+story_util-20000488,Aperture
+story_util-10000489,"After successfully infiltrating the base//c Squad 404 finds themselves reunited with a long-lost friend..."
+story_util-20000489,Vacuum Tube
+story_util-10000490,"After being pulled into her neural cloud's base layer//c UMP45 relives the most painful day in her memories."
+story_util-20000490,Accelerator
+story_util-10000491,"In order to rescue the AR Team from an enemy pincer attack//c Dandelion hacks into the remaining Sangvis forces."
+story_util-20000491,Spectrometer I
+story_util-10000492,"Amidst the cold rain//c the Sangvis forces//c bereft of Elisa//c scatter in all directions."
+story_util-20000492,Analyzer
+story_util-10000493,"This is UMP45's first time telling a lie//c but nothing could possibly feel more natural."
+story_util-20000493,Enantiomer Overload I
+story_util-10000494,"In a power room filled with sleeping enemies//c UMP45 pulls down the master switch..."
+story_util-20000494,Enantiomer Overload II
+story_util-10000495,"Though they have shaken off the enemy's pursuit//c Squad 404 is still in danger."
+story_util-20000495,Recrystallization Resolution I
+story_util-10000496,"I am simply a Doll of yours. "
+story_util-20000496,Shattered Plane of Polarization I
+story_util-10000497,"The AR Team takes control of the coastal defense artillery//c and the second shot is about to be fired..."
+story_util-20000497,Recrystallization Resolution II
+story_util-10000498,"A small squad quickly assembles to help the rest of the main body complete their withdrawal."
+story_util-20000498,Shattered Plane of Polarization II
+story_util-10000499,"Send him victorious//c happy and glorious//c long to reign over us//c God save the King."
+story_util-20000499,Asymmetric Induction I
+story_util-10000500,"She stands alone in a kingdom of Dolls//c like a jet black reflection in a sea of shadows."
+story_util-20000500,Optical Isomer
+story_util-10000501,"Perhaps we were both hoping to find the answer we couldn't obtain in each other's neural clouds."
+story_util-20000501,Milling I
+story_util-10000502,"Squad 404 is coming up with a plan in front of the sealed quarantine door when they are suddenly attacked."
+story_util-20000502,Mixing
+story_util-10000503,"UMP45 crawls into the tunnel the enemy left behind them//c unwilling to give up. Waiting for her at the other end is..."
+story_util-20000503,Pre-Heating I
+story_util-10000504,"The girl who calls herself Anna joins Squad 404's battle."
+story_util-20000504,Sintering
+story_util-10000505,"I will do what I must//c and so must you!"
+story_util-20000505,Foaming
+story_util-10000506,"Just like then//c I won't lose to you."
+story_util-20000506,Foam Stabilization I
+story_util-10000507,"Give me your strength and let me keep the promise I once made with you."
+story_util-20000507,Molding
+story_util-10000508,"Now is the time to play the ace in the hole."
+story_util-20000508,Annealing II
+story_util-10000509,"They're buying you the time you want. Don't let them down."
+story_util-20000509,Tempering I
+story_util-10000510,"In a narrow passage//c the remaining Sangvis forces encounter the Military..."
+story_util-20000510,Cutting I
+story_util-10000511,"At the base entrance//c the Griffin squads are engaged in a fierce battle with the Military reinforcements."
+story_util-20000511,Polishing
+story_util-10000512,"The Commander takes up explosive charges and heads toward the seawater valves."
+story_util-20000512,Silvering I
+story_util-10000513,"A lone mech breaks through the Sangvis perimeter and heads straight for the elevator."
+story_util-20000513,Virtual Image Reforging
+story_util-10000514,
+story_util-20000514,Foam Stabilization EX
+story_util-10000515,"This isn't the first time we've shot at each other."
+story_util-20000515,Observable Limits I
+story_util-10000516,"He listens as the seawater draws close//c and waits for his final judgement."
+story_util-20000516,Light Cone Frame of Reference I
+story_util-10000517,"The aurora rises above the sky//c brighter than it has ever been before."
+story_util-20000517,Causality Separating Plane
+story_util-10000518,
+story_util-20000518,Foam Stabilization EX
+story_util-10000519,"Elisa//c everything will be over soon."
+story_util-20000519,Blackbody Radiation I
+story_util-10000520,
+story_util-20000520,Light Cone Frame of Reference II
+story_util-10000521,
+story_util-20000521,Escape Acceleration EX-I
+story_util-10000522,"At risk of being discovered by the enemy//c the Commander infiltrates the enemy's back lines...":
+story_util-20000522,Unknowable Singularity
+story_util-10000523,"What we need is the truth//c and not to become puppets."
+story_util-20000523,Escape Acceleration I
+story_util-10000524,"The seawater is flooding in//c and nobody will be able to leave this place."
+story_util-20000524,Through the Event Horizon
+story_util-10000525,
+story_util-20000525,Escape Acceleration EX-II
+story_util-10000526,
+story_util-20000526,The Empty House
+story_util-10000527,
+story_util-20000527,The Griffin Builder
+story_util-10000528,
+story_util-20000528,The Missing MDR
+story_util-10000529,
+story_util-20000529,The Crooked Man
+story_util-10000530,
+story_util-20000530,The Seven Tangerine Pips
+story_util-10000531,
+story_util-20000531,The Second Neural Cloud
+story_util-10000532,
+story_util-20000532,Rumors of the Haunted Mansion
+story_util-10000533,
+story_util-20000533,Lee Enfield's Last Bow I
+story_util-10000534,
+story_util-20000534,Lee Enfield's Last Bow II
+story_util-10000535,Tasked with both rescuing the besieged Commander and protecting the young Nytos//c the recently regrouped Squad 404 has to split up again.
+story_util-20000535,Stay in Position
+story_util-10000536,Surrounded by the Military//c the Commander decides to take their chances with a pistol... Meanwhile//c Havier pays a visit to Persica's lab with a photograph...
+story_util-20000536,Confidential Document
+story_util-10000537,The AR Team and M16 are finally reunited once more. M4 decides to follow her in pursuit. The two Dolls engage in yet another difficult confrontation.
+story_util-20000537,Familiar Figure
+story_util-10000538,Exploiting M16's momentary blunder//c Dandelei establishes a connection with the OGAS in her neural cloud//c enabling M4 to recover the memory fragments that were once deleted...
+story_util-20000538,Old Friend
+story_util-10000539,To ensure Ange's survival//c Task Force DEFY formulates a hellishly difficult operation plan... Meanwhile//c in Havier's sedan//c Persica reveals her secrets...
+story_util-20000539,Closing In
+story_util-10000540,Task Force DEFY engages Yegor in battle. Backed into a corner//c Yegor throws caution to the wind and fires missiles at DEFY from close range//c but what awaits him is...
+story_util-20000540,Coda
+story_util-10000541,Having failed to destroy Starfish//c M16 can only watch as M4 walks into the blue light and connects with Elisa.
+story_util-20000541,Immemorial I
+story_util-10000542,Following Dandelei's suggestion//c M4 destroys the connection hub and separates Elisa and Starfish by force.
+story_util-20000542,Immemorial II
+story_util-10000543,The Commander leads the surviving Dolls to the top of the base to stay out of the water's reach. Meanwhile//c Ange's muzzle is trained on a dying Yegor...
+story_util-20000543,Immemorial III
+story_util-10000544,M16 rushes to the scene but M4 and Dandelei have already completely merged with each other. Will M4 be able to keep her promise to M16...?
+story_util-20000544,Immemorial IV
+story_util-10000545,
+story_util-20000545,test
+story_util-10000546,Island Getaway
+story_util-20000546,Island Getaway
+story_util-10000547,Wheel of Fortune
+story_util-20000547,Wheel of Fortune
+story_util-10000548,Into the Dangerous Unknown
+story_util-20000548,Into the Dangerous Unknown
+story_util-10000549,Last of the Summer Days
+story_util-20000549,Last of the Summer Days
+story_util-10000550,
+story_util-20000550,
+story_util-10000551,1
+story_util-20000551,
+story_util-10000552,
+story_util-20000552,
+story_util-10000553,
+story_util-20000553,
+story_util-10000554,
+story_util-20000554,
+story_util-10000555,
+story_util-20000555,
+story_util-10000556,
+story_util-20000556,
+story_util-10000557,
+story_util-20000557,
+story_util-10000558,
+story_util-20000558,
+story_util-10000559,
+story_util-20000559,
+story_util-10000560,
+story_util-20000560,
+story_util-10000561,
+story_util-20000561,
+story_util-10000562,
+story_util-20000562,
+story_util-10000563,Basic Reaction Detector
+story_util-20000563,
+story_util-10000564,Agency Shooting Range
+story_util-20000564,
+story_util-10000565,
+story_util-20000565,
+story_util-10000566,
+story_util-20000566,
+story_util-10000567,
+story_util-20000567,
+story_util-10000568,
+story_util-20000568,
+story_util-10000569,
+story_util-20000569,
+story_util-10000570,
+story_util-20000570,
+story_util-10000571,"The road home is only the beginning of another adventure."
+story_util-20000571,Departure Time I
+story_util-10000572,"Cherish every opportunity you have to choose//c because there's no telling when you'll get one again."
+story_util-20000572,Departure Time II
+story_util-10000573,"Every bit of kindness comes at a price."
+story_util-20000573,Departure Time III
+story_util-10000574,"I miss the man of yesterday and the city of tomorrow."
+story_util-20000574,Departure Time IV
+story_util-10000575,"New weapons//c new battlefields."
+story_util-20000575,The Curtain Rises I
+story_util-10000576,"Rules are meant to be broken."
+story_util-20000576,The Curtain Rises II
+story_util-10000577,"A toast to yesterday's enemy."
+story_util-20000577,Pollinosis I
+story_util-10000578,"When you need to define the meaning of trust//c you no longer need it."
+story_util-20000578,Pollinosis II
+story_util-10000579,"Don't you think you're acting like a girl who's throwing a sulking fit because she lost her favorite toy?"
+story_util-20000579,Pollinosis III
+story_util-10000580,"When it comes to loyalty or otherwise//c simply changing one's point of view will lead you to a different conclusion."
+story_util-20000580,Pollinosis IV
+story_util-10000581,"You can't trust a single thing that comes out of a Sangvis Doll's mouth!"
+story_util-20000581,Pollinosis V
+story_util-10000582,"Someday//c we'll meet again. Someday."
+story_util-20000582,Pollinosis VI
+story_util-10000583,"So//c did you dream of me//c or did I dream of you?"
+story_util-20000583,Ghost Sisters I
+story_util-10000584,"Besides//c you won't remember in a couple of hours' time//c so why should I tell you?"
+story_util-20000584,Ghost Sisters II
+story_util-10000585,"Rappel down the line into the warehouse//c delay 404//c and finish the encirclement."
+story_util-20000585,Ghost Sisters III
+story_util-10000586,"I don't want to take that medicine anymore! I don't want to take the medicine! I want to get out... Let me out!"
+story_util-20000586,Ghost Sisters IV
+story_util-10000587,"You're not allowed...to die first..."
+story_util-20000587,Ghost Sisters V
+story_util-10000588,"No matter how well the place is scrubbed//c there's no getting rid of the blood//c filth and evil of the past."
+story_util-20000588,Ghost Sisters VI
+story_util-10000589,"Hank//c give me a pork knuckle burger!"
+story_util-20000589,Hay Fever - Beginning
+story_util-10000590,"What we can glean from flowers is hope."
+story_util-20000590,Clown
+story_util-10000591,"Would an aphid munching on a flower think they're doing something wrong?"
+story_util-20000591,Flower View
+story_util-10000592,"AN-94 does not have to make decisions very often//c but when she has to//c she makes very good ones."
+story_util-20000592,Gathering Frost Wolves
+story_util-10000593,"Only humans can improve humanity."
+story_util-20000593,Light Show
+story_util-10000594,"Fate does not abandon people. Very often//c it is people who abandon their fate on their own."
+story_util-20000594,Hay Fever - End
+story_util-10000595,"Don't believe that dream-peddling luggage."
+story_util-20000595,Sweet Dreams Box - Beginning
+story_util-10000596,"See//c the mice are all following him."
+story_util-20000596,Piper
+story_util-10000597,"A hand-made wooden box//c ordered with triple-layer boards//c very sturdy. About 1.5 meters long and 80cm or so across."
+story_util-20000597,Cuckoo Clock
+story_util-10000598,"A pair of dried skeletons dressed in orphanage clothing stare at her with empty eye sockets."
+story_util-20000598,Air Raid Shelter
+story_util-10000599,"This is a letter from Housemother//c telling me what a good girl Lilian is."
+story_util-20000599,Rag Doll
+story_util-10000600,"Because they save all the real good dreams for themselves."
+story_util-20000600,Sweet Dreams Box - End
+story_util-10000601,
+story_util-20000601,
+story_util-10000602,
+story_util-20000602,
+story_util-10000603,
+story_util-20000603,
+story_util-10000604,
+story_util-20000604,
+story_util-10000605,"...Because that was the fruit of Lyco's research. And I don't want his life's work falling into the hands of that bastard."
+story_util-20000605,Operation Snake Eater I
+story_util-10000606,"Ouroboros is a perfectionist."
+story_util-20000606,Operation Snake Eater II
+story_util-10000607,"Rather than being told what I am by others//c I'd rather believe in my own thoughts."
+story_util-20000607,Operation Snake Eater III
+story_util-10000608,"Don't play hide and seek with a snake."
+story_util-20000608,Operation Snake Eater IV
+story_util-10000609,"I need to leave a little memento behind//c because I might not have the chance to do it in future."
+story_util-20000609,Operation Snake Eater V
+story_util-10000610,"If an agent is instantly recognizable as an agent//c then he won't be in his position for long."
+story_util-20000610,Delta Attack - Beginning
+story_util-10000611,"Welcome to the Free Hanseatic City of Bremen! We wish you a pleasant journey!"
+story_util-20000611,Spiderweb
+story_util-10000612,"If you want to build a peaceful world//c you must first fight a cruel war."
+story_util-20000612,House of Cards
+story_util-10000613,"The more you rank people//c the more ways they find to flaunt their superiority."
+story_util-20000613,Animal Chess
+story_util-10000614,"The real world doesn't change. It simply expresses itself in different ways//c but it is fundamentally always the same."
+story_util-20000614,Instigator
+story_util-10000615,"There are two sides to everything. This is also true about people."
+story_util-20000615,Delta Attack - End
+story_util-10000616,"I'm still alive//c but I'll be dead soon."
+story_util-20000616,Infernal Enlightenment I
+story_util-10000617,"Hold nothing back. Failure is not an option."
+story_util-20000617,Infernal Enlightenment II
+story_util-10000618,"The cage is go//c and the fleeing hare has run into it."
+story_util-20000618,Infernal Enlightenment III
+story_util-10000619,"I want world peace. I want children to be spared living in strife and fear."
+story_util-20000619,Infernal Enlightenment IV
+story_util-10000620,"It's been such a long day. I'm glad it's finally over..."
+story_util-20000620,Infernal Enlightenment V
+story_util-10000621,"Then I promise you//c I won't lie to you ever again."
+story_util-20000621,Foreshadowed Voyage
+story_util-10000622,"Perhaps you'll miss me and come to treasure the time we've spent together. But don't worry//c we'll meet again very soon."
+story_util-20000622,Bridge of Eternity
+story_util-10000623,
+story_util-20000623,Operation Snake Eater EX
+story_util-10000624,Normal-1
+story_util-20000624,Midnight Pursuit
+story_util-10000625,Normal-2
+story_util-20000625,No More Omens
+story_util-10000626,Normal-3
+story_util-20000626,Broken Echoes
+story_util-10000627,Hard-1
+story_util-20000627,Midnight Pursuit EX
+story_util-10000628,Hard-2
+story_util-20000628,No More Omens EX
+story_util-10000629,Hard-3
+story_util-20000629,Broken Echoes EX
+story_util-10000630,Normal Farm
+story_util-20000630,Nighttime Carnival
+story_util-10000631,Hard Farm
+story_util-20000631,Nighttime Carnival EX
+story_util-10000632,Prologue MDR
+story_util-20000632,Cold//c Endless Night
+story_util-10000633,Scene 1 MDR
+story_util-20000633,Reflection
+story_util-10000634,Scene 2 MDR
+story_util-20000634,The Nameless
+story_util-10000635,Epilogue MDR
+story_util-20000635,Evanescent Butterfly
+story_util-10000636,Prologue TAC-50
+story_util-20000636,Discourse in the Rain
+story_util-10000637,Scene 1 TAC-50
+story_util-20000637,Reminiscence
+story_util-10000638,Scene 2 TAC-50
+story_util-20000638,Trackless Tears
+story_util-10000639,Epilogue TAC-50
+story_util-20000639,Breaking the Cocoon
+story_util-10000640,The Night Before - Main Story Chapter 0
+story_util-20000640,Breaking the Cocoon
+story_util-10000641,0:05 Hudson Refugee Camp - Main Story Chapter 1
+story_util-20000641,Breaking the Cocoon
+story_util-10000642,0:07 New York Public Library - Main Story Chapter 2
+story_util-20000642,Breaking the Cocoon
+story_util-10000643,0:23 Grand Central Station - Main Story Chapter 3
+story_util-20000643,Breaking the Cocoon
+story_util-10000644,0:50 Dark Zone - Main Story Chapter 4
+story_util-20000644,Breaking the Cocoon
+story_util-10000645,1:10 Evacuation Point  - Main Story Final Chapter
+story_util-20000645,Breaking the Cocoon
+story_util-10000646,Squad AK-47 Branch 1
+story_util-20000646,Breaking the Cocoon
+story_util-10000647,Squad AK-47 Branch 2
+story_util-20000647,Breaking the Cocoon
+story_util-10000648,Squad AK-47 Branch 3
+story_util-20000648,Breaking the Cocoon
+story_util-10000649,Squad Springfield Branch 1
+story_util-20000649,Breaking the Cocoon
+story_util-10000650,Squad Springfield Branch 2
+story_util-20000650,Breaking the Cocoon
+story_util-10000651,Squad Springfield Branch 3
+story_util-20000651,Breaking the Cocoon
+story_util-10000652,Squad M870 Branch 1
+story_util-20000652,Breaking the Cocoon
+story_util-10000653,Squad M870 Branch 2
+story_util-20000653,Breaking the Cocoon
+story_util-10000654,Squad Vector Branch 1
+story_util-20000654,Breaking the Cocoon
+story_util-10000655,Squad Vector Branch 2
+story_util-20000655,Breaking the Cocoon
+story_util-10000656,Squad 404 Branch 1
+story_util-20000656,Breaking the Cocoon
+story_util-10000657,Squad 404 Branch 2
+story_util-20000657,Breaking the Cocoon
+story_util-10000658,Squad 404 Branch 3
+story_util-20000658,Breaking the Cocoon
+story_util-10000659,Squad RFB Easter Egg Scene
+story_util-20000659,Breaking the Cocoon
+story_util-10000660,0:05 Hudson Refugee Camp - Main Story Chapter 1 EX
+story_util-20000660,Breaking the Cocoon
+story_util-10000661,0:07 New York Public Library - Main Story Chapter 2 EX
+story_util-20000661,Breaking the Cocoon
+story_util-10000662,0:23 Grand Central Station - Main Story Chapter 3 EX
+story_util-20000662,Breaking the Cocoon
+story_util-10000663,0:50 Dark Zone - Main Story Chapter 4 EX
+story_util-20000663,Breaking the Cocoon
+story_util-10000664,1:10 Evacuation Point - Main Story Final Chapter EX
+story_util-20000664,Breaking the Cocoon
+story_util-10000665,"Ange's actions would inevitably have consequences. That's just who she is."
+story_util-20000665,Absent
+story_util-10000675,"One does not fall for the same trap twice."
+story_util-20000675,Wrestling Snakes I
+story_util-10000678,"At the time//c I had yet to grasp what was hidden under her demonic facade."
+story_util-20000678,The Birth of Apate II
+story_util-10000681,"Heroes in black turn their back on the distant purgatory."
+story_util-20000681,Hemera Points to the Light II
+story_util-10000684,"The British love riddles//c but they love those who challenge the riddles even more."
+story_util-20000684,Shoulders of a Griffin II
+story_util-10000687,"It's inevitable to be lost in life//c but don't ever end up at the wrong destination."
+story_util-20000687,Ship of Theseus II
+story_util-10000694,"Most of the conflicts in this world have hubris and prejudice at their heart."
+story_util-20000694,Ariadne's Clew II
+story_util-10000704,"A first acquaintance lends to the truest of peace of minds."
+story_util-20000704,Cretan Labyrinth II
+story_util-10000712,"Memories dictate one's consciousness//c yet the consciousness can hardly recall all the memories."
+story_util-20000712,Dreams on the Island of Dia II
+story_util-10000719,"Having a goal and be able to work towards it is far better than having a purpose without knowing the means of achieving it."
+story_util-20000719,Defying the Moerae II
+story_util-10000728,"The tragedy of all fanatics//c is that they truly believe in their own salvation."
+story_util-20000728,Lachesis' Measure II
+story_util-10000722,"Nothing's invincible in this world. It's with that belief that I've triumphed until now."
+story_util-20000722,Clotho's Thread II
+story_util-10000731,"It's hard for me to tell fanatics and ELIDs apart at times; they're both husks of their former selves//c don't you think?"""
+story_util-20000731,Atropos' Shears II
+story_util-10000745,"There are no shortcuts in war."
+story_util-20000745,Nyx's Night III
+story_util-10000748,"This is the reason of my loathing against those who desecrate the dead."
+story_util-20000748,Hypnos' Eyes II
+story_util-10000751,"In the face of a mighty foe//c the resolute mind unsheathes their sword despite certain defeat."
+story_util-20000751,Thanatos' Kiss II
+story_util-10000754,"Despair birthed at the moment of hope's demise is often the most delightful."
+story_util-20000754,Chaos' Abyss II
+story_util-10000759,
+story_util-20000759,Shoulders of a Griffin II - EX
+story_util-10000761,
+story_util-20000761,Ariadne's Clew II - EX
+story_util-10000763,
+story_util-20000763,Dreams on the Island of Dia II - EX
+story_util-10000764,
+story_util-20000764,Defying the Moerae II - EX
+story_util-10000767,
+story_util-20000767,Atropos' Shears II - EX
+story_util-10000768,
+story_util-20000768,Nyx's Night III - EX
+story_util-10000769,
+story_util-20000769,Hypnos' Eyes II - EX
+story_util-10000770,
+story_util-20000770,Thanatos' Kiss II - EX
+story_util-10000667,"Those who find even the slimmest ray of sunlight blinding may be more accepting of a life deprived of the sun from the very start."
+story_util-20000667,An Arrow in Flight II
+story_util-10000669,"If the society doesn't uproot its problems//c nothing will ever be resolved."
+story_util-20000669,Torricelli's Trumpet II
+story_util-10000697,"I'll make them an offer they can't refuse."
+story_util-20000697,Heraclitus' River II
+story_util-10000708,"How many times in life does one set foot on a battlefield that's worth paying with their lives?"
+story_util-20000708,The Prisoner's Dilemma II
+story_util-10000716,"If every rewrite of truth makes it into the archives//c then mankind's history will be nothing but deceptions."
+story_util-20000716,Cratylus' River II
+story_util-10000725,"Dreadful as a foe//c yet reassuring as a friend. Aren't these kind of people very charming?"
+story_util-20000725,Achilles and the Tortoise II
+story_util-10000737,"If Dolls also have a soul//c will they dread death just like us?"
+story_util-20000737,Pandora's Box II
+story_util-10000740,"He's but a nobody."
+story_util-20000740,Brain in a Vat II
+story_util-10000772,
+story_util-20000772,One-Sided Recollection
+story_util-10000773,
+story_util-20000773,Scorpio Vortex
+story_util-10000774,
+story_util-20000774,Operation Mistbuster
+story_util-10000775,
+story_util-20000775,The Real ∞
+story_util-10000776,
+story_util-20000776,The Real ∞ - EX
+story_util-10000777,
+story_util-20000777,The Imaginary ∞
+story_util-10000778,
+story_util-20000778,The Imaginary ∞ - EX
+story_util-10000779,
+story_util-20000779,The Symbolic ∞
+story_util-10000780,
+story_util-20000780,The Symbolic ∞ - EX
+story_util-10000781,
+story_util-20000781,Gaze ∞
+story_util-10000782,
+story_util-20000782,Gaze ∞ - EX
+story_util-10000700,"Butterflies aren't the only thing coming out of a cocoon."
+story_util-20000700,The Grain of Millet II
+story_util-10000666,"Here//c all hesitation must be eradicated; no amount of cowardice will help."
+story_util-20000666,An Arrow in Flight II
+story_util-10000668,"I am the light of the world; he that followeth me shall not walk in darkness//c but shall have the light of life."
+story_util-20000668,Torricelli's Trumpet I
+story_util-10000670,"Salvation lies within."
+story_util-20000670,Torricelli's Trumpet III
+story_util-10000671,"He's young//c brave//c brilliant//c and has aspirations... almost like replica of her."
+story_util-20000671,Athena's Owl
+story_util-10000672,"Days go by//c the world decays//c and even fond memory slowly fades."
+story_util-20000672,Selene's Dream
+story_util-10000676,"You are the third kind//c the one that knows what they're fighting for//c Commander."
+story_util-20000676,Wrestling Snakes II
+story_util-10000677,"Elsa's voice blends into the cheers of the refugees and the whole world became a sea of joy."
+story_util-20000677,The Birth of Apate I
+story_util-10000680,"White devils and the envoy chasing after them."
+story_util-20000680,Hemera Points to the Light I
+story_util-10000682,"It is imprinted with the image of a mighty griffin baring its claws//c surrounded by intricate designs."
+story_util-20000682,Hemera Points to the Light III
+story_util-10000683,"Its exterior is mottled from the passage of long years//c but its classical proportions are still enough to make one stop to marvel at it."
+story_util-20000683,Shoulders of a Griffin I
+story_util-10000685,"Everything we do is for the future of ourselves and this world."
+story_util-20000685,Shoulders of a Griffin III
+story_util-10000689,"In this foreign land//c the only person she could trust is me."
+story_util-20000689,Balls and Vase
+story_util-10000690,"Maybe one day we'll stand side by side//c fighting for the same goal."
+story_util-20000690,Cretan Liar
+story_util-10000696,"If I can deliver a dirty bomb straight into the prime minister's office//c then what else is off-limits to me?"
+story_util-20000696,Heraclitus' River I
+story_util-10000698,"If he's setting up a game of chess//c then I'll just ruin his board."
+story_util-20000698,Heraclitus' River III
+story_util-10000699,"When you gaze into the abyss//c you are already within it."
+story_util-20000699,The Grain of Millet I
+story_util-10000701,"Don't play with Pandora's box."
+story_util-20000701,The Grain of Millet III
+story_util-10000707,"Although we are called "Defy"//c we will never betray you."
+story_util-20000707,The Prisoner's Dilemma I
+story_util-10000709,"There are no bio signs in the building. I'm not detecting AK-12's signal either."
+story_util-20000709,The Prisoner's Dilemma III
+story_util-10000686,"All happy people are alike; each unhappy person is unhappy in their own way."
+story_util-20000686,Ship of Theseus I
+story_util-10000688,"If the planks of the ship of Theseus were constantly being changed out//c until none of the planks were the original ones//c then would it still be the original ship?"
+story_util-20000688,Ship of Theseus III
+story_util-10000693,"With a Virtual Cognition Image of hers//c it's clear that she's 100% a Nyto."
+story_util-20000693,Ariadne's Clew I
+story_util-10000695,"Two small insects both fall into a tiny pit//c awaiting the coming storm."
+story_util-20000695,Ariadne's Clew III
+story_util-10000703,"We all have a shared goal of averting disaster and making this world a better place."
+story_util-20000703,Cretan Labyrinth I
+story_util-10000705,"Only blood can heal the wounds."
+story_util-20000705,Cretan Labyrinth III
+story_util-10000711,"I want 10 instances of immunity. When I invoke them//c you cannot attack me for my words."
+story_util-20000711,Dreams on the Island of Dia I
+story_util-10000713,"Take a good look at your face//c because you don't know when you're going to lose it."
+story_util-20000713,Dreams on the Island of Dia III
+story_util-10000714,"I hope that on my triumphant return//c I can still see those who are waiting for me."
+story_util-20000714,Dreams on the Island of Dia IV
+story_util-10000715,"Would you rather do something great in a brave new world or toil away for some dwindling flame in the old world?"
+story_util-20000715,Cratylus' River I
+story_util-10000717,"The vortex rips through all caught in its center with no exceptions."
+story_util-20000717,Cratylus' River III
+story_util-10000724,"I am the way I am//c not because of mere thoughts or programming//c but because of something far more valuable."
+story_util-20000724,Achilles and the Tortoise I
+story_util-10000726,"Moths dance around the light//c casting fluttery shadows on the tragically beautiful corpse."
+story_util-20000726,Achilles and the Tortoise III
+story_util-10000733,"AK12//c at your service."
+story_util-20000733,Zeno's Circle of Knowledge
+story_util-10000718,"There are many pointless things in the world. Putting up a fight will never be one of them."
+story_util-20000718,Defying the Moerae I
+story_util-10000720,"When you discover a bomb//c best make sure there isn't another one around.
+story_util-20000720,Defying the Moerae III
+story_util-10000721,"The duty of the gardener is to prune the rotten fruit away."
+story_util-20000721,Clotho's Thread I
+story_util-10000723,"Just remember—any place where I am is reality."
+story_util-20000723,Clotho's Thread III
+story_util-10000727,"Returning to old ground is not necessarily a good thing sometimes."
+story_util-20000727,Lachesis' Measure I
+story_util-10000729,"She laughed as she cried//c only to eventually shut her mouth//c her voice becoming incredibly tiny."
+story_util-20000729,Lachesis' Measure III
+story_util-10000730,"Running away from problems comes with a price that is too heavy to pay."
+story_util-20000730,Atropos' Shears I
+story_util-10000732,"Our effort to alter fate is futile//c but at least it won't befall today."
+story_util-20000732,Atropos' Shears III
+story_util-10000734,"No matter how many fall before them//c they will rise to carry on; this the nature of a hero."
+story_util-20000734,Schrödinger’s Cat
+story_util-10000736,"Does hope truly lie at the bottom of Pandora's Box?"
+story_util-20000736,Pandora's Box I
+story_util-10000738,"Only the moth knows how fascinating the flames truly are."
+story_util-20000738,Pandora's Box III
+story_util-10000739,"I do not fear death//c I'm just afraid Sister will be sad."
+story_util-20000739,Brain in a Vat I
+story_util-10000741,"He collapses onto the floor like a ragdoll//c and Ange's shattered heart falls along with him."
+story_util-20000741,Brain in a Vat III
+story_util-10000742,"See you in the brave new world."
+story_util-20000742,Möbius Strip
+story_util-10000743,"The most agonizing of dreams are often rooted in reality."
+story_util-20000743,Nyx's Night I
+story_util-10000744,"I have a the heartbeat of a human being//c thus proving that I am not a monster."
+story_util-20000744,Nyx's Night II
+story_util-10000746,"Classics never go out of style."
+story_util-20000746,Nyx's Night IV
+story_util-10000747,"Sweet dreams//c stranger."
+story_util-20000747,Hypnos' Eyes I
+story_util-10000749,"The fallen spirit chants; the walking living fights."
+story_util-20000749,Hypnos' Eyes III
+story_util-10000750,"Now//c it's time to unshackle the mad hound."
+story_util-20000750,Thanatos' Kiss I
+story_util-10000752,"Dirge of the Griffin."
+story_util-20000752,Thanatos' Kiss III
+story_util-10000753,"...Thank you//c Robin."
+story_util-20000753,Chaos' Abyss I
+story_util-10000755,"Nobody's sacrifice is without value because by relinquishing their lives//c they will be giving the living something even more precious."
+story_util-20000755,Chaos' Abyss III
+story_util-10000673,"Paradeus combat simulation will commence shortly. Relevant personnel//c please attend the pre-battle briefing."
+story_util-20000673,The Way of What is To come
+story_util-10000674,"In conclusion//c Squad Puzzle is not suited to fighting as a team. +End of record compilation."
+story_util-20000674,Survival Guide
+story_util-10000679,"All who believe in the Lord shall receive happiness and peace. All who defy Him shall suffer disaster and judgment."
+story_util-20000679,Lurking
+story_util-10000691,"Do not trust the glamourous facade; the only thing we can trust is ourselves."
+story_util-20000691,Reflection
+story_util-10000692,"If we can't find mutual understanding... then I will be very sorry."
+story_util-20000692,Cracks
+story_util-10000702,"Festivals//c they tend to start at midnight."
+story_util-20000702,Night Festival
+story_util-10000710,"I understand and respect his decision... We're family. I will always support him."
+story_util-20000710,Flash
+story_util-10000706,"What should I say to everyone at the base?"
+story_util-20000706,The Indecipherable Heart
+story_util-10000735,"Time leaves its mark in everyone's memory//c but years later//c only remembrance remains."
+story_util-20000735,Remembrance
+story_util-10000783,
+story_util-20000783,
+story_util-10000784,
+story_util-20000784,
+story_util-10000785,
+story_util-20000785,
+story_util-10000786,
+story_util-20000786,
+story_util-10000787,
+story_util-20000787,
+story_util-10000788,
+story_util-20000788,
+story_util-10000789,
+story_util-20000789,
+story_util-10000790,
+story_util-20000790,
+story_util-10000791,
+story_util-20000791,
+story_util-10000792,
+story_util-20000792,
+story_util-10000793,
+story_util-20000793,
+story_util-10000794,
+story_util-20000794,
+story_util-10000795,
+story_util-20000795,
+story_util-10000796,
+story_util-20000796,
+story_util-10000797,
+story_util-20000797,
+story_util-10000798,"A magical boat trip with one's idol begins with visiting famous attractions!"
+story_util-20000798,Tidal Surge
+story_util-10000799,"The waters here are deep//c deep enough to submerge a monster that defies imagination."
+story_util-20000799,Undercurrent
+story_util-10000800,"Know her//c love her//c become her."
+story_util-20000800,Pursuit
+story_util-10000801,"Find our abducted friend... before things get even worse."
+story_util-20000801,Zero-Sum
+story_util-10000802,Crossing of World Lines
+story_util-20000802,Crossing of World Lines
+story_util-10000803,Enter the Witch
+story_util-20000803,
+story_util-10000804,Frozen
+story_util-20000804,
+story_util-10000805,Breakneck Pursuit
+story_util-20000805,
+story_util-10000806,Zombie Apocalypse Survival Guide
+story_util-20000806,
+story_util-10000807,Zombie Apocalypse Survival Guide – EX
+story_util-20000807,
+story_util-10000808,Enter the Witch – EX
+story_util-20000808,
+story_util-10000809,Frozen – EX
+story_util-20000809,
+story_util-10000810,Breakneck Pursuit – EX
+story_util-20000810,
+story_util-10000811,Destruction//c Regeneration
+story_util-20000811,
+story_util-10000812,Destruction//c Regeneration – EX
+story_util-20000812,
+story_util-10000813,Inter-Dimensional Commission
+story_util-20000813,Inter-Dimensional Commission
+story_util-10000814,The Client's True Identity
+story_util-20000814,The Client's True Identity
+story_util-10000815,Summer is for Studying and Shaved Ice
+story_util-20000815,Summer is for Studying and Shaved Ice
+story_util-10000816,Girl Beyond Reach
+story_util-20000816,Girl Beyond Reach
+story_util-10000817,Plastic Memory
+story_util-20000817,Plastic Memory
+story_util-10000818,Goodbye//c Tail
+story_util-20000818,Goodbye//c Tail
+story_util-10000819,Life in a Bowl
+story_util-20000819,Life in a Bowl
+story_util-10000820,Disappearance of the Female Protagonist
+story_util-20000820,Disappearance of the Female Protagonist
+story_util-10000821,Girl in the Back Alley
+story_util-20000821,Girl in the Back Alley
+story_util-10000822,Jinbocho Without Her
+story_util-20000822,Jinbocho Without Her
+story_util-10000823,Griffin Without Her
+story_util-20000823,Griffin Without Her
+story_util-10000824,Devil's Paradise
+story_util-20000824,Devil's Paradise
+story_util-10000825,Debt and Oath
+story_util-20000825,Debt and Oath
+story_util-10000826,The One Who Knocks
+story_util-20000826,The One Who Knocks
+story_util-10000827,Devil in Destitute
+story_util-20000827,Devil in Destitute
+story_util-10000828,The Journey Home
+story_util-20000828,The Journey Home
+story_util-10000829,"You seek peace//c and you fight for a better peace."
+story_util-20000829,①
+story_util-10000830,"I'm going in today//c no matter what//c and nobody's going to get in my way."
+story_util-20000830,②
+story_util-10000831,"It was the shotgun that Light was most skilled with. He fought here."
+story_util-20000831,③
+story_util-10000832,"The bottle is coated in a layer of dust... It belongs to the Galatea Corporation."
+story_util-20000832,④
+story_util-10000833,"Please believe me//c Father."
+story_util-20000833,⑤
+story_util-10000834,"'Opportunities' mean nothing if they do not produce results. He detests people who let him down."
+story_util-20000834,⑦
+story_util-10000835,"The only way you can stay on the case is by staying in the Stasi."
+story_util-20000835,⑧
+story_util-10000836,"We're all prepared to fight any and all injustice to the bitter end!"
+story_util-20000836,⑩
+story_util-10000837,"I'm a Galatea researcher. I have medicine."
+story_util-20000837,⑪
+story_util-10000838,"The 'future' is such a vague term. At this point//c Germany can only afford to focus on the present."
+story_util-20000838,⑫
+story_util-10000839,"I am a Stasi agent and a colleague of K's. You may call me J."
+story_util-20000839,⑭
+story_util-10000840,"Such a country is no longer the motherland that we've sacrificed everything for."
+story_util-20000840,⑮
+story_util-10000841,"This mission is codenamed 'Neo'. Our objective is to find a missing cargo truck."
+story_util-20000841,I
+story_util-10000842,"Don't worry... It won't be too long until our proper reunion."
+story_util-20000842,II
+story_util-10000843,"You could do everything//c so why did you defy Father?"
+story_util-20000843,IV
+story_util-10000844,"The minute hands ticks in its progressing//c filling J with anxiety."
+story_util-20000844,V
+story_util-10000845,"Even now//c we are still not entirely aware of our adversary's true identity."
+story_util-20000845,VI
+story_util-10000846,"This is the first time someone has tried to hunt me..."
+story_util-20000846,VIII
+story_util-10000847,"Obscured rumors//c and the obscured truth."
+story_util-20000847,IX
+story_util-10000848,"It's not easy being an informant//c Frau Nele."
+story_util-20000848,XI
+story_util-10000849,"The Nyto named Bramedb has finally surfaced."
+story_util-20000849,XII
+story_util-10000850,"Those who fail have outlived their purpose. You taught me that."
+story_util-20000850,XIV
+story_util-10000851,"Commander//c your blood still runs hot."
+story_util-20000851,XV
+story_util-10000852,"The affection from just half a minute ago was nothing but an act."
+story_util-20000852,IA
+story_util-10000853,"Nimogen saved my life//c so I'll return the favor once."
+story_util-20000853,IIA
+story_util-10000854,"The consignee is called 'Umruss'."
+story_util-20000854,IVB
+story_util-10000855,"Does Gray Elementary only take first-grade students?"
+story_util-20000855,VB
+story_util-10000856,"I am not acting on an impulse here. This is the closest we'll ever come to solving this missing cargo case."
+story_util-20000856,VIB
+story_util-10000857,"I will not do anything that will jeopardize the future of our people. Everything I do is for the State."
+story_util-20000857,IB
+story_util-10000858,"The moment is at hand//c and all characters are in position."
+story_util-20000858,IIB
+story_util-10000859,"If we lose this shipment of weapons//c none of us are going to have a good time!"
+story_util-20000859,IIIA
+story_util-10000860,"I remember now... You're the last T-Doll of the AR Team... "
+story_util-20000860,VA
+story_util-10000861,"This encounter almost feels like a journey through time and space."
+story_util-20000861,VIIA
+story_util-10000862,"She IS M4//c but at the same time she isn't."
+story_util-20000862,Alpha
+story_util-10000863,"Your heart once beat with compassion."
+story_util-20000863,Beta
+story_util-10000864,"If you must go//c then I'll go with you."
+story_util-20000864,Gamma
+story_util-10000865,"A Paradeus unit is mopping the floor over there..."
+story_util-20000865,Delta
+story_util-10000866,"Ange is right here inside this plant. If we just trust her..."
+story_util-20000866,Epsilon
+story_util-10000867,"...Live on//c J. Live on until you can avenge them."
+story_util-20000867,Eta
+story_util-10000868,"We actually have two of such plants."
+story_util-20000868,Theta
+story_util-10000869,"It's been her plan to lead us into a trap right from the start."
+story_util-20000869,Iota
+story_util-10000870,"He's always making someone else pay the price in his place... Making them pay the price for his recklessness and presumption..."
+story_util-20000870,Lambda
+story_util-10000871,"Perhaps it's time we have a new best friend."
+story_util-20000871,Mu
+story_util-10000872,"Today is a great and important day for Germany!"
+story_util-20000872,Nu
+story_util-10000873,There is a big red circled date on the calendar. Today is a day worth celebrating."
+story_util-20000873,1
+story_util-10000874,"Do not go gentle into that good night."
+story_util-20000874,11
+story_util-10000875,"We haven't lost yet. More of our comrades still need us."
+story_util-20000875,100
+story_util-10000876,"Not everything you see is real. Don't rely on your eyes too much//c Commander."
+story_util-20000876,101
+story_util-10000877,"It's your turn. Let me see Ange."
+story_util-20000877,110
+story_util-10000878,"Perfect timing."
+story_util-20000878,111
+story_util-10000879,"Our only hope for victory is to deliver the neural cloud servers to safety."
+story_util-20000879,1000
+story_util-10000880,"Only the dead have seen the end of the war."
+story_util-20000880,1001
+story_util-10000881,"Once again//c Griffin's future is in our hands."
+story_util-20000881,1010
+story_util-10000882,"The Factory is no longer just a factory//c but a miniature museum. One dedicated to love//c death//c and robots."
+story_util-20000882,Pico
+story_util-10000883,"We will stop them here//c even with just the few of us."
+story_util-20000883,Nano
+story_util-10000884,"Get up//c we're all watching you from behind."
+story_util-20000884,Milli
+story_util-10000885,"It's a promise. See you in Berlin."
+story_util-20000885,Deci
+story_util-10000886,"I've brought a special consultant."
+story_util-20000886,Deca
+story_util-10000887,"In the Soviet Union//c only people in one kind of place have a significant association with tattoos."
+story_util-20000887,Hecta
+story_util-10000888,"I have delivered death to your doorstep."
+story_util-20000888,Kilo
+story_util-10000889,"It's my turn//c dearie. —Bramedb"
+story_util-20000889,Mega
+story_util-10000890,"God//c you sound like a proper Stasi."
+story_util-20000890,Giga
+story_util-10000891,"Grant to the souls of all our faithful departed your mercy//c light and peace."
+story_util-20000891,Tera
+story_util-10000910,Didgeridoo Tutorial
+story_util-20000910,Didgeridoo Tutorial
+story_util-10000911,Adolescence
+story_util-20000911,Adolescence
+story_util-10000912,Pioneer
+story_util-20000912,Pioneer
+story_util-10000913,Sonic Boom
+story_util-20000913,Sonic Boom
+story_util-10000914,Chicken Breast
+story_util-20000914,Chicken Breast
+story_util-10000915,Fear of Public Speaking
+story_util-20000915,Fear of Public Speaking
+story_util-10000916,Truth or Dare
+story_util-20000916,Truth or Dare
+story_util-10000917,The Last Rain In The World
+story_util-20000917,The Last Rain In The World
+story_util-10000918,"Christmas this year is kickstarted by the Commander's horrific scream and desperate attempt to run away."
+story_util-20000918,"When Will My Wish Come True?"
+story_util-10000919,"In the dark forest//c a battle for Christmas Tokens have quietly begun."
+story_util-20000919,A Person's Struggle I
+story_util-10000920,"Buried feelings. Feelings that are hard to convey."
+story_util-20000920,A Person's Struggle II
+story_util-10000921,"First//c drink these up and turn off all rational thinking."
+story_util-20000921,Heavy Metal & Tender Wood I
+story_util-10000922,"Scores//c old and new//c will all be settled here."
+story_util-20000922,Heavy Metal & Tender Wood II
+story_util-10000923,"I will win//c then I'll pry the truth from your mouth."
+story_util-20000923,Buried Deception I
+story_util-10000924,"This is the price one must pay in exchange for happiness."
+story_util-20000924,Buried Deception II
+story_util-10000925,"Does Christmas magic really work?"
+story_util-20000925,Cherry Blossom Snowfall I
+story_util-10000926,"...Before that//c I must tell you a secret."
+story_util-20000926,Cherry Blossom Snowfall II
+story_util-10000927,"With a piteous shriek//c the Commander dashes out into the cold//c snowy night..."
+story_util-20000927,"When Fireworks Bloom"
+story_util-10000928,"The Bee Sting. It goes everywhere."
+story_util-20000928,Stinger
+story_util-10000929,"M16A1 has pursued many enemies//c but this little moth has quickly proved herself to be the trickiest target she has ever dealt with."
+story_util-20000929,Nike II
+story_util-10000930,"I need to leave the Soviet Union immediately. Requesting assistance and political asylum from the 'Evangelist'."
+story_util-20000930,Cangue-Breaking
+story_util-10000931,"This has to be the worst mission I've ever been given. BAR NONE!"
+story_util-20000931,Lurking I
+story_util-10000932,"The more they try to stop us//c the more certain we can be that we're going the right way."
+story_util-20000932,Traverse Sectioning
+story_util-10000934,"Her blade isn't as sharp as when it first appeared. Bit by bit//c we are definitely doing a number on this great white beast."
+story_util-20000934,Against the Light II
+story_util-10000937,"This could be checkmate."
+story_util-20000937,Intersection Point II
+story_util-10000940,"She is like a brilliant moon in this sinister world... and the moon is finally about to fall."
+story_util-20000940,Blood Moon I
+story_util-10000943,
+story_util-20000943,Overlapping Projections
+story_util-10000944,
+story_util-20000944,Homeomorphic Image
+story_util-10000945,"I'm here to ensure your loyalty—or should I say//c to instill some loyalty in you.
+story_util-20000945,Black Box
+story_util-10000946,"To sketch a mountain//c one must stand on the plains; and to sketch a plain//c one must stand on a mountain."
+story_util-20000946,Secret Watch
+story_util-10000947,"Heroes from all over the world are heading toward Berlin on the Argo//c all seeking the evil Golden Fleece."
+story_util-20000947,Pursuit I
+story_util-10000948,"Everything has changed since Unity Day. Those who cannot keep up are destined to drown in the waves."
+story_util-20000948,Nike I
+story_util-10000949,"It is now a land of death and decay that even birds cannot fly across. We call it 'Avernus'."
+story_util-20000949,"Dead Sea"
+story_util-10000950,"Before we turn our eyes to our external enemies//c we must first take care of the opportunists within our ranks."
+story_util-20000950,Flutter
+story_util-10000951,"We need a stiletto to thrust into the heart of the enemy... but it should preferably be wielded by someone else."
+story_util-20000951,Wheelrut
+story_util-10000952,"Given my status//c completing this mission implies that the Griffin Base will come under the General's protection."
+story_util-20000952,Lurking II
+story_util-10000953,"If the Dead Sea is the entrance to Hell//c then we are Aeneas//c the one who descended into the Underworld."
+story_util-20000953,Vortex
+story_util-10000954,"To friendship."
+story_util-20000954,Gardener
+story_util-10000955,"Right now//c we are an unexpected dagger to the enemy's heart."
+story_util-20000955,Commencement
+story_util-10000956,"I don't seek to be understood. I don't seek forgiveness either."
+story_util-20000956,Against the Light I
+story_util-10000957,"All the lines//c all the points//c they all exist for this..."
+story_util-20000957,Intersection Point I
+story_util-10000958,"I've brought you two trump cards. One is me//c and the other is this."
+story_util-20000958,Strongarm
+story_util-10000959,"I won't abandon anyone. At least//c not until I have to."
+story_util-20000959,Fissure
+story_util-10000960,"Most reunions are very touching//c but there are always exceptions."
+story_util-20000960,Blood Moon II
+story_util-10000961,"The faint moonlight leaks out from between the two towers. Not even birds flying in the air would be visible against this light."
+story_util-20000961,Reflection
+story_util-10000962,"She has tried to save the world all this while//c and now it is time for us to save her."
+story_util-20000962,Open the Way
+story_util-10000963,"Friends don't always stay friends//c and the same goes for enemies."
+story_util-20000963,Elevation
+story_util-10000964,"Through me you pass into the city of woe//c through me you pass into eternal pain//c through me among the people lost for aye."
+story_util-20000964,Ascent
+story_util-10000965,"At the Gate of Hell//c the bird has its wings broken."
+story_util-20000965,Incursion
+story_util-10000966,"Right now//c it feels as if she'd returned to that old mansion//c but this time//c both her arms are intact and her primary weapon is fully loaded."
+story_util-20000966,Old Rain II
+story_util-10000967,"Everything is possible. Never say never."
+story_util-20000967,Lonely Island II
+story_util-10000968,"We've all seen hell worse than this. As if I'd let you stop me."
+story_util-20000968,Traitor II
+story_util-10000969,"I knew it all along. In the end//c we really are allies//c Commander."
+story_util-20000969,Solution
+story_util-10000970,"Before me//c were those who walked the same path//c and there will definitely be others after me."
+story_util-20000970,Endpoint
+story_util-10000971,"It's time we let the other Dolls try to fight Paradeus without help."
+story_util-20000971,Deduction I
+story_util-10000972,"It seems a bit too early//c but we should still offer her some help."
+story_util-20000972,Deduction II
+story_util-10000973,"You have learned how to deal with Paradeus. Now//c annihilate them!"
+story_util-20000973,Deduction III
+story_util-10000974,"Show them what we Griffin Dolls are made of!"
+story_util-20000974,Deduction IV
+story_util-10000975,The perfection of the season depends on how much one can make up in one night.
+story_util-20000975,Terrible Guest
+story_util-10000976,The sagacious provocation of genius is needed to resolve an immediate crisis.
+story_util-20000976,Secret Worker
+story_util-10000977,Feelings cannot be duplicated and neither can crises.
+story_util-20000977,Chocolate Workshop
+story_util-10000978,Everyone is satisfied.
+story_util-20000978,White Celebration
+story_util-10000979,A generous return gift is an expression of feelings that can't be refused.
+story_util-20000979,Innovative Items
+story_util-10000980,The sound of the zither is fleeting//c but memories are eternal.
+story_util-20000980,Song of Home
+story_util-10000981,A flavor amplified to the extreme by sincerity.
+story_util-20000981,Superspeedy Delivery Girl
+story_util-10000982,Overflowing goodwill arrives in a way that's difficult to stomach.
+story_util-20000982,Golden Maple Leaf
+story_util-10000983,A grenade becomes faint illumination that reflects the fragile reversal between predator and prey.
+story_util-20000983,Weighty Concern
+story_util-10000984,A huge chocolate cake silently dissolves the loop of gifts as they enjoy its final sweetness without a word.
+story_util-20000984,Silent Coordination
+story_util-10000985,She foretells a disaster and personally delivers its only antidote.
+story_util-20000985,Jeane Dixon
+story_util-10000986,After a gentle consolation is a greater//c more overwhelming tenderness.
+story_util-20000986,White Classic
+story_util-10000987,Through acceptance//c the contradiction of two minds in one body becomes a gun-wielding fairytale.
+story_util-20000987,Double Gift
+story_util-10000988,She has written a hefty instruction manual to achieving synchronicity.
+story_util-20000988,Knew You My Heart More
+story_util-10000989,"The blurry object in the distance finally becomes clear—A jumbled mess of Dolls entangled with each other//c fighting and wrestling."
+story_util-20000989,Lycan: The Hunt Prologue
+story_util-10000990,"Finally//c she fixed her gaze on the red ballot box."
+story_util-20000990,Chaos Relay
+story_util-10000991,"Under the cover of bright moonlight//c the curtain slowly rises on the hunter's midnight tale..."
+story_util-20000991,Hunter's Patrol
+story_util-10000992,"Drawing more than forty times without receiving the most favorable outcome... That is the real mystery."
+story_util-20000992,Target or Trap
+story_util-10000993,"What are you looking at me for? I've told you a hundred times—Nothing to report!"
+story_util-20000993,Twilight Labyrinth I
+story_util-10000994,"In order to protect the game from breaking//c we must first do something to break the game experience."
+story_util-20000994,Witch's Tent
+story_util-10000995,"Only by learning to suppress shock and embarrassment can this child truly be considered to move up to a beginner's level."
+story_util-20000995,Pond of Demons
+story_util-10000996,"I have never believed there to be an unbreakable spell in this world."
+story_util-20000996,Signal Fire
+story_util-10000997,"This is a miracle//c and you are the greatest witnesses of this miracle!"
+story_util-20000997,1 Train Timetable
+story_util-10000998,
+story_util-20000998,Transcendental Études
+story_util-10000999,
+story_util-20000999,Études-Tableaux
+story_util-10001000,"The Instructor always has a solution—even if we don't know what."
+story_util-20001000,3-α1 Waltz in A minor
+story_util-10001001,"This is the only method that is truly 'fail-safe'."
+story_util-20001001,3-α3 Raindrop
+story_util-10001002,"As expected of Instructor Я. Even the most superficial mission is so carefully thought out."
+story_util-20001002,3-α4 Little Prelude in G minor
+story_util-10001003,"This is a special operation assigned to Advanced Combat Team Я."
+story_util-20001003,5-α5 Moonlight Sonata
+story_util-10001004,"You committed a grave error as the field commander//c Instructor Я."
+story_util-20001004,5-α6 Chaconne
+story_util-10001005,"All real 'commanders' are forged in the fire on the frontlines."
+story_util-20001005,5-α7 Winter
+story_util-10001006,"You know//c you should really listen to him."
+story_util-20001006,5-α8 Stradivarius' Magic
+story_util-10001007,"Now is the perfect time to execute Plan B."
+story_util-20001007,16 Concerto Grosso in A minor
+story_util-10001008,"...There's no more pretense."
+story_util-20001008,17 Brahms Intermezzi
+story_util-10001009,"Most people don't get to choose the circumstances they are born into—you don't//c and neither do I."
+story_util-20001009,18 The Swan
+story_util-10001010,"She is like a hawk//c gathering strength for a power dive. She studies her prey mercilessly."
+story_util-20001010,25 Ruslan and Lyudmila
+story_util-10001011,"She has turned into a star that lights up the night sky."
+story_util-20001011,"26 Thus Spoke Zarathustra
+story_util-10001012,"At last... silence reigns here once more."
+story_util-20001012,27 Ride of the Valkyries
+story_util-10001013,"Maggie//c Baba Lyuba sends her regards."
+story_util-20001013,3-β1 Gene Takes a Drink
+story_util-10001014,"For a Vor//c deception will only lead to one fate."
+story_util-20001014,3-β2 Symphony No.2 in C Major
+story_util-10001015,"There's no retiring for Dolls//c just endless reincarnations."
+story_util-20001015,3-β3 Symphony No. 3
+story_util-10001016,"Catherine and Maggie lean against each other on the cold floor."
+story_util-20001016,5-β4 Introduction and Rondo Capriccioso
+story_util-10001017,"A dry martini//c shaken//c not stirred."
+story_util-20001017,5-β5 Danse Macabre
+story_util-10001018,"If your attack point is 5//c then hers would be 530//c000."
+story_util-20001018,5-β7 Cavalleria Rusticana
+story_util-10001019,"Humans never learn their lesson."
+story_util-20001019,12 Gnossienne No. 1
+story_util-10001020,"Only the good die young. Good thing you're not good//c and neither am I."
+story_util-20001020,14 Ballade in G minor
+story_util-10001021,"I couldn't just leave someone with an attack point of 5 to fight on her own//c could I?"
+story_util-20001021,21 La Campanella
+story_util-10001022,"She turns into an electronic cat and runs down the street."
+story_util-20001022,23 Con Espressione
+story_util-10001023,"The 'Summer Garden' is unlocked. Do you wish to proceed Y/N?"
+story_util-20001023,3-γ1 Méditation from Thaïs
+story_util-10001024,"The garden before Erma is utterly different from the one in her memory. It has become painfully apparent to her—there is no going back."
+story_util-20001024,3-γ3 Vladimir's Blues
+story_util-10001025,"First//c let me make this clear. Only one place sells tickets for the Colt Express//c and this is it."
+story_util-20001025,3-γ4 The Well-Tempered Clavier
+story_util-10001026,"If I want to live on as my whole self//c I need to solve my memory problems."
+story_util-20001026,5-γ5 The Canary
+story_util-10001027,"You're like me. You're 'Mother's' child!"
+story_util-20001027,5-γ7 Choral Fantasy
+story_util-10001028,"I am the first//c and you... are the 63rd."
+story_util-20001028,5-γ8 Torna a Surriento - UX
+story_util-10001029,"Madam Instructor//c would you like to do business with me?"
+story_util-20001029,8 Rhapsody on a Theme of Paganini
+story_util-10001030,"Lyudmila feels like a different person... Maybe that's just her game face."
+story_util-20001030,9 Ghost
+story_util-10001031,"Evening Star has fallen."
+story_util-20001031,10 L'estro Armonico
+story_util-10001032,"Regardless of how you modify me//c I still love myself best."
+story_util-20001032,29 Summer
+story_util-10001033,"I'll make sure I pay her out for you as well//c Catherine."
+story_util-20001033,30 Symphony No. 6
+story_util-10001034,"On board the collapsing Colt Express//c Erma holds on tightly to Maggie."
+story_util-20001034,31 Zigeunerweisen
+story_util-10001035,"The stars have risen."
+story_util-20001035,32 1812 Overture
+story_util-10001036,"You're free//c Erma."
+story_util-20001036,33 Air on the G String
+story_util-10001037,"You lack a certain scent. It's the smell of "money" that rich people have on them."
+story_util-20001037,2 Radiation Alarm
+story_util-10001038,"Welcome aboard the Colt Express."
+story_util-20001038,3 Bar Counter
+story_util-10001039,"The Vory are about to begin their 'hunt'."
+story_util-20001039,4 Vintage Gramophone
+story_util-10001040,"You should call me... BABA LYUBA!
+story_util-20001040,5 Toilet
+story_util-10001041,"They make only several hundred credits in a month//c you think they'd risk their lives for this?"
+story_util-20001041,6 World Time Zone Clocks
+story_util-10001042,"I need the strength of every single Doll//c even those who aren't T-Dolls.
+story_util-20001042,7 Door to VIP-Class Carriage
+story_util-10001043,"It's all for the sake of the Neo-Soviet Union's future."
+story_util-20001043,11 Large Luggage Rack
+story_util-10001044,"Having a weakness is a terrifying thing."
+story_util-20001044,15 Window with a View
+story_util-10001045,"You should be in the world of the humans. You belong there."
+story_util-20001045,19 Elegant Bouquet on the Table
+story_util-10001046,"That's just how humans are. They seek things that they lack."
+story_util-20001046,20 Vendor's Pushcart
+story_util-10001047,"I'm a doctor. Saving people is my job."
+story_util-20001047,24 Humorous Graffiti
+story_util-10001048,"The last Colt Express of the night is about to depart."
+story_util-20001048,28 Maintenance Room
+story_util-10001049,"Paradeus//c it's time you went to hell."
+story_util-20001049,34 Trapdoor
+story_util-10001050,"Pain always lasts so long//c like a snail diligently crawling forward. Yet joy is so fleeting//c like a rabbit's tail bounding across the autumn plains."
+story_util-20001050,35 Hanging Screen
+story_util-10001051,"School's out! Time to head home."
+story_util-20001051,"35-T1 Étude No. 2
+story_util-10001052,"Good//c that's another option down."
+story_util-20001052,35-T2 Prelude No. 5
+story_util-10001053,"Tareus steps over the blue bag and vanishes into the second-class carriage."
+story_util-20001053,35-T3 Romance
+story_util-10001054,"Tareus has named her mech after this word—'Miss Eve'."
+story_util-20001054,35-T4 Moments Musicaux
+story_util-10001055,"We do not follow the law//c and the home for a Vor is in prison."
+story_util-20001055,35-W1 Solveig's Song
+story_util-10001056,"These 'cake-eaters' don't give a damn whether mooks like them live or die."
+story_util-20001056,35-W2 Clarinet Concerto in A Major
+story_util-10001057,"Loyalty is proved with action//c not words."
+story_util-20001057,35-W3 Tour di Mantova
+story_util-10001058,"This is not a blessing from God//c but a curse..."
+story_util-20001058,35-W4 Tristesse
+story_util-10001059,"I'm not useless; I'm just f*cking unlucky!"
+story_util-20001059,35-N1 Fantaisie-Impromptu
+story_util-10001060,"Killing the goose only yields temporary profit. Sustainable development is the way to go."
+story_util-20001060,35-N2 Spring Sonata
+story_util-10001061,"No one has ever managed to trick me like this!"
+story_util-20001061,35-N3 Minuet
+story_util-10001062,"Poker is all you know//c so that makes you Miss Poker."
+story_util-20001062,35-C1 Gymnopedie
+story_util-10001063,"Dolls who are constantly struggling to survive can always see the ugly//c twisted truth."
+story_util-20001063,35-C2 Moon River
+story_util-10001064,"Free... We're free!"
+story_util-20001064,35-C3 Starry Starry Night
+story_util-10001065,"From now on//c my name is Maggie Ponzi//c and yours is Catherine Ponzi."
+story_util-20001065,35-C4 O Sole Mio
+story_util-10001066,"Sometimes//c all forks in life lead to the same endpoint."
+story_util-20001066,35-R1 Tzigane
+story_util-10001067,"Nothing has changed. Nothing will ever change."
+story_util-20001067,35-R2 Sommeraften
+story_util-10001068,"The happiness that he started out with has long since turned into regrets."
+story_util-20001068,35-R3 Piano Quintet in B minor
+story_util-10001069,"Turns out... all I've ever wanted is the gratification of saving lives..."
+story_util-20001069,35-R4 Piano Concerto in F minor
+story_util-10001070,"No roses exist in any of the places that I can travel to."
+story_util-20001070,35-P1 Twelve Variations on "Ah vous dirai-je//c Maman"
+story_util-10001071,"She knows the Sweet Dreams Box doesn't make any dreams come true//c but even so//c she refuses to give up."
+story_util-20001071,35-P2 Death and the Maiden
+story_util-10001072,"Behind him is his eternal angel//c his rose for which there is no substitute."
+story_util-20001072,35-P3 Salut d'Amour
+story_util-10001073,"I will not let your sacrifice be in vain."
+story_util-20001073,36 Vox Lux
+story_util-10001074, [Marker] Scoring Map Prompt
+story_util-20001074,
+story_util-10001075,"Even after all this time//c Fate has led them back to each other."
+story_util-20001075,First Contact
+story_util-10001076,"Always have a backup plan for when your credo fails you."
+story_util-20001076,Second Contact
+story_util-10001077,"I want to pay this courage forward to someone else who needs it."
+story_util-20001077,Totality
+story_util-10001078,"I am the moon that swallows the sun. Just like how the eclipse is the shadow that swallows all daylight."
+story_util-20001078,Third Contact
+story_util-10001079,"Her 13 years of slumber feels like nothing more than a dream//c but Daybreak was never gone."
+story_util-20001079,Long-Period Perturbation
+story_util-10001080,"Congratulations//c you've embarked on a new journey. This is a good beginning."
+story_util-20001080,Short-Period Perturbation
+story_util-10001081,"Only when the past catches up to you will you understand that running away won't solve anything."
+story_util-20001081,Lunar Orbital Inclination
+story_util-10001082,"Day and night//c dawn and dusk//c sun and moon."
+story_util-20001082,Catastrophe
+story_util-10001083,"When you point your gun at someone//c you should've thought of all the possibilities."
+story_util-20001083,Ingress
+story_util-10001084,"The moon illuminates the way with borrowed light//c and that's enough to guide travelers through the fog."
+story_util-20001084,Egress
+story_util-10001085,"The target was codenamed "Capita"//c and his listed name was Laplace."
+story_util-20001085,Homology
+story_util-10001086,"I miss the man of yesterday and the city of tomorrow."
+story_util-20001086,Capture
+story_util-10001087,"The interpersonal communications between Dolls are not just about the mission//c but also about our feelings."
+story_util-20001087,Antumbra
+story_util-10001088,"You're my personal property. Nobody can touch you without my permission."
+story_util-20001088,Umbra
+story_util-10001089,"I've already designated you as the heroine of this work of mine. How can the heroine lose so easily?"
+story_util-20001089,Annulus
+story_util-10001090,"There were nine figures in the photograph//c and Eula was standing right next to Samo."
+story_util-20001090,Planetary Ring
+story_util-10001091,"You'll be alone forever. What kind of team leader has no teammates?"
+story_util-20001091,Mare Crisium
+story_util-10001092,"My name is Amaris."
+story_util-20001092,Mare Tranquillitatis
+story_util-10001093,"Dogtags are a tombstone for a special forces soldier after they die. Aliana knows what that means//c and that goes double for Amaris."
+story_util-20001093,Lunar Node
+story_util-10001094,"...The night is silent once more."
+story_util-20001094,Last Contact
+story_util-10001095,"A new day will always dawn//c and the sun will rise as always."
+story_util-20001095,Outer Lagrange Point
+story_util-10001096,"As always//c the gentle moonlight illuminates her way forward."
+story_util-20001096,Inner Lagrange Point
+story_util-10001097,A single glance was not enough to plumb the depths//c so they used even greater weights.
+story_util-20001097,Initial Inference
+story_util-10001098,The only answer the questioner received was a riddle that repeats itself.
+story_util-20001098,Analytic Inference
+story_util-10001099,When the answer refused to appear//c the seeker chose to raise the staks to the maximum.
+story_util-20001099,Transcendental Inference
+story_util-10001100,When all variables are exhausted to no avail//c it invites the unknown called "humanity".
+story_util-20001100,Interpolation Analysis
+story_util-10001101,Silence is acceptance//c just as how a victory outside the rules is granted the right to persist.
+story_util-20001101,Error Analysis
+story_util-10001102,The clamor of data condenses into a single conclusion.
+story_util-20001102,Asymptotic Analysis
+story_util-10001103,In the vacuum of rules//c all actions exist merely to fill the void of data.
+story_util-20001103,Harmonic Simulation
+story_util-10001104,"Then may we never fall."
+story_util-20001104,Real Analysis Simulation
+story_util-10001105,"Who knows//c a miracle might occur."
+story_util-20001105,Complex Manifold Simulation
+story_util-10001106,When an expedition of reason is lost in the sea of data//c the most direct physical interference can instead make for the smoothest of sailing.
+story_util-20001106,Bayesian Decision
+story_util-10001107,
+story_util-20001107,From Griffin//c With Love
+story_util-10001108,
+story_util-20001108,Do-Re-Mi
+story_util-10001109,
+story_util-20001109,Head Up//c Back Straight//c Hip Turned
+story_util-10001110,
+story_util-20001110,Welcome!
+story_util-10001111,
+story_util-20001111,Glup//c Glup
+story_util-10001112,
+story_util-20001112,Hiss//c Sizzle//c Whoosh
+story_util-10001113,
+story_util-20001113,For Whom Do You Fight?
+story_util-10001114,
+story_util-20001114,Destiny
+story_util-10001115,
+story_util-20001115,Dusk and Dawn
+story_util-10001116,
+story_util-20001116,Day 1 – Noon
+story_util-10001117,
+story_util-20001117,Day 1 – Night
+story_util-10001118,
+story_util-20001118,Day 2 – Noon
+story_util-10001119,
+story_util-20001119,Day 2 – Night
+story_util-10001120,
+story_util-20001120,Day 3 – Noon
+story_util-10001121,
+story_util-20001121,Day 3 – Night
+story_util-10001122,
+story_util-20001122,Day 4 – Noon
+story_util-10001123,
+story_util-20001123,Day 4 – Night
+story_util-10001124,
+story_util-20001124,Day 5 – Noon
+story_util-10001125,
+story_util-20001125,Day 5 – Night
+story_util-10001126,
+story_util-20001126,Day 6 – Noon
+story_util-10001127,
+story_util-20001127,Day 6 – Night
+story_util-10001128,
+story_util-20001128,Day 7 – Noon
+story_util-10001129,
+story_util-20001129,A Night of Laughter and Tears
+story_util-10001130,
+story_util-20001130,A Night of Neon Colors
+story_util-10001131,
+story_util-20001131,A Night of Rising Wind
+story_util-10001132,
+story_util-20001132,A Night of Grayish White
+story_util-10001133,
+story_util-20001133,A Loose Backdrop
+story_util-10001134,
+story_util-20001134,Don't Let the Music Stop//c Dance Till You Drop
+story_util-10001135,
+story_util-20001135,The Distance from Shoulder to Shoulder
+story_util-10001136,
+story_util-20001136,Do Your Best//c Part-Timer!
+story_util-10001137,
+story_util-20001137,Rush! To the Top!
+story_util-10001138,
+story_util-20001138,Inspiration! Springing Forth!
+story_util-10001139,
+story_util-20001139,Keep Clear!
+story_util-10001140,
+story_util-20001140,Strangers in a Foreign Land
+story_util-10001141,
+story_util-20001141,Pavilion in the Rain
+story_util-10001142,
+story_util-20001142,Perfect Strangers
+story_util-10001143,
+story_util-20001143,Night-Time Fantasia
+story_util-10001144,
+story_util-20001144,Traveler in Time
+story_util-10001145,
+story_util-20001145,Rampaging Radio Show!
+story_util-10001146,
+story_util-20001146,Precious Treasure
+story_util-10001147,
+story_util-20001147,When Did the Moon Start Shining?
+story_util-10001148,
+story_util-20001148,Top Secret Agent
+story_util-10001149,
+story_util-20001149,Rampaging Memories!
+story_util-10001150,
+story_util-20001150,Gift Giver
+story_util-10001151,
+story_util-20001151,Moonlit Ocean
+story_util-10001152,
+story_util-20001152,Sound of the Sea
+story_util-10001153,
+story_util-20001153,Heart of the Cherry Blossom
+story_util-10001154,
+story_util-20001154,Drifting Apart in the Haze
+story_util-10001155,
+story_util-20001155,The Remains of the Day
+story_util-10001156,
+story_util-20001156,Rampage at the Graduation Ceremony
+story_util-10001157,
+story_util-20001157,"Please Don't Go"
+story_util-10001158,
+story_util-20001158,Dazzling Love
+story_util-10001159,
+story_util-20001159,Until the Sun Goes Down
+story_util-10001160,"Your life has only just begun."
+story_util-20001160,Black Iris
+story_util-10001161,"Teacher//c will you fight for your country?"
+story_util-20001161,WTR In the Wild North
+story_util-10001162,"All theorems have exceptions."
+story_util-20001162,WTR Beech Grove I
+story_util-10001163,"Where we're pointing our guns is what puts us in different camps."
+story_util-20001163,WTR The Hunters in the Snow
+story_util-10001164,"Positions. Basically//c our asses are sitting in different chairs."
+story_util-20001164,WTR Stag Beetle
+story_util-10001165,"To hell with your position! That's my brother!"
+story_util-20001165,WTR Composition II
+story_util-10001166,"The simplest and steadiest relationships are the ones that can be measured with money."
+story_util-20001166,WTR Morning Sunlight on the Snow
+story_util-10001167,"That's because right now//c your world is too small."
+story_util-20001167,WTR The Pontine Marshes at Sunset
+story_util-10001168,"A couple of snowflakes will melt if they land in fire//c but what if it's a Siberian blizzard?"
+story_util-20001168,SPR Evening: Red Tree
+story_util-10001169,"Fighting isn't hard. I'll teach you bit by bit."
+story_util-20001169,SPR Composition VI
+story_util-10001170,"From that day//c I had past the point of no return."
+story_util-20001170,SPR Gray Tree
+story_util-10001171,"Snowflakes drift into the fire of battle//c not leaving a single trace behind."
+story_util-20001171,SPR Composition B with Red
+story_util-10001172,"The nations are tearing at each other like a pack of hyenas. You risk your life and manage to pluck a tuft of fur. Then what?"
+story_util-20001172,SPR Tableau No. 1
+story_util-10001173,"So we're different."
+story_util-20001173,SPR Wing of a Blue Roller
+story_util-10001174,"They were created for killing//c but killing isn't the only thing they're capable of."
+story_util-20001174,SUM The Swan//c Group IX No. 1
+story_util-10001175,"My style of command is quite simple—people do as I say."
+story_util-20001175,SUM Sunlight in the Blue Room
+story_util-10001176,"Commander Angelia//c please cooperate with us."
+story_util-20001176,SUM The Angelus
+story_util-10001177,"LAMG//c I'll buy you that drink I owe you in the next life."
+story_util-20001177,SUM Blown Away
+story_util-10001178,"The arrow has left the bow and hit its target."
+story_util-20001178,SUM Path in the Forest
+story_util-10001179,"I shall seek vengeance with my broken life."
+story_util-20001179,SUM The Goldfinch
+story_util-10001180,"Save a round for me. If we fail//c maybe..."
+story_util-20001180,SUM Life is a Struggle
+story_util-10001181,"When the bird plummeted to the ground//c I did not cry."
+story_util-20001181,SUM The Swan//c Group IX No. 6
+story_util-10001182,"I suppose you live in a better//c more unified world?"
+story_util-20001182,AUT Harmony in Blue and Silver
+story_util-10001183,"Do you know the three types of people that I hate the most?"
+story_util-20001183,AUT Fiddler on the Roof
+story_util-10001184,"The fun in fishing lies in the fact that you'll never know what fish will take the bait next."
+story_util-20001184,AUT Isle of the Dead
+story_util-10001185,"When a duet turns into a trio."
+story_util-20001185,AUT The Wave
+story_util-10001186,2-3-2 Cretan Labyrinth III
+story_util-20001186,AUT Clock with Blue Wing
+story_util-10001187,"Nobody anticipated this//c not even me."
+story_util-20001187,AUT Death and Life
+story_util-10001188,"You knew there'd be no going back//c and yet you still forged on."
+story_util-20001188,AUT Moonlit Night on the Dnipro
+story_util-10001189,"She is standing at the Gate of Hell//c and we will be going with her."
+story_util-20001189,L1 Tree of Life
+story_util-10001190,"Project Hela//c Test Subject No. 10373—Angelia."
+story_util-20001190,L2 Central Control Room Monitor
+story_util-10001191,"Right now//c I might even dare to hope."
+story_util-20001191,L3 Operating Table
+story_util-10001192,"Ange//c I will save you."
+story_util-20001192,L4 Circles in a Circle
+story_util-10001193,"Humans... cannot simulate the real Creator."
+story_util-20001193,L5 Turn Right-Turn Left
+story_util-10001194,"This is the alarm for abnormal radiation levels."
+story_util-20001194,L6 Pass Box
+story_util-10001195,"She's awake..."
+story_util-20001195,L7 Purifier
+story_util-10001196,"Please give me... the dignity to die like a human..."
+story_util-20001196,L8 Girl Before a Mirror
+story_util-10001197,"Operation Ilya Muromets is a go."
+story_util-20001197,F1 The Red Rider
+story_util-10001198,"Blood for blood."
+story_util-20001198,F2 Wanderer above the Sea of Fog
+story_util-10001199,"Iron and blood. Light and fire. Rain and tears."
+story_util-20001199,F3 The Black Square
+story_util-10001200,"The Gatekeeper of Hell."
+story_util-20001200,F4 Arrangement in Grey and Black
+story_util-10001201,"I wonder how beautiful you'd look as your resolve wavers."
+story_util-20001201,F5 Allegory of Sculpture
+story_util-10001202,"Daylight that pierces through the dark."
+story_util-20001202,F6 Dull Red | Avernus | Avernus
+story_util-10001203,"Welcome back//c Sana."
+story_util-20001203,F7 The Son of Man
+story_util-10001204,"Dandelion has landed at the designated position."
+story_util-20001204,F8 The Persistence of Memory
+story_util-10001205,"On the Bridge of Judgment."
+story_util-20001205,F9 The Gun Salute
+story_util-10001206,"The threat of a bee sting always comes before the stinger itself."
+story_util-20001206,F10 White on White
+story_util-10001207,"Give me three minutes."
+story_util-20001207,F11 The Crossing of the Red Sea
+story_util-10001208,"Fangs going straight for the neck."
+story_util-20001208,F12 The Architectonic Angelus of Millet
+story_util-10001209,"Don't be afraid. I'm with you."
+story_util-20001209,F13 The Deluge
+story_util-10001210,"The plains meet the ice-tipped mountains."
+story_util-20001210,F14 Knight//c Death and the Devil
+story_util-10001211,"At all costs. At WHOSE cost?"
+story_util-20001211,F15 Guernica
+story_util-10001212,"If everything in life is futile//c what is the point in struggling?"
+story_util-20001212,F16 Death and Fire
+story_util-10001213,"Just a brief moment. Even just a brief moment of freedom will do."
+story_util-20001213,F17 Black Cross
+story_util-10001214,"I will stand guard here until the very end//c because..."
+story_util-20001214,F18 The Last Judgment
+story_util-10001215,"Once we crawl outside//c will there be light?"
+story_util-20001215,F19 Altarpiece No. 1
+story_util-10001216,"RO! SOP-II!"
+story_util-20001216,F20 Sunset
+story_util-10001217,"What do you see?"
+story_util-20001217,SSE01 Platform
+story_util-10001218,"Vestige of another time."
+story_util-20001218,SSE01-1 Passage Below the Platform
+story_util-10001219,"Other than this headless statue//c there's nothing here."
+story_util-20001219,SSE02 Eastern Tower//c Great Hall
+story_util-10001220,"Paradeus' training ground."
+story_util-20001220,SSE02-1 Eastern Tower//c Level 2 (East)
+story_util-10001221,"Traces they have left behind."
+story_util-20001221,SSE02-1 Eastern Tower//c Level 3 (West)
+story_util-10001222,"Clean up the scene. Also//c be careful with the data."
+story_util-20001222,SSE03 Bee Sting System
+story_util-10001223,"Is it the truth//c or just another lie?"
+story_util-20001223,SSE03-1 Eastern Tower//c Level 32
+story_util-10001224,"Some fragments..."
+story_util-20001224,SSE03-1 Eastern Tower//c Level 37
+story_util-10001225,"This room was a trap to begin with."
+story_util-20001225,SSE03-1 Eastern Tower//c Level 40
+story_util-10001226,"We've reached Level 56 of the Eastern Tower."
+story_util-20001226,SSE04 Relic Experiment Area
+story_util-10001227,"Let's get to work in this mess."
+story_util-20001227,SSE04-1 Control Center
+story_util-10001228,"Burn after reading."
+story_util-20001228,SSE04-2 Visual Simulation Area
+story_util-10001229,"What a terrible place."
+story_util-20001229,SSE04-3 Projection Experiment Area
+story_util-10001230,"Searching for errant specks of dust in cleanliness."
+story_util-20001230,SSE05 Operation Level
+story_util-10001231,"Please make sure you stay warm."
+story_util-20001231,SSE06 Secret Corridor
+story_util-10001232,
+story_util-20001232,Antler Brown
+story_util-10001233,
+story_util-20001233,Bone Black
+story_util-10001234,
+story_util-20001234,Labyrinthine Defense+
+story_util-10001235,"What can we do to truly give an AI the ability to think and a will of its own?"
+story_util-20001235,No Feeding
+story_util-10001236,"What I want is a Doll who possesses truly conscious thinking."
+story_util-20001236,Double Insurance
+story_util-10001238,"Before learning to be a human//c you must first learn to be a Doll."
+story_util-20001238,Endgame Puzzle
+story_util-10001239,"Rather than bask in a momentary victory//c we need to learn how to properly think."
+story_util-20001239,Dimension of Consciousness
+story_util-10001240,"In your body//c I see the 'future'."
+story_util-20001240,Perfect Ascension
+story_util-10001241,"Operation Ilya Muromets is now officially underway."
+story_util-20001241,Supplementary Testing
+story_util-10001242,"Her written test might have been underwhelming//c but her firepower on the battlefield is second to none."
+story_util-20001242,Call-to-Arms
+story_util-10001243,"Our enemies won't be so easily conquered... but I want to keep trying."
+story_util-20001243,Unexpected Development
+story_util-10001244,"She's right//c we really shouldn't let you play forward this time."
+story_util-20001244,Survival Margin
+story_util-10001245,"You call yourself an elite Doll//c yet this is the best you can do?"
+story_util-20001245,Restart
+story_util-10001246,"Invigilator's passage... backstage data... Gotcha!"
+story_util-20001246,Outsider Insight
+story_util-10001247,"Aren't you supposed to be Tactical Dolls?!"
+story_util-20001247,New-Found Courage
+story_util-10001248,"Maximize a Doll's potential."
+story_util-20001248,Never Too Late
+story_util-10001249,"You win or you die."
+story_util-20001249,On the Horizon
+story_util-10001250,"I promise there will be a huge surprise in store for you..."
+story_util-20001250,Revelations
+story_util-10001251,
+story_util-20001251,Vortex of Secrets PLUS
+story_util-10001252,
+story_util-20001252,
+story_util-10001253,
+story_util-20001253,
+story_util-10001254,
+story_util-20001254,
+story_util-10001255,
+story_util-20001255,
+story_util-10001256,
+story_util-20001256,
+story_util-10001258,
+story_util-20001258,
+story_util-10001259,
+story_util-20001259,
+story_util-10001260,
+story_util-20001260,
+story_util-10001261,
+story_util-20001261,
+story_util-10001262,
+story_util-20001262,
+story_util-10001263,
+story_util-20001263,
+story_util-10001264,
+story_util-20001264,
+story_util-10001265,
+story_util-20001265,
+story_util-10001266,
+story_util-20001266,
+story_util-10001267,
+story_util-20001267,
+story_util-10001268,
+story_util-20001268,
+story_util-10001269,
+story_util-20001269,
+story_util-10001270,
+story_util-20001270,
+story_util-10001271,
+story_util-20001271,
+story_util-10001272,"I rebel//c therefore I exist."
+story_util-20001272,The Rebel
+story_util-10001273,"At the end of the garden//c the statue of the golden goddess glares at the flying bird."
+story_util-20001273,The Birds
+story_util-10001274,"Under the leadership of old friends//c Erma returns to the long-lost garden."
+story_util-20001274,Luxury//c Peace//c and Pleasure
+story_util-10001275,"Under the brilliant palace lies a secret buried by his majesty."
+story_util-20001275,The Open Window
+story_util-10001276,"That which the Fox Sisters lost became the guiding wind for Erma's new journey."
+story_util-20001276,Harmony in Red
+story_util-10001277,"We always keep looking back at the past. Only by facing the abyss of the past can time continue to move forward."
+story_util-20001277,The Broken Vase
+story_util-10001278,"We are born from a mother's cradle//c and shall return to one at our end."
+story_util-20001278,The Cradle
+story_util-10001279,"That which we define as heaven is simply an imaginary construct of our human mind. Heaven changes according to what you are willing to believe it to be."
+story_util-20001279,Artificial Paradises
+story_util-10001280,"Here//c the stones are lonely. Oh you//c broad and melancholic soul//c trod a night without end//c a dawn to never rend."
+story_util-20001280,The Lamp
+story_util-10001281,"They know our eternal desires//c they meld the darkness inside all of us with so much fire."
+story_util-20001281,Words in Stone
+story_util-10001282,"And see thy blood warm when thou feel'st it cold."
+story_util-20001282,I Live//c I Die
+story_util-10001283,"The bird sends its first letter to a distant land."
+story_util-20001283,Portrait of a Bird
+story_util-10001284,"A fairy tale arrives in the hands of Lyudmila."
+story_util-20001284,The King and the Bird
+story_util-10001285,"Regardless of whether she was successful or if she went through much trouble//c Lyudmila has been caught in a whirlpool of confusion."
+story_util-20001285,Dance of the Nymphs
+story_util-10001286,"Lyudmila has always been worried about being clueless//c only to find out that she was the one most familiar with the rules of the game at the table."
+story_util-20001286,The Card Players
+story_util-10001287,"Among ruins is a bird freed from death//c a nest among gray stones under the sun's breath. Beyond sorrow//c beyond memory; it knows there is no tomorrow in eternity."
+story_util-20001287,The Bird Among Ruins
+story_util-10001288,"Here//c the symbol has collapsed. Here//c it is almost dawn."
+story_util-20001288,After the Fire
+story_util-10001289,
+story_util-20001289,Operation Mistbuster+
+story_util-10001290,"The back of a starfish hosts a strange world. Spirits gather here//c and fate has led souls here too."
+story_util-20001290,Witches' Sabbath
+story_util-10001291,"The spirits have each chosen a different girl//c and each girl has chosen their own fate."
+story_util-20001291,The Land of Miracles
+story_util-10001292,"The Reaper has fallen//c yet the shadow of death still hangs over each and every soul in the Otherworld.
+story_util-20001292,Time Transfixed
+story_util-10001293,"A fork appears in the path. One leads to a fog-shrouded past of sorrow//c the other leads to a garden where the sun always shines cheerfully."
+story_util-20001293,The Gold of the Azure
+story_util-10001294,"One will always have to sacrifice blood and soul in the name of protecting their truth."
+story_util-20001294,The Search for Truth
+story_util-10001295,"Every time you think you have been backed to a corner of hopelessness//c there is an even deeper despair waiting for you at the end."
+story_util-20001295,The Lost Jockey
+story_util-10001296,"The world chose destruction//c bringing an eternal end//c or perhaps a new beginning?"
+story_util-20001296,The False Mirror
+story_util-10001297,"To reach the best ending//c she travels from one world to another."
+story_util-20001297,Migratory Birds
+story_util-10001298,"In the heavy//c depressive darkness//c a familiar voice brings hope."
+story_util-20001298,The Harlequin's Carnival
+story_util-10001299,"A broken card has become her last hope."
+story_util-20001299,The Blank Signature
+story_util-10001300,"When a group of long-lost friends reunite//c the countdown to separation begins."
+story_util-20001300,Sleep
+story_util-10001301,"Open these eyes//c only to see through truth//c reality//c and the world."
+story_util-20001301,The Birth of the World
+story_util-10001302,"A fragment of the world's truth has been revealed to you."
+story_util-20001302,Fragments of Thoth I
+story_util-10001303,"The world gradually shows you more of the truth."
+story_util-20001303,Fragments of Thoth II
+story_util-10001304,"Behind these cards a gloomy shadow is cast. Does it hide oppressive death//c or bury ever deeper secrets?"
+story_util-20001304,Fragments of Thoth III
+story_util-10001305,"You are very close to the truth behind it all."
+story_util-20001305,Fragments of Thoth IV
+story_util-10001306,"You have seen all//c and lost all."
+story_util-20001306,Fragments of Thoth V
+story_util-10001307,"Through countless reincarnations and countless forgetting//c only a final thought of obsession has been left for her."
+story_util-20001307,Circular Destiny
+story_util-10001308,The empty Elmo//c the unexpected transfer order and the rebroadcast of [Faust]... Everything so far has led me to you.
+story_util-20001308,A Winter's Tale
+story_util-10001309,My Name is Embla Petrovskaya.
+story_util-20001309,Doppelgänger
+story_util-10001310,Deep into a Frankfurt night//c the people hurt each other//c compromise in the name of benefit//c struggle in the dark... And form an oppressive tango.
+story_util-20001310,Oppressive Tango
+story_util-10001311,Pursuing whom she hates//c AK-15 has found a temporary outpost of Paradeus.
+story_util-20001311,Benighted
+story_util-10001312,What awaited her was simply another plot.
+story_util-20001312,Knulp
+story_util-10001313,At the Refuge of Civilization//c the world's purest place//c a bloodbath was about to begin.
+story_util-20001313,The Fox Was Ever the Hunter
+story_util-10001314,With a sudden surge of piety//c she lights a candle.
+story_util-20001314,The Glass Bead Game
+story_util-10001315,Are you willing to sell your soul if the Devil could satisfy all your desires?
+story_util-20001315,The Ultimate Boon
+story_util-10001316,One reason I still remain in this world is to kill you.
+story_util-20001316,Pale-Voiced
+story_util-10001317,Give yourself to darkness//c speak my name//c and lead me to her.
+story_util-20001317,The Fog Horn
+story_util-10001318,And so//c the dead bud//c then bloom.
+story_util-20001318,Eye of the Times
+story_util-10001319,The path which leads to God does not guide us backwards//c but pushes us forward//c towards evil//c moving us to spiritual practice.
+story_util-20001319,Steppenwolf
+story_util-10001320,This is our promise about the plane and the world.
+story_util-20001320,Death of an Airman I
+story_util-10001321,How ambitious! You are all as ambitious as Catherine!
+story_util-20001321,Death of an Airman II
+story_util-10001322,Just wait. I will prove to you and the entire world that we don't need relic technology at all.
+story_util-20001322,Death of an Airman III
+story_util-10001323,SS is her only codename.
+story_util-20001323,Death of an Airman IV
+story_util-10001324,RPK-16... My final hope...
+story_util-20001324,Death of an Airman V
+story_util-10001325,"The viewer is the actor."
+story_util-20001325,Song of Medicines and Poisons
+story_util-10001326,"The impermanence of fate//c is precisely the selling point of the game."
+story_util-20001326,Waiting Through the Night
+story_util-10001327,"Raise your glasses. We deserve to enjoy this evening."
+story_util-20001327,Sweet Soiree
+story_util-10001328,The "Interim Regulations for Doll Security" established to deal with the Doll crisis has brought a unexpected chaos to Frankfurt.
+story_util-20001328,Petrichor
+story_util-10001329,Waking up from a dream that was seemingly without end//c the Commander saw the person they have long been waiting to see.
+story_util-20001329,Mapping Time
+story_util-10001330,Moving past the crowd of protestors//c Nele went to visit her cousin. But behind the their joyful//c nostalgic chatter//c a dark river flowed.
+story_util-20001330,Dark River
+story_util-10001331,With Nele's help//c AR-18's group was finally allowed into Frankfurt.
+story_util-20001331,Lines Outlining Shadows
+story_util-10001332,Change//c growth and rebirth. What a caterpillar calls the end of the world is called a butterfly by the knowledgeable.
+story_util-20001332,Light as a Feather I
+story_util-10001333,Griffin's Dolls have met up successfully. Operation "Adrasteia" begins.
+story_util-20001333,Trek
+story_util-10001334,A woman operating in the name of "Miss Hebe" has appeared in Paradeus' base. A new plot is brewing...
+story_util-20001334,Double Exposure
+story_util-10001335,Nytos obviously experience jealousy//c rivalry//c and can be defensive//c vicious and cruel... Why can't they be classified as human then?
+story_util-20001335,Light as a Feather II
+story_util-10001336,After the short meeting with Miss Hebe//c Nele begins on her journey to the White Zones to see her maternal grandfather. A mysterious expedition awaits.
+story_util-20001336,Lost in Chaos
+story_util-10001337,While the world is in chaos//c two prisoners have a date//c isolated from the world.
+story_util-20001337,A Beautiful Loneliness
+story_util-10001338,Squad 404 moves out//c hacking into the Bee Sting system to find information. The squad appearing to be as normal has a dark//c vicious malevolence hanging above their heads.
+story_util-20001338,The Fog Rises
+story_util-10001339,Let us once again meet in the cocoon//c and be reborn in it.
+story_util-20001339,Light as a Feather III
+story_util-10001340,After an unpleasant meeting with her maternal grandfather in the White Zones//c Nele reunites with an unexpected person from her past.
+story_util-20001340,The Gaze
+story_util-10001341,Squad 404 has not realized that danger has fixed its gaze on them.
+story_util-20001341,Fade to Black
+story_util-10001342,Every Nyto from the "Cocoon" has their own hopes and desires.
+story_util-20001342,Light as a Feather IV
+story_util-10001343,If Chekhov's gun appears in the very first scene//c then it must be fired in the third.
+story_util-20001343,Our War
+story_util-10001344,While recording all available intelligence regarding the White Zones//c Nele finally meets whom she wishes to//c but in an unexpected manner.
+story_util-20001344,Nowhere to Hide
+story_util-10001345,One butterfly emerges from three cocoons strung together.
+story_util-20001345,Light as a Feather V
+story_util-10001346,Like an icicle falling from a glacier//c she plunges toward an endless darkness.
+story_util-20001346,A Cowering Portrait
+story_util-10001347,The end of one campaign heralds the start of another.
+story_util-20001347,Rupture
+story_util-10001348,The bans targeted at Dolls have not been able to turn the tide around. Under the turbulent Frankfurt//c an even bigger plot surfaces.
+story_util-20001348,An Overture for Apoptosis
+story_util-10001349,For the Stasi//c chaos is an elevator.
+story_util-20001349,Secrets Like Skeletons
+story_util-10001350,The game is starting to become even more of a bloodbath//c and the pieces are starting to no longer accept that they will be discarded in the end.
+story_util-20001350,The Fruits of Wrath
+story_util-10001351,When darkness pushes open your window//c remember: You are all here to change the world//c not let the world change you.
+story_util-20001351,An Aquamarine Silence
+story_util-10001352,With confusion and suspicion brimming over//c the Commander decides to take another gamble.
+story_util-20001352,The Ruins of Time
+story_util-10001353,In the lab of Mainz University//c Amaris meets her new partner.
+story_util-20001353,Dark Room
+story_util-10001354,An exchange is happening in the dark. Both sides have received what they want.
+story_util-20001354,The Corpse of Night is Marooned on a Diverged Path
+story_util-10001355,Returning to the Elmo//c the Commander's mind was racing with all kinds of thoughts and emotions. Still//c this is only the beginning.
+story_util-20001355,The Wilds have Woken Up Around Me
+story_util-10001356,Lunasia has found part of her past memories//c and awakened a bloody memory hidden in the darkness.
+story_util-20001356,Fire from a Kingdom of Death
+story_util-10001357,She carries the destiny of vengeance//c coming back from the Kingdom of Death. She arrives to face Paradeus.
+story_util-20001357,Swatted by Paleness
+story_util-10001358,Morridow reunites with an old adversary in the dark underground tunnels.
+story_util-20001358,Lost Bloodstains 
+story_util-10001359,The bullets fired from the Makarov have experienced much//c and perfectly hit their target.
+story_util-20001359,She is at the End of Time
+story_util-10001360,The show comes to an end//c and the actors have received their awards and praises//c leaving the stage.
+story_util-20001360,The Living Keep their Secrets
+story_util-10001361,In the quiet night//c a blaze of light carves through the sky...
+story_util-20001361,A Silent World
+story_util-10001362,Mama has nothing left. I want to be with mama.
+story_util-20001362,A Life that has Yet to Bloom I
+story_util-10001363,This is Sana's happiest moment//c because she is currently on her way to her big sister Anna's home.
+story_util-20001363,A Life that has Yet to Bloom II
+story_util-10001364,To Sana//c a real roadside picnic is way more interesting than a bunch of hard-to-understand books.
+story_util-20001364,A Life that has Yet to Bloom III
+story_util-10001365,Sana reverently closes her eyes//c making a wish to the cake in front of her.
+story_util-20001365,A Life that has Yet to Bloom IV
+story_util-10001366,A cake has been forever forgotten in the fridge ever since that disaster.
+story_util-20001366,A Life that has Yet to Bloom V
+story_util-10001367,
+story_util-20001367,A Lightless Zone
+story_util-10001368,
+story_util-20001368,Playing Blind
+story_util-10001369,
+story_util-20001369,Discordant Notes
+story_util-10001370,
+story_util-20001370,The Wandering Wind
+story_util-10001371,
+story_util-20001371,Concerto
+story_util-10001372,
+story_util-20001372,The Fourth Stone
+story_util-10001373,
+story_util-20001373,A Familiar Blade
+story_util-10001374,
+story_util-20001374,Camel Bells in the Moonlight
+story_util-10001375,
+story_util-20001375,The Second Variation
+story_util-10001376,
+story_util-20001376,The Last Path
+story_util-10001377,
+story_util-20001377,The Spider's Thread
+story_util-10001378,
+story_util-20001378,The Fluttering Wings of a Butterfly
+story_util-10001379,
+story_util-20001379,The Unexpected Suspect
+story_util-10001380,
+story_util-20001380,The Unfading White Garb
+story_util-10001381,
+story_util-20001381,Glistening Ashes
+story_util-10001382,
+story_util-20001382,The Gold-Hungry Rat
+story_util-10001383,
+story_util-20001383,The Executor
+story_util-10001384,
+story_util-20001384,Who Is the Fish?
+story_util-10001385,
+story_util-20001385,Private Execution
+story_util-10001386,
+story_util-20001386,Beyond Offense
+story_util-10001387,
+story_util-20001387,Bullet Holes Never Heal
+story_util-10001388,A meticulously planned endgame becomes a chaotic carnival when a personal secret far more weighty than the game's narrative is revealed.
+story_util-20001388,Nib of Innocence
+story_util-10001389,Thanks to an exquisitely choreographed phantasmagoria//c a group transforms an arrogant victor's glory into a collective lesson in humility.
+story_util-20001389,Dreamcatcher
+story_util-10001390,At this very moment//c the entire Frankfurt is burning.
+story_util-20001390,The Burning Sea of Suffering
+story_util-10001391,The bombardment that struck without warning has left the entire city paralyzed. The trapped Commander extends a helping hand to the citizens.
+story_util-20001391,Like a Scorching Wind
+story_util-10001392,Laplace's last words continue to resound in Nele's ears. With her hands soaked in blood//c she once again finds herself in a dilemma.
+story_util-20001392,The Silent Folds
+story_util-10001393,Groß has been waiting for this moment for far too long.
+story_util-20001393,The Futile Path
+story_util-10001394,She caresses the ice-cold incubation pod. This womb that birthed her will eventually also be her tomb.
+story_util-20001394,The Defeated Knight of Sorrow
+story_util-10001395,I shall take his place and continue to gaze upon this blood-soaked world.
+story_util-20001395,The Rain That Never Ceases
+story_util-10001396,The bombardment persists. There is seemingly no end to the dull rumble.
+story_util-20001396,Holding Up the Torch for You
+story_util-10001397,As long as we're alive//c there will always be something that must be done//c something that simply can't be avoided.
+story_util-20001397,A Forgotten Vow
+story_util-10001398,In times of disaster//c there will always be those who step forward and be the bulwark for others.
+story_util-20001398,The Path to a New World
+story_util-10001399,After a day of toil//c the Commander revisits that fateful day many years ago in their dreams...
+story_util-20001399,The Long Night Stirs in Desolation
+story_util-10001400,Nobody cares whether the civilians live or die; someone has to step forward and do something. This is why I have picked up arms.
+story_util-20001400,The Wall That Stands Through Time
+story_util-10001401,All we can do is take a bath of humanity and bow to destiny. Go and do what we can do.
+story_util-20001401,Sand and Seawater by the Shore
+story_util-10001402,If I die one day//c please inscribe this as my epitaph//c "Here lies a brave soul."
+story_util-20001402,A Brave Soul
+story_util-10001403,With the enactment of the Níðhöggr Agreement//c all IOP Dolls will cease operating and have their command authorizations withdrawn.
+story_util-20001403,The Dragon That Gnaws at Tree Roots
+story_util-10001404,While the world rejoices at the establishment of the URNC//c Nele discovers a conspiracy brewing in the shadows of the draft...
+story_util-20001404,Beyond Words//c the World is Cold
+story_util-10001405,In order to sabotage Project Valkyrie//c the Commander leads their remaining Dolls in a charge to where the final operation will take place.
+story_util-20001405,The Piercing Red
+story_util-10001406,The agent codenamed "Angelia" will always be your comrade-in-arms in whichever world//c no matter what choices were made.
+story_util-20001406,A Lonely Soul's Prayer
+story_util-10001407,Having made a courageous choice//c Nele is arrested//c but thanks to her grandfather's help//c she manages to get out of danger unscathed.
+story_util-20001407,A Flame Burning in a Desolate World
+story_util-10001408,Congratulations to you—and me—on finally reaching a resolution.
+story_util-20001408,The Final Move
+story_util-10001409,Commander//c please let me have my way just this once... This is my only choice...
+story_util-20001409,A Song of Defiance
+story_util-10001410,With a new mission//c so comes a new dawn.
+story_util-20001410,The Story of Your Life I
+story_util-10001411,We have been backing down again and again... and now//c there is no more room for retreat.
+story_util-20001411,The Story of Your Life II
+story_util-10001412,This is human nature. Humanity will never be truly united//c for money is the real force of unity.
+story_util-20001412,The Story of Your Life III
+story_util-10001413,We are just in different camps//c but we both love our motherland dearly at the end of the day.
+story_util-20001413,The Story of Your Life IV
+story_util-10001414,This is our one last chance to save the motherland. We either bring forth a reborn Neo-Soviet Union... or die for her.
+story_util-20001414,The Story of Your Life V
+story_util-10001415,Today marked the longest//c most arduous fight in my life. And much to my shame//c I survived.
+story_util-20001415,The Story of Your Life VI
+story_util-10001416,This is our country. This is our land. 
+story_util-20001416,The Story of Your Life VII
+story_util-10001417,That is... the day the warmth welled up... When the numbness faded away and the trust began to grow.
+story_util-20001417,Tokarev's Memories I
+story_util-10001418,Please... Help me...
+story_util-20001418,IOP Branch
+story_util-10001419,Anyone can die in this world//c but you can't leave without saying goodbye.
+story_util-20001419,Frankfurt
+story_util-10001420,If only I could have a home too.
+story_util-20001420,Tokarev's Memories II
+story_util-10001421,There's another side to all this.
+story_util-20001421,Elmo
+story_util-10001422,The fog of uncertainty hangs in the air and the next move is unclear. Just who could this visitor be?
+story_util-20001422,White Zone - Entrance
+story_util-10001423,I won't abandon you.
+story_util-20001423,White Zone
+story_util-10001424,Bloodstains//c uniforms... This is the site of the final defense line.
+story_util-20001424,White Zone - Ground Zero
+story_util-10001425,To fight for others.
+story_util-20001425,Tokarev's Memories III
+story_util-10001426,Any usable trace... must be used to its fullest extent
+story_util-20001426,White Zone - Hospital
+story_util-10001427,Miss Kalin's smile... the look in the Commander's eyes... And that calm//c serene and distant past.
+story_util-20001427,White Zone - Central Hospital
+story_util-10001428,I will fight my whole life for you without regret.
+story_util-20001428,Tokarev's Memories IV
+story_util-10001429,The empty//c bright flame cannot burn away the trail I took to see you.
+story_util-20001429,White Zone - Frankfurt
+story_util-10001430,The showdown beneath the surface grows more vicious by the day.
+story_util-20001430,White Zone - Abandoned Transport Station
+story_util-10001431,The path to the final hope is paved in blood...
+story_util-20001431,White Zone - Abandoned Subway Network
+story_util-10001432,A malicious lie...
+story_util-20001432,White Zone - Abandoned Subway Network - Terminus
+story_util-10001433,Nothing is over. We still have a mission.
+story_util-20001433,Singularity
+story_util-10001434,You are the ultimate goal of my life.
+story_util-20001434,Ashen Heaven
+story_util-10001435,The bitter rain falls relentlessly and everything seems unreal//c like dew or lightning.
+story_util-20001435,Birth Of The Devil
+story_util-10001436,...Love led us to one life... Love led us to one death.
+story_util-20001436,The Truth
+story_util-10001437,"If my heart had not entered the flame..." "My blood would have followed you onward..."
+story_util-20001437,The Goddess' Response
+story_util-10001438,"William//c I've brought you a gift you will love..."
+story_util-20001438,Accolade
+story_util-10001439,DEFY is watching you.
+story_util-20001439,Bloodstained Venus
+story_util-10001440,The black hole evaporates.
+story_util-20001440,King Versus King
+story_util-10001441,"You must be a very good dog..."
+story_util-20001441,Reichenbach Symphony I
+story_util-10001442,"No matter where you might be//c I shall bring you death."
+story_util-20001442,Reichenbach Symphony II
+story_util-10001443,The die is cast.
+story_util-20001443,Player
+story_util-20001444,Silent Sandtable
+story_util-10001445,Before saving the world//c you must witness "Lunasia's death".
+story_util-20001445,"All The Lights In The Sky Are Stars"
+story_util-10001446,"You" will prepare thousands//c tens of thousands of paths//c and "I" will only ever choose the most lonely and marvellous of them.
+story_util-20001446,"New World"
+story_util-10001447,"A single life is too short; you only had enough time to become a brave man."
+story_util-20001447,"Past The Infinite Darkness"
+story_util-10001448,The acid rain cloud called "Paradeus" always accumulates above sewage.
+story_util-20001448,"Achievement Point"
+story_util-10001449,If it was you...
+story_util-20001449,"The Real Folk Blues//c Part I"
+story_util-10001450,A tactical victory cannot make up for a strategic misstep.
+story_util-20001450,"The Real Folk Blues//c Part II"
+story_util-10001451,At times//c lies are defeated by a little bit of courage—May your courage shine on forever.
+story_util-20001451,"The Vision of Youth"
+story_util-10001452,Old enemies//c reunited at the very end.
+story_util-20001452,"Coming of the Promised Day"
+story_util-10001453,"Ideals are a truly terrifying double-edged sword."
+story_util-20001453,"My Very Best Friend"
+story_util-10001454,I should just kill myself.
+story_util-20001454,"The Challengers"
+story_util-10001455,That is the kind of defeat you hate most.
+story_util-20001455,"Eclipse"
+story_util-10001456,"Because... You are William//c and our score will never//c ever be settled."
+story_util-20001456,“Hellfire”
+story_util-10001457,That promise drifted in the wind and landed in the heart//c but unfortunately it could not sprout the flower of fulfilment.
+story_util-20001457,"Awakening"
+story_util-10001458,A misstep after a long separation is like sweet//c poisoned wine—It tastes good//c but ultimately//c it brings only death.
+story_util-20001458,"Initialize"
+story_util-10001459,"Is Gray... alright?"
+story_util-20001459,"Farewell To Tenderness"
+story_util-10001460,"Your sister" will protect you again and again//c forever and ever...
+story_util-20001460,"From The New World"
+story_util-10001461,Even a false "you" is still part of "us".
+story_util-20001461,"Seeing A Dream Through to the End"
+story_util-10001462,I've waited a long time for this day.
+story_util-20001462,"Journey's End"
+story_util-10001463,Perhaps we will live brand new lives//c perhaps we will be happier//c but the one thing nobody can deny is this—everyone is looking forward to the day we can reunite with you...
+story_util-20001463,"Perfect World"
+story_util-10001464,...
+story_util-20001464,"Re;"
+story_util-20001465,

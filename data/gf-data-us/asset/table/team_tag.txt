@@ -1,0 +1,15 @@
+team_tag-10000001,Steady Damage Output
+team_tag-10000002,Early Burst
+team_tag-10000003,Targeted Burst
+team_tag-10000004,Specialize in Prolonged Battles
+team_tag-10000005,Prioritize Front Row
+team_tag-10000006,Prioritize Back Row
+team_tag-10000007,Target Random Enemy
+team_tag-10000008,High-Speed Echelon
+team_tag-10000009,Low-Speed Echelon
+team_tag-10000010,Specialize in Armor-Piercing
+team_tag-10000011,Protected by Armor
+team_tag-10000012,AoE Damage
+team_tag-10000013,Specialized in Night Battles
+team_tag-10000014,Specialized in Single Target Damage
+team_tag-10000015,Protected by Shield

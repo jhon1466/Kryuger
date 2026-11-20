@@ -1,0 +1,68 @@
+breakout_talk-10000001,0-It's never a mistake to be prepared before setting off. Good luck，Commander.
+breakout_talk-10000002,0-Sometimes I wonder... just how many battles have you commanded?
+breakout_talk-10000003,0-How is the mission going? I'm sure you're working at your own pace.
+breakout_talk-10000004,0-This is the map and information concerning the medical camp. This is all I know，I hope it'll come in useful.
+breakout_talk-10000005,0-Have you found any leads concerning the matter that I asked you to investigate? If you find anything suspicious，please make sure you leave no stone unturned.
+breakout_talk-10000006,0-One must always be extra careful when dealing with the local boss. You should try to avoid antagonizing Doss if you can help it.
+breakout_talk-10000007,0-Anyone who can carve out a slice of the pie for themselves within the Dark Zone shouldn't be taken lightly. Will you... become the next "Client"?
+breakout_talk-10000008,0-I rarely receive commissions from Blackgold Universal，but as the intermediary，it is my job to send it your way.
+breakout_talk-10000009,1-Pain and discomfort are reminders and warning signs that our body sends us... Sadly，you don't get warnings about everything in life.
+breakout_talk-10000010,1-It's never a mistake to be prepared before setting off. Good luck，Commander.
+breakout_talk-10000011,1-Sometimes I wonder... just how many battles have you commanded?
+breakout_talk-10000012,1-How is the mission going? I'm sure you're working at your own pace.
+breakout_talk-10000013,1-This is the map and information concerning the medical camp. This is all I know，I hope it'll come in useful.
+breakout_talk-10000014,1-Have you found any leads concerning the matter that I asked you to investigate? If you find anything suspicious，please make sure you leave no stone unturned.
+breakout_talk-10000015,1-One must always be extra careful when dealing with the local boss. You should try to avoid antagonizing Doss if you can help it.
+breakout_talk-10000016,1-Anyone who can carve out a slice of the pie for themselves within the Dark Zone shouldn't be taken lightly. Will you... become the next "Client"?
+breakout_talk-10000017,1-I rarely receive commissions from Blackgold Universal，but as the intermediary，it is my job to send it your way.
+breakout_talk-10000018,0-Thanks for the hard work. I'm glad you're alright. Suffered any heavy losses? Take a rest for now，and only set off again when you're ready.
+breakout_talk-10000019,0-The target of this job seems pretty tough... Rethink the plan. We still have another shot.
+breakout_talk-10000020,1-If you have any injuries，make sure you get me to treat them. Don't underestimate any minor issues. They could be fatal in crucial moments.
+breakout_talk-10000021,1-Thanks for the hard work. I'm glad you're alright. Suffered any heavy losses? Take a rest for now，and only set off again when you're ready.
+breakout_talk-10000022,1-The target of this job seems pretty tough... Rethink the plan. We still have another shot.
+breakout_talk-10000023,0-There is always a shortage of essential supplies. Take your pick，I reserved these just for you.
+breakout_talk-10000024,0-Manpower，ammo，rations，and parts...? Supplies seem to be categorized in a different way these days.
+breakout_talk-10000025,0-What else do you need? If you're short on funds，you can trade some of your loot for cash.
+breakout_talk-10000026,0-There are always those who gamble with their lives for wealth in the Dark Zone—pawning today to buy back tomorrow. A fair trade like this has already become a luxury.
+breakout_talk-10000027,1-Anything caught your eye? If you need medication，I may have some "private sources".
+breakout_talk-10000028,1-There is always a shortage of essential supplies. Take your pick，I reserved these just for you.
+breakout_talk-10000029,1-Manpower，ammo，rations，and parts...? Supplies seem to be categorized in a different way these days.
+breakout_talk-10000030,1-What else do you need? If you're short on funds，you can trade some of your loot for cash.
+breakout_talk-10000031,1-There are always those who gamble with their lives for wealth in the Dark Zone—pawning today to buy back tomorrow. A fair trade like this has already become a luxury.
+breakout_talk-10000032,0-I see you've returned with quite a haul. All intermediaries within the Dark Zone know that you always have good stuff for them.
+breakout_talk-10000033,0-I won't ask how you managed to get your hands on these. That's the only way to keep our partnership strong and long-lasting.
+breakout_talk-10000034,0-If all gold diggers in the Dark Zone are as discerning as you，they will succeed no matter where they go.
+breakout_talk-10000035,1-I see you've returned with quite a haul. All intermediaries within the Dark Zone know that you always have good stuff for them.
+breakout_talk-10000036,1-I won't ask how you managed to get your hands on these. That's the only way to keep our partnership strong and long-lasting.
+breakout_talk-10000037,1-If all gold diggers in the Dark Zone are as discerning as you，they will succeed no matter where they go.
+breakout_talk-10000038,1-In war-torn places，medkits are even more sought-after than rations. Make sure you keep it safe.
+breakout_talk-10000039,0-You've got very good taste. You picked out the best I had to offer.
+breakout_talk-10000040,0-I suppose this is when I should be saying，"Pleasure doing business with you?" Though I simply hope you've got all you need.
+breakout_talk-10000041,0-Is that everything? If you need anything else，feel free to come back anytime.
+breakout_talk-10000042,1-You've got very good taste. You picked out the best I had to offer.
+breakout_talk-10000043,1-I suppose this is when I should be saying，"Pleasure doing business with you?" Though I simply hope you've got all you need.
+breakout_talk-10000044,1-Is that everything? If you need anything else，feel free to come back anytime.
+breakout_talk-10000045,1-See anything else you like? If you're looking for medical supplies，I could give some extra pointers.
+breakout_talk-10000046,0-Assigning different combat teams based on the different mission objectives—that's your strong suit.
+breakout_talk-10000047,0-I've seen my fair share of yes-men，but you... you're not like them.
+breakout_talk-10000048,0-Are those you have chosen to fight alongside you teammates that you can trust to have your back?
+breakout_talk-10000049,0-I'm not in charge of frontline operations，so I don't know as much about personnel deployment as you. But at the very least，I believe you are a very good judge of character.
+breakout_talk-10000050,1-Assigning different combat teams based on the different mission objectives—that's your strong suit.
+breakout_talk-10000051,1-I've seen my fair share of yes-men，but you... you're not like them.
+breakout_talk-10000052,1-Are those you have chosen to fight alongside you teammates that you can trust to have your back?
+breakout_talk-10000053,1-I'm not in charge of frontline operations，so I don't know as much about personnel deployment as you. But at the very least，I believe you are a very good judge of character.
+breakout_talk-10000054,1-Want to hire an extra doctor? As long as you can afford the price... Just kidding，don't take it seriously.
+breakout_talk-10000055,0-I can see that these are all elite soldiers who were forged in fire.
+breakout_talk-10000056,0-Is that the team you're assigning this mission to? Looks like it will be another smooth operation.
+breakout_talk-10000057,0-These people don't just follow you for money or interests. What is it about you that commands such loyalty?
+breakout_talk-10000058,1-I can see that these are all elite soldiers who were forged in fire.
+breakout_talk-10000059,1-Is that the team you're assigning this mission to? Looks like it will be another smooth operation.
+breakout_talk-10000060,1-These people don't just follow you for money or interests. What is it about you that commands such loyalty?
+breakout_talk-10000061,1-Humans are not like weapons—they can't just be repaired when they're injured.
+breakout_talk-10000062,0-Have you gathered any important intel? Don't overlook anything，no matter how insignificant it may seem.
+breakout_talk-10000063,0-The ability to comprehensively process intelligence is just as important as the ability to collect it. Sometimes，even I... No，it's nothing.
+breakout_talk-10000064,0-We can always piece together a picture from countless snippets of intelligence，but is the result of such piecemeal analysis really the truth?
+breakout_talk-10000065,1-Have you gathered any important intel? Don't overlook anything，no matter how insignificant it may seem.
+breakout_talk-10000066,1-The ability to comprehensively process intelligence is just as important as the ability to collect it. Sometimes，even I... No，it's nothing.
+breakout_talk-10000067,1-We can always piece together a picture from countless snippets of intelligence，but is the result of such piecemeal analysis really the truth?
+breakout_talk-10000068,1-Even if it's not an injury，you can come to me for other things. Diagnosing difficult and complicated problems is also a form of intelligence analysis，right?

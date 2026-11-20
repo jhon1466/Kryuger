@@ -1,0 +1,35 @@
+# build output
+bin/
+obj/
+src/gfl_redirect/target/
+# local data and logs (never commit player data)
+src/Kryuger.Server/bin/
+*.db
+*.log
+capture.flag
+capture_index*.json
+gfl_capture.log
+KRYUGER_GM_TOKEN.txt
+# python / misc
+__pycache__/
+*.pyc
+# GM tools build output
+gm-tools/node_modules/
+gm-tools/dist/
+gm-tools/.astro/
+gm-tools/src-tauri/target/
+gm-tools/src-tauri/gen/
+# personal / local-only files
+captured_official.log
+*.reg
+PENDIENTES.md
+gm-tools/app-icon.png
+# game data the server does not use (keeps the repository small)
+data/gf-data-us/formatted/
+data/gf-data-us/resdata_no_hash.json
+data/gf-data-us/asset/*
+!data/gf-data-us/asset/table/
+
+*.md
+!README.md
+!README.*.md

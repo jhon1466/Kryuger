@@ -1,0 +1,130 @@
+breakout_item-10000101,Molotov Cocktail
+breakout_item-20000101,<color=#E4A821>Throwable weapon that deals high explosive damage and ignites enemies within range//c causing continuous damage.</color>//nA homemade Molotov cocktail filled with liquid fuel. It creates a widespread burning area upon impact//c making it a dangerous weapon to both enemies and allies.
+breakout_item-10000102,Medkit
+breakout_item-20000102,<color=#E4A821>Restores health to allies within range.</color>//nA military-grade medical kit highly favored in the Dark Zone. It contains a more comprehensive selection of medical supplies compared to civilian first-aid kits//c making it capable of handling most common injuries in emergency situations.
+breakout_item-10000103,Stun Grenade
+breakout_item-20000103,<color=#E4A821>Throwable weapon that stuns and slows enemies within range.</color>//nA high-performance//c handheld stun grenade designed to weaken the defenses and mobility of enemies caught within its blast radius.
+breakout_item-10000104,Cardiac Stimulant
+breakout_item-20000104,<color=#E4A821>Grants a shield to allies within range.</color>//nA specially designed stimulant injector containing medication that suppresses pain and temporarily enhances the user's combat capabilities.
+breakout_item-10000201,Matches
+breakout_item-20000201,A box of matches that easily absorbs moisture. When they don't sell//c striking one grants a fleeting Christmas experience.
+breakout_item-10000202,Metal Lighter
+breakout_item-20000202,A more reliable fire-starting tool than matches in most cases. Quick//c convenient//c and resistant to moisture—though occasionally//c it might just explode on the spot.
+breakout_item-10000203,Blue Gunpowder
+breakout_item-20000203,A small amount of tin-based gunpowder. Its explosive power may not be sufficient for large-scale demolition operations...
+breakout_item-10000204,Fuel Can
+breakout_item-20000204,Fuel//c whether gas or liquid//c is valuable—even the empty cans left behind after use have their resale value.
+breakout_item-10000205,Propane Tank
+breakout_item-20000205,A storage tank containing highly flammable and explosive gas. Modifying or repurposing it is strongly discouraged//c and under no circumstances should it be used for homemade weapons.
+breakout_item-10000206,Fuel Drum
+breakout_item-20000206,A metal fuel drum that produces loud clangs when struck—worth more than a plastic fuel container.
+breakout_item-10000207,Screws
+breakout_item-20000207,A variety of screws in different sizes//c essential for everything from assembling bed frames to building rockets.
+breakout_item-10000208,Plexiglass
+breakout_item-20000208,A high-polymer transparent material//c commonly known as acrylic. If stray bullets shatter a window//c this could serve as a makeshift replacement.
+breakout_item-10000209,Polycarbonate
+breakout_item-20000209,A bullet-resistant thermoplastic engineered for durability—offering at least a slight boost to personal safety in the Dark Zone.
+breakout_item-10000210,Acoustic Panel
+breakout_item-20000210,High-grade soundproofing panels that effectively reduce noise levels. Some helmets might even have this stuffed inside//c making everything sound quieter when worn...
+breakout_item-10000211,High-Impact Polystyrene
+breakout_item-20000211,Impact-resistant hard plastic commonly used for electrical casings. While sturdy//c expecting it to stop bullets is a bit of a stretch.
+breakout_item-10000212,Titanium Alloy Plate
+breakout_item-20000212,A high-strength TC4 titanium alloy plate. It could be used for emergency defense against impacts//c but selling it is the more cost-effective option.
+breakout_item-10000213,Capacitors
+breakout_item-20000213,Various types of capacitors//c commonly used in electrical engineering. Handle with care and follow expert guidance—unless you enjoy the smell of fried circuits.
+breakout_item-10000214,Floppy Disk
+breakout_item-20000214,A cost-effective data storage solution. Rumor has it that//c in another world//c some even use it to store combat reports...
+breakout_item-10000215,Mechanical Hard Drive
+breakout_item-20000215,A completely broken mechanical hard drive. If it once contained classified data//c at least there's no longer any risk of a leak.
+breakout_item-10000216,SSD Drive
+breakout_item-20000216,A solid-state drive with exceptional read and write performance. As a storage device//c it's far more valuable than a mechanical hard drive.
+breakout_item-10000217,PSU
+breakout_item-20000217,A computer power supply unit. It converts electrical energy for computer use. With a few more essential components//c you might just be able to build a PC from scratch.
+breakout_item-10000218,Graphics Card
+breakout_item-20000218,A civilian-grade graphics card. Its performance is subjective//c but at the very least//c it can run Minesweeper smoothly.
+breakout_item-10000219,Battery
+breakout_item-20000219,A battery widely used in various portable devices. Not particularly valuable//c but for the sake of the environment//c proper recycling is recommended.
+breakout_item-10000220,D Cell Battery
+breakout_item-20000220,A large D cell battery//c commonly used in high-power devices. Even if the device itself is completely broken//c the battery might still fetch some money.
+breakout_item-10000221,Power Bank
+breakout_item-20000221,A rechargeable high-capacity battery. Useful for many small portable devices. If you get the chance//c you should always keep it charged.
+breakout_item-10000222,Solar Panel
+breakout_item-20000222,The core component of a solar power system. When the power grid fails//c a lot depends on it//c but on cloudy days//c you're on your own.
+breakout_item-10000223,Car Battery
+breakout_item-20000223,A car battery//c a commonly resold item on the market. Not sure if Dolls can use it... Wait//c what's a Doll?
+breakout_item-10000224,Special Battery Pack
+breakout_item-20000224,A specialized battery pack with a high price tag. It's said to have excellent battery life//c though it's not the easiest to transport.
+breakout_item-10000225,Magnet
+breakout_item-20000225,A handmade magnet. It has a wide range of uses—though building a homemade maglev train is not one of them.
+breakout_item-10000226,Pipe Wrench
+breakout_item-20000226,A pipe wrench//c useful for cutting water pipes. Whether you're helping or causing trouble//c as long as there's a pipe//c you can get the job done.
+breakout_item-10000227,Tool Box
+breakout_item-20000227,A commonly used multifunctional tool kit. It doesn't contain anything particularly valuable//c but it's handy for all sorts of tasks.
+breakout_item-10000228,Portable Jack
+breakout_item-20000228,A small hydraulic jack. More reliable than some hastily assembled teammates. You can always trust it to "hold things up for a while."
+breakout_item-10000229,Hydraulic Rebar Cutter
+breakout_item-20000229,A built-in electric hydraulic cutter. Local construction workers use it to cut through steel rebars. These days//c a stable construction site isn't easy to come by—everyone values their job.
+breakout_item-10000230,Hydraulic Torque Wrench
+breakout_item-20000230,A high-strength alloy hydraulic torque wrench. It allows for quick tightening of bolts in tight spaces//c securing whatever shelter you have left.
+breakout_item-10000231,Light Bulb
+breakout_item-20000231,A standard incandescent light bulb. Cheap to produce//c low in efficiency//c and a common lighting choice for civilians in many areas.
+breakout_item-10000232,Energy-Saving Bulb
+breakout_item-20000232,A modern energy-saving bulb. Compared to incandescent bulbs//c it has better efficiency//c a longer lifespan//c and a higher market value.
+breakout_item-10000233,Camping Lantern
+breakout_item-20000233,A waterproof camping lantern. Provides a reliable light source at night. Like solar panels//c it's always there to help when the power goes out.
+breakout_item-10000234,High-Power Flashlight
+breakout_item-20000234,A more portable lighting device than a camping lantern. Its battery capacity is slightly weaker//c but it has a wider range of applications.
+breakout_item-10000235,Handheld Fill Light
+breakout_item-20000235,A handheld fill light. Useful for supplementing illumination in low-light environments. Not as convenient as common lamps//c but great for photography and evidence collection.
+breakout_item-10000236,X300U-A Tactical Flashlight
+breakout_item-20000236,A popular tactical flashlight. It can instantly illuminate dark corners or temporarily impair enemy movement in combat.
+breakout_item-10000237,Pocket Watch
+breakout_item-20000237,An intricately crafted pocket watch with a chain. Few people still use these as actual timepieces.
+breakout_item-10000238,Commemorative Coin
+breakout_item-20000238,A commemorative coin. It looks authentic//c but in an antique market//c it wouldn't fetch much.
+breakout_item-10000239,Silver Medal
+breakout_item-20000239,A silver badge with fine engravings. Exquisite craftsmanship//c though it falls short of being truly valuable.
+breakout_item-10000240,Mantel Clock
+breakout_item-20000240,An intricately designed mantel clock. A luxury decoration for the wealthy//c but in times of crisis//c it's just another piece of furniture too heavy to carry.
+breakout_item-10000241,Gold Bracelet
+breakout_item-20000241,A roughly made gold bracelet. The craftsmanship isn't great//c but gold itself is always a solid currency...
+breakout_item-10000242,Gold Watch
+breakout_item-20000242,A high-value gold wristwatch. The hands seem a little off//c but it's an easy fix—definitely a valuable personal belonging worth taking with you.
+breakout_item-10000243,Brooch
+breakout_item-20000243,A locally crafted gemstone brooch. Such refined artisanship is a true symbol of luxury in an era dominated by mass-produced goods.
+breakout_item-10000244,Diamond Ring
+breakout_item-20000244,An extravagant diamond ring. The large//c full-cut diamond set on the head guarantees a high price anywhere.
+breakout_item-10000245,Royal Silverware
+breakout_item-20000245,Imported royal silverware. Perfectly preserved with exquisite craftsmanship—just holding it makes you feel a little like nobility.
+breakout_item-10000246,Gold Ingot
+breakout_item-20000246,Sourced from the Outes Gold Mine and refined by local artisans. Gold items are valuable//c but pure gold ingots are the real prize.
+breakout_item-10000247,Vase
+breakout_item-20000247,A vase that looks extremely valuable. Its intricate patterns depict the life of an aristocrat. As beautiful as it is//c it's just as fragile.
+breakout_item-10000248,Golden Lion Statue
+breakout_item-20000248,A highly valuable golden lion statue. They say it's a real treasure... just because it's solid gold?
+breakout_item-10000249,BP Pager
+breakout_item-20000249,A compact pager. Lacks the complexity of a mobile phone//c but its one-way communication is still quite practical.
+breakout_item-10000250,Cellphone
+breakout_item-20000250,A cheap-looking cellphone. It has only the most basic functions.
+breakout_item-10000251,Camera
+breakout_item-20000251,A heavy optical device. An older model with a built-in flash//c useful for night photography.
+breakout_item-10000252,Golden Cellphone
+breakout_item-20000252,An expensive-looking gold-plated cellphone. Great performance//c with the added bonus of valuable decorative materials.
+breakout_item-10000253,Laptop Computer
+breakout_item-20000253,A new computer model that is all the rage overseas. A symbol of wealth and status—yet when selling off assets//c it's always the first thing to go.
+breakout_item-10000254,Camcorder
+breakout_item-20000254,An imported civilian camcorder. A bit outdated but incredibly durable. Camcorders bought from second-hand markets sometimes reveal snippets of unknown happy moments inside.
+breakout_item-10000255,Military-Grade Compass
+breakout_item-20000255,A military-grade compass. More reliable than civilian versions//c but it still won't give you directions in life.
+breakout_item-10000256,Rangefinder
+breakout_item-20000256,A telescope with laser range-finding capability. A useful tool for battlefield observation//c though it doesn't do much else.
+breakout_item-10000257,Battery Commander's Telescope
+breakout_item-20000257,A periscope-style optical device. Allows for observation without exposing one's position—offering an extra layer of safety.
+breakout_item-10000258,Military Radio Set
+breakout_item-20000258,An old radio set. With a bit of learning//c you could use it. If luck is on your side//c you might intercept some useful intelligence.
+breakout_item-10000259,Laser Pointer Component
+breakout_item-20000259,A component of a military laser rangefinder. This module is responsible for laser designation. Keeping it for yourself is unlikely to be useful//c but it can fetch a good price.
+breakout_item-10000260,Target Locator Component
+breakout_item-20000260,A component of a military laser rangefinder. This module is responsible for target positioning. Like the other module//c selling it is probably the smarter choice.
+breakout_item-10000301,Backpack
+breakout_item-20000301,<color=#E4A821>Increase backpack capacity by +3.</color>//nA soldier can only carry so much—having a high-quality backpack is essential for any frontline operative.

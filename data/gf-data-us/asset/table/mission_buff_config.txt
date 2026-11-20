@@ -1,0 +1,586 @@
+mission_buff_config-10000001,减耗BUFF
+mission_buff_config-20000001,一定回合数消耗为零
+mission_buff_config-10000002,战斗buff
+mission_buff_config-20000002,增加攻击攻速
+mission_buff_config-10000003,暴击buff
+mission_buff_config-20000003,增加暴击爆伤
+mission_buff_config-10000005,防御buff
+mission_buff_config-20000005,减少梯队收到伤害
+mission_buff_config-10000006,堡垒buff
+mission_buff_config-20000006,增加梯队属性
+mission_buff_config-10000008,增援buff
+mission_buff_config-20000008,增援后增加一场战斗提升回避
+mission_buff_config-10000013,经验buff
+mission_buff_config-20000013,增加经验获得
+mission_buff_config-10000014,掉落buff
+mission_buff_config-20000014,增加掉落概率
+mission_buff_config-10000015,夜战buff
+mission_buff_config-20000015,增加视野
+mission_buff_config-10010086,空降debuff
+mission_buff_config-20010086,降低各项属性
+mission_buff_config-10001301,经验buff
+mission_buff_config-20001301,等级1
+mission_buff_config-10001302,经验buff
+mission_buff_config-20001302,等级2
+mission_buff_config-10001303,经验buff
+mission_buff_config-20001303,等级3
+mission_buff_config-10001304,经验buff
+mission_buff_config-20001304,等级4
+mission_buff_config-10001305,经验buff
+mission_buff_config-20001305,等级5
+mission_buff_config-10001306,经验buff
+mission_buff_config-20001306,等级6
+mission_buff_config-10001307,经验buff
+mission_buff_config-20001307,等级7
+mission_buff_config-10001308,经验buff
+mission_buff_config-20001308,等级8
+mission_buff_config-10001309,经验buff
+mission_buff_config-20001309,等级9
+mission_buff_config-10001310,经验buff
+mission_buff_config-20001310,等级10
+mission_buff_config-10001501,视野buff
+mission_buff_config-20001501,等级1
+mission_buff_config-10001502,视野buff
+mission_buff_config-20001502,等级2
+mission_buff_config-10001503,视野buff
+mission_buff_config-20001503,等级3
+mission_buff_config-10001504,视野buff
+mission_buff_config-20001504,等级4
+mission_buff_config-10001505,视野buff
+mission_buff_config-20001505,等级5
+mission_buff_config-10001506,视野buff
+mission_buff_config-20001506,等级6
+mission_buff_config-10001507,视野buff
+mission_buff_config-20001507,等级7
+mission_buff_config-10001508,视野buff
+mission_buff_config-20001508,等级8
+mission_buff_config-10001509,视野buff
+mission_buff_config-20001509,等级9
+mission_buff_config-10001510,视野buff
+mission_buff_config-20001510,等级10
+mission_buff_config-10001004,花瓣buff
+mission_buff_config-20001004,增加梯队属性
+mission_buff_config-11000000,Portable Explosives
+mission_buff_config-21000000,Portable Explosives
+mission_buff_config-10000100,EMP
+mission_buff_config-20000100,降低各项属性
+mission_buff_config-10000101,防御buff
+mission_buff_config-20000101,减少梯队收到伤害
+mission_buff_config-11000001,电磁瘫痪
+mission_buff_config-21000001,降低各项属性
+mission_buff_config-11000002,掩体作战
+mission_buff_config-21000002,减少梯队收到伤害
+mission_buff_config-10500020,Cacao Beans
+mission_buff_config-20500020,Carrying Cacao Beans
+mission_buff_config-10500021,Coffee Beans
+mission_buff_config-20500021,Carrying Coffee Beans
+mission_buff_config-10500022,White Sugar
+mission_buff_config-20500022,Carrying White Sugar
+mission_buff_config-10500023,Strange Smelling Powder
+mission_buff_config-20500023,Carrying Strange Smelling Powder
+mission_buff_config-10500024,Fluorescent Powder
+mission_buff_config-20500024,Carrying Fluorescent Powder
+mission_buff_config-10500025,Coolant
+mission_buff_config-20500025,Carrying Coolant
+mission_buff_config-10500026,Edible Food Coloring
+mission_buff_config-20500026,Carrying Edible Food Coloring
+mission_buff_config-10500027,Special Spices
+mission_buff_config-20500027,Carrying Special Spices
+mission_buff_config-10500028,Standard Mold
+mission_buff_config-20500028,Carrying Standard Mold
+mission_buff_config-10500029,Personalized Mold
+mission_buff_config-20500029,Carrying Personalized Mold
+mission_buff_config-10500099,
+mission_buff_config-20500099,
+mission_buff_config-10500401,Peppermint Heir
+mission_buff_config-20500401,Carrying Peppermint Heir
+mission_buff_config-10500402,Sweet Bayonet
+mission_buff_config-20500402,Carrying Sweet Bayonet
+mission_buff_config-10500403,Kiss of Destiny
+mission_buff_config-20500403,Carrying Kiss of Destiny
+mission_buff_config-10500404,Chocolate Duet
+mission_buff_config-20500404,Carrying Chocolate Duet
+mission_buff_config-10500405,Classic Memory
+mission_buff_config-20500405,Carrying Classic Memory
+mission_buff_config-10500406,Cocoa New World
+mission_buff_config-20500406,Carrying Cocoa New World
+mission_buff_config-10500407,Chocthulhu
+mission_buff_config-20500407,Carrying Chocthulhu
+mission_buff_config-10500499,
+mission_buff_config-20500499,
+mission_buff_config-10570010,Ai Mizuno
+mission_buff_config-20570010,
+mission_buff_config-10570020,Junko Konno
+mission_buff_config-20570020,
+mission_buff_config-10570030,Lily Hoshikawa
+mission_buff_config-20570030,
+mission_buff_config-10570040,Saki Nikaido
+mission_buff_config-20570040,
+mission_buff_config-10570050,Yugiri
+mission_buff_config-20570050,
+mission_buff_config-10570060,Sakura Minamoto
+mission_buff_config-20570060,
+mission_buff_config-10570070,Tae Yamada
+mission_buff_config-20570070,
+mission_buff_config-10570000,Fever
+mission_buff_config-20570000,
+mission_buff_config-10570001,+
+mission_buff_config-20570001,
+mission_buff_config-10570002,-
+mission_buff_config-20570002,
+mission_buff_config-10570003,Cooldown
+mission_buff_config-20570003,
+mission_buff_config-10570004,Cooldown Count
+mission_buff_config-20570004,
+mission_buff_config-10571000,Opponent's Move
+mission_buff_config-20571000,
+mission_buff_config-10571001,Sleep
+mission_buff_config-20571001,
+mission_buff_config-10570601,Bring Dried Shredded Squid
+mission_buff_config-20570601,A Big Pack of Dried Shredded Squid
+mission_buff_config-10570602,Bring Takeaway
+mission_buff_config-20570602,Several Takeaways
+mission_buff_config-10570501,Enemy Speed Buff
+mission_buff_config-16560001,Carrying EMP Grenades
+mission_buff_config-26560001,Carrying EMP Grenades
+mission_buff_config-16560002,Carrying Goliath
+mission_buff_config-26560002,Carrying Goliath
+mission_buff_config-16560003,Able to suppress enemies
+mission_buff_config-26560003,
+mission_buff_config-16560004,Freeze
+mission_buff_config-26560004,
+mission_buff_config-16560005,Able to engage SCAR-L
+mission_buff_config-26560005,
+mission_buff_config-10541301,AR18
+mission_buff_config-20541301,
+mission_buff_config-10541311,Airstrike Guidance
+mission_buff_config-20541311,
+mission_buff_config-10541314,Carrying Goliath
+mission_buff_config-20541314,Carrying Goliath
+mission_buff_config-10544101,Walker
+mission_buff_config-20544101,
+mission_buff_config-10544112,削弱BOSS
+mission_buff_config-20544112,
+mission_buff_config-10544114,Carrying Neural Cloud Bomb
+mission_buff_config-20544114,Carrying Neural Cloud Bomb
+mission_buff_config-10544124,减速
+mission_buff_config-20544124,
+mission_buff_config-10543114,Carrying Neural Cloud Bomb
+mission_buff_config-20543114,Carrying Neural Cloud Bomb
+mission_buff_config-20544201,
+mission_buff_config-10544211,
+mission_buff_config-20544211,
+mission_buff_config-10544212,Carrying Fuel 
+mission_buff_config-20544212,
+mission_buff_config-16540000,
+mission_buff_config-26540000,Kills for Junior Lieutenant: 3
+mission_buff_config-16540001,
+mission_buff_config-26540001,Kills for Junior Lieutenant: 2
+mission_buff_config-16540002,
+mission_buff_config-26540002,Kills for Junior Lieutenant: 1
+mission_buff_config-16540003,
+mission_buff_config-26540003,Kills for Lieutenant: 3
+mission_buff_config-16540004,
+mission_buff_config-26540004,Kills for Lieutenant: 2
+mission_buff_config-16540005,
+mission_buff_config-26540005,Kills for Lieutenant: 1
+mission_buff_config-16540006,
+mission_buff_config-26540006,Kills for Captain: 4
+mission_buff_config-16540007,
+mission_buff_config-26540007,Kills for Captain: 3
+mission_buff_config-16540008,
+mission_buff_config-26540008,Kills for Captain: 2
+mission_buff_config-16540009,
+mission_buff_config-26540009,Kills for Captain: 1
+mission_buff_config-16540010,
+mission_buff_config-26540010,Promoted to Captain
+mission_buff_config-16540100,
+mission_buff_config-26540100,Kills for Sergeant: 3
+mission_buff_config-16540101,
+mission_buff_config-26540101,Kills for Sergeant: 2
+mission_buff_config-16540102,
+mission_buff_config-26540102,Kills for Sergeant: 1
+mission_buff_config-16540103,
+mission_buff_config-26540103,Kills for Senior Sergeant: 3
+mission_buff_config-16540104,
+mission_buff_config-26540104,Kills for Senior Sergeant: 2
+mission_buff_config-16540105,
+mission_buff_config-26540105,Kills for Senior Sergeant: 1
+mission_buff_config-16540106,
+mission_buff_config-26540106,Kills for Sergeant Major: 4
+mission_buff_config-16540107,
+mission_buff_config-26540107,Kills for Sergeant Major: 3
+mission_buff_config-16540108,
+mission_buff_config-26540108,Kills for Sergeant Major: 2
+mission_buff_config-16540109,
+mission_buff_config-26540109,Kills for Sergeant Major: 1
+mission_buff_config-16540110,
+mission_buff_config-26540110,Promoted to Sergeant Major
+mission_buff_config-16540205,
+mission_buff_config-26540205,Joint Operation Plan
+mission_buff_config-16540216,
+mission_buff_config-26540216,Carrying EMP Grenades
+mission_buff_config-26540217,Carrying Projectile Goliath
+mission_buff_config-16540225,
+mission_buff_config-26540225,Carrying Plastic Explosive
+mission_buff_config-16540227,Carrying Goliath
+mission_buff_config-26540227,Carrying Goliath
+mission_buff_config-16540228,Carrying Plastic Explosive
+mission_buff_config-26540228,Carrying Plastic Explosive
+mission_buff_config-16540229,Carrying Goliath
+mission_buff_config-26540229,Carrying Goliath
+mission_buff_config-16540239,Carrying Goliath
+mission_buff_config-26540239,Carrying Goliath
+mission_buff_config-10541401,Walker
+mission_buff_config-20541401,
+mission_buff_config-10541201,
+mission_buff_config-20541201,
+mission_buff_config-10541212,
+mission_buff_config-20541212,Disguise Successful
+mission_buff_config-10542401,Walker
+mission_buff_config-20542401,
+mission_buff_config-29583801,Carrying EMP
+mission_buff_config-26580015,Carrying Plastic Explosive
+mission_buff_config-16580000,梯队状态
+mission_buff_config-26580000,Fresh (Battles fought this round: 0)
+mission_buff_config-16580001,梯队状态
+mission_buff_config-26580001,Fresh (Battles fought this round: 1)
+mission_buff_config-16580002,梯队状态
+mission_buff_config-26580002,Fresh (Battles fought this round: 2)
+mission_buff_config-16580003,梯队状态
+mission_buff_config-26580003,Fatigued I (Battles fought this round: 3)
+mission_buff_config-16580004,梯队状态
+mission_buff_config-26580004,Fatigued I (Battles fought this round: 4)
+mission_buff_config-16580005,梯队状态
+mission_buff_config-26580005,Fatigued I (Battles fought this round: 5)
+mission_buff_config-16580006,梯队状态
+mission_buff_config-26580006,Fatigued II (Battles fought this round: 6)
+mission_buff_config-16580007,梯队状态
+mission_buff_config-26580007,Fatigued II (Battles fought this round: 7)
+mission_buff_config-16580008,梯队状态
+mission_buff_config-26580008,Fatigued III (Battles fought this round: 8)
+mission_buff_config-16580009,梯队状态
+mission_buff_config-26580009,Exhausted
+mission_buff_config-16580010,Carrying Ammo
+mission_buff_config-26580010,Ammo Left: 1
+mission_buff_config-16580011,Carrying Ammo
+mission_buff_config-26580011,Ammo Left: 2
+mission_buff_config-16580012,Carrying Ammo
+mission_buff_config-26580012,Ammo Left: 3
+mission_buff_config-10593001,携带buff
+mission_buff_config-20593001,Carrying Warrior Drone
+mission_buff_config-10593002,携带buff
+mission_buff_config-20593002,Carrying Fury Drone
+mission_buff_config-10593103,携带buff
+mission_buff_config-20593103,Carrying Armor Drone
+mission_buff_config-10593104,携带buff
+mission_buff_config-20593104,Carrying Shield Drone
+mission_buff_config-10593105,携带buff
+mission_buff_config-20593105,Carrying Defense Drone
+mission_buff_config-10593106,携带buff
+mission_buff_config-20593106,Carrying Taunt Drone
+mission_buff_config-10593201,携带buff
+mission_buff_config-20593201,Carrying Sniper Drone
+mission_buff_config-10593202,携带buff
+mission_buff_config-20593202,Carrying Bombardment Drone
+mission_buff_config-10593203,携带buff
+mission_buff_config-20593203,Carrying Airstrike Drone
+mission_buff_config-10593301,携带buff
+mission_buff_config-20593301,Carrying Hot-Blooded Drone
+mission_buff_config-10593302,携带buff
+mission_buff_config-20593302,Carrying Focus Drone
+mission_buff_config-10593303,携带buff
+mission_buff_config-20593303,Carrying Interference Drone
+mission_buff_config-16360004,【标记】携带EMPbuff
+mission_buff_config-26360004,Carrying EMP Grenades
+mission_buff_config-16360005,【标记】携带歌利亚buff
+mission_buff_config-26360005,Carrying Goliath
+mission_buff_config-16360006,【标记】强化梯队
+mission_buff_config-26360006,
+mission_buff_config-16360007,【标记】梯队被强化
+mission_buff_config-26360007,Stats Increase
+mission_buff_config-16360008,【标记】M4定身
+mission_buff_config-26360008,
+mission_buff_config-10690813,EM Paralysis
+mission_buff_config-20690813,
+mission_buff_config-10690022,Wands
+mission_buff_config-20690022,Affected by EMP
+mission_buff_config-10690032,Swords
+mission_buff_config-20690032,Damage is significantly increased in the next battle//c but the echelon will be immobilized after the battle.
+mission_buff_config-10690042,Cups
+mission_buff_config-20690042,Gain a shield at the start of every battle for 1 round
+mission_buff_config-10690052,Immobilized
+mission_buff_config-20690052,Exhausted
+mission_buff_config-10690504,Carrying Goliath
+mission_buff_config-20690504,Carrying Goliath
+mission_buff_config-10690804,Carrying EMP
+mission_buff_config-20690804,Carrying EMP
+mission_buff_config-19700307,Acceleration
+mission_buff_config-29700307,Mobility Buff
+mission_buff_config-19700308,Immobilization
+mission_buff_config-29700308,Unable to move
+mission_buff_config-19701203,Enhancement
+mission_buff_config-29701203,In a strengthened state//c it will be difficult to be defeated in battle.
+mission_buff_config-19701204,【标记】携带歌利亚buff
+mission_buff_config-29701204,Carrying Goliath
+mission_buff_config-19701205,Acceleration
+mission_buff_config-29701205,Mobility Buff
+mission_buff_config-19701512,Acceleration
+mission_buff_config-29701512,Mobility Buff
+mission_buff_config-19721401,Enhancement
+mission_buff_config-29721401,不会受到福音枢椎的效果影响
+mission_buff_config-19721602,【标记】BOSS · 4动
+mission_buff_config-29721602,
+mission_buff_config-19720401,【标记】梯队标记
+mission_buff_config-29720401,
+mission_buff_config-19720402,【标记】梯队标记_NPC
+mission_buff_config-29720402,
+mission_buff_config-19720403,【标记】杂物堆选择标记
+mission_buff_config-29720403,
+mission_buff_config-19720404,持有物资
+mission_buff_config-29720404,携带物资中，不能拾取更多了。//n可以将物资堆积在收集点上或其他没有物资和杂物的无人的路径点上。
+mission_buff_config-19720405,持有杂物
+mission_buff_config-29720405,携带杂物中，不能拾取更多了。//n可以将杂物放置在没有物资和杂物的无人的路径点上。
+mission_buff_config-10730001,Carrying Smoking Goliath
+mission_buff_config-20730001,Carrying Smoking Goliath
+mission_buff_config-10730011,视线受阻
+mission_buff_config-20730011,视线受到阻碍，无法移动
+mission_buff_config-10730101,惊吓检测
+mission_buff_config-20730101,
+mission_buff_config-16630001,积分加成
+mission_buff_config-26630001,+200pts extra when killed
+mission_buff_config-16630002,积分加成
+mission_buff_config-26630002,+400pts extra when killed
+mission_buff_config-16630003,积分加成
+mission_buff_config-26630003,+600pts extra when killed
+mission_buff_config-16630004,积分加成
+mission_buff_config-26630004,+800pts extra when killed
+mission_buff_config-16630005,积分加成
+mission_buff_config-26630005,+1//c000pts extra when killed
+mission_buff_config-16630011,移动计数
+mission_buff_config-26630011,Current moves: 0
+mission_buff_config-16630012,移动计数
+mission_buff_config-26630012,Current moves: 1
+mission_buff_config-16630013,移动计数
+mission_buff_config-26630013,Current moves: 2
+mission_buff_config-16630014,移动计数
+mission_buff_config-26630014,Current moves: 3
+mission_buff_config-16630015,移动计数
+mission_buff_config-26630015,Current moves: 4
+mission_buff_config-16630016,移动计数
+mission_buff_config-26630016,Current moves: 5
+mission_buff_config-16630017,移动计数
+mission_buff_config-26630017,Current moves: 6
+mission_buff_config-16630018,移动计数
+mission_buff_config-26630018,Current moves: 7
+mission_buff_config-16630019,Current additional AP expenditure
+mission_buff_config-26630019,Current additional AP expenditure
+mission_buff_config-16630020,携带buff
+mission_buff_config-26630020,Carrying Goliath
+mission_buff_config-16630021,增幅
+mission_buff_config-26630021,Team vision range increased//c uses highest value among similar effects
+mission_buff_config-16630022,携带buff
+mission_buff_config-26630022,携带视野增幅辅助技能
+mission_buff_config-16629100,Enhancement
+mission_buff_config-26629100,
+mission_buff_config-16629101,Enhancement
+mission_buff_config-26629101,Increase ACC and EVA//n<color=#CF8000>lv: 1</color>
+mission_buff_config-16629102,Enhancement
+mission_buff_config-26629102,Increase ACC and EVA//n<color=#CF8000>lv: 2</color>
+mission_buff_config-16629103,Enhancement
+mission_buff_config-26629103,Increase ACC and EVA//n<color=#CF8000>lv: 3</color>
+mission_buff_config-16629104,Enhancement
+mission_buff_config-26629104,Increase ACC and EVA//n<color=#CF8000>lv: 4</color>
+mission_buff_config-16629200,Enhancement
+mission_buff_config-26629200,
+mission_buff_config-16629201,Enhancement
+mission_buff_config-26629201,Increase Armor and AP//n<color=#CF8000>lv: 1</color>
+mission_buff_config-16629202,Enhancement
+mission_buff_config-26629202,Increase Armor and AP//n<color=#CF8000>lv: 2</color>
+mission_buff_config-16629203,Enhancement
+mission_buff_config-26629203,Increase Armor and AP//n<color=#CF8000>lv: 3</color>
+mission_buff_config-16629204,Enhancement
+mission_buff_config-26629204,Increase Armor and AP//n<color=#CF8000>lv: 4</color>
+mission_buff_config-16629300,Enhancement
+mission_buff_config-26629300,
+mission_buff_config-16629301,Enhancement
+mission_buff_config-26629301,Increase DMG and ROF//n<color=#CF8000>lv: 1</color>
+mission_buff_config-16629302,Enhancement
+mission_buff_config-26629302,Increase DMG and ROF//n<color=#CF8000>lv: 2</color>
+mission_buff_config-16629303,Enhancement
+mission_buff_config-26629303,Increase DMG and ROF//n<color=#CF8000>lv: 3</color>
+mission_buff_config-16629304,Enhancement
+mission_buff_config-26629304,Increase DMG and ROF//n<color=#CF8000>lv: 4</color>
+mission_buff_config-16629000,携带buff
+mission_buff_config-26629000,Carrying Goliath
+mission_buff_config-16629001,携带buff
+mission_buff_config-26629001,Carrying EMP
+mission_buff_config-16629002,携带buff
+mission_buff_config-26629002,Carrying teleportation skill
+mission_buff_config-16629003,加速
+mission_buff_config-26629003,移动力提升
+mission_buff_config-16629004,冷却减少
+mission_buff_config-26629004,技能冷却降低30%
+mission_buff_config-16629005,Additional support
+mission_buff_config-26629005,Deal damage to the force field at the start of battle
+mission_buff_config-16629006,【标记】战场效果1
+mission_buff_config-26629006,
+mission_buff_config-16629007,【标记】战场效果2
+mission_buff_config-26629007,
+mission_buff_config-16629008,【标记】战场效果3
+mission_buff_config-26629008,
+mission_buff_config-16620001,携带buff
+mission_buff_config-26620001,Carrying EMP
+mission_buff_config-16629009,【标记】BOSS霸体
+mission_buff_config-26629009,
+mission_buff_config-19740101,【标记】梯队标记
+mission_buff_config-29740101,
+mission_buff_config-19740106,Carrying supplies
+mission_buff_config-29740106,Carrying supplies, cannot pick up anything else.//nYou can place the Supply Pile on the collection point or other unoccupied nodes with no Supplies or Junk on them
+mission_buff_config-19741904,Carrying supplies
+mission_buff_config-29741904,Carrying supplies, cannot pick up anything else.//nYou can place the Supply Pile on the collection point or other unoccupied nodes with no Supplies or Junk on them
+mission_buff_config-19741907,Carrying Goliath
+mission_buff_config-29741907,Carrying Goliath//c cannot pick up any more.
+mission_buff_config-19741911,【标记】梯队标记
+mission_buff_config-29741911,
+mission_buff_config-19742901,
+mission_buff_config-29742901,Continuously attempting to hack our units.//n※If not eliminated in time, this enemy unit will take some of our support units offline and render them incapable of combat.
+mission_buff_config-19742902,
+mission_buff_config-29742902,A temporary squad formed to stop Bramedb. Buffed when fighting Bramedb.
+mission_buff_config-19742903,
+mission_buff_config-29742903,Continuously resisting hacking attempts.//n※Immune to hacking while the buff is in effect. Goes offline once the buff wears off.
+mission_buff_config-19742904,
+mission_buff_config-29742904,Continuously resisting hacking attempts.//n※Immune to hacking while the buff is in effect. Goes offline once the buff wears off.
+mission_buff_config-19742905,
+mission_buff_config-29742905,Continuously resisting hacking attempts.//n※Immune to hacking while the buff is in effect. Goes offline once the buff wears off.
+mission_buff_config-19742906,
+mission_buff_config-29742906,Hacked and currently offline. Unable to execute orders.//n※Can swap positions with other echelons.
+mission_buff_config-19742907,
+mission_buff_config-29742907,As per protocol, system entering sleep mode.
+mission_buff_config-19742908,
+mission_buff_config-29742908,As per protocol, system entering sleep mode.
+mission_buff_config-19742909,
+mission_buff_config-29742909,As per protocol, system entering sleep mode.
+mission_buff_config-19742910,【标记】顶掉免费AP BUFF①
+mission_buff_config-29742910,
+mission_buff_config-19742911,【标记】顶掉免费AP BUFF②
+mission_buff_config-29742911,
+mission_buff_config-10660011,1级晋升
+mission_buff_config-20660011,Promoted Ⅰ//c +2000 points each round.
+mission_buff_config-10660012,1级晋升
+mission_buff_config-20660012,Promoted Ⅰ//c+2000 points each round.
+mission_buff_config-10660013,1级晋升
+mission_buff_config-20660013,Promoted Ⅰ//c+2000 points each round.
+mission_buff_config-10660014,1级晋升
+mission_buff_config-20660014,Promoted Ⅰ//c+2000 points each round.
+mission_buff_config-10660015,1级晋升
+mission_buff_config-20660015,Promoted Ⅰ//c+2000 points each round.
+mission_buff_config-10660016,1级Promoted 
+mission_buff_config-20660016,Promoted Ⅰ//c+2000 points each round.
+mission_buff_config-10660017,1级Promoted 
+mission_buff_config-20660017,Promoted Ⅰ//c+2000 points each round.
+mission_buff_config-10660018,1级Promoted 
+mission_buff_config-20660018,Promoted Ⅰ//c+2000 points each round.
+mission_buff_config-10660019,1级Promoted 
+mission_buff_config-20660019,Promoted Ⅰ//c+2000 points each round.
+mission_buff_config-10660020,1级Promoted 
+mission_buff_config-20660020,Promoted Ⅰ//c+2000 points each round.
+mission_buff_config-10660021,2级Promoted 
+mission_buff_config-20660021,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660022,2级Promoted 
+mission_buff_config-20660022,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660023,2级Promoted 
+mission_buff_config-20660023,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660024,2级Promoted 
+mission_buff_config-20660024,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660025,2级Promoted 
+mission_buff_config-20660025,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660026,2级Promoted 
+mission_buff_config-20660026,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660027,2级Promoted 
+mission_buff_config-20660027,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660028,2级Promoted 
+mission_buff_config-20660028,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660029,2级Promoted 
+mission_buff_config-20660029,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660030,2级Promoted 
+mission_buff_config-20660030,Promoted Ⅱ//c+4000 points each round.
+mission_buff_config-10660031,3级Promoted 
+mission_buff_config-20660031,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10660032,3级Promoted 
+mission_buff_config-20660032,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10660033,3级Promoted 
+mission_buff_config-20660033,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10660034,3级Promoted 
+mission_buff_config-20660034,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10660035,3级Promoted 
+mission_buff_config-20660035,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10660036,3级Promoted 
+mission_buff_config-20660036,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10660037,3级Promoted 
+mission_buff_config-20660037,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10660038,3级Promoted 
+mission_buff_config-20660038,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10660039,3级Promoted 
+mission_buff_config-20660039,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10660040,3级Promoted 
+mission_buff_config-20660040,Promoted Ⅲ//c+6000 points each round.
+mission_buff_config-10760000,指挥官的意志
+mission_buff_config-20760000,
+mission_buff_config-10760010,William's Bane
+mission_buff_config-20760010,First Blood
+mission_buff_config-10760020,William's Bane
+mission_buff_config-20760020,Double Kill
+mission_buff_config-10760030,William's Bane
+mission_buff_config-20760030,Killing Spree
+mission_buff_config-10760040,William's Bane
+mission_buff_config-20760040,Dominating
+mission_buff_config-10760050,William's Bane
+mission_buff_config-20760050,Rampage
+mission_buff_config-10760060,William's Bane
+mission_buff_config-20760060,Unstoppable
+mission_buff_config-10760070,William's Bane
+mission_buff_config-20760070,Godlike
+mission_buff_config-10760080,William's Bane
+mission_buff_config-20760080,Legendary
+mission_buff_config-10760001,William's Gaze
+mission_buff_config-20760001,Big bro is watching you
+mission_buff_config-10760002,William's Gaze
+mission_buff_config-20760002,Big bro is watching you
+mission_buff_config-10760601,M16
+mission_buff_config-20760601,
+mission_buff_config-10760602,Beak
+mission_buff_config-20760602,
+mission_buff_config-10760704,Carrying EMP
+mission_buff_config-20760704,Carrying EMP
+mission_buff_config-10760800,Commander 
+mission_buff_config-20760800,
+mission_buff_config-10760820,家具城CD
+mission_buff_config-20760820,
+mission_buff_config-10760801,连续行动C
+mission_buff_config-20760801,行动力提升
+mission_buff_config-10760802,连续行动B
+mission_buff_config-20760802,行动力提升
+mission_buff_config-10760803,连续行动A
+mission_buff_config-20760803,行动力提升
+mission_buff_config-10760804,DEFY
+mission_buff_config-20760804,Damage is greatly increased, 行动时不消耗AP
+mission_buff_config-10760902,Carrying Goliath
+mission_buff_config-20760902,Carrying Goliath
+mission_buff_config-10800002,Pyrotechnic Illumination
+mission_buff_config-10780013,Strike
+mission_buff_config-20780013,During the next battle//c accuracy is increased by 999
+mission_buff_config-10780014,Flash
+mission_buff_config-20780014,During the next battle//c evasion is increased by 999
+mission_buff_config-10780015,Hot Blood
+mission_buff_config-20780015,During the next battle//c damage  is increased by 100%
+mission_buff_config-10780016,Wall
+mission_buff_config-20780016,During the next battle//c armor is increased by 30
+mission_buff_config-10780017,Persist
+mission_buff_config-20780017,During the next battle//c damage taken  is reduced by 75%
+mission_buff_config-10780018,Soul
+mission_buff_config-20780018,During the next battle//c damage  is increased by 120%
+mission_buff_config-10780019,Fury
+mission_buff_config-20780019,During the next battle//c remove all enemy forcefield effects.
+mission_buff_config-10780020,二级平层的丹德莱
+mission_buff_config-20780020,强 无敌

@@ -1,0 +1,38 @@
+breakout_gun-9999999,Commander
+breakout_gun-19999999,Ahaha
+breakout_gun-10000001,MDR
+breakout_gun-20000001,Alternates between increasing damage and rate of fire every 3 seconds during battle
+breakout_gun-10000002,Gr G3
+breakout_gun-20000002,Launches a grenade that deals damage to enemies around its point of impact with a 6 second cooldown
+breakout_gun-10000003,ACR
+breakout_gun-20000003,Attacks reduce the target's speed for 2 seconds with a 6 second cooldown.//nNormal attacks deal increased damage against slowed targets
+breakout_gun-10000004,wz.29
+breakout_gun-20000004,Increases rate of fire for 3 seconds with a 6 second cooldown
+breakout_gun-10000005,M1 Garand
+breakout_gun-20000005,Fires a sniper shot at a random target within range with a 3 second cooldown. Attacks can target enemies on obstructed rows
+breakout_gun-10000006,4 Shiki
+breakout_gun-20000006,Attacks pierce through the first target and deal 50% damage to a second target within range
+breakout_gun-10000007,RPD
+breakout_gun-20000007,Increases attack stat//c but attacks now target random enemies within range//c possibly on obstructed rows
+breakout_gun-10000008,Gr MG5
+breakout_gun-20000008,After every 3 attacks//c the next attack deals increased damage
+breakout_gun-10000009,MG338
+breakout_gun-20000009,Increases damage with each attack; resets upon reload
+breakout_gun-10000010,AK-74U
+breakout_gun-20000010,Slightly reduces the damage of all enemies on the same row when present on the field. Not stackable
+breakout_gun-10000011,Skorpion
+breakout_gun-20000011,Launches a Molotov cocktail that deals damage to enemies around its point of impact and sets them on fire for 5 seconds with a 6 second cooldown
+breakout_gun-10000012,P90
+breakout_gun-20000012,Increases evasion continuously in battle; resets to 0 upon reaching maximum stacks
+breakout_gun-10000013,Am KSG
+breakout_gun-20000013,Increases armor for 3 seconds with a 6 second cooldown
+breakout_gun-10000014,Type 97S
+breakout_gun-20000014,Attacks knock enemies back and reduce their speed for 1 second
+breakout_gun-10000015,MK3A1
+breakout_gun-20000015,Attacks the 3 nearest targets simultaneously//c but attack range is reduced
+breakout_gun-10000016,SAA
+breakout_gun-20000016,Slightly increases the damage of all allies on the same row when present on the field. Not stackable
+breakout_gun-10000017,Astra
+breakout_gun-20000017,Slightly increases the rate of fire of all allies on the same row when present on the field. Not stackable
+breakout_gun-10000018,Tokarev
+breakout_gun-20000018,Slightly increases the evasion of all allies on the same row when present on the field. Not stackable

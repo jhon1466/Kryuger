@@ -1,0 +1,720 @@
+theater_construction-10041100,Forward Base
+theater_construction-20041100,Expedition Team +0
+theater_construction-10041101,Forward Base
+theater_construction-20041101,Expedition Team +1
+theater_construction-10041102,Forward Base
+theater_construction-20041102,Expedition Team +2
+theater_construction-10041103,Forward Base
+theater_construction-20041103,Expedition Team +3
+theater_construction-10042100,Forward Base
+theater_construction-20042100,Expedition Team +0
+theater_construction-10042101,Forward Base
+theater_construction-20042101,Expedition Team +1
+theater_construction-10042102,Forward Base
+theater_construction-20042102,Expedition Team +2
+theater_construction-10042103,Forward Base
+theater_construction-20042103,Expedition Team +3
+theater_construction-10042500,Air Control Center
+theater_construction-20042500,Fairy Command Point +0
+theater_construction-10042501,Air Control Center
+theater_construction-20042501,Fairy Command Point +5
+theater_construction-10042502,Air Control Center
+theater_construction-20042502,Fairy Command Point +10
+theater_construction-10042503,Air Control Center
+theater_construction-20042503,Fairy Command Point +15
+theater_construction-10043100,Forward Base
+theater_construction-20043100,Expedition Team +0
+theater_construction-10043101,Forward Base
+theater_construction-20043101,Expedition Team +1
+theater_construction-10043102,Forward Base
+theater_construction-20043102,Expedition Team +2
+theater_construction-10043103,Forward Base
+theater_construction-20043103,Expedition Team +3
+theater_construction-10043400,Air Control Center
+theater_construction-20043400,Fairy Command Point +0
+theater_construction-10043401,Air Control Center
+theater_construction-20043401,Fairy Command Point +5
+theater_construction-10043402,Air Control Center
+theater_construction-20043402,Fairy Command Point +10
+theater_construction-10043403,Air Control Center
+theater_construction-20043403,Fairy Command Point +15
+theater_construction-10043600,Fire Position
+theater_construction-20043600,Number of HOC uses +0
+theater_construction-10043601,Fire Position
+theater_construction-20043601,Number of HOC uses +1
+theater_construction-10043602,Fire Position
+theater_construction-20043602,Number of HOC uses +2
+theater_construction-10043603,Fire Position
+theater_construction-20043603,Number of HOC uses +3
+theater_construction-10044100,Forward Base
+theater_construction-20044100,Expedition Team +0
+theater_construction-10044101,Forward Base
+theater_construction-20044101,Expedition Team +1
+theater_construction-10044102,Forward Base
+theater_construction-20044102,Expedition Team +2
+theater_construction-10044103,Forward Base
+theater_construction-20044103,Expedition Team +3
+theater_construction-10044200,Air Control Center
+theater_construction-20044200,Fairy Command Point +0
+theater_construction-10044201,Air Control Center
+theater_construction-20044201,Fairy Command Point +5
+theater_construction-10044202,Air Control Center
+theater_construction-20044202,Fairy Command Point +10
+theater_construction-10044203,Air Control Center
+theater_construction-20044203,Fairy Command Point +15
+theater_construction-10044300,Fire Position
+theater_construction-20044300,Number of HOC uses +0
+theater_construction-10044301,Fire Position
+theater_construction-20044301,Number of HOC uses +1
+theater_construction-10044302,Fire Position
+theater_construction-20044302,Number of HOC uses +2
+theater_construction-10044303,Fire Position
+theater_construction-20044303,Number of HOC uses +3
+theater_construction-10051100,Forward Base
+theater_construction-20051100,Expedition Team +0
+theater_construction-10051101,Forward Base
+theater_construction-20051101,Expedition Team +1
+theater_construction-10051102,Forward Base
+theater_construction-20051102,Expedition Team +2
+theater_construction-10051103,Forward Base
+theater_construction-20051103,Expedition Team +3
+theater_construction-10052100,Forward Base
+theater_construction-20052100,Expedition Team +0
+theater_construction-10052101,Forward Base
+theater_construction-20052101,Expedition Team +1
+theater_construction-10052102,Forward Base
+theater_construction-20052102,Expedition Team +2
+theater_construction-10052103,Forward Base
+theater_construction-20052103,Expedition Team +3
+theater_construction-10052500,Air Control Center
+theater_construction-20052500,Fairy Command Point +0
+theater_construction-10052501,Air Control Center
+theater_construction-20052501,Fairy Command Point +5
+theater_construction-10052502,Air Control Center
+theater_construction-20052502,Fairy Command Point +10
+theater_construction-10052503,Air Control Center
+theater_construction-20052503,Fairy Command Point +15
+theater_construction-10053100,Forward Base
+theater_construction-20053100,Expedition Team +0
+theater_construction-10053101,Forward Base
+theater_construction-20053101,Expedition Team +1
+theater_construction-10053102,Forward Base
+theater_construction-20053102,Expedition Team +2
+theater_construction-10053103,Forward Base
+theater_construction-20053103,Expedition Team +3
+theater_construction-10053400,Air Control Center
+theater_construction-20053400,Fairy Command Point +0
+theater_construction-10053401,Air Control Center
+theater_construction-20053401,Fairy Command Point +5
+theater_construction-10053402,Air Control Center
+theater_construction-20053402,Fairy Command Point +10
+theater_construction-10053403,Air Control Center
+theater_construction-20053403,Fairy Command Point +15
+theater_construction-10053600,Fire Position
+theater_construction-20053600,Number of HOC uses +0
+theater_construction-10053601,Fire Position
+theater_construction-20053601,Number of HOC uses +1
+theater_construction-10053602,Fire Position
+theater_construction-20053602,Number of HOC uses +2
+theater_construction-10053603,Fire Position
+theater_construction-20053603,Number of HOC uses +3
+theater_construction-10054100,Forward Base
+theater_construction-20054100,Expedition Team +0
+theater_construction-10054101,Forward Base
+theater_construction-20054101,Expedition Team +1
+theater_construction-10054102,Forward Base
+theater_construction-20054102,Expedition Team +2
+theater_construction-10054103,Forward Base
+theater_construction-20054103,Expedition Team +3
+theater_construction-10054200,Air Control Center
+theater_construction-20054200,Fairy Command Point +0
+theater_construction-10054201,Air Control Center
+theater_construction-20054201,Fairy Command Point +5
+theater_construction-10054202,Air Control Center
+theater_construction-20054202,Fairy Command Point +10
+theater_construction-10054203,Air Control Center
+theater_construction-20054203,Fairy Command Point +15
+theater_construction-10054300,Fire Position
+theater_construction-20054300,Number of HOC uses +0
+theater_construction-10054301,Fire Position
+theater_construction-20054301,Number of HOC uses +1
+theater_construction-10054302,Fire Position
+theater_construction-20054302,Number of HOC uses +2
+theater_construction-10054303,Fire Position
+theater_construction-20054303,Number of HOC uses +3
+theater_construction-10061100,Forward Base
+theater_construction-20061100,Expedition Team +0
+theater_construction-10061101,Forward Base
+theater_construction-20061101,Expedition Team +1
+theater_construction-10061102,Forward Base
+theater_construction-20061102,Expedition Team +2
+theater_construction-10061103,Forward Base
+theater_construction-20061103,Expedition Team +3
+theater_construction-10062100,Forward Base
+theater_construction-20062100,Expedition Team +0
+theater_construction-10062101,Forward Base
+theater_construction-20062101,Expedition Team +1
+theater_construction-10062102,Forward Base
+theater_construction-20062102,Expedition Team +2
+theater_construction-10062103,Forward Base
+theater_construction-20062103,Expedition Team +3
+theater_construction-10062500,Air Control Center
+theater_construction-20062500,Fairy Command Point +0
+theater_construction-10062501,Air Control Center
+theater_construction-20062501,Fairy Command Point +5
+theater_construction-10062502,Air Control Center
+theater_construction-20062502,Fairy Command Point +10
+theater_construction-10062503,Air Control Center
+theater_construction-20062503,Fairy Command Point +15
+theater_construction-10063100,Forward Base
+theater_construction-20063100,Expedition Team +0
+theater_construction-10063101,Forward Base
+theater_construction-20063101,Expedition Team +1
+theater_construction-10063102,Forward Base
+theater_construction-20063102,Expedition Team +2
+theater_construction-10063103,Forward Base
+theater_construction-20063103,Expedition Team +3
+theater_construction-10063400,Air Control Center
+theater_construction-20063400,Fairy Command Point +0
+theater_construction-10063401,Air Control Center
+theater_construction-20063401,Fairy Command Point +5
+theater_construction-10063402,Air Control Center
+theater_construction-20063402,Fairy Command Point +10
+theater_construction-10063403,Air Control Center
+theater_construction-20063403,Fairy Command Point +15
+theater_construction-10063600,Fire Position
+theater_construction-20063600,Number of HOC uses +0
+theater_construction-10063601,Fire Position
+theater_construction-20063601,Number of HOC uses +1
+theater_construction-10063602,Fire Position
+theater_construction-20063602,Number of HOC uses +2
+theater_construction-10063603,Fire Position
+theater_construction-20063603,Number of HOC uses +3
+theater_construction-10064100,Forward Base
+theater_construction-20064100,Expedition Team +0
+theater_construction-10064101,Forward Base
+theater_construction-20064101,Expedition Team +1
+theater_construction-10064102,Forward Base
+theater_construction-20064102,Expedition Team +2
+theater_construction-10064103,Forward Base
+theater_construction-20064103,Expedition Team +3
+theater_construction-10064200,Air Control Center
+theater_construction-20064200,Fairy Command Point +0
+theater_construction-10064201,Air Control Center
+theater_construction-20064201,Fairy Command Point +5
+theater_construction-10064202,Air Control Center
+theater_construction-20064202,Fairy Command Point +10
+theater_construction-10064203,Air Control Center
+theater_construction-20064203,Fairy Command Point +15
+theater_construction-10064300,Fire Position
+theater_construction-20064300,Number of HOC uses +0
+theater_construction-10064301,Fire Position
+theater_construction-20064301,Number of HOC uses +1
+theater_construction-10064302,Fire Position
+theater_construction-20064302,Number of HOC uses +2
+theater_construction-10064303,Fire Position
+theater_construction-20064303,Number of HOC uses +3
+theater_construction-10071100,Forward Base
+theater_construction-20071100,Expedition Team +0
+theater_construction-10071101,Forward Base
+theater_construction-20071101,Expedition Team +1
+theater_construction-10071102,Forward Base
+theater_construction-20071102,Expedition Team +2
+theater_construction-10071103,Forward Base
+theater_construction-20071103,Expedition Team +3
+theater_construction-10072100,Forward Base
+theater_construction-20072100,Expedition Team +0
+theater_construction-10072101,Forward Base
+theater_construction-20072101,Expedition Team +1
+theater_construction-10072102,Forward Base
+theater_construction-20072102,Expedition Team +2
+theater_construction-10072103,Forward Base
+theater_construction-20072103,Expedition Team +3
+theater_construction-10072500,Air Control Center
+theater_construction-20072500,Fairy Command Point +0
+theater_construction-10072501,Air Control Center
+theater_construction-20072501,Fairy Command Point +5
+theater_construction-10072502,Air Control Center
+theater_construction-20072502,Fairy Command Point +10
+theater_construction-10072503,Air Control Center
+theater_construction-20072503,Fairy Command Point +15
+theater_construction-10073100,Forward Base
+theater_construction-20073100,Expedition Team +0
+theater_construction-10073101,Forward Base
+theater_construction-20073101,Expedition Team +1
+theater_construction-10073102,Forward Base
+theater_construction-20073102,Expedition Team +2
+theater_construction-10073103,Forward Base
+theater_construction-20073103,Expedition Team +3
+theater_construction-10073400,Air Control Center
+theater_construction-20073400,Fairy Command Point +0
+theater_construction-10073401,Air Control Center
+theater_construction-20073401,Fairy Command Point +5
+theater_construction-10073402,Air Control Center
+theater_construction-20073402,Fairy Command Point +10
+theater_construction-10073403,Air Control Center
+theater_construction-20073403,Fairy Command Point +15
+theater_construction-10073600,Fire Position
+theater_construction-20073600,Number of HOC uses +0
+theater_construction-10073601,Fire Position
+theater_construction-20073601,Number of HOC uses +1
+theater_construction-10073602,Fire Position
+theater_construction-20073602,Number of HOC uses +2
+theater_construction-10073603,Fire Position
+theater_construction-20073603,Number of HOC uses +3
+theater_construction-10074100,Forward Base
+theater_construction-20074100,Expedition Team +0
+theater_construction-10074101,Forward Base
+theater_construction-20074101,Expedition Team +1
+theater_construction-10074102,Forward Base
+theater_construction-20074102,Expedition Team +2
+theater_construction-10074103,Forward Base
+theater_construction-20074103,Expedition Team +3
+theater_construction-10074200,Air Control Center
+theater_construction-20074200,Fairy Command Point +0
+theater_construction-10074201,Air Control Center
+theater_construction-20074201,Fairy Command Point +5
+theater_construction-10074202,Air Control Center
+theater_construction-20074202,Fairy Command Point +10
+theater_construction-10074203,Air Control Center
+theater_construction-20074203,Fairy Command Point +15
+theater_construction-10074300,Fire Position
+theater_construction-20074300,Number of HOC uses +0
+theater_construction-10074301,Fire Position
+theater_construction-20074301,Number of HOC uses +1
+theater_construction-10074302,Fire Position
+theater_construction-20074302,Number of HOC uses +2
+theater_construction-10074303,Fire Position
+theater_construction-20074303,Number of HOC uses +3
+theater_construction-10081100,Forward Base
+theater_construction-20081100,Expedition Team +0
+theater_construction-10081101,Forward Base
+theater_construction-20081101,Expedition Team +1
+theater_construction-10081102,Forward Base
+theater_construction-20081102,Expedition Team +2
+theater_construction-10081103,Forward Base
+theater_construction-20081103,Expedition Team +3
+theater_construction-10082100,Forward Base
+theater_construction-20082100,Expedition Team +0
+theater_construction-10082101,Forward Base
+theater_construction-20082101,Expedition Team +1
+theater_construction-10082102,Forward Base
+theater_construction-20082102,Expedition Team +2
+theater_construction-10082103,Forward Base
+theater_construction-20082103,Expedition Team +3
+theater_construction-10082500,Air Control Center
+theater_construction-20082500,Fairy Command Point +0
+theater_construction-10082501,Air Control Center
+theater_construction-20082501,Fairy Command Point +5
+theater_construction-10082502,Air Control Center
+theater_construction-20082502,Fairy Command Point +10
+theater_construction-10082503,Air Control Center
+theater_construction-20082503,Fairy Command Point +15
+theater_construction-10083100,Forward Base
+theater_construction-20083100,Expedition Team +0
+theater_construction-10083101,Forward Base
+theater_construction-20083101,Expedition Team +1
+theater_construction-10083102,Forward Base
+theater_construction-20083102,Expedition Team +2
+theater_construction-10083103,Forward Base
+theater_construction-20083103,Expedition Team +3
+theater_construction-10083400,Air Control Center
+theater_construction-20083400,Fairy Command Point +0
+theater_construction-10083401,Air Control Center
+theater_construction-20083401,Fairy Command Point +5
+theater_construction-10083402,Air Control Center
+theater_construction-20083402,Fairy Command Point +10
+theater_construction-10083403,Air Control Center
+theater_construction-20083403,Fairy Command Point +15
+theater_construction-10083600,Fire Position
+theater_construction-20083600,Number of HOC uses +0
+theater_construction-10083601,Fire Position
+theater_construction-20083601,Number of HOC uses +1
+theater_construction-10083602,Fire Position
+theater_construction-20083602,Number of HOC uses +2
+theater_construction-10083603,Fire Position
+theater_construction-20083603,Number of HOC uses +3
+theater_construction-10084100,Forward Base
+theater_construction-20084100,Expedition Team +0
+theater_construction-10084101,Forward Base
+theater_construction-20084101,Expedition Team +1
+theater_construction-10084102,Forward Base
+theater_construction-20084102,Expedition Team +2
+theater_construction-10084103,Forward Base
+theater_construction-20084103,Expedition Team +3
+theater_construction-10084200,Air Control Center
+theater_construction-20084200,Fairy Command Point +0
+theater_construction-10084201,Air Control Center
+theater_construction-20084201,Fairy Command Point +5
+theater_construction-10084202,Air Control Center
+theater_construction-20084202,Fairy Command Point +10
+theater_construction-10084203,Air Control Center
+theater_construction-20084203,Fairy Command Point +15
+theater_construction-10084300,Fire Position
+theater_construction-20084300,Number of HOC uses +0
+theater_construction-10084301,Fire Position
+theater_construction-20084301,Number of HOC uses +1
+theater_construction-10084302,Fire Position
+theater_construction-20084302,Number of HOC uses +2
+theater_construction-10084303,Fire Position
+theater_construction-20084303,Number of HOC uses +3
+theater_construction-10091100,Forward Base
+theater_construction-20091100,Expedition Team +0
+theater_construction-10091101,Forward Base
+theater_construction-20091101,Expedition Team +1
+theater_construction-10091102,Forward Base
+theater_construction-20091102,Expedition Team +2
+theater_construction-10091103,Forward Base
+theater_construction-20091103,Expedition Team +3
+theater_construction-10092100,Forward Base
+theater_construction-20092100,Expedition Team +0
+theater_construction-10092101,Forward Base
+theater_construction-20092101,Expedition Team +1
+theater_construction-10092102,Forward Base
+theater_construction-20092102,Expedition Team +2
+theater_construction-10092103,Forward Base
+theater_construction-20092103,Expedition Team +3
+theater_construction-10092500,Air Control Center
+theater_construction-20092500,Fairy Command Point +0
+theater_construction-10092501,Air Control Center
+theater_construction-20092501,Fairy Command Point +5
+theater_construction-10092502,Air Control Center
+theater_construction-20092502,Fairy Command Point +10
+theater_construction-10092503,Air Control Center
+theater_construction-20092503,Fairy Command Point +15
+theater_construction-10093100,Forward Base
+theater_construction-20093100,Expedition Team +0
+theater_construction-10093101,Forward Base
+theater_construction-20093101,Expedition Team +1
+theater_construction-10093102,Forward Base
+theater_construction-20093102,Expedition Team +2
+theater_construction-10093103,Forward Base
+theater_construction-20093103,Expedition Team +3
+theater_construction-10093400,Air Control Center
+theater_construction-20093400,Fairy Command Point +0
+theater_construction-10093401,Air Control Center
+theater_construction-20093401,Fairy Command Point +5
+theater_construction-10093402,Air Control Center
+theater_construction-20093402,Fairy Command Point +10
+theater_construction-10093403,Air Control Center
+theater_construction-20093403,Fairy Command Point +15
+theater_construction-10093600,Fire Position
+theater_construction-20093600,Number of HOC uses +0
+theater_construction-10093601,Fire Position
+theater_construction-20093601,Number of HOC uses +1
+theater_construction-10093602,Fire Position
+theater_construction-20093602,Number of HOC uses +2
+theater_construction-10093603,Fire Position
+theater_construction-20093603,Number of HOC uses +3
+theater_construction-10094100,Forward Base
+theater_construction-20094100,Expedition Team +0
+theater_construction-10094101,Forward Base
+theater_construction-20094101,Expedition Team +1
+theater_construction-10094102,Forward Base
+theater_construction-20094102,Expedition Team +2
+theater_construction-10094103,Forward Base
+theater_construction-20094103,Expedition Team +3
+theater_construction-10094200,Air Control Center
+theater_construction-20094200,Fairy Command Point +0
+theater_construction-10094201,Air Control Center
+theater_construction-20094201,Fairy Command Point +5
+theater_construction-10094202,Air Control Center
+theater_construction-20094202,Fairy Command Point +10
+theater_construction-10094203,Air Control Center
+theater_construction-20094203,Fairy Command Point +15
+theater_construction-10094300,Fire Position
+theater_construction-20094300,Number of HOC uses +0
+theater_construction-10094301,Fire Position
+theater_construction-20094301,Number of HOC uses +1
+theater_construction-10094302,Fire Position
+theater_construction-20094302,Number of HOC uses +2
+theater_construction-10094303,Fire Position
+theater_construction-20094303,Number of HOC uses +3
+theater_construction-10101100,Forward Base
+theater_construction-20101100,Expedition Team +0
+theater_construction-10101101,Forward Base
+theater_construction-20101101,Expedition Team +1
+theater_construction-10101102,Forward Base
+theater_construction-20101102,Expedition Team +2
+theater_construction-10101103,Forward Base
+theater_construction-20101103,Expedition Team +3
+theater_construction-10102100,Forward Base
+theater_construction-20102100,Expedition Team +0
+theater_construction-10102101,Forward Base
+theater_construction-20102101,Expedition Team +1
+theater_construction-10102102,Forward Base
+theater_construction-20102102,Expedition Team +2
+theater_construction-10102103,Forward Base
+theater_construction-20102103,Expedition Team +3
+theater_construction-10102500,Air Control Center
+theater_construction-20102500,Fairy Command Point +0
+theater_construction-10102501,Air Control Center
+theater_construction-20102501,Fairy Command Point +5
+theater_construction-10102502,Air Control Center
+theater_construction-20102502,Fairy Command Point +10
+theater_construction-10102503,Air Control Center
+theater_construction-20102503,Fairy Command Point +15
+theater_construction-10103100,Forward Base
+theater_construction-20103100,Expedition Team +0
+theater_construction-10103101,Forward Base
+theater_construction-20103101,Expedition Team +1
+theater_construction-10103102,Forward Base
+theater_construction-20103102,Expedition Team +2
+theater_construction-10103103,Forward Base
+theater_construction-20103103,Expedition Team +3
+theater_construction-10103400,Air Control Center
+theater_construction-20103400,Fairy Command Point +0
+theater_construction-10103401,Air Control Center
+theater_construction-20103401,Fairy Command Point +5
+theater_construction-10103402,Air Control Center
+theater_construction-20103402,Fairy Command Point +10
+theater_construction-10103403,Air Control Center
+theater_construction-20103403,Fairy Command Point +15
+theater_construction-10103600,Fire Position
+theater_construction-20103600,Number of HOC uses +0
+theater_construction-10103601,Fire Position
+theater_construction-20103601,Number of HOC uses +1
+theater_construction-10103602,Fire Position
+theater_construction-20103602,Number of HOC uses +2
+theater_construction-10103603,Fire Position
+theater_construction-20103603,Number of HOC uses +3
+theater_construction-10104100,Forward Base
+theater_construction-20104100,Expedition Team +0
+theater_construction-10104101,Forward Base
+theater_construction-20104101,Expedition Team +1
+theater_construction-10104102,Forward Base
+theater_construction-20104102,Expedition Team +2
+theater_construction-10104103,Forward Base
+theater_construction-20104103,Expedition Team +3
+theater_construction-10104200,Air Control Center
+theater_construction-20104200,Fairy Command Point +0
+theater_construction-10104201,Air Control Center
+theater_construction-20104201,Fairy Command Point +5
+theater_construction-10104202,Air Control Center
+theater_construction-20104202,Fairy Command Point +10
+theater_construction-10104203,Air Control Center
+theater_construction-20104203,Fairy Command Point +15
+theater_construction-10104300,Fire Position
+theater_construction-20104300,Number of HOC uses +0
+theater_construction-10104301,Fire Position
+theater_construction-20104301,Number of HOC uses +1
+theater_construction-10104302,Fire Position
+theater_construction-20104302,Number of HOC uses +2
+theater_construction-10104303,Fire Position
+theater_construction-20104303,Number of HOC uses +3
+theater_construction-10111100,Forward Base
+theater_construction-20111100,Expedition Team +0
+theater_construction-10111101,Forward Base
+theater_construction-20111101,Expedition Team +1
+theater_construction-10111102,Forward Base
+theater_construction-20111102,Expedition Team +2
+theater_construction-10111103,Forward Base
+theater_construction-20111103,Expedition Team +3
+theater_construction-10112100,Forward Base
+theater_construction-20112100,Expedition Team +0
+theater_construction-10112101,Forward Base
+theater_construction-20112101,Expedition Team +1
+theater_construction-10112102,Forward Base
+theater_construction-20112102,Expedition Team +2
+theater_construction-10112103,Forward Base
+theater_construction-20112103,Expedition Team +3
+theater_construction-10112500,Air Control Center
+theater_construction-20112500,Fairy Command Point +0
+theater_construction-10112501,Air Control Center
+theater_construction-20112501,Fairy Command Point +5
+theater_construction-10112502,Air Control Center
+theater_construction-20112502,Fairy Command Point +10
+theater_construction-10112503,Air Control Center
+theater_construction-20112503,Fairy Command Point +15
+theater_construction-10113100,Forward Base
+theater_construction-20113100,Expedition Team +0
+theater_construction-10113101,Forward Base
+theater_construction-20113101,Expedition Team +1
+theater_construction-10113102,Forward Base
+theater_construction-20113102,Expedition Team +2
+theater_construction-10113103,Forward Base
+theater_construction-20113103,Expedition Team +3
+theater_construction-10113400,Air Control Center
+theater_construction-20113400,Fairy Command Point +0
+theater_construction-10113401,Air Control Center
+theater_construction-20113401,Fairy Command Point +5
+theater_construction-10113402,Air Control Center
+theater_construction-20113402,Fairy Command Point +10
+theater_construction-10113403,Air Control Center
+theater_construction-20113403,Fairy Command Point +15
+theater_construction-10113600,Fire Position
+theater_construction-20113600,Number of HOC uses +0
+theater_construction-10113601,Fire Position
+theater_construction-20113601,Number of HOC uses +1
+theater_construction-10113602,Fire Position
+theater_construction-20113602,Number of HOC uses +2
+theater_construction-10113603,Fire Position
+theater_construction-20113603,Number of HOC uses +3
+theater_construction-10114100,Forward Base
+theater_construction-20114100,Expedition Team +0
+theater_construction-10114101,Forward Base
+theater_construction-20114101,Expedition Team +1
+theater_construction-10114102,Forward Base
+theater_construction-20114102,Expedition Team +2
+theater_construction-10114103,Forward Base
+theater_construction-20114103,Expedition Team +3
+theater_construction-10114200,Air Control Center
+theater_construction-20114200,Fairy Command Point +0
+theater_construction-10114201,Air Control Center
+theater_construction-20114201,Fairy Command Point +5
+theater_construction-10114202,Air Control Center
+theater_construction-20114202,Fairy Command Point +10
+theater_construction-10114203,Air Control Center
+theater_construction-20114203,Fairy Command Point +15
+theater_construction-10114300,Fire Position
+theater_construction-20114300,Number of HOC uses +0
+theater_construction-10114301,Fire Position
+theater_construction-20114301,Number of HOC uses +1
+theater_construction-10114302,Fire Position
+theater_construction-20114302,Number of HOC uses +2
+theater_construction-10114303,Fire Position
+theater_construction-20114303,Number of HOC uses +3
+theater_construction-10121100,Forward Base
+theater_construction-20121100,Expedition Team +0
+theater_construction-10121101,Forward Base
+theater_construction-20121101,Expedition Team +1
+theater_construction-10121102,Forward Base
+theater_construction-20121102,Expedition Team +2
+theater_construction-10121103,Forward Base
+theater_construction-20121103,Expedition Team +3
+theater_construction-10122100,Forward Base
+theater_construction-20122100,Expedition Team +0
+theater_construction-10122101,Forward Base
+theater_construction-20122101,Expedition Team +1
+theater_construction-10122102,Forward Base
+theater_construction-20122102,Expedition Team +2
+theater_construction-10122103,Forward Base
+theater_construction-20122103,Expedition Team +3
+theater_construction-10122500,Air Control Center
+theater_construction-20122500,Fairy Command Point +0
+theater_construction-10122501,Air Control Center
+theater_construction-20122501,Fairy Command Point +5
+theater_construction-10122502,Air Control Center
+theater_construction-20122502,Fairy Command Point +10
+theater_construction-10122503,Air Control Center
+theater_construction-20122503,Fairy Command Point +15
+theater_construction-10123100,Forward Base
+theater_construction-20123100,Expedition Team +0
+theater_construction-10123101,Forward Base
+theater_construction-20123101,Expedition Team +1
+theater_construction-10123102,Forward Base
+theater_construction-20123102,Expedition Team +2
+theater_construction-10123103,Forward Base
+theater_construction-20123103,Expedition Team +3
+theater_construction-10123400,Air Control Center
+theater_construction-20123400,Fairy Command Point +0
+theater_construction-10123401,Air Control Center
+theater_construction-20123401,Fairy Command Point +5
+theater_construction-10123402,Air Control Center
+theater_construction-20123402,Fairy Command Point +10
+theater_construction-10123403,Air Control Center
+theater_construction-20123403,Fairy Command Point +15
+theater_construction-10123600,Fire Position
+theater_construction-20123600,Number of HOC uses +0
+theater_construction-10123601,Fire Position
+theater_construction-20123601,Number of HOC uses +1
+theater_construction-10123602,Fire Position
+theater_construction-20123602,Number of HOC uses +2
+theater_construction-10123603,Fire Position
+theater_construction-20123603,Number of HOC uses +3
+theater_construction-10124100,Forward Base
+theater_construction-20124100,Expedition Team +0
+theater_construction-10124101,Forward Base
+theater_construction-20124101,Expedition Team +1
+theater_construction-10124102,Forward Base
+theater_construction-20124102,Expedition Team +2
+theater_construction-10124103,Forward Base
+theater_construction-20124103,Expedition Team +3
+theater_construction-10124200,Air Control Center
+theater_construction-20124200,Fairy Command Point +0
+theater_construction-10124201,Air Control Center
+theater_construction-20124201,Fairy Command Point +5
+theater_construction-10124202,Air Control Center
+theater_construction-20124202,Fairy Command Point +10
+theater_construction-10124203,Air Control Center
+theater_construction-20124203,Fairy Command Point +15
+theater_construction-10124300,Fire Position
+theater_construction-20124300,Number of HOC uses +0
+theater_construction-10124301,Fire Position
+theater_construction-20124301,Number of HOC uses +1
+theater_construction-10124302,Fire Position
+theater_construction-20124302,Number of HOC uses +2
+theater_construction-10124303,Fire Position
+theater_construction-20124303,Number of HOC uses +3
+theater_construction-10131100,Forward Base
+theater_construction-20131100,Expedition Team +0
+theater_construction-10131101,Forward Base
+theater_construction-20131101,Expedition Team +1
+theater_construction-10131102,Forward Base
+theater_construction-20131102,Expedition Team +2
+theater_construction-10131103,Forward Base
+theater_construction-20131103,Expedition Team +3
+theater_construction-10132100,Forward Base
+theater_construction-20132100,Expedition Team +0
+theater_construction-10132101,Forward Base
+theater_construction-20132101,Expedition Team +1
+theater_construction-10132102,Forward Base
+theater_construction-20132102,Expedition Team +2
+theater_construction-10132103,Forward Base
+theater_construction-20132103,Expedition Team +3
+theater_construction-10132500,Air Control Center
+theater_construction-20132500,Fairy Command Point +0
+theater_construction-10132501,Air Control Center
+theater_construction-20132501,Fairy Command Point +5
+theater_construction-10132502,Air Control Center
+theater_construction-20132502,Fairy Command Point +10
+theater_construction-10132503,Air Control Center
+theater_construction-20132503,Fairy Command Point +15
+theater_construction-10133100,Forward Base
+theater_construction-20133100,Expedition Team +0
+theater_construction-10133101,Forward Base
+theater_construction-20133101,Expedition Team +1
+theater_construction-10133102,Forward Base
+theater_construction-20133102,Expedition Team +2
+theater_construction-10133103,Forward Base
+theater_construction-20133103,Expedition Team +3
+theater_construction-10133400,Air Control Center
+theater_construction-20133400,Fairy Command Point +0
+theater_construction-10133401,Air Control Center
+theater_construction-20133401,Fairy Command Point +5
+theater_construction-10133402,Air Control Center
+theater_construction-20133402,Fairy Command Point +10
+theater_construction-10133403,Air Control Center
+theater_construction-20133403,Fairy Command Point +15
+theater_construction-10133600,Fire Position
+theater_construction-20133600,Number of HOC uses +0
+theater_construction-10133601,Fire Position
+theater_construction-20133601,Number of HOC uses +1
+theater_construction-10133602,Fire Position
+theater_construction-20133602,Number of HOC uses +2
+theater_construction-10133603,Fire Position
+theater_construction-20133603,Number of HOC uses +3
+theater_construction-10134100,Forward Base
+theater_construction-20134100,Expedition Team +0
+theater_construction-10134101,Forward Base
+theater_construction-20134101,Expedition Team +1
+theater_construction-10134102,Forward Base
+theater_construction-20134102,Expedition Team +2
+theater_construction-10134103,Forward Base
+theater_construction-20134103,Expedition Team +3
+theater_construction-10134200,Air Control Center
+theater_construction-20134200,Fairy Command Point +0
+theater_construction-10134201,Air Control Center
+theater_construction-20134201,Fairy Command Point +5
+theater_construction-10134202,Air Control Center
+theater_construction-20134202,Fairy Command Point +10
+theater_construction-10134203,Air Control Center
+theater_construction-20134203,Fairy Command Point +15
+theater_construction-10134300,Fire Position
+theater_construction-20134300,Number of HOC uses +0
+theater_construction-10134301,Fire Position
+theater_construction-20134301,Number of HOC uses +1
+theater_construction-10134302,Fire Position
+theater_construction-20134302,Number of HOC uses +2
+theater_construction-10134303,Fire Position
+theater_construction-20134303,Number of HOC uses +3

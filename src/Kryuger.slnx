@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Kryuger.Common/Kryuger.Common.csproj" />
+  <Project Path="Kryuger.Data/Kryuger.Data.csproj" />
+  <Project Path="Kryuger.Server/Kryuger.Server.csproj" />
+  <Project Path="Kryuger.Tests/Kryuger.Tests.csproj" />
+</Solution>

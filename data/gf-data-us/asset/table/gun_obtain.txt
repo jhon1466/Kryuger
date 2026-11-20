@@ -1,0 +1,366 @@
+gun_obtain-10000000,• Temporarily unavailable//c please look forward to future events
+gun_obtain-10000001,• Obtainable from standard production
+gun_obtain-10000002,• Obtainable from heavy production
+gun_obtain-10000003,• Obtainable as a drop from normal battles
+gun_obtain-10000004,• Obtainable as a drop from Boss stages
+gun_obtain-10000005,• Obtainable as this month's login reward
+gun_obtain-10000006,• Obtainable by progressing in the story
+gun_obtain-10000007,• Obtainable as an achievement reward
+gun_obtain-10000008,• Obtainable from【Normal 1-6】【Emergency 1-4】
+gun_obtain-10000009,BOSS battle S rank or map clear S rank
+gun_obtain-10000010,• Obtainable from【Normal 2-6】【Emergency 2-4】
+gun_obtain-10000011,BOSS battle S rank or map clear S rank
+gun_obtain-10000012,• Obtainable from【Normal 3-6】【Emergency 3-4】
+gun_obtain-10000013,BOSS battle S rank or map clear S rank
+gun_obtain-10000014,• Obtainable from【Normal 4-6】【Emergency 4-4】
+gun_obtain-10000015,BOSS battle S rank or map clear S rank
+gun_obtain-10000016,• Obtainable from【Normal 5-6】【Emergency 5-4】
+gun_obtain-10000017,BOSS battle S rank or map clear S rank
+gun_obtain-10000018,• Obtainable from【Normal 6-6】【Emergency 6-4】
+gun_obtain-10000019,BOSS battle S rank or map clear S rank
+gun_obtain-10000020,• Obtainable from【Normal 7-6】【Emergency 7-4】
+gun_obtain-10000021,BOSS battle clear or map clear S rank
+gun_obtain-10000022,• Obtainable from【Normal 8-6】【Emergency 8-4】
+gun_obtain-10000023,BOSS battle clear or map clear S rank
+gun_obtain-10000024,• Limited-time campaign 【Deep Dive】 drop reward
+gun_obtain-10000025,• Limited-time campaign 【Deep Dive】 stage clear reward
+gun_obtain-10000026,• Limited-time campaign 【Deep Dive】 Crate reward
+gun_obtain-10000027,• Obtainable from【Normal 9-6】【Emergency 9-4】
+gun_obtain-10000028,BOSS battle clear or map clear S rank
+gun_obtain-10000029,• Obtainable from【Normal 10-6】【Emergency 10-4】
+gun_obtain-10000030,BOSS battle clear or map clear S rank
+gun_obtain-10000031,• Obtainable from【Normal 11-6】【Emergency 11-4】
+gun_obtain-10000032,BOSS battle clear or map clear S rank
+gun_obtain-10000033,• Obtainable from【Normal 12-6】【Emergency 12-4】
+gun_obtain-10000034,BOSS battle clear or map clear S rank
+gun_obtain-10000035,• Obtainable through Neural Upgrade
+gun_obtain-10000036,• Normal 13-6 and Emergency 13-4 rescue reward
+gun_obtain-10000037,BOSS battle clear or map clear S rank
+gun_obtain-10000038,• Obtainable from Heavy Productions
+gun_obtain-10000039,Obtain from Fairy Production
+gun_obtain-10000040,Available for purchase in Armor Design Shop
+gun_obtain-10000041,
+gun_obtain-10000101,• Permanent campaign 【Arctic Warfare】 drop reward
+gun_obtain-10000102,• Permanent campaign 【Operation Cube】 drop reward
+gun_obtain-10000103,• Limited-time campaign 【Arctic Warfare】drop reward
+gun_obtain-10000104,• Limited-time campaign 【Arctic Warfare】stage clear reward
+gun_obtain-10000105,• Permanent campaign 【Deep Dive】 drop reward
+gun_obtain-10000106,• Permanent campaign 【Deep Dive】 stage clear reward
+gun_obtain-10000107,• Permanent campaign 【Deep Dive】Crate reward
+gun_obtain-10000201,• Limited-time campaign【Operation Cube】 drop reward
+gun_obtain-10000202,• Limited-time campaign【Operation Cube】 stage clear reward
+gun_obtain-10000203,• Limited-time campaign 【Singularity】drop reward
+gun_obtain-10000204,• Limited-time campaign 【Singularity】stage clear reward
+gun_obtain-10000205,• Limited-time campaign 【Singularity】Crate reward
+gun_obtain-10000206,• Limited-time campaign【Glory Day】stage 2-3 clear reward
+gun_obtain-10000207,• Operational Directive【Umbral Order】reward
+gun_obtain-10000208,• Achievement reward
+gun_obtain-10000209,
+gun_obtain-10000210,• Operational Directive【Scarlet Witch】reward
+gun_obtain-10000211,• Limited-time campaign【Continuum Turbulence】 rescue reward
+gun_obtain-10000212,• Limited-time campaign【Continuum Turbulence】clear reward
+gun_obtain-10000213,• Limited-time campaign【Continuum Turbulence】event box reward
+gun_obtain-10000214,• Operational Directive【Mid-Autumn Sentry】reward
+gun_obtain-10000215,• Limited-time campaign【Isomer】rescue reward
+gun_obtain-10000216,• Limited-time campaign【Isomer】clear reward
+gun_obtain-10000217,• Limited-time campaign【Isomer】event box reward
+gun_obtain-10000218,• Limited-time campaign【Hit-Hop】reward
+gun_obtain-10000219,
+gun_obtain-10000220,• Limited-time campaign【VA-11 HALL-A】1-1 clear reward
+gun_obtain-10000221,• Limited-time campaign【VA-11 HALL-A】1-8 clear reward
+gun_obtain-10000222,• Limited-time campaign【VA-11 HALL-A】rescue reward
+gun_obtain-10000223,• Limited-time campaign【VA-11 HALL-A】Shop exchange
+gun_obtain-10000224,• Limited-time event 【Shattered Connexion】  rescue reward
+gun_obtain-10000225,• Limited-time event 【Shattered Connexion】  clear reward
+gun_obtain-10000226,• Limited-time event 【Shattered Connexion】  crate reward
+gun_obtain-10000239,• Limited-time event 【Mirror Stage】  rescue reward
+gun_obtain-10000240,• Limited-time event 【Mirror Stage】  crate reward
+gun_obtain-10000241,• Limited-time event 【Mirror Stage】 event box reward
+gun_obtain-10000242,• Limited-time event 【Jashin-chan Frontline】 clear reward
+gun_obtain-10000243,• Limited-time event 【Jashin-chan Frontline】 rescue reward
+gun_obtain-10000244,• Limited-time event 【Jashin-chan Frontline】 shop exchange
+gun_obtain-10000245,• Limited-time campaign 【Poincare Recurrence】 drop reward
+gun_obtain-10000246,• Limited-time campaign 【Poincare Recurrence】 stage clear reward
+gun_obtain-10000247,• Limited-time event 【Poincare Recurrence】 Supply Box reward
+gun_obtain-10000248,• Limited-time campaign 【Fixed Point】 drop reward
+gun_obtain-10000249,• Limited-time campaign 【Fixed Point】 stage clear reward
+gun_obtain-10000250,• Limited-time event 【Fixed Point】 Supply Box reward
+gun_obtain-10000251,• Limited-time campaign 【Longitudinal Strain】 drop reward
+gun_obtain-10000252,• Limited-time campaign 【Longitudinal Strain】 stage clear reward
+gun_obtain-10000253,• Limited-time event 【Longitudinal Strain】 Supply Box reward
+gun_obtain-10000254,• Limited-time event 【The Glistening Bloom】 clear reward
+gun_obtain-10000255,• Limited-time event 【The Glistening Bloom】 stage clear reward
+gun_obtain-10000256,• Limited-time event 【The Glistening Bloom】 shop exchange
+gun_obtain-10000257,• Limited-time event 【Slow Shock】 drop reward
+gun_obtain-10000258,• Limited-time event 【Slow Shock】 stage clear reward
+gun_obtain-10000259,• Limited-time event 【Slow Shock】 Supply Box reward
+gun_obtain-10000260,• Limited-time event 【Through the Looking-Glass】 stage clear reward
+gun_obtain-10000261,• Limited-time event 【Through the Looking-Glass】 drop reward
+gun_obtain-10000262,• Limited-time event 【Through the Looking-Glass】 shop exchange
+gun_obtain-10001701,• January 2017 monthly login reward
+gun_obtain-10001702,• Febuary 2017 monthly login reward
+gun_obtain-10001703,• March 2017 monthly login reward
+gun_obtain-10001704,• April 2017 monthly login reward
+gun_obtain-10001705,• May 2017 monthly login reward
+gun_obtain-10001706,• June 2017 monthly login reward
+gun_obtain-10001707,• July 2017 monthly login reward
+gun_obtain-10001708,• August 2017 monthly login reward
+gun_obtain-10001709,• September 2017 monthly login reward
+gun_obtain-10001710,• October 2017 monthly login reward
+gun_obtain-10001711,• November 2017 monthly login reward
+gun_obtain-10001712,• December 2017 monthly login reward
+gun_obtain-10001801,• January 2018 monthly login reward
+gun_obtain-10001802,• Febuary 2018 monthly login reward
+gun_obtain-10001803,• March 2018 monthly login reward
+gun_obtain-10001804,• April 2018 monthly login reward
+gun_obtain-10001805,• May 2018 monthly login reward
+gun_obtain-10001806,• June 2018 monthly login reward
+gun_obtain-10001807,• July 2018 monthly login reward
+gun_obtain-10001808,• August 2018 monthly login reward
+gun_obtain-10001809,• September 2018 monthly login reward
+gun_obtain-10001810,• October 2018 monthly login reward
+gun_obtain-10001811,• November 2018 monthly login reward
+gun_obtain-10001812,• December 2018 monthly login reward
+gun_obtain-10001901,• January 2019 monthly login reward
+gun_obtain-10001902,• February 2019 monthly login reward
+gun_obtain-10001903,• March 2019 monthly login reward
+gun_obtain-10001904,• April 2019 monthly login reward
+gun_obtain-10001905,• May 2019 monthly login reward
+gun_obtain-10001906,• June  2019 monthly login reward
+gun_obtain-10001907,• July 2019 monthly login reward
+gun_obtain-10001908,• August  2019 monthly login reward
+gun_obtain-10001909,• September  2019 monthly login reward
+gun_obtain-10001910,• October 2019 monthly login reward
+gun_obtain-10001911,• November 2019 monthly login reward
+gun_obtain-10001912,• December 2019 monthly login reward
+gun_obtain-10002001,• January 2020 monthly login reward
+gun_obtain-10002002,• February 2020 monthly login reward
+gun_obtain-10002003,• March 2020 monthly login reward
+gun_obtain-10002004,• April 2020 monthly login reward
+gun_obtain-10002005,• May 2020 monthly login reward
+gun_obtain-10002006,• June  2020 monthly login reward
+gun_obtain-10002007,• July 2020 monthly login reward
+gun_obtain-10002008,• August  2020 monthly login reward
+gun_obtain-10002009,• September  2020 monthly login reward
+gun_obtain-10002010,• October 2020 monthly login reward
+gun_obtain-10002011,• November 2020 monthly login reward
+gun_obtain-10002012,• December 2020 monthly login reward
+gun_obtain-10002101,• January 2021 monthly login reward
+gun_obtain-10002102,• February 2021 monthly login reward
+gun_obtain-10002103,• March 2021 monthly login reward
+gun_obtain-10002104,• April 2021 monthly login reward
+gun_obtain-10002105,• May 2021 monthly login reward
+gun_obtain-10002106,• June  2021 monthly login reward
+gun_obtain-10002107,• July 2021 monthly login reward
+gun_obtain-10002108,• August  2021 monthly login reward
+gun_obtain-10002109,• September  2021 monthly login reward
+gun_obtain-10002110,• October 2021 monthly login reward
+gun_obtain-10002111,• November 2021 monthly login reward
+gun_obtain-10002112,• December 2021 monthly login reward
+gun_obtain-10000301,• Carnival 【Golden Moon】reward
+gun_obtain-10000302,• Mid-Autumn Festival sign-in reward
+gun_obtain-10000303,• Limited-time campaign 【Operation Rabbit Hunt】 stage clear reward
+gun_obtain-10000304,• Limited-time campaign 【Operation Rabbit Hunt】 drop reward
+gun_obtain-10000305,• Limited-time campaign 【Operation Rabbit Hunt】 event box reward
+gun_obtain-10000306,• Limited-time SHOP exchange
+gun_obtain-10000307,• Limited-time campaign 【Solitaire】drop reward
+gun_obtain-10000308,• Limited-time campaign 【Solitaire】stage 4 clear reward
+gun_obtain-10000309,• Limited-time campaign 【Solitaire】stage 6 clear reward
+gun_obtain-10000310,• Event Reward
+gun_obtain-10000311,
+gun_obtain-10000403,• Permanent campaign 【Singularity】 drop reward
+gun_obtain-10020006,• Carnival 【Entrance Exam】reward
+gun_obtain-10020007,• Carnival 【Verdandi's Lucky Charm】reward
+gun_obtain-10020008,• Isomer Preparation Login reward
+gun_obtain-10000411,• Permanent campaign 【Continuum Turbulence】 drop reward
+gun_obtain-10020009,• Summertime Login reward
+gun_obtain-10020010,• New Term Login reward
+gun_obtain-10000231,• Limited-time campaign 【Gunslinger Girl】stage clear reward
+gun_obtain-10000232,• Limited-time campaign 【Gunslinger Girl】rescue reward
+gun_obtain-10000233,• Limited-time campaign 【Gunslinger Girl】Shop exchange
+gun_obtain-10020011,• Shattered Connexion Prep Login Event
+gun_obtain-10000237,• Limited-time campaign 【The Division: Bounty Feast】Shop exchange
+gun_obtain-10000238,• Limited-time campaign 【The Division: Bounty Feast】stage clear reward
+gun_obtain-10020012,• Springtime Login reward
+gun_obtain-10020013,• Carnival 【HIT-HOP】reward
+gun_obtain-10000228,• Limited-time campaign 【Polarized Light】drop reward
+gun_obtain-10000229,• Limited-time campaign 【Polarized Light】stage clear reward
+gun_obtain-10000230,• Limited-time campaign 【Polarized Light】Supply Box reward
+gun_obtain-10020014,• Carnival 【Pink Cacophony VOL3】reward
+gun_obtain-10020015,• Operational Directive【Summer Night Mania】reward
+gun_obtain-10000313,• Carnival 【Maples by the Bridge】reward
+gun_obtain-10000234,• Limited-time campaign 【Dual Randomness】drop reward
+gun_obtain-10000235,• Limited-time campaign 【Dual Randomness】stage clear reward
+gun_obtain-10000236,• Limited-time campaign 【Dual Randomness】Supply Box reward
+gun_obtain-10000311,•【Unknown】
+gun_obtain-10000312,• Point event "Summer Mania" reward
+gun_obtain-10000314,• Limited-time campaign 【Hitoribocchi】 stage clear reward
+gun_obtain-10000315,• Limited-time campaign 【Glory Day】 stage clear reward
+gun_obtain-10000316,• Limited-time campaign 【VA-11 HALL-A】 stage clear reward
+gun_obtain-10000317,• Obtainable from the Shop during limited-time event 【Operation Rabbit Hunt】
+gun_obtain-10000318,• Obtainable from the Shop during limited-time event 【Hitoribocchi】
+gun_obtain-10000319,• Obtainable from the Shop during limited-time event 【Glory Day】
+gun_obtain-10000321,• 【Our Shared Tale】 Login reward
+gun_obtain-10000415,• Permanent campaign【Isomer】rescue reward
+gun_obtain-10000424,• Limited-time campaign 【Shattered Connexion】 drop reward
+gun_obtain-10000511,• Limited-time point reward in campaign 【Deep Dive】
+gun_obtain-10000512,• Limited-time point reward in campaign 【Singularity】
+gun_obtain-10000502,• Limited-time point reward in campaign 【Continuum Turbulence】
+gun_obtain-10000503,• Limited-time point reward in campaign 【Isomer】
+gun_obtain-10000504,• Limited-time point reward in campaign 【Shattered Connexion】
+gun_obtain-10000505,• Limited-time point reward in campaign 【Polarized Light】
+gun_obtain-10000506,• Limited-time point reward in campaign 【Dual Randomness】
+gun_obtain-10000507,• Limited-time point reward in campaign 【Mirror Stage】
+gun_obtain-10000508,
+gun_obtain-10000509,• Clear reward in major events
+gun_obtain-10000510,• Package from the Shop
+gun_obtain-10000513,• Point reward in limited-time event 【Fixed Point】
+gun_obtain-10000514,• Point reward in limited-time event 【Longitudinal Strain】
+gun_obtain-10000515,• Point reward in limited-time event 【Slow Shock】
+gun_obtain-10000516,• Limited-time point reward in campaign 【Lost in Thoughts】
+gun_obtain-10003000,Currently unobtainable
+gun_obtain-10003001,Obtainable from Equipment Productions
+gun_obtain-10003002,Obtainable from Heavy Equipment Productions
+gun_obtain-10003003,Obtainable from the Black Market
+gun_obtain-10003004,• December 2021 monthly login reward
+gun_obtain-10003005,• January 2022 monthly login reward
+gun_obtain-10003006,• January 2023 monthly login reward
+gun_obtain-10003007,• February 2022 monthly login reward
+gun_obtain-10003008,• March 2022 monthly login reward
+gun_obtain-10003009,• April 2022 monthly login reward
+gun_obtain-10003010,• May 2022 monthly login reward
+gun_obtain-10003011,• June  2022 monthly login reward
+gun_obtain-10003012,• 2022 June Special Login Event Reward
+gun_obtain-10003013,• Dual Randomness Preparation Login reward
+gun_obtain-10003014,• 2022 April Special Login Event Reward
+gun_obtain-10003015,• 2022 February Special Login Event Reward
+gun_obtain-10003016,• Obtainable through Neural Upgrade
+gun_obtain-10003017,Ranking reward of Down the Rabbit Hole in 【Hypothermia】
+gun_obtain-10003018,Ranking reward of Imaginary Maze in 【Deep Dive】
+gun_obtain-10003019,Lighting Curfew II - Mission Reward
+gun_obtain-10003020,Lighting Curfew IV - Mission Reward
+gun_obtain-10003021,Seven-Step Puzzle - Mission Reward
+gun_obtain-10003022,Layer Reversal - Mission Reward
+gun_obtain-10003023,Sunset Rider - Mission Reward
+gun_obtain-10003024,The Last Rain In The World - Mission Reward
+gun_obtain-10003025,Ranking reward of Hornet's Nest in 【Singularity】
+gun_obtain-10003026,Ranking reward of Hurricane Rescue in 【Continuum Turbulence】
+gun_obtain-10003027,Ranking reward of Reign of Chaos in 【Isomer】
+gun_obtain-10003028,Mid-exploration reward from the Forward Basecamp
+gun_obtain-10003029,Ranking reward of Flowers of the End in 【Shattered Connexion】
+gun_obtain-10003030,Ranking reward of Labyrinthine Defense in 【Polarized Light】
+gun_obtain-10003031,Ranking reward in 【Dual Randomness】
+gun_obtain-10003032,0:07 New York Public Library∞ - Mission Reward
+gun_obtain-10003033,0:05 Dark Zone ∞ - Mission Reward
+gun_obtain-10003034,Reward for accumulating 2//c400//c000 points in 【Mirror Stage】
+gun_obtain-10003035,
+gun_obtain-10003036,Reward for accumulating 1//c280//c000 points in 【Poincare Recurrence】
+gun_obtain-10003037,• Obtainable from【Night 1-4】
+gun_obtain-10003038,• Obtainable from【Night 2-4】
+gun_obtain-10003039,• Obtainable from【Night 3-4】
+gun_obtain-10003040,• Obtainable from【Night 4-4】
+gun_obtain-10003041,• Obtainable from【Night 5-4】
+gun_obtain-10003042,• Obtainable from【Night 6-4】
+gun_obtain-10003043,• Obtainable from【Night 7-4】
+gun_obtain-10003044,• Obtainable from【Night 8-4】
+gun_obtain-10003045,• Obtainable from【Night 9-4】
+gun_obtain-10003046,• Obtainable from【Night 10-4】
+gun_obtain-10003047,Obtainable from limited-time events
+gun_obtain-10003048,Obtainable from campaign 【Deep Dive】
+gun_obtain-10003049,Obtainable from campaign 【Singularity】
+gun_obtain-10003050,Exchange with tokens during limited-time event 【Operation Gingerbread Hunt】
+gun_obtain-10003051,Exchange with tokens during limited-time event 【Operation Easter Egg Hunt】
+gun_obtain-10003052,Exchange with tokens during limited-time event 【Glory Day】
+gun_obtain-10003053,Exchange with tokens during limited-time event 【VA-11 HALL-A】
+gun_obtain-10003054,Exchange with tokens during limited-time event 【A Snowy Night Capriccio】
+gun_obtain-10003055,Exchange with tokens during limited-time event 【The Photo Studio Mystery】
+gun_obtain-10003056,Exchange with tokens during limited-time event 【Far Side of the Sea】
+gun_obtain-10003057,Exchange with tokens during limited-time event 【Il Teatrino】
+gun_obtain-10003058,Exchange with tokens during limited-time event 【Butterfly in a Cocoon】
+gun_obtain-10003059,Obtainable from limited-time event 【Bounty Feast】
+gun_obtain-10003060,Exchange with tokens during limited-time event 【Bounty Feast】
+gun_obtain-10003061,
+gun_obtain-10003062,Exchange with tokens during limited-time event 【Jashin-chan Frontline】
+gun_obtain-10003063,Exchange with tokens during limited-time event 【One Coin Short】
+gun_obtain-10003064,• July 2022 monthly login reward
+gun_obtain-10003065,• August 2022 monthly login reward
+gun_obtain-10003066,• November 2022 monthly login reward
+gun_obtain-10003067,• October 2022 monthly login reward
+gun_obtain-10003068,• September 2022 monthly login reward
+gun_obtain-10003069,• Back to School Special Login reward
+gun_obtain-10003070,• December 2022 monthly login reward
+gun_obtain-10003071,• Febuary 2023 monthly login reward
+gun_obtain-10003072,• March 2023 monthly login reward
+gun_obtain-10003073,• April 2023 monthly login reward
+gun_obtain-10003074,• May 2023 monthly login reward
+gun_obtain-10003075,• June 2023 monthly login reward
+gun_obtain-10003076,• Reward for accumulating 1//c480//c000 points in 【Fixed Point】
+gun_obtain-10003077,Exchange with tokens during limited-time event 【Love Bakery】
+gun_obtain-10003078,Exchange with tokens during limited-time event 【Lycan Sanctuary】
+gun_obtain-10003079,• Reward for accumulating 1//c280//c000 points in 【Longitudinal Strain】
+gun_obtain-10003080,• Limited-time event 【Eclipses & Saros】 shop exchange
+gun_obtain-10003081,• July 2023 monthly login reward
+gun_obtain-10003082,• August 2023 monthly login reward
+gun_obtain-10003083,• September 2023 monthly login reward
+gun_obtain-10003084,• October 2023 monthly login reward
+gun_obtain-10003085,• November 2023 monthly login reward
+gun_obtain-10003086,• December 2023 monthly login reward
+gun_obtain-10003087,• January 2024 monthly login reward
+gun_obtain-10003088,• Febuary 2024 monthly login reward
+gun_obtain-10003089,• March 2024 monthly login reward
+gun_obtain-10003090,• April 2024 monthly login reward
+gun_obtain-10003091,• May 2024 monthly login reward
+gun_obtain-10003092,• June 2024 monthly login reward
+gun_obtain-10003094,• Limited-time event 【The Glistening Bloom】 shop exchange
+gun_obtain-10003095,• Limited-time event 【The Glistening Bloom】 server-wide support reward
+gun_obtain-10003096,• Obtainable from Gray Zone Exploration
+gun_obtain-10003097,• Reward for accumulating 1//c200//c000 points in 【Slow Shock】
+gun_obtain-10003098,• Limited-time event 【Lost in Thoughts】 shop exchange
+gun_obtain-10003101,• July 2024 monthly login reward
+gun_obtain-10003102,• August 2024 monthly login reward
+gun_obtain-10003103,• September 2024 monthly login reward
+gun_obtain-10003104,• October 2024 monthly login reward
+gun_obtain-10003105,• November 2024 monthly login reward
+gun_obtain-10003106,• December 2024 monthly login reward
+gun_obtain-10003107,• January 2025 monthly login reward
+gun_obtain-10003108,• Febuary 2025 monthly login reward
+gun_obtain-10003109,• March 2025 monthly login reward
+gun_obtain-10003110,• April 2025 monthly login reward
+gun_obtain-10003111,• May 2025 monthly login reward
+gun_obtain-10003112,• June 2025 monthly login reward
+gun_obtain-10003113,• Limited-time event 【Through the Looking-Glass】 shop exchange
+gun_obtain-10003114,• Limited-time event 【The Summer Garden of Forking Paths】 shop exchange
+gun_obtain-10003115,• Limited-time event 【Cartesian Theater】 shop exchange
+gun_obtain-10020016,• Permanent campaign【Longitudinal Strain】rescue reward
+gun_obtain-10000428,• Permanent campaign【Poincaré Recurrence】rescue reward
+gun_obtain-10003116,• Limited-time event 【Zero Charge】 shop exchange
+gun_obtain-10003121,• July 2025 monthly login reward
+gun_obtain-10003122,• August 2025 monthly login reward
+gun_obtain-10003123,• September 2025 monthly login reward
+gun_obtain-10003124,• October 2025 monthly login reward
+gun_obtain-10003125,• November 2025 monthly login reward
+gun_obtain-10003126,• December 2025 monthly login reward
+gun_obtain-10003127,• Febuary 2026 monthly login reward
+gun_obtain-10003128,• January 2026 monthly login reward
+gun_obtain-10003129,• Febuary 2026 monthly login reward
+gun_obtain-10003130,• March 2026 monthly login reward
+gun_obtain-10003131,• May 2026 monthly login reward
+gun_obtain-10003132,• June 2026 monthly login reward
+gun_obtain-10003137,• July 2026 monthly login reward
+gun_obtain-10003138,• August 2026 monthly login reward
+gun_obtain-10003139,• September 2026 monthly login reward
+gun_obtain-10003140,• October 2026 monthly login reward
+gun_obtain-10003141,• November 2026 monthly login reward
+gun_obtain-10003142,• December 2026 monthly login reward
+gun_obtain-10003133,• Limited-time event 【Roche Limit】 shop exchange
+gun_obtain-10000519,• Limited-time event 【Roche Limit】 shop exchange
+gun_obtain-10000523,• Point reward in limited-time event 【Steel Rain Salute】
+gun_obtain-10003145,• Reward for accumulating 180//c000 points in 【Steel Rain Salute】
+gun_obtain-10000521,• Point reward in limited-time event 【Silent Sandtable】
+gun_obtain-10000522,• Limited-time event 【Quantum Fluctuations】 shop exchange
+gun_obtain-10003135,• Reward for accumulating 300//c000 points in 【Silent Sandtable】
+gun_obtain-10003136,【Comfy Breeze//c Fallen Leaves】 Login reward
+gun_obtain-10003093,• Limited-time event 【Maze Guess】 shop exchange
+gun_obtain-10003099,• Limited-time event 【Permitted! Reloading...】 shop exchange
+gun_obtain-10003143,• Limited-time event <Rising Lambence> reward
+gun_obtain-10003144,• Limited-time event <Aureate Interlude> reward

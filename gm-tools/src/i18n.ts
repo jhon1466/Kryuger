@@ -1,0 +1,162 @@
+export type Language = 'es' | 'en' | 'zh' | 'ja';
+export const LANGUAGES: { id: Language; label: string }[] = [
+  { id: 'es', label: 'ES' }, { id: 'en', label: 'EN' }, { id: 'zh', label: '中文' }, { id: 'ja', label: '日本語' },
+];
+
+type Dict = Record<string, [string, string, string, string]>; // es, en, zh, ja
+
+const dict: Dict = {
+  workspace: ['Espacio de trabajo', 'Workspace', '工作区', 'ワークスペース'],
+  language: ['Idioma', 'Language', '语言', '言語'],
+  navServer: ['Servidor', 'Server', '服务器', 'サーバー'],
+  navOverview: ['Centro de control', 'Control center', '控制中心', 'コントロールセンター'],
+  navAccounts: ['Cuentas', 'Accounts', '账号', 'アカウント'],
+  navOperations: ['Operaciones', 'Operations', '操作', '操作'],
+  titleServer: ['Gestión del servidor', 'Server management', '服务器管理', 'サーバー管理'],
+  titleOverview: ['Centro de control', 'Control center', '控制中心', 'コントロールセンター'],
+  titleAccounts: ['Cuentas de jugadores', 'Player accounts', '玩家账号', 'プレイヤーアカウント'],
+  titleOperations: ['Operaciones de juego', 'Game operations', '游戏操作', 'ゲーム操作'],
+  server: ['Servidor', 'Server', '服务器', 'サーバー'],
+  kryugerLocal: ['Kryuger local', 'Local Kryuger', '本地 Kryuger', 'ローカル Kryuger'],
+  disconnected: ['Desconectado', 'Disconnected', '未连接', '未接続'],
+  liveConsole: ['Consola en vivo', 'Live console', '实时控制台', 'ライブコンソール'],
+  waitingServer: ['Esperando al servidor…', 'Waiting for the server…', '等待服务器…', 'サーバーを待機中…'],
+  secureLink: ['Enlace seguro', 'Secure link', '安全连接', '安全な接続'],
+  noGmLink: ['Sin enlace GM', 'No GM link', '无 GM 连接', 'GM 接続なし'],
+  managedInstall: ['Instalación gestionada', 'Managed install', '托管安装', '管理インストール'],
+  localRepo: ['Repositorio local', 'Local repository', '本地仓库', 'ローカルリポジトリ'],
+  online: ['En línea', 'Online', '在线', 'オンライン'],
+  offline: ['Fuera de línea', 'Offline', '离线', 'オフライン'],
+  gmActive: ['Canal GM activo', 'GM channel active', 'GM 通道已启用', 'GM チャネル有効'],
+  gmInactive: ['Canal GM inactivo', 'GM channel inactive', 'GM 通道未启用', 'GM チャネル無効'],
+  loopbackOnly: ['solo 127.0.0.1', '127.0.0.1 only', '仅限 127.0.0.1', '127.0.0.1 のみ'],
+  protectedToken: ['Protegido con token local', 'Protected by a local token', '由本地令牌保护', 'ローカルトークンで保護'],
+
+  serverTitle: ['Servidor Kryuger', 'Kryuger server', 'Kryuger 服务器', 'Kryuger サーバー'],
+  serverHint: ['Se actualiza solo desde github.com/jhon1466/Kryuger, se compila y se ejecuta en este equipo.',
+    'Updates itself from github.com/jhon1466/Kryuger, builds and runs on this PC.',
+    '自动从 github.com/jhon1466/Kryuger 更新，并在本机编译运行。',
+    'github.com/jhon1466/Kryuger から自動更新し、この PC でビルドして実行します。'],
+  checkUpdate: ['Buscar actualización', 'Check for updates', '检查更新', '更新を確認'],
+  running: ['Servidor en ejecución', 'Server running', '服务器运行中', 'サーバー実行中'],
+  stopped: ['Servidor detenido', 'Server stopped', '服务器已停止', 'サーバー停止中'],
+  heroTitle: ['Griffin & Kryuger · servidor privado', 'Griffin & Kryuger · private server', 'Griffin & Kryuger · 私服', 'Griffin & Kryuger · プライベートサーバー'],
+  heroHint: ['Pulsa Iniciar: descarga, compila y arranca el servidor si hace falta.',
+    'Press Start: it downloads, builds and starts the server when needed.',
+    '点击启动：按需下载、编译并启动服务器。',
+    '開始を押すと、必要に応じてダウンロード・ビルド・起動します。'],
+  start: ['Iniciar', 'Start', '启动', '開始'],
+  stop: ['Detener', 'Stop', '停止', '停止'],
+  play: ['Jugar', 'Play', '开始游戏', 'プレイ'],
+  state: ['Estado', 'State', '状态', '状態'],
+  stopped2: ['Detenido', 'Stopped', '已停止', '停止中'],
+  ports: ['Puertos 5000 · 80 · 443', 'Ports 5000 · 80 · 443', '端口 5000 · 80 · 443', 'ポート 5000 · 80 · 443'],
+  build: ['Compilación', 'Build', '编译', 'ビルド'],
+  ready: ['Lista', 'Ready', '就绪', '完了'],
+  pending: ['Pendiente', 'Pending', '待处理', '未完了'],
+  version: ['Versión', 'Version', '版本', 'バージョン'],
+  installedCommit: ['Commit instalado', 'Installed commit', '已安装的提交', 'インストール済みコミット'],
+  localCode: ['Código local', 'Local code', '本地代码', 'ローカルコード'],
+  gmApi: ['API GM', 'GM API', 'GM API', 'GM API'],
+  active: ['Activa', 'Active', '已启用', '有効'],
+  inactive: ['Inactiva', 'Inactive', '未启用', '無効'],
+  installation: ['Instalación', 'Installation', '安装', 'インストール'],
+  installationHint: ['Rutas y componentes que usa el servidor.', 'Paths and components used by the server.', '服务器使用的路径和组件。', 'サーバーが使うパスとコンポーネント。'],
+  project: ['Proyecto', 'Project', '项目', 'プロジェクト'],
+  playerData: ['Datos de jugadores', 'Player data', '玩家数据', 'プレイヤーデータ'],
+  redirect: ['Redirección del juego (version.dll)', 'Game redirect (version.dll)', '游戏重定向 (version.dll)', 'ゲームのリダイレクト (version.dll)'],
+  installed: ['Instalada', 'Installed', '已安装', 'インストール済み'],
+  removed: ['Retirada', 'Removed', '已移除', '削除済み'],
+  serverBuilt: ['Servidor compilado', 'Server built', '服务器已编译', 'サーバーのビルド'],
+  data: ['Datos', 'Data', '数据', 'データ'],
+  logs: ['Registros', 'Logs', '日志', 'ログ'],
+  game: ['Juego', 'Game', '游戏', 'ゲーム'],
+  gameHint: ["Carpeta de Girls' Frontline (Steam). Se detecta sola.", "Girls' Frontline folder (Steam). Detected automatically.", '少女前线（Steam）文件夹，自动检测。', 'ドールズフロントライン（Steam）のフォルダー。自動で検出します。'],
+  notDetected: ['No detectada', 'Not detected', '未检测到', '未検出'],
+  otherFolder: ['Otra carpeta', 'Another folder', '其他文件夹', '別のフォルダー'],
+  save: ['Guardar', 'Save', '保存', '保存'],
+  serverLog: ['Registro del servidor', 'Server log', '服务器日志', 'サーバーログ'],
+  noActivity: ['Sin actividad todavía.', 'No activity yet.', '暂无活动。', 'まだ記録はありません。'],
+
+  serverState: ['Estado del servidor', 'Server status', '服务器状态', 'サーバーの状態'],
+  serverStateHint: ['Resumen de cuentas y catálogo cargado.', 'Summary of accounts and the loaded catalog.', '账号与已加载目录的概览。', 'アカウントと読み込んだカタログの概要。'],
+  accounts: ['Cuentas', 'Accounts', '账号', 'アカウント'],
+  inDatabase: ['Registradas en la base de datos', 'Stored in the database', '数据库中的账号', 'データベースに登録済み'],
+  dolls: ['Muñecas', 'T-Dolls', '人形', '人形'],
+  inAllAccounts: ['En todas las cuentas', 'Across all accounts', '所有账号合计', '全アカウント合計'],
+  catalog: ['Catálogo', 'Catalog', '目录', 'カタログ'],
+  catalogHint: ['Muñecas, objetos y equipo', 'T-Dolls, items and equipment', '人形、道具和装备', '人形・アイテム・装備'],
+  quickAccess: ['Accesos rápidos', 'Shortcuts', '快捷入口', 'ショートカット'],
+  quickAccessHint: ['Tareas habituales de administración.', 'Common admin tasks.', '常用管理任务。', 'よく使う管理作業。'],
+  qServer: ['Gestionar el servidor', 'Manage the server', '管理服务器', 'サーバーを管理'],
+  qServerHint: ['Iniciar, detener, actualizar y abrir el juego', 'Start, stop, update and launch the game', '启动、停止、更新并打开游戏', '開始・停止・更新・ゲーム起動'],
+  qAccounts: ['Ver cuentas', 'View accounts', '查看账号', 'アカウントを見る'],
+  qAccountsHint: ['Recursos, muñecas y equipo de cada jugador', 'Resources, T-Dolls and equipment of each player', '每位玩家的资源、人形和装备', '各プレイヤーの資源・人形・装備'],
+  qGive: ['Entregar recompensas', 'Grant rewards', '发放奖励', '報酬を付与'],
+  qGiveHint: ['Muñecas, objetos, equipo, hadas, skins y recursos', 'T-Dolls, items, equipment, fairies, skins and resources', '人形、道具、装备、妖精、皮肤和资源', '人形・アイテム・装備・妖精・スキン・資源'],
+
+  accountsHint: ['Busca por UID o nombre y revisa los datos de la cuenta.', 'Search by UID or name and review the account.', '按 UID 或名称搜索并查看账号。', 'UID か名前で検索してアカウントを確認します。'],
+  uidOrName: ['UID o nombre', 'UID or name', 'UID 或名称', 'UID または名前'],
+  noAccounts: ['No hay cuentas que coincidan.', 'No matching accounts.', '没有匹配的账号。', '一致するアカウントはありません。'],
+  pickAccount: ['Elige una cuenta para ver sus datos.', 'Pick an account to see its data.', '选择一个账号查看数据。', 'アカウントを選ぶと詳細を表示します。'],
+  level: ['Nivel', 'Level', '等级', 'レベル'],
+  gems: ['Gemas', 'Gems', '钻石', 'ダイヤ'],
+  equipment: ['Equipo', 'Equipment', '装备', '装備'],
+  manpower: ['Mano de obra', 'Manpower', '人力', '人員'],
+  ammo: ['Munición', 'Ammo', '弹药', '弾薬'],
+  rations: ['Raciones', 'Rations', '口粮', '配給'],
+  parts: ['Piezas', 'Parts', '零件', '部品'],
+  fairies: ['Hadas', 'Fairies', '妖精', '妖精'],
+
+  operationsHint: ['Entregas y ajustes aplicados al instante, también con el jugador conectado.', 'Grants and changes apply instantly, even while the player is online.', '发放和修改立即生效，玩家在线时也可以。', '付与と変更はすぐに反映され、プレイヤーがオンラインでも使えます。'],
+  give: ['Entregar', 'Grant', '发放', '付与'],
+  giveHint: ['Muñecas, objetos, equipo, hadas, skins, gemas o recursos', 'T-Dolls, items, equipment, fairies, skins, gems or resources', '人形、道具、装备、妖精、皮肤、钻石或资源', '人形・アイテム・装備・妖精・スキン・ダイヤ・資源'],
+  accountUid: ['UID de la cuenta', 'Account UID', '账号 UID', 'アカウント UID'],
+  type: ['Tipo', 'Type', '类型', '種類'],
+  search: ['Buscar', 'Search', '搜索', '検索'],
+  amount: ['Cantidad', 'Amount', '数量', '数量'],
+  copies: ['Copias', 'Copies', '份数', '個数'],
+  setValue: ['Ajustar valor', 'Set value', '设置数值', '値を設定'],
+  setValueHint: ['Fija gemas, recursos, nivel o nombre de la cuenta', "Sets the account's gems, resources, level or name", '设置账号的钻石、资源、等级或名称', 'ダイヤ・資源・レベル・名前を設定'],
+  field: ['Campo', 'Field', '字段', '項目'],
+  newValue: ['Nuevo valor', 'New value', '新数值', '新しい値'],
+  apply: ['Aplicar', 'Apply', '应用', '適用'],
+  name: ['Nombre', 'Name', '名称', '名前'],
+  nameOrId: ['Nombre o ID', 'Name or ID', '名称或 ID', '名前または ID'],
+  results: ['resultados', 'results', '个结果', '件'],
+  noMatches: ['Sin coincidencias', 'No matches', '没有匹配项', '該当なし'],
+  rank: ['Rareza', 'Rarity', '稀有度', 'レア度'],
+  forDoll: ['muñeca', 'T-Doll', '人形', '人形'],
+  kGun: ['Muñeca', 'T-Doll', '人形', '人形'],
+  kItem: ['Objeto', 'Item', '道具', 'アイテム'],
+  kEquip: ['Equipo', 'Equipment', '装备', '装備'],
+  kFairy: ['Hada', 'Fairy', '妖精', '妖精'],
+  kSkin: ['Skin', 'Skin', '皮肤', 'スキン'],
+  kGem: ['Gemas', 'Gems', '钻石', 'ダイヤ'],
+  kResources: ['Recursos (los 4)', 'Resources (all 4)', '资源（全部 4 种）', '資源（4種すべて）'],
+  needUid: ['Indica el UID de la cuenta.', 'Enter the account UID.', '请输入账号 UID。', 'アカウント UID を入力してください。'],
+  needPick: ['Elige qué entregar.', 'Choose what to grant.', '请选择要发放的内容。', '付与するものを選んでください。'],
+  granted: ['Entregado a', 'Granted to', '已发放给', '付与先'],
+  account: ['Cuenta', 'Account', '账号', 'アカウント'],
+  offlineTitle: ['Servidor detenido', 'Server stopped', '服务器已停止', 'サーバー停止中'],
+  offlineHint: ['Inicia el servidor en la sección Servidor para usar las herramientas GM.', 'Start the server in the Server section to use the GM tools.', '请在“服务器”页面启动服务器后再使用 GM 工具。', 'GM ツールを使うには「サーバー」でサーバーを起動してください。'],
+};
+
+const index: Record<Language, number> = { es: 0, en: 1, zh: 2, ja: 3 };
+
+export function translate(lang: Language, key: string): string {
+  const entry = dict[key];
+  return entry ? entry[index[lang]] : key;
+}
+
+export function initialLanguage(): Language {
+  try {
+    const saved = localStorage.getItem('kryuger-gm-language') as Language | null;
+    if (saved && saved in index) return saved;
+  } catch { /* storage unavailable */ }
+  const nav = (navigator.language || 'es').toLowerCase();
+  if (nav.startsWith('zh')) return 'zh';
+  if (nav.startsWith('ja')) return 'ja';
+  if (nav.startsWith('en')) return 'en';
+  return 'es';
+}

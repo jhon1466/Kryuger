@@ -1,0 +1,506 @@
+commander_uniform-10001010,Gas Mask
+commander_uniform-20001010,You can't give up on yourself even if it's the apocalypse. Use a facial mask in there.
+commander_uniform-10001020,Head-Mounted Miner Light
+commander_uniform-20001020,Have you decided to become a beacon to guide others? 3//c2//c1— Lovely! The enemy has spotted you!
+commander_uniform-10001030,Dirty Coat
+commander_uniform-20001030,Stains could be a sort of badge of honor for clothes//c the way scars are for humans.
+commander_uniform-10001040,Dusty Badge
+commander_uniform-20001040,Sooner or later we'll wipe off the dust//c just as how we always wash away our shame with blood.
+commander_uniform-10001050,Muddy Pants
+commander_uniform-20001050,Until we see the light of dawn//c we'll have to keep wallowing through blood and mud... But look on the bright side - we can change out of these pants once we get to the finishing point.
+commander_uniform-10001111,Male Head
+commander_uniform-20001111,A short hairstyle for the workplace - modest but no less fashionable.
+commander_uniform-10001112,Female Head
+commander_uniform-20001112,A by-the-book long hairstyle - pleasing but could easily get caught in strange things.
+commander_uniform-10001120,Griffin Custom Beret
+commander_uniform-20001120,It can quickly help the person who sees you identify you quickly. That's pretty much its only use other than being a decoration.
+commander_uniform-10001131,Uniform Coat (Male)
+commander_uniform-20001131,Extremely sweat-absorbant//c you won't have sweat rolling down your back when facing your enemies in it.
+commander_uniform-10001132,Uniform Coat (Female)
+commander_uniform-20001132,Extremely heat-retaining//c you won't get chills down your spine when facing your enemies in it.
+commander_uniform-10001140,New Recruit Badge
+commander_uniform-20001140,This is your first triumph. Cherish it.
+commander_uniform-10001151,Long Black Pants
+commander_uniform-20001151,They look just like any other pair of long pants//c but are very durable.
+commander_uniform-10001152,Black Skirt
+commander_uniform-20001152,It looks just like any other office skirt//c but is actually a skort that allows plenty of mobility.
+commander_uniform-10001211,Summer Leisure Male Head
+commander_uniform-20001211,A haircut especially for taking pictures on vacations - understated but smart.
+commander_uniform-10001212,Summer Leisure Female Head
+commander_uniform-20001212,A haircut especially for taking pictures on vacations - simple but pretty.
+commander_uniform-10001220,Beach Shades
+commander_uniform-20001220,Sunlight//c even if it's artificial//c deserves proper respect.
+commander_uniform-10001231,Beach Bod (Male)
+commander_uniform-20001231,You underwent such long and hellish torture all for this moment. C'mon//c don't be shy and show off your muscles!
+commander_uniform-10001232,Double Strap Bikini
+commander_uniform-20001232,Feast your eyes! This to-die-for figure is the reason why you've braved death time and time again.
+commander_uniform-10001240,Summer Sentiments Accessory
+commander_uniform-20001240,Being ceremonious means doing the most complicated thing to experience the simplest joy.
+commander_uniform-10001251,Swim Trunks
+commander_uniform-20001251,Loose shorts perfect for enjoying sunshine and the beach.
+commander_uniform-10001252,Beach Sandals
+commander_uniform-20001252,Footwear for enjoying the beach. Remember to give them a rinse before you leave.
+commander_uniform-10001310,Special Ops Protective Helmet
+commander_uniform-20001310,A component that protects your head from a sneak attack from the back.
+commander_uniform-10001320,Special Ops Protective Mask
+commander_uniform-20001320,A component that protects your face from a head-on slap.
+commander_uniform-10001330,Special Ops Protective Top
+commander_uniform-20001330,A component that protects your torso from backstabs and gut punches.
+commander_uniform-10001340,Military Rucksack
+commander_uniform-20001340,A well-designed rucksack with a large capacity that does not weigh you down.
+commander_uniform-10001350,Special Ops Protective Pants
+commander_uniform-20001350,A component that protects your legs from being leg sweeps and ELID subjects that won't let go of your leg.
+commander_uniform-10001411,Summer Night's Refreshing Swept-Back Hair
+commander_uniform-20001411,A cool//c short haircut for enjoying the summer night. Let the wind kiss your forehead.
+commander_uniform-10001412,Moonlight Ornamented Braid
+commander_uniform-20001412,An elegant braid for enjoying the summer night. Let the wind kiss your cheeks.
+commander_uniform-10001420,Summer Night Festival Headwear
+commander_uniform-20001420,We are trying to use hastily - made decorations to deceive the night which has watched us for millennia.
+commander_uniform-10001431,Summer Night Yukata Top
+commander_uniform-20001431,A light yukata that's easy to wear. It breathes very well.
+commander_uniform-10001432,Moonlight Yukata Top
+commander_uniform-20001432,A light yukata that's easy to wear. It is decorated with beautiful designs.
+commander_uniform-10001440,Moonlight Japanese Paper Lantern
+commander_uniform-20001440,The Moon asks the lantern: Since you knew that siding with the humans would make you so weak//c why do you still illuminate them//c oh Sun?
+commander_uniform-10001451,Summer Night Geta
+commander_uniform-20001451,Use your geta to strike up a beat while chasing dreams tonight.
+commander_uniform-10001452,Moonlight Dreamscape Bottom
+commander_uniform-20001452,There's no need to chase the night and dreams when you can entice them to stay with beauty.
+commander_uniform-10001510,Fission Halo
+commander_uniform-20001510,Don't be ashamed. This is proof of your almighty power.
+commander_uniform-10001611,Hairsprayed Big-bro Pompadour
+commander_uniform-20001611,I greased my hair up just to keep the sun off my eyes. No other reason. It just happens to look a LITTLE BIT like a pompadour. It's not a pompadour. Why would I have a pompadour? I'm not a delinquent//c after all.
+commander_uniform-10001612,Blow-dried Big-sis Untied Hair
+commander_uniform-20001612,My hair looks like I've been out in a typhoon??? I spent two hours blow-drying it carefully!!! TWO WHOLE HOURS!
+commander_uniform-10001620,Essential Tool for Going Out
+commander_uniform-20001620,The sun is dazzling today//c but with my sunglasses//c I'll be even more radiant.
+commander_uniform-10001631,Big-bro's Sure-win Baseball Shirt
+commander_uniform-20001631,The sovereign is also naturally a trendsetter. If this isn't trendy//c I'll make it so.
+commander_uniform-10001632,Big-sis's Invincible Sailor Suit
+commander_uniform-20001632,I've beaten all these trendsetters as I said I would//c so now I'm the new trendsetter.
+commander_uniform-10001640,Quality Delinquent Toy
+commander_uniform-20001640,Brand new product made of carbon fiber! Elegant design! Feels great in the hand! Realistic feedback! Tailor-made for you//c who keep your sunglasses on even at night! New product promotion!
+commander_uniform-10001651,Jeans that Have Seen Victory in a Brawl
+commander_uniform-20001651,The first step of showing respect to your senpai is to wear your senpai's jeans to a brawl!
+commander_uniform-10001652,Flying Kick that Sweeps the Whole Street Away
+commander_uniform-20001652,These obsolete rules are all utter nonsense! Watch me break them all with my invincible flying kick!
+commander_uniform-10001720,Blood Moon on Halloween – Legendary Headpieces
+commander_uniform-20001720,Mysterious headpieces that only appear on Halloween. Apparently//c there is a terrifying legend behind every single one of them...
+commander_uniform-10001811,Delicate Curls
+commander_uniform-20001811,A meticulously prepared hairstyle. Show everyone a different side of yourself.
+commander_uniform-10001812,Energetic Ponytail
+commander_uniform-20001812,Tie your hair into a ponytail and reminisce... That energetic class captain who's nerdy//c long-winded//c and violent... I wonder how she's doing now?
+commander_uniform-10001820,Party Headdress
+commander_uniform-20001820,Finding it hard to fit it? Then throw a party! Put these on and join the fun - Got it? There are things you'll never notice if you don't approach others.
+commander_uniform-10001831,Winter Coat
+commander_uniform-20001831,A coat that repels both cold wind and strong enemies. The thick fur gives both warmth and sense of security.
+commander_uniform-10001832,Warm Jacket
+commander_uniform-20001832,Absolute warmth can be extremely comforting. One must prepare for every possibility before facing a challenge.
+commander_uniform-10001840,Surprise To-Be-Delivered
+commander_uniform-20001840,Put these gifts over your shoulders and deliver the surprise! But don't throw the sacks... It's a pain to reorganize them.
+commander_uniform-10001851,Wear-Resistant Pants
+commander_uniform-20001851,First of all//c they are heat-retaining. Second of all//c they're durable! You can give it your all no matter where or when//c melting away the cold with your fiery spirit.
+commander_uniform-10001852,Winter Shorts
+commander_uniform-20001852,Foolhardy people are woeful. Only those with the courage to take challenge head-on are heroes... Perfect with other winter essentials.
+commander_uniform-10009920,Energetic Disguise
+commander_uniform-20009920,Always showing my best side.
+commander_uniform-10001911,Refreshing short layered haircut
+commander_uniform-20001911,A refreshing choppy hairstyle. A small change could be the start of something new.
+commander_uniform-10001912,Lively twintails
+commander_uniform-20001912,Twintails that make an impression. Not as dignified as you usually are//c but there's a certain sense of novelty to them. Go and show the Dolls your new look!
+commander_uniform-10001920,New Year worship headpiece
+commander_uniform-20001920,On this day//c people pray for a good harvest and enjoy a happy family reunion. This feeling is so fervent people often can't make sense of it...until they watch their friends and loved ones set off once again on their journey. At that moment//c it occurs to them what this feeling is - hope. May all be well in the coming year.
+commander_uniform-10001931,Short mandarin jacket
+commander_uniform-20001931,As we clean out our rooms and organize our belongings//c objects of the past encourage us to keep going forward//c though of course they may also hold us back - then let us immerse ourselves in reminiscence on this last day of the year. It's also very important to reflect on where we are.
+commander_uniform-10001932,New Year Qipao
+commander_uniform-20001932,A Commander's attire inspired by the traditional qipao. It's still very warm as the scarf that comes with it is designed with thermal technology...though it isn't meant to flap about and ruin your hairstyle.
+commander_uniform-10001940,Auspicious accessories
+commander_uniform-20001940,Welcome a sunny spring and celebrate a new and auspcious year! Adorn yourself with heirloom jewelry and wish everyone a happy new year!
+commander_uniform-10001951,Fleece-lined trousers
+commander_uniform-20001951,Extra-thick pants for the cold spell. Wearing them//c you can safely brave the blizzard...or bang snaps.
+commander_uniform-10001952,High heels
+commander_uniform-20001952,These high heels have been espcially modified. Your feet won't feel tired even after wearing them for an entire day... Sorry//c did I say "your feet"? That only applies to Dolls.
+commander_uniform-10002010,Pickled Head
+commander_uniform-20002010,Have you had enough of working so hard? Yearning for a life without perpetual panda eyes? Keep going! Your work will be over soon!
+commander_uniform-10002111,Casual Short Hair
+commander_uniform-20002111,When your hair is liberated from hair gel//c your brain also relaxes.
+commander_uniform-10002112,Untied Shoulder-Length Hair
+commander_uniform-20002112,When you take off the hair tie//c your thoughts are also liberated.
+commander_uniform-10002120,Sleeping Aid
+commander_uniform-20002120,These don't actually make you sleep//c but at least they can deceive your brain into thinking//c "That's right//c I'm about to sleep."
+commander_uniform-10002131,Silk Pajamas Top
+commander_uniform-20002131,The value of silk isn't just in the texture//c but also in the sense of comfort brought by its price. Look//c this is the reward for my hard work - both the loose-fitting clothes and the time for relaxation.
+commander_uniform-10002132,Silk Nightie
+commander_uniform-20002132,The value of silk isn't just in the price//c but also in the sense of comfort brought by its texture. Whenever I'm here wearing this//c I don't have to worry about how other people think of me. I just have to relax.
+commander_uniform-10002140,Pillow of Sweet Dreams
+commander_uniform-20002140,No matter how long humans live//c we're nothing more than the youngest of children to the stars. Embrace the truth that we can only sleep tight when we have something to rely on//c and hold onto this pillow.
+commander_uniform-10002151,Silk Pajamas Pants
+commander_uniform-20002151,Pants aren't always necessary//c but it doesn't hurt to wear them either. At least when the delivery man knocks on your door like a maniac//c you won't have to search frantically through your bed for something to cover yourself.
+commander_uniform-10002152,Cotton Socks
+commander_uniform-20002152,It's usually necessary to wear pants//c but it doesn't hurt to not wear them either. Why do something pointless for someone else's benefit on your home turf? Socks are much more comfy than pants.
+commander_uniform-10002220,Crown of Shared Bounties
+commander_uniform-20002220,If you're happy and you know it eat donuts - munch//c munch! If you're doleful and you know it eat ice cream - slurp//c slurp...
+commander_uniform-10002340,Concert Lightstick
+commander_uniform-20002340,Illuminating the night with starlight in support of their idols is a fan's romantic gesture.
+commander_uniform-10002420,Nova Cap
+commander_uniform-20002420,A limited-edition retro cap for commemorating a space organization that once existed.
+commander_uniform-10002520,Red & Blue Hat of Bliss
+commander_uniform-20002520,The genius is on the left//c the maniac on the right. As for which is left and which is right//c it all comes down to which direction you're facing.
+commander_uniform-10002611,Practical Short Hair
+commander_uniform-20002611,This short hairstyle isn't exactly elegant//c but it can save you some time in making yourself presentable - every second is a matter of life and death when it comes to an ambush.
+commander_uniform-10002612,Braid of Self-Control
+commander_uniform-20002612,Keeping your hair long in wartime is an act of prayer - you pray for the advent of peace. Though we might no longer be young by then...we still have the right to be beautiful.
+commander_uniform-10002620,Accessory of Fire and Blood
+commander_uniform-20002620,Take your pick of what you want to wear on your head. It will embody your faith and accompany you as you charge through fire and blood//c until you triumph…or until your head becomes an ornament to someone else.
+commander_uniform-10002631,Defender Cuirass
+commander_uniform-20002631,A light but sturdy cuirass is essential. The smith has sown their blessings of triumph into the armor thread by thread as they pray for your victories and safe return.
+commander_uniform-10002632,Oath-Bearer Cuirass
+commander_uniform-20002632,A light but sturdy cuirass is essential. It will make its mark in history along with you//c whom it has sworn to protect. It will bear witness as you fulfill your oath and attain eternal glory.
+commander_uniform-10002640,Personal Weapon
+commander_uniform-20002640,A wieldy weapon that's also practical on the battlefield can save your life and even defend your dignity.
+commander_uniform-10002651,Defender Greaves
+commander_uniform-20002651,Greaves may be a pain to put on//c but it will significantly increase your chances of survival on the battlefield. As stray arrows bounce off your greaves//c do you think of the prayers of the one who dressed you in them?
+commander_uniform-10002652,Oath-Bearer Greaves
+commander_uniform-20002652,Greaves may be a pain to put on//c but it will significantly increase your chances of survival on the battlefield. As a dagger is deflected by your greaves//c do you recall your vow to survive till the very end?
+commander_uniform-10002711,Wanderer's Ponytail
+commander_uniform-20002711,Sir//c buy this expensive hair tie! Even if you haven't washed your hair for three days//c it will still make you look cool and dashing.
+commander_uniform-10002712,Homemaker's Ponytail
+commander_uniform-20002712,Madam//c buy this ribbon! It isn't particularly fancy//c but it will complement your already radiant beauty.
+commander_uniform-10002720,Wind Whisperer
+commander_uniform-20002720,Sitting on the top of your head//c it converses with the wind and learns of stories unknown to written history.
+commander_uniform-10002731,On-Duty Uniform
+commander_uniform-20002731,During times of turmoil//c this was the attire of a protector. Now//c it can also protect the tummy that you got from not working out.
+commander_uniform-10002732,Hostess' New Dress
+commander_uniform-20002732,This is meant to be a pinafore that introduces new desserts at a shop in a bustling city. Now//c it only serves to make the shop owner look cute.
+commander_uniform-10002740,Banner of Conviction
+commander_uniform-20002740,When there are noise restrictions in the city//c one can only make their proclamations known through a banner! Leasing out fantastic Griffin ad slot!
+commander_uniform-10002751,Dignified Hakama
+commander_uniform-20002751,Don't think about how much fabric it took to create this piece of garment. Being wasteful is a civilian's prerogative during affluent times.
+commander_uniform-10002752,Convenient Clogs
+commander_uniform-20002752,Even the cheapest clogs have to be sturdier than those made in ancient times. As technology advances//c our pace grows steadier.
+commander_uniform-10002820,Abstract Masque
+commander_uniform-20002820,A very oriental face mask. Giving it the Griffin spirit seems to have triggered some sort of strange chemical reaction.
+commander_uniform-10002920,Monster Overlord
+commander_uniform-20002920,The one in command should save an eye for the everlasting night that will fall any time.
+commander_uniform-10003011,Salon-Recommended Short Hair
+commander_uniform-20003011,A hairstyle based on what salons tend to recommend. The best way to blend in with a crowd is to keep up with the fashion trend.
+commander_uniform-10003012,Simple Traditional Braid
+commander_uniform-20003012,A hairstyle demonstrated by fashion influencers. The best way to blend in with a crowd is to turn yourself into a stereotypical beauty.
+commander_uniform-10003020,Wind-Resistant Headgear
+commander_uniform-20003020,A good design has to be both trendy and practical. That's probably why this hat is reinforced with steel plates.
+commander_uniform-10003031,Tactical Outdoor Jacket (Armband Version)
+commander_uniform-20003031,An intricate tactical outdoor jacket with reflective strips for identifying allies in the dark and drawing enemy fire away from them.
+commander_uniform-10003032,Tactical Outdoor Jacket (Print Version)
+commander_uniform-20003032,An intricate tactical outdoor jacket with printed fluorescent patterns for identifying allies in the dark and drawing enemy fire away from them.
+commander_uniform-10003040,Tactical Backpack
+commander_uniform-20003040,Your gear is your most reliable support on this journey. Have you figured out what it is that you need - survival//c carnage//c or retirement?
+commander_uniform-10003051,Special Ops Pants (Uniform)
+commander_uniform-20003051,Designer: Just because there are protective knee pads doesn't mean the wearer should surrender and kneel.
+commander_uniform-10003052,Special Ops Pants (Jeans)
+commander_uniform-20003052,Designer: May they protect your legs so that you will always get back on your feet and face new challenges.
+commander_uniform-10003120,Spare Headband
+commander_uniform-20003120,Gr G36 has many of the same headband. Before her younger sister destroys them all//c she starts making a new batch//c and every single one looks completely identical.
+commander_uniform-10003220,Celebration Cap
+commander_uniform-20003220,A cap prepared for the 4th Anniversary celebration. It sells our brand//c but more importantly//c it shows our Commander's "attitude".
+commander_uniform-10003230,Trendy Hoodie
+commander_uniform-20003230,A hoodie prepared for the 4th Anniversary celebration. It's been four years//c but do you still remember how you felt the first time you ran into enemies on a random node?
+commander_uniform-10003310,Iron Will
+commander_uniform-20003310,You have faced countless battles that were a massive pain in the neck//c but it seems to be especially bad this time...
+commander_uniform-10003411,Gentleman's Chapel
+commander_uniform-20003411,A gentleman never neglects his own appearance – he takes care of it like his chapel.
+commander_uniform-10003412,Lady's Garden
+commander_uniform-20003412,A lady never neglects her own visage – she tends to it like her garden.
+commander_uniform-10003420,British Etiquette
+commander_uniform-20003420,Welcome to London//c traveller.
+commander_uniform-10003431,Times Trench Coat (M)
+commander_uniform-20003431,"What's in the Times today?" "Same old//c same old."
+commander_uniform-10003432,Times Trench Coat (F)
+commander_uniform-20003432,"This city is always the same; it never changes. That's nice." "Not at all//c it's too boring."
+commander_uniform-10003440,Detective's Partner
+commander_uniform-20003440,On top of great intellect//c the ability to vanquish criminals is also essential to a brilliant detective – each famous detective has their own way of achieving this.
+commander_uniform-10003451,Suit Pants
+commander_uniform-20003451,A suit is the modern knight's armor – this is no exaggeration at all.
+commander_uniform-10003452,Stocking
+commander_uniform-20003452,Mind where you're looking//c or this leg will send you flying before you even know it.
+commander_uniform-10003520,Rebirth Party Ticket
+commander_uniform-20003520,Put it on and you'll have a brand new identity. Take this opportunity where nobody knows you and completely let yourself go! Dance to your heart's content on the streets as if this were a party!
+commander_uniform-10003640,Balloon of Brilliance
+commander_uniform-20003640,The value of a souvenir is determined by the sentiment it carries. It is alright for some things to burn brilliantly before going out - they don't have to last forever.
+commander_uniform-10003720,Regal and Exquisite Headpiece
+commander_uniform-20003720,An exquisite headpiece crafted meticulously with peerless workmanship.
+commander_uniform-10003740,Colorful and Dazzling Clothing
+commander_uniform-20003740,This extraordinary outfit is defined by its perfectly tailored silhouette and precious fabric of top-tier quality.
+commander_uniform-10003820,Magic Wire
+commander_uniform-20003820,When you are always making risky gambles//c do you even remember the weight that life carries?
+commander_uniform-10003911,Lone Wolf
+commander_uniform-20003911,In the darkness of night//c when the masses are entranced by the dazzling fireworks//c it is the red eyes and white hair glistening in the moonlight that illuminate the lone wolf's eyes.
+commander_uniform-10003912,Lost Lamb
+commander_uniform-20003912,In the moonlight//c when the masses are entranced by the dazzling fireworks//c it is the shadows and sharp claws lurking in the darkness of night that guide the lost lamb home.
+commander_uniform-10003920,Merrymaker Decoration
+commander_uniform-20003920,On such a joyful night//c a group of footloose merrymakers are essential!
+commander_uniform-10003931,"Nightstalker" Parka
+commander_uniform-20003931,"Black fur//c black parka… Don't you find it dull?" "...Black is the dignity of a loner."
+commander_uniform-10003932,"Worshipper" Parka
+commander_uniform-20003932,"Both your fur and your clothes are dazzlingly white. Isn't it hard to keep everything clean?" "...Please don't judge me with the standard of single men who never bother to do their laundry."
+commander_uniform-10003940,Fairground Prize
+commander_uniform-20003940,"Super-duper generous prizes! Play more//c win more! The stall owner is losing big-time!" "What? Difficulty levels and tickets? Where's your sense of fun//c kiddo?!"
+commander_uniform-10003951,"Nightstalker" Pants
+commander_uniform-20003951,The dark shadow flitting by in the moonlight is a bundle of tightly wrapped-up muscles.
+commander_uniform-10003952,"Worshipper" Shorts
+commander_uniform-20003952,The white flash whisking by in the darkness of night is nature being liberated.
+commander_uniform-10004011,Young Man's Inexperience
+commander_uniform-20004011,The inexperienced young man shows off his most handsome side on his first date...at the cost of his old man's entire tin of hair gel.
+commander_uniform-10004012,Young Maiden's Shyness
+commander_uniform-20004012,The shy girl keeps reminding herself to behave naturally on her first date//c but she's forgotten to tame her perky ahoge.
+commander_uniform-10004020,Battle Garb
+commander_uniform-20004020,"Love is a battlefield where young men and maidens massacre each other with longing and sentiment. If you want to gain the upper hand//c you must be properly equipped//c" says the fashion magazine being used to prop up a coffee table.
+commander_uniform-10004031,New Suit (Brand New With Tag)
+commander_uniform-20004031,The night before his date//c the young man who is utterly clueless about style and fashion eyes the new suit still in its original packaging that belongs to his old man…
+commander_uniform-10004032,Newly Picked Dress
+commander_uniform-20004032,The morning before her date//c the stylish young maiden turns her wardrobe upside down…
+commander_uniform-10004040,Gift of Memory
+commander_uniform-20004040,This is the interlaced memory of the young man and maiden's encounter. There is the quickened pulse of the love-at-first-sight//c as well as the tender warmth of being drunk in love.
+commander_uniform-10004051,New Suit Pants (Brand New With Tag)
+commander_uniform-20004051,"You look unusually handsome today!" "Heheh//c all thanks to my pop's splurge… Ahem//c nevermind."
+commander_uniform-10004052,Newly Picked Leather Shoes
+commander_uniform-20004052,"What//c shocked speechless by how cute I look in this outfit?" "Your hair… No//c you do look cuter than I've ever seen you."
+commander_uniform-10004120,A Guide's Gratification
+commander_uniform-20004120,Those sun-lit smiles are proof that they have illuminated the way in the pitch-dark night.
+commander_uniform-10004211,Sparkling Future
+commander_uniform-20004211,"New pilots of the Griffin Rebels are reporting for duty! Let's fight for the shining beacon in a brave new world//c Commander!" Those sparkling eyes are filled with hope for the future.
+commander_uniform-10004212,Imprint of War
+commander_uniform-20004212,"I have nothing against you naïve simpletons//c but remember this//c rookies – the battlefield isn't a place for glory; it is hell on earth." Her one remaining eye//c scarred by war//c burns with bitterness. 
+commander_uniform-10004220,Gift of the Trailblazer
+commander_uniform-20004220,"Uh//c leaving aside how you managed to get your hands on all this equipment//c rookie… Are you sure putting them on your face won't cause any interdimensional problem?"
+commander_uniform-10004231,Griffin Rebel Coat
+commander_uniform-20004231,It may not be able to withstand the cold of vast//c empty space//c but the tiny bit of warmth it provides can give solace to those whose heart is ravaged by war.
+commander_uniform-10004232,Griffin Rebel Uniform
+commander_uniform-20004232,The moment you don this dark crimson uniform//c you must become a shield that protects those who cannot defend themselves until the day we finally have peace.
+commander_uniform-10004240,Experimental Equipment
+commander_uniform-20004240,"This is…a rocket launcher that could decimate an entire army in the old age...and a source weapon from another galaxy…? Commander//c are you sure you want to entrust these weapons to me?!" "Use them well. The next batch of experimental supplies might not be so useful…"
+commander_uniform-10004251,Rebel Uniform Pants
+commander_uniform-20004251,Just keep striving toward your merciful vow and never stop moving//c and the path beneath your feet will extend to infinity… But before doing anything//c you need a robust pair of shoes.
+commander_uniform-10004252,Rebel Uniform Skirt
+commander_uniform-20004252,The path to peace is not easy//c but even if you are deeply entrenched in the swamp of war//c your beautiful vision will never be tarnished – neither will your grace and virtue as a female warrior.
+commander_uniform-10004310,Wind-Seizing Cloud Strider
+commander_uniform-20004310,Just you wait//c Spring Dragonfly//c someday we'll show them how I conquer the sky with you!
+commander_uniform-10004411,Unruly Bobcut
+commander_uniform-20004411,That oppressive attitude is the harshest defense one can muster//c just like how a porcupine must prick up the sharp quills it wears to protect its fragile heart.
+commander_uniform-10004412,Slapdash Styling
+commander_uniform-20004412,That smiling face is his most covert probe of others//c just like how the red fox hides its wariness under its blazing pelt. 
+commander_uniform-10004420,Hidden Hawkeye
+commander_uniform-20004420,These glasses won't be removed easily unless there's no other choice//c because hiding these eagle eyes is the last pity they show to those spoiling for a fight.
+commander_uniform-10004431,Ace Jacket (Male)
+commander_uniform-20004431,"Why do the MPs ignore his rulebreaking?" "If you knew what those three badges on his chest meant//c you wouldn't be asking that..."
+commander_uniform-10004432,Huntress' Leather Jacket (Female)
+commander_uniform-20004432,"Pilot//c where is your regimental jacket?" "I'm guessing this is my uniform//c so what do you think//c Sir?"
+commander_uniform-10004440,Final Defense Line
+commander_uniform-20004440,Cut the paracords and celebrate for a few seconds before running at top speed. Hold this final defense line and this pistol that's lost its magazine.
+commander_uniform-10004451,Special Ops Uniform Pants
+commander_uniform-20004451,War doesn't show the elite any favoritism. Sometimes what gives you a second chance at life is entirely due to ample preparation on your part.
+commander_uniform-10004452,Ranger's Kevlar Pants
+commander_uniform-20004452,Amateurs think it's plain and ordinary//c but have you realized that it is stab proof and fire resistant//c as well as being upgradable at any time?
+commander_uniform-10004511,Dandy Side Part
+commander_uniform-20004511,This devil-may-care long hairstyle attracts a lot of compliments from your colleagues//c but the truth is//c you're only keeping such a large fringe to cover up your gradually receding hairline.
+commander_uniform-10004512,Mature Long Hair
+commander_uniform-20004512,These natural waves require a lot of careful maintenance//c but the truth is//c only such a voluminous hairstyle can cover up your gradually thinning hair.
+commander_uniform-10004520,Surprise of Life
+commander_uniform-20004520,The daily life of an office worker may be dull and full of drudgery//c but you should nevertheless try to break up the humdrum and introduce some sense of novelty in your life.
+commander_uniform-10004531,Future Expectations (M)
+commander_uniform-20004531,How do you look more handsome and dandy in a regular suit? On top of having a muscular build//c you should also show off your suspenders. That's what it says in fashion magazines at least.
+commander_uniform-10004532,Present Enjoyment (F)
+commander_uniform-20004532,How do you add a dash of casualness to formal wear? On top of rolling up your sleeves//c you should tuck your shirt in with a twist. That's what fashion bloggers say at least.
+commander_uniform-10004540,Random Accessory
+commander_uniform-20004540,It's pretty normal for a passing office worker to be carrying such stuff//c right?
+commander_uniform-10004551,Business Hot Pants
+commander_uniform-20004551,To the general public//c this kind of aesthetic is still a bit ahead of its time//c but you must have faith that you will become a trailblazing trendsetter.
+commander_uniform-10004552,Wish-Making Leather Shoes
+commander_uniform-20004552,The bows on the shoes are like tiny wings that symbolize bygone dreams. You hope they will break free and soar towards freedom.
+commander_uniform-10004640,Envoy of Free-Flowing Drinks
+commander_uniform-20004640,A special guest to mark the opening of a night of revelry. It has a surprisingly low alcohol content so that even the most lightweight of T-Dolls can have fun drinking... though it won't take long for them to collapse once they start feeling tipsy.
+commander_uniform-10004711,Mirror Universe
+commander_uniform-20004711,Griffin//c remote signal optimal—all clear. Ladies and gentlemen//c are you ready to see the universe with your own eyes?
+commander_uniform-10004712,Extraterrestrial Star Systems
+commander_uniform-20004712,Trust me//c the moment you fly up into space//c your look will set a completely new trend!
+commander_uniform-10004720,Planetarium Souvenir
+commander_uniform-20004720,They're inspired by the astronauts' busy and interesting lives...which involve frying eggs//c binging TV shows//c and receiving aliens.
+commander_uniform-10004731,Touch the Stars
+commander_uniform-20004731,This spacesuit will protect you from all harm//c unless you catch a meteorite with your bare hands... Don't tell me you actually plan on doing that!
+commander_uniform-10004732,Interstellar Travel
+commander_uniform-20004732,The spaceship has now reached escape velocity. Before we arrive at our destination//c spend some time to get used to the sensation of being in a zero-g environment.
+commander_uniform-10004740,Life Support System
+commander_uniform-20004740,An essential piece of equipment for spacewalk. The musical instrument? One must find some ways to entertain themselves in the isolation of space~! The tentacle? Just a gift from an alien~!
+commander_uniform-10004751,Cruising in Space
+commander_uniform-20004751,Maybe I'm going forward//c maybe I'm going backward. One must not lose their sense of direction in a different dimension.
+commander_uniform-10004752,Warp Speed
+commander_uniform-20004752,If we could travel faster than the speed of light//c I would like to trek across the universe in the endless time that I had.
+commander_uniform-10004810,Meme Freak
+commander_uniform-20004810,When the raging heat inside of you threatens to burst through your throat and you're at a loss as to how to expel it//c I shall appear like a ghost and show you what a master would do.
+commander_uniform-10004911,Rhythm of Speed
+commander_uniform-20004911,I'm all warmed up and ready for a run! Let's start with a song that has a nice beat... Tsk//c this one won't do. Skip... Hm... Skip... Skip...
+commander_uniform-10004912,Dream of Vigor
+commander_uniform-20004912,Strands of hair swing back and forth with every step//c partitioning the morning light//c making it glint as it bounces off the cute hair accessory.
+commander_uniform-10004920,Sweating Like A Pig
+commander_uniform-20004920,Sunscreen//c recording gear//c and clear vision are all essentials for working out.
+commander_uniform-10004931,Flaming Spirit
+commander_uniform-20004931,Vigorous like a hammering heart//c fiery like burning passion.
+commander_uniform-10004932,Spirited Dance
+commander_uniform-20004932,Light as a swallow//c fast as a hare.
+commander_uniform-10004940,Builder of Strength
+commander_uniform-20004940,Please use training tools correctly. If you're looking for photography props//c please show yourself out over there.
+commander_uniform-10004951,Supersonic Leap
+commander_uniform-20004951,You need to move your legs to traverse the distance. No sports gear//c no matter how fancy//c can replace your effort.
+commander_uniform-10004952,Nimble Twirl
+commander_uniform-20004952,When you move your legs to dance or run//c the shadow you cast on the ground is nimble like a bird.
+commander_uniform-10005011,Wind-whipped Willow
+commander_uniform-20005011,Your performance in combat will be the deciding factor of how fashionable you look. Only by putting up a good fight will you be able to afford a trip to the hairdresser's!
+commander_uniform-10005012,Moonlit Blossoms
+commander_uniform-20005012,This is both an adorable hairstyle and weapon. Take your enemy by surprise and defeat them with your twin-tails.
+commander_uniform-10005020,Pulse of the Eight Gates
+commander_uniform-20005020,Don't be alarmed//c this is the physical manifestation of my internal energy. The benefit? Physicians will be able to spot any problem with my health directly...
+commander_uniform-10005031,Tiger Tattoo
+commander_uniform-20005031,Apply this intimidating temporary tattoo and everyone will give you a wide berth. Just make sure you don't stand in the rain!
+commander_uniform-10005032,Dragon Brocade
+commander_uniform-20005032,A martial arts qipao custom-made by a tailor. Both its artistic value and cuteness are off the charts... One simply can't look away from the wearer!
+commander_uniform-10005040,Divine Weapon
+commander_uniform-20005040,It's hardly odd for a drifter in jianghu to carry a weapon as a precaution//c right? 
+commander_uniform-10005051,Furious Waves
+commander_uniform-20005051,You think you'd be able to master the art of qinggong and run on water just by putting on this regalia that weighs 20 pounds...? You want to leap up into the air? Sir//c please do not disregard the existence of gravity!
+commander_uniform-10005052,Invisible Flurry
+commander_uniform-20005052,In just an instant//c you can travel hundreds of miles like a light and ethereal specter//c leaving nary a trace even in the snow... Forget about vehicles//c this dress will be your new mode of transportation!
+commander_uniform-10005111,Barbarossa
+commander_uniform-20005111,This huge trademark beard will haunt the nightmares of your foes//c while having to spend three hours tending to it every day is a nightmare of its own.
+commander_uniform-10005112,Katarina
+commander_uniform-20005112,When the enemy falls by your blade//c the last thing they will see is your long hair//c as merciless and deadly as the waves.
+commander_uniform-10005120,Pirate's Bounty
+commander_uniform-20005120,Put this on//c Cap'n! Your wanted poster will look super badass with it on you! You want a parrot too? No problem//c I'll go catch one right now!
+commander_uniform-10005131,Wavecleaver
+commander_uniform-20005131,No matter how dangerous things get//c upon seeing this unyielding form//c the sailors will conquer any maritime dangers before them with hundredfold confidence!
+commander_uniform-10005132,Whistling Sea Breeze
+commander_uniform-20005132,Mermaids? Barmaids? Before you get stabbed full of holes//c you'd best rinse your mind out//c or else... Well//c you'll see.
+commander_uniform-10005140,Guide To Getting Lost On The Ocean
+commander_uniform-20005140,Now anyone with brains will be able to tell who's the skipper on this boat! However//c if you draw your sword at the slightest provocation//c you have to worry about being stabbed in the back by your enemies//c so beware!
+commander_uniform-10005151,Driftwood Mast
+commander_uniform-20005151,Nicely done//c lads! We've got a battle ahead of us//c so hold on tight to the lines and prepare to swing over and give them what-for in close quarters!
+commander_uniform-10005152,Shattered Deck
+commander_uniform-20005152,Keep your heads down! The last lot who failed to handle their chores are sleeping with the fishes in Davy Jones' locker! If you don't want to join them//c then make sure the boards are squeaky clean!
+commander_uniform-10005210,Brimstone Wizard Hat
+commander_uniform-20005210,A hat with a brimstone flame that can allegedly fend off evil spirits. "Where do sinners go upon death? Not Heaven//c where angels fly//c but Hell//c where brimstones burn."
+commander_uniform-10005320,Glamorous Top Hat
+commander_uniform-20005320,A special hat that the girls made for the Commander for the celebration. AUG wanted to decorate it with flowers//c Carcano insisted on adding feathers//c and M9 thought a dazzling star would be the cherry on top. In the end//c the hat became a "treasure trove" of a myriad of decorations. Since it does weigh quite a lot//c please protect your spine when you wear it.
+commander_uniform-10005411,Polar Wanderer
+commander_uniform-20005411,On top of looking really cool//c this will also protect your hair from being covered in bat poop//c so make sure you keep it on!
+commander_uniform-10005412,Perfect Traveler
+commander_uniform-20005412,No one can say for certain if they can make it to the next day with no accidents//c but the shrewd-minded will always strive to smooth out the obstacles on their path.
+commander_uniform-10005420,Protector from the Sun
+commander_uniform-20005420,Please use in conjunction with sunscreen—or the tan line left by your sunglasses will make you look like a sad raccoon.
+commander_uniform-10005431,Shadow in the Valley
+commander_uniform-20005431,A fully-equipped set of outdoor survival gear—no matter how many secret passages and lethal traps lie ahead of us//c we will be able to find everything we dream of as long as we soldier on!
+commander_uniform-10005432,Searcher of Ruins
+commander_uniform-20005432,Essential tools for archeologists on explorations—"Cursed be those who read this inscription aloud!" "You read that out very loudly!"
+commander_uniform-10005440,Temporal Navigator
+commander_uniform-20005440,"According to the clues on these ancient maps//c the ruins where the treasures are buried lie directly ahead!" "...You mean this busy playground?"
+commander_uniform-10005451,Storm in the Dunes
+commander_uniform-20005451,Wearing this will protect you from any hostile environment... with the exception of sandstorms! If you don't want to be buried alive//c move your legs and run!
+commander_uniform-10005452,Stillness in the Jungle
+commander_uniform-20005452,This outfit will make it easy for you to climb trees and spend the night in safety—tsk//c these slimy vines are a bit gross... Wait//c they're flicking their tongues?!
+commander_uniform-10005511,Gentleman's Creed
+commander_uniform-20005511,Carefully combed//c gelled//c and tied... An immaculate hairstyle is an essential prerequisite for getting a dance partner.
+commander_uniform-10005512,Lady's Poise
+commander_uniform-20005512,An arched feather//c fragrant white flowers... An elegant hat is a lady's best name card.
+commander_uniform-10005520,Dazzling Capital
+commander_uniform-20005520,An extravagant ball has its own "tone". Adhering to the eccentric style here requires not only good tastes//c but also the spirit of "go big or go home".
+commander_uniform-10005531,Golden Age
+commander_uniform-20005531,Under the glamorous and intricate tailoring brews a vibrant ambition. "Give me your hand//c and the world will turn for us."
+commander_uniform-10005532,Fragrant Flowers
+commander_uniform-20005532,The soft brocade is but a common disguise. Being irresistible is her modus operandi. "At this moment//c I will choose my destiny with my own hands."
+commander_uniform-10005540,Superior Skills
+commander_uniform-20005540,Dancing is just a means of socializing. The skills of playing instruments and singing obscured by the dance steps may be the real key to this person's success.
+commander_uniform-10005551,Basic Weave
+commander_uniform-20005551,Step firmly as the leader. Spin//c swivel//c zigzag...
+commander_uniform-10005552,Promenade Link
+commander_uniform-20005552,The toes cut through the waves like sharp blades in the direction of one's gaze. Impetus turn//c progressive step...
+commander_uniform-10005640,Heroic Hunter (Blue)
+commander_uniform-20005640,The legendary warrior who can single-handedly take on 100 enemies always has a fierce and murderous aura about them. When they stand beneath the colorful banners//c not only is it a daunting sight for enemy troops//c it also saves allies from the embarrassment of getting caught in friendly fire.
+commander_uniform-10005643,Heroic Hunter (Red)
+commander_uniform-20005643,Legend has it that a hero with the ability to fight a hundred at once is often surrounded by a terrifying aura of death. Labeling them with a colorful flag will not only help in scaring off enemy forces//c but also to avoid the embarrassment of accidentally harming friendly troops.
+commander_uniform-10005711,Infinite Foods and Flavors
+commander_uniform-20005711,The colors of food represent different flavors//c just as a good chef's hairstyle reflects his unique tasteâ€”such is the beauty of cooking!
+commander_uniform-10005712,Aromatic Flowers and Teas
+commander_uniform-20005712,This supple and lovely hair is so dazzling//c before the first dish is even finished//c the hotline is already bursting with viewers asking about the shampoo!
+commander_uniform-10005720,Feast for the Eyes
+commander_uniform-20005720,With only 100 credits//c you can apply very cute decorative filters to the chef on the show. Make your purchase now!
+commander_uniform-10005731,Cookery Life
+commander_uniform-20005731,Not only is the best chef uniform voted by the audience dandy and flattering//c it will also make you look like a real culinary master!
+commander_uniform-10005732,Orchard Poetry
+commander_uniform-20005732,A beautiful apron embellished with ruffles. Wearing it will definitely elevate the quality of the ingredients to a higher level!
+commander_uniform-10005740,Kitchenware Ingenuity
+commander_uniform-20005740,A good chef always has many kitchen utensils that they share a connection with. However//c one must not blame the utensils for the cursed dishes that they end up conjuring.
+commander_uniform-10005751,Tipsy Dance Steps
+commander_uniform-20005751,The bottoms were specially designed for tap dancing while cooking. Although the design was ultimately rejected//c the fashionable style still attracted the attention of the audience!
+commander_uniform-10005752,Sweet Fantasy
+commander_uniform-20005752,The cute bow is as indispensable as the strawberry on the cake//c and believe me//c it will become a popular style among chefs after the show airs!
+commander_uniform-10005811,Let the Drinks Flow
+commander_uniform-20005811,Say no more! This is definitely the most traditional and dapper hairstyle for chugging booze! Commander//c it's Lunar New Year! We're not leaving the party until we're blind drunk//c okay?! -- Costume designer with an alcohol addiction
+commander_uniform-10005812,Blossoms in Snow
+commander_uniform-20005812,We spent a fortune on this! The seller said this was the first fresh flower to have blossomed this spring//c so it's super valuable! Hurry up and put it on~! -- Costume designer who is a spendthrift
+commander_uniform-10005820,Boundless Jubilation
+commander_uniform-20005820,Every spring//c people wish each other a Happy New Year//c and every Doll offers you their well wishes before parting you with your hard-earned credits in the form of red packets... Maybe you should also pay Mr. Kryuger a New Year visit?
+commander_uniform-10005831,Endless Good Fortune
+commander_uniform-20005831,After giving this a lot of thought//c we came to the conclusion that in order to give you the largest amount of auspiciousness//c the best thing to do was to slap a New Year painting onto your clothes! I stuck something onto your back as well//c of course. As for what exactly it is... Heheh! -- Costume designer with a mischievous streak
+commander_uniform-10005832,Farewell//c Winter
+commander_uniform-20005832,It may be Spring Festival//c but it's still freezing out there//c and one can easily catch a cold when paying family and friends New Year visits. That's why we've added a fluffy collar. Doesn't it feel much warmer now//c more spring-like? -- Costume designer with a kind and gentle heart
+commander_uniform-10005840,Dazzling Lantern
+commander_uniform-20005840,I know you like lanterns//c so you all get one//c but remember//c these lanterns are products of traditional handicraft for illumination and decoration//c so don't swing them around - and don't treat them as meteor hammers!
+commander_uniform-10005851,Gate Deity Worship
+commander_uniform-20005851,I don't know if you put any stock in such things//c but it doesn't hurt to ask for some good fortune on this auspicious occasion~! Go on then//c burn an incense//c take a bow//c and make a wish! -- Costume designer well-versed in folk customs
+commander_uniform-10005852,Peach Wood Talisman
+commander_uniform-20005852,According to my divination//c you'll start having a massive streak of good luck if you put this on! Hey//c what's with that skeptical look? My fortune-telling is always spot-on! -- Costume designer who believes in superstitions
+commander_uniform-10005940,Swaggering Wave
+commander_uniform-20005940,Just for today//c please play a melody//c lead the girls away from the smoldering battlefields and let them go wild//c reveling on this festive night.
+commander_uniform-10006040,Maplebloom Edge
+commander_uniform-20006040,As the autumn's first frost descends//c the maple leaves burn red under the gentle light of dawn. The drifting flames flutter where the wind guides them; eventually meeting the edge of a sword//c playing out a crisp and melodious sound. "Oh my//c Commander//c have you been reading a novel from 191?" ...Her exclamation drives the sword master's performance to a hurried end.
+commander_uniform-10006133,Gold Star Medal
+commander_uniform-20006133,In another world line//c you return to Griffin's base//c where Kalina has been waiting for you//c and Kryuger pins a gold star medal on you.
+commander_uniform-10006240,Caduceus
+commander_uniform-20006240,A skilfully-made staff symbolizing wisdom and longevity. It seems to be invested with hopes for the Commander. 
+commander_uniform-10006311,Windward Amble
+commander_uniform-20006311,Push your hair back and show off those carefully shaped brows and the ring of light. That little circle won't give away your "instability"—after all//c you're 100% human... Well//c maybe 80%?
+commander_uniform-10006312,Against the Wind
+commander_uniform-20006312,Is baring your forehead a new trend? I think it's mostly to show off the finely crafted seams of your cybernetic implants. Sure//c the latest tech can pass as real skin//c but if there aren't any visible seams//c how else will people know you splurged on high-end prosthetics?
+commander_uniform-10006320,Sensory Module
+commander_uniform-20006320,The latest and most reliable piece of tech in the jungle of steel—combining exploration lighting//c music playback//c signal hacking//c and environmental scanning in one. The price of this multi-functional gear? Eh//c don't ask so many questions!
+commander_uniform-10006331,Cyber Camo
+commander_uniform-20006331,This hooded//c wind-resistant jacket pairs perfectly with that athletic street style—and helps you weather sudden downpours. For a city wanderer//c this kind of outfit is as clever as its bold color coordination.
+commander_uniform-10006332,Hydrophobic Skinwear
+commander_uniform-20006332,The cropped top under the coat signals mobility//c and with temperature shifts//c just slip the coat on or off to keep your body temperature stable... What//c a thermal regulation system? That's so last season!
+commander_uniform-10006340,Mobility Module
+commander_uniform-20006340,You've got to choose your travel gear wisely. This bright//c boxy backpack with a built-in lightbox is a solid pick! What? It also contains a kinetic firearm and alloy knife? Ahaha... don't worry about that detail.
+commander_uniform-10006351,Cold-Weather Boost
+commander_uniform-20006351,No one really knows why street kids these days love their cropped sweat pants so much—but there must be a point to showing off your ankles no matter the weather, right?
+commander_uniform-10006352,Sunblock Boost
+commander_uniform-20006352,This bionic skin for the legs not only even out your skin tone//c but also keep you warm in winter and shielded from the sun in summer! A little pricey//c sure—but isn't that exactly what a trendsetter in the city needs?
+commander_uniform-10006440,Mr. Pizza
+commander_uniform-20006440,A very familiar plushie. "Finally//c it's my time to shine! Mr. Pizza's warmup is completeâ˜†" For some reason//c you find yourself talking like that when you put it on.
+commander_uniform-10006520,Flowers For A Quiet Day
+commander_uniform-20006520,Wear this everlasting crown upon your head. No matter how things on the frontline go//c someone will always be behind you to help tidy everything up.
+commander_uniform-10006620,Oasis Pioneer
+commander_uniform-20006620,No matter where the path ahead may lead//c whether the destination is a desert or a field of flowers... the real meaning of this journey lies in the scenery passing by outside your window.
+commander_uniform-10006720,Lucky Hat
+commander_uniform-20006720,Supposedly//c putting this hat on guarantees good luck all year round. While there's no knowing if that's actually true//c judging by the girls gathering happily around you//c your greatest wish has already been granted—reunion.
+commander_uniform-10006811,Night-Black Hair
+commander_uniform-20006811,Your preferred infiltration method is blending into the night//c because reaching your destination sight unseen is the coolest way to show yourself. This hairstyle is simple//c slick and easy to manage even in places that make it difficult to keep yourself groomed.
+commander_uniform-10006812,Sandy Long Hair
+commander_uniform-20006812,Becoming one with the desert sands is your preferred method of camouflage. This hairstyle is just long enough to protect against hypothermia... and more importantly//c it won't get squashed by helmets.
+commander_uniform-10006820,Tactical Protection
+commander_uniform-20006820,A protective helmet and mask is enough to keep you safe from most threats. The earphones and nightvision optics maximize your perception and battlefield awareness. Advance with peace of mind//c and remember to pay attention to the enemy's movements.
+commander_uniform-10006831,Camouflaged Trail
+commander_uniform-20006831,This tactical outfit's camo patterns have been carefully researched to produce the ultimate in stealth. It will conceal you whether you're lying in ambush or planning to circle around your enemy... so you can turn your mind to the best angle to open fire.
+commander_uniform-10006832,Firefight Protection
+commander_uniform-20006832,Apart from excellent composite battlewear//c lightweight joint protection and gloves are also essential. Neither fragments//c scalding hot gun barrels nor drifting clouds of toxic smoke shall bar your path.
+commander_uniform-10006840,Saturated Preparations
+commander_uniform-20006840,Nobody knows what might happen in the area of operations//c so all you can do is prepare as best you can. Strap on your medical pouch//c festoon yourself with ammo belts//c and pack on more armor and grenadesâ€”no amount of preparation is too much.
+commander_uniform-10006851,Wear-Resistant Slacks
+commander_uniform-20006851,Practical concerns are always at the forefront of the logistics team's thinking//c which is why they've provided you with a thick set of durable nd highly protective lower-body garments. It's not leg armor//c though//c just a solid pair of pants.
+commander_uniform-10006852,Mobile Stockings
+commander_uniform-20006852,Out of aesthetic considerations//c the logistics team has provided you with this pair of highly mobile stockings//c which makes it easy for you to strap on more leg pouches and holsters while not getting in the way of wearing a skirt. At times//c it's way more cooling than pants.

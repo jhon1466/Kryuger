@@ -1,0 +1,180 @@
+recommended_formula-10000001,Handgun
+recommended_formula-20000001,
+recommended_formula-30000001,
+recommended_formula-10000002,Submachine Gun
+recommended_formula-20000002,
+recommended_formula-30000002,
+recommended_formula-10000003,Rifle
+recommended_formula-20000003,
+recommended_formula-30000003,
+recommended_formula-10000004,Assault Rifle
+recommended_formula-20000004,
+recommended_formula-30000004,
+recommended_formula-10000005,Machine Gun
+recommended_formula-20000005,
+recommended_formula-30000005,
+recommended_formula-10000006,Mixed
+recommended_formula-20000006,
+recommended_formula-30000006,*This recipe will produce SMG//c RF//c and AR//c but the production rate//nof each specific T-Doll will be lower than their type-specific recipe
+recommended_formula-10000007,Submachine Gun
+recommended_formula-20000007,
+recommended_formula-30000007,
+recommended_formula-10000008,Rifle
+recommended_formula-20000008,
+recommended_formula-30000008,
+recommended_formula-10000009,Assault Rifle
+recommended_formula-20000009,
+recommended_formula-30000009,
+recommended_formula-10000010,Machine Gun
+recommended_formula-20000010,
+recommended_formula-30000010,
+recommended_formula-10000011,Shotgun
+recommended_formula-20000011,
+recommended_formula-30000011,
+recommended_formula-10000012,Shotgun - Lower Cost
+recommended_formula-20000012,
+recommended_formula-30000012,*This recipe will consume less resources//nfor a lower Shotgun production rate than the optimal recipe
+recommended_formula-10000043,Mixed
+recommended_formula-20000043,
+recommended_formula-30000043,*This recipe will produce SMG//c RF//c and AR//c but the production rate//nof each specific T-Doll will be lower than their type-specific recipe
+recommended_formula-10000013,Optical Sight
+recommended_formula-20000013,
+recommended_formula-30000013,*Usable by all non-HG T-Dolls. Buffs <color=#FFB400FF>crit rate</color>.
+recommended_formula-10000014,Holographic Sight
+recommended_formula-20000014,
+recommended_formula-30000014,*Usable by all non-HG T-Dolls. Buffs <color=#FFB400FF>accuracy</color> and <color=#FFB400FF>damage</color> but reduces <color=#FFB400FF>rate of fire</color>.
+recommended_formula-10000015,Red Dot Sight
+recommended_formula-20000015,
+recommended_formula-30000015,*Usable by all non-HG T-Dolls. Buffs <color=#FFB400FF>accuracy</color> but reduces <color=#FFB400FF>rate of fire</color>.
+recommended_formula-10000016,Night Battle Equipment
+recommended_formula-20000016,
+recommended_formula-30000016,*Can be equipped by non-RF or MG Dolls.//nNegates the <color=#FFB400FF>accuracy penalty in Night Battles</color>. Further subdivided into IR designators and weapon lights//c which are suitable for different Dolls.
+recommended_formula-10000017,Suppressor
+recommended_formula-20000017,
+recommended_formula-30000017,*Usable by all T-Dolls other than MGs and SGs. Buffs <color=#FFB400FF>crit rate</color> and <color=#FFB400FF>evasion</color>.
+recommended_formula-10000018,AP Ammo
+recommended_formula-20000018,
+recommended_formula-30000018,*Can be equipped by RF or MG Dolls.//nBuffs <color=#FFB400FF>armor-piercing capability</color>//c increasing damage dealt to armored units. Further divided into AP Rounds and Sniper Rounds//c to be used in different scenarios.
+recommended_formula-10000019,HP Ammo
+recommended_formula-20000019,
+recommended_formula-30000019,*Can be equipped by HG or SMG Dolls.//nImproves a Doll's <color=#FFB400FF>damage output</color> and <color=#FFB400FF>support abilities</color>. Further divided into Hollowpoint Rounds and Signal Flares//c to be used in different scenarios.
+recommended_formula-10000020,HV Ammo
+recommended_formula-20000020,
+recommended_formula-30000020,*Usable by ARs. Buffs <color=#FFB400FF>damage</color>.
+recommended_formula-10000021,Shotgun Shells
+recommended_formula-20000021,
+recommended_formula-30000021,*Can be equipped by SG Dolls.//nImproves a Doll's <color=#FFB400FF>damage output</color>. Divided into Slugs//c Buckshot//c Birdshot and Flash Shells//c to be used in different scenarios.
+recommended_formula-10000022,Exoskeleton
+recommended_formula-20000022,
+recommended_formula-30000022,*Usable by HGs//c SMGs//c and ARs. Buffs <color=#FFB400FF>evasion</color>.
+recommended_formula-10000023,Armor Plate
+recommended_formula-20000023,
+recommended_formula-30000023,*Usable by SGs. Buffs <color=#FFB400FF>armor</color> but reduces <color=#FFB400FF>evasion</color>.
+recommended_formula-10000024,Ammunition Box
+recommended_formula-20000024,
+recommended_formula-30000024,*Usable by MGs. Increases <color=#FFB400FF>ammo capacity</color> but reduces <color=#FFB400FF>evasion</color>.
+recommended_formula-10000025,Camouflage Cape
+recommended_formula-20000025,
+recommended_formula-30000025,*Usable by RFs. Buffs <color=#FFB400FF>crit damage</color> but reduces <color=#FFB400FF>mobility</color>.
+recommended_formula-10000026,Mixed
+recommended_formula-20000026,
+recommended_formula-30000026,*This recipe will produce many types of equipment//c but the production rate//nof each specific equipment will be lower than their type-specific recipe
+recommended_formula-10000044,Auxiliary Sights
+recommended_formula-20000044,
+recommended_formula-30000044,*Usable by HGs and MGs.//nBuffs <color=#FFB400FF>accuracy</color> and <color=#FFB400FF>crit rate</color>.
+recommended_formula-10000049,Special AP Ammo
+recommended_formula-20000049,
+recommended_formula-30000049,*Can be equipped by MG Dolls.//nGreatly improves a Doll's <color=#FFB400FF>armor penetration</color> but reduces her <color=#FFB400FF>rate of fire</color>.
+recommended_formula-10000045,Chips
+recommended_formula-20000045,
+recommended_formula-30000045,*Can be equipped by AR or SMG Dolls.//nImproves a Doll's <color=#FFB400FF>damage output</color>. Divided into Processor Chips and Focus Chips//c which are suitable for different Dolls.
+recommended_formula-10000027,Fairy - Lower Cost
+recommended_formula-20000027,
+recommended_formula-30000027,*This recipe can only produce some Fairies
+recommended_formula-10000028,Fairy - General Purpose
+recommended_formula-20000028,
+recommended_formula-30000028,*This recipe can produce all Fairies//nThe higher the resource usage//c the greater the Fairy production rate//nWith all else being equal//c the higher the tier of production (Contracts and Cores)//c the greater the Fairy production rate
+recommended_formula-10000029,Optical Sight
+recommended_formula-20000029,
+recommended_formula-30000029,*Usable by all non-HG T-Dolls. Buffs <color=#FFB400FF>crit rate</color>.
+recommended_formula-10000030,Holographic Sight
+recommended_formula-20000030,
+recommended_formula-30000030,*Usable by all non-HG T-Dolls. Buffs <color=#FFB400FF>accuracy</color> and <color=#FFB400FF>damage</color> but reduces <color=#FFB400FF>rate of fire</color>.
+recommended_formula-10000031,Red Dot Sight
+recommended_formula-20000031,
+recommended_formula-30000031,*Usable by all non-HG T-Dolls. Buffs <color=#FFB400FF>accuracy</color> but reduces <color=#FFB400FF>rate of fire</color>.
+recommended_formula-10000032,Night Battle Equipment
+recommended_formula-20000032,
+recommended_formula-30000032,*Can be equipped by non-RF or MG Dolls.//nNegates the <color=#FFB400FF>accuracy penalty in Night Battles</color>. Further subdivided into IR designators and weapon lights//c which are suitable for different Dolls.
+recommended_formula-10000033,Suppressor
+recommended_formula-20000033,
+recommended_formula-30000033,*Usable by all T-Dolls other than MGs and SGs. Buffs <color=#FFB400FF>crit rate</color> and <color=#FFB400FF>evasion</color>.
+recommended_formula-10000034,AP Ammo
+recommended_formula-20000034,
+recommended_formula-30000034,*Can be equipped by RF or MG Dolls.//nBuffs <color=#FFB400FF>armor-piercing capability</color>//c increasing damage dealt to armored units. Further divided into AP Rounds and Sniper Rounds//c to be used in different scenarios.
+recommended_formula-10000035,HP Ammo
+recommended_formula-20000035,
+recommended_formula-30000035,*Can be equipped by HG or SMG Dolls.//nImproves a Doll's <color=#FFB400FF>damage output</color> and <color=#FFB400FF>support abilities</color>. Further divided into Hollowpoint Rounds and Signal Flares//c to be used in different scenarios.
+recommended_formula-10000036,HV Ammo
+recommended_formula-20000036,
+recommended_formula-30000036,*Usable by ARs. Buffs <color=#FFB400FF>damage</color>.
+recommended_formula-10000037,Shotgun Shells
+recommended_formula-20000037,
+recommended_formula-30000037,*Can be equipped by SG Dolls.//nImproves a Doll's <color=#FFB400FF>damage output</color>. Divided into Slugs//c Buckshot//c Birdshot and Flash Shells//c to be used in different scenarios.
+recommended_formula-10000038,Exoskeleton
+recommended_formula-20000038,
+recommended_formula-30000038,*Usable by HGs//c SMGs//c and ARs. Buffs <color=#FFB400FF>evasion</color>.
+recommended_formula-10000039,Armor Plate
+recommended_formula-20000039,
+recommended_formula-30000039,*Usable by SGs. Buffs <color=#FFB400FF>armor</color> but reduces <color=#FFB400FF>evasion</color>.
+recommended_formula-10000040,Ammunition Box
+recommended_formula-20000040,
+recommended_formula-30000040,*Usable by MGs. Increases <color=#FFB400FF>ammo capacity</color> but reduces <color=#FFB400FF>evasion</color>.
+recommended_formula-10000041,Camouflage Cape
+recommended_formula-20000041,
+recommended_formula-30000041,*Usable by RFs. Buffs <color=#FFB400FF>crit damage</color> but reduces <color=#FFB400FF>mobility</color>.
+recommended_formula-10000042,Mixed
+recommended_formula-20000042,
+recommended_formula-30000042,*This recipe will produce many types of equipment//c but the production rate//nof each specific equipment will be lower than their type-specific recipe
+recommended_formula-10000046,Auxiliary Sights
+recommended_formula-20000046,
+recommended_formula-30000046,*Can be used by HGs//c MGs.//n Increase the T-Doll's <color=#FFB400FF>accuracy</color> and <color=#FFB400FF>crit rate</color>.
+recommended_formula-10000048,Special AP Ammo
+recommended_formula-20000048,
+recommended_formula-30000048,*Can be equipped by MG Dolls.//nGreatly improves a Doll's <color=#FFB400FF>armor penetration</color> but reduces her <color=#FFB400FF>rate of fire</color>.
+recommended_formula-10000047,Chips
+recommended_formula-20000047,
+recommended_formula-30000047,*Can be equipped by AR or SMG Dolls.//nImproves a Doll's <color=#FFB400FF>damage output</color>. Divided into Processor Chips and Focus Chips//c which are suitable for different Dolls.
+recommended_formula-10000058,Tripod
+recommended_formula-20000058,
+recommended_formula-30000058,*Usable by MGs. Increase a T-Doll's <color=#FFB400FF>accuracy</color> and <color=#FFB400FF>reload speed</color>//c but reduce her <color=#FFB400FF>move speed</color>.
+recommended_formula-10000059,Choke
+recommended_formula-20000059,
+recommended_formula-30000059,*Can be used by SGs.//n Increase a T-Doll's <color=#FFB400FF>ammo capacity</color> and <color=#FFB400FF>accuracy</color>.
+recommended_formula-10000060,Rangefinder
+recommended_formula-20000060,
+recommended_formula-30000060,*Usable by certain RFs//n Increase a T-Doll's <color=#FFB400FF>damage</color> and reduce the <color=#FFB400FF>initial cooldown</color> of her skill.
+recommended_formula-10000050,Fairy - Lower Cost
+recommended_formula-20000050,
+recommended_formula-30000050,*This order can produce certain Fairies.
+recommended_formula-10000051,Fairy - General Purpose
+recommended_formula-20000051,
+recommended_formula-30000051,*This recipe can produce all Fairies//nThe higher the resource usage//c the greater the Fairy production rate//nWith all else being equal//c the higher the tier of production (Contracts and Cores)//c the greater the Fairy production rate
+recommended_formula-10000052,Buff Type
+recommended_formula-20000052,
+recommended_formula-30000052,*Combat Fairies that can provide defensive and survival buffs for friendly units in battles.
+recommended_formula-10000053,Attribute Type
+recommended_formula-20000053,
+recommended_formula-30000053,*Combat Fairies that can deal direct damage to enemies.
+recommended_formula-10000054,Defense Type
+recommended_formula-20000054,
+recommended_formula-30000054,*Fairies that can provide cover and other conveniences.
+recommended_formula-10000055,Rampage Type
+recommended_formula-20000055,
+recommended_formula-30000055,*A non-combat skill that can be used in a battle stage. It takes effect on either the current or subsequent turn//c mostly on a target node.
+recommended_formula-10000056,Reinforcement Type
+recommended_formula-20000056,
+recommended_formula-30000056,*Has no direct effect on battles//c but can give players and their echelons other perks and conveniences//c such as bonus EXP//c increased drop rates//c vision//c etc.
+recommended_formula-10000057,Combat Type
+recommended_formula-20000057,
+recommended_formula-30000057,*Combat Fairies can provide buffs for allies in battles.

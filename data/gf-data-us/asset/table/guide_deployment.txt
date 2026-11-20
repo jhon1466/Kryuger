@@ -1,0 +1,217 @@
+guide_deployment-10385001,There are new mission objectives and rescue routes.
+guide_deployment-10801001,Players do not have to deploy echelons for this stage. Please clear the battle with the NPCs.
+guide_deployment-10803001,Agent J: We must defend our existing fronts or the plan will fail!
+guide_deployment-10803002,SP9: Yes//c sir!
+guide_deployment-10803003,We have information on Nele's location (click to close this tutorial).
+guide_deployment-10805001,In this event//c Dandelion can operate Radars through electronic warfare. Be sure to make good use of these Radars in the upcoming battles.
+guide_deployment-10805002,Attempt to activate the Portal.
+guide_deployment-10805003,Select a Teleport node.
+guide_deployment-10805004,Dandelion is being surrounded by powerful enemies. Please try to mount a rescue. (Dandelion cannot engage in battle in this event.)
+guide_deployment-10806001,Iaso's Box is activated. Keep an eye on the countdown.
+guide_deployment-10806002,It will go off in two more rounds.
+guide_deployment-10806003,This is the last round and your last chance.
+guide_deployment-10808001,Explosives can be picked up...
+guide_deployment-10810001,Powerful enemies are blocking your way to the target. Try to create a diversion.
+guide_deployment-10810002,The enemies have been lured away//c but the entrance is still blocked...
+guide_deployment-10812001,The enemy has finished assembling their mech. Enemy morale has been boosted.
+guide_deployment-10812002,The number of repairs left is shown in the white box.
+guide_deployment-10812003,Click the white box to repair your echelons if they are damaged.
+guide_deployment-10825001,In this map//c our forces can teleport on nodes marked with an arrow in the indicated direction (click to close this tutorial).
+guide_deployment-10827001,In this event//c Dandelion can operate Radars through electronic warfare. Be sure to make good use of these Radars in the upcoming battles.
+guide_deployment-10827002,Attention: Teleports cannot take place if a friendly unit is on the other end of the Teleport node.
+guide_deployment-10829001,Attention: The enemy is attacking from the south and the north...
+guide_deployment-10830001,Attention: Steer clear of the security defense system or this operation will fail...
+guide_deployment-10832001,Repair your echelons on repair nodes if they are damaged.
+guide_deployment-10906001,Click the button to close the battlefield description panel.
+guide_deployment-10906002,Make use of support echelons to clear the map.
+guide_deployment-10906003,The target is the enemy Command Post.
+guide_deployment-10906004,End the turn and seize the Command Post.
+guide_deployment-10907001,ST AR-15 is the closest to the enemy Command Post but the route is a one-way path//c so please attack through other means.
+guide_deployment-10907002,Seizing a Heliport will grant you 1 additional action point in your next turn.
+guide_deployment-10908001,Your echelon is running low on ammo. There is a re-supply point just ahead where you can replenish your echelon (click the echelon on the re-supply node).
+guide_deployment-10908002,Select re-supply...
+guide_deployment-10908003,Select the echelon that requires replenishment.
+guide_deployment-10909001,Click here to scan the battlefield...
+guide_deployment-10909002,Click an enemy unit to view their line-up...
+guide_deployment-10909003,Click an enemy's icon for more details.
+guide_deployment-10909004,View enemy features.
+guide_deployment-10909005,Click here again to return to the map.
+guide_deployment-10910001,There is a random node ahead. Stepping on a random node triggers a random event.
+guide_deployment-10911001,When two friendly echelons are on neighboring nodes//c they can switch positions without using up any action points.
+guide_deployment-10911002,Switch positions...
+guide_deployment-10911003,Keep going.
+guide_deployment-10912001,Limited-Time Heliports will open in the next round.
+guide_deployment-10912002,Limited-Time Heliports are now open.
+guide_deployment-10913001,You may not deploy echelons at Heliports beyond visual range in night battles.
+guide_deployment-10913002,Echelons with no HG T-Dolls are practically blind in night battles. Also//c T-Dolls in this echelon are not equipped with night battle equipment.
+guide_deployment-10913003,Please deploy echelons that are properly equipped for night battles.
+guide_deployment-10914001,Seizing a Radar in night battles will reveal the surrounding area within a 2-node radius.
+guide_deployment-10915001,When it is not possible to occupy a Command Post directly//c you can capture all surrounding nodes to seize it.
+guide_deployment-10916001,Enemy Heliports may spawn enemy reinforcements. Capturing Heliports as soon as possible is key to victory.
+guide_deployment-10917001,It is not a good idea to take on Jupiter cannons by force. Surround them first to neutralize most of their power.
+guide_deployment-10918001,Rally points are important nodes for maintaining a supply line. Capture all nodes between a rally point and the Command Post to form a supply line.
+guide_deployment-10918002,Occupy this node.
+guide_deployment-10919001,The mission objective is to rescue hostages.
+guide_deployment-10919002,Select the target.
+guide_deployment-10919003,Rescue the target.
+guide_deployment-10919004,Help the target retreat.
+guide_deployment-10919005,Head towards the Heliport.
+guide_deployment-10919006,Click the echelon.
+guide_deployment-10919007,Click to retrieve the hostage.
+guide_deployment-10920001,Radars also serve a special purpose outside of night battles.
+guide_deployment-10920002,In this battle//c stepping on a Radar will cause enemies to defect. Evade powerful enemies and capture their Command Post.
+guide_deployment-10921001,Sometimes the hostages are hidden by the enemy. Head to the Radar...
+guide_deployment-10922001,The red X denotes powerful enemies that should be avoided. The AI icon of this enemy signifies that the unit is on alert. Press and hold on the enemy to view their alert range//c which is indicated by a red circle.
+guide_deployment-10922002,The AI icon of this enemy signifies that the unit is on patrol. Long-press the enemy to view their patrol area. The glowing yellow marker shows their patrol route and direction...
+guide_deployment-10923001,You can deploy support echelons at Heavy Heliports.
+guide_deployment-10923002,Select a support echelon.
+guide_deployment-10923003,Deploy the support echelon.
+guide_deployment-10924001,The Mysterious Rabbit Hole in this map will lead to a different location. Please head towards it.
+guide_deployment-10924002,Click here to switch between maps.
+guide_deployment-10924003,Select the location you wish to switch to.
+guide_deployment-10924004,Select an echelon.
+guide_deployment-10924005,Move the echelon.
+guide_deployment-10924006,Head towards the target.
+guide_deployment-10925001,The enemies are vast in numbers. Using the Airstrike Fairy is highly recommended. Click "Activate" to activate the Fairy's skill in the next turn.
+guide_deployment-10926001,Select the echelon equipped with the Illumination Fairy.
+guide_deployment-10926002,Use her illumination skill to expand your visual range (providing visual range for the otherwise blind Parachute Fairy).
+guide_deployment-10926003,Visual range expanded... Select the echelon.
+guide_deployment-10926004,Click the node where you wish your echelon to land.
+guide_deployment-10926005,With the area illuminated by the Illumination Fairy//c your echelon may now parachute and land.
+guide_deployment-10926006,Select the echelon.
+guide_deployment-10927001,Click to scan the battlefield.
+guide_deployment-10927002,Click a facility to view its function and effective range.
+guide_deployment-10928001,Support echelons are needed for this battle.
+guide_deployment-10928002,Select target node.
+guide_deployment-10928003,Support echelons cannot engage in direct combat//c but they can destroy enemy facilities.
+guide_deployment-10928004,Support echelons can also attack enemy facilities from a distance.
+guide_deployment-10929001,Control Panels can be used when they are green.
+guide_deployment-10929002,Defense Gates bar access when they are closed and feature a red sign//c but enemies already standing on their nodes can still move. Please head towards the Control Panel.
+guide_deployment-10929003,Click here to operate the facility.
+guide_deployment-10929004,You cannot step onto closed Defense Gates.
+guide_deployment-10930001,Abandoned Goliaths can be picked up and used to blow up facilities.
+guide_deployment-10930002,Pick up an Abandoned Goliath.
+guide_deployment-10930003,Abandoned Goliaths can be used against enemies to deal massive damage.
+guide_deployment-10930004,Select a target.
+guide_deployment-10931001,Transformers can provide electricity for the EMPs in this battle.
+guide_deployment-10931002,Activate the Transformer.
+guide_deployment-10931003,EMPs can paralyze enemies in a 2-node radius and reduce their stats.
+guide_deployment-10931004,Activate the EMP.
+guide_deployment-10931005,The Transformer has overloaded.
+guide_deployment-10931006,Enemies who pose a threat to the Command Post have been paralyzed by the EMP.
+guide_deployment-10931007,Eliminate the specified target to complete the mission.
+guide_deployment-10931008,Pick up the EMP grenade.
+guide_deployment-10931009,EMP grenades can be thrown at enemies to the same effect.
+guide_deployment-10931010,Use the EMP on the target.
+guide_deployment-10932001,Teleport nodes can transport echelons across the terrain. Please make use of them to complete the mission.
+guide_deployment-10933001,Select the echelon.
+guide_deployment-10933002,Activate the Landmine Fairy's skill.
+guide_deployment-10933003,Select the target node.
+guide_deployment-11000001,Echelons with assault rifles as the primary damage dealers have steady and continuous damage output and are suited to protracted battles.
+guide_deployment-11000002,Echelons with rifles as the primary damage dealers are capable of focusing their attacks on enemies in the back//c making them suitable for battles where rear enemies need to be prioritized early on. 
+guide_deployment-11000003,Echelons with machine guns as the primary damage dealers are capable of dealing short bursts of powerful damage//c but there are gaps in their damage output while the machine guns reload. These echelons are best suited to battles where strong initial burst damage is required.
+guide_deployment-11000004,Attack the enemy targets.
+guide_deployment-11001001,Sangvis echelons need to re-supply before every battle. Rations and ammo will be refunded when they retreat (rations provided by a third party will not be refunded after this battle).
+guide_deployment-11002001,In this stage//c activating the control panel awards 10000 points//c and teleport nodes can be activated through the control panel. When the final score is calculated//c each helipad that you control will award 2000 points//c and every surviving blue friend echelon awards 10000 points. (This advice can be turned off by disabling Story Playback in Settings)
+guide_deployment-11003001,In this battle//c picking up construction materials gives 10000 points. <color=#00CCFF>Note: Only materials picked up for the first time or for the first time after reset can be used in Stage 3.</color>
+guide_deployment-11003002,When the final score is calculated//c each helipad that you control will award 2000 points//c and every surviving blue friend echelon awards 10000 points. (This advice can be turned off by disabling Story Playback in Settings)
+guide_deployment-11004001,In this battle//c picking up construction materials gives 10000 points. <color=#00CCFF>Note: Only materials picked up for the first time or for the first time after reset can be used in Stage 3.</color>
+guide_deployment-11004002,Each HP bar on every rescued hostage gives 2000 points.
+guide_deployment-11004003,When the final score is calculated//c each helipad that you control will award 2000 points. (This advice can be turned off by disabling Story Playback in Settings)
+guide_deployment-11005001,You may now <color=#00CCFF>construct a facility on the Radar node</color> with the materials you gathered in Stage 2.
+guide_deployment-11005002,<color=#00CCFF>Once the construction is complete</color>//c you can upgrade the facilities with construction materials through the <color=#00CCFF>Facility Central Terminal</color> at the <color=#00CCFF>Command Post</color>. You can also view the skill values on the skill interface.
+guide_deployment-11005003,A <color=#00CCFF>Control Panel</color> can produce information each round. Transporting the information to the <color=#00CCFF>Facility Central Terminal</color> gives 10000 points.
+guide_deployment-11005004,Repair Points allow you to make repairs that do not deduct points//c while resupplying once awards 5000 points. When the final score is calculated//c each helipad that you control will award 2000 points. (This advice can be turned off by disabling Story Playback in Settings)
+guide_deployment-11008001,You may now <color=#00CCFF>construct a facility on the Radar node</color> with the materials you gathered in Stage 2.
+guide_deployment-11008002,<color=#00CCFF>Once the construction is complete</color>//c you can upgrade the facilities with construction materials through the <color=#00CCFF>Facility Central Terminal</color> at the <color=#00CCFF>Command Post</color>. You can also view the skill values on the skill interface.
+guide_deployment-11008003,You gain 20000 points at the start of each round that the <color=#00CCFF>Control Panel</color> is switched on to green and defended by your forces.
+guide_deployment-11008004,Repair Points allow you to make repairs that do not deduct points//c while resupplying once awards 5000 points. When the final score is calculated//c each helipad that you control will award 2000 points. (This advice can be turned off by disabling Story Playback in Settings)
+guide_deployment-11009001,You may now <color=#00CCFF>construct a facility on the Radar node</color> with the materials you gathered in Stage 2.
+guide_deployment-11009002,<color=#00CCFF>Once the construction is complete</color>//c you can upgrade the facilities with construction materials through the <color=#00CCFF>Facility Central Terminal</color> at the <color=#00CCFF>Command Post</color>. You can also view the skill values on the skill interface.
+guide_deployment-11009003,You gain 20000 points at the start of each round that the <color=#00CCFF>Control Panel</color> is switched on to green and defended by your forces.
+guide_deployment-11009004,Repair Points allow you to make repairs that do not deduct points//c while resupplying once awards 5000 points. When the final score is calculated//c each helipad that you control will award 2000 points//c and every surviving blue friend echelon awards 10000 points. (This advice can be turned off by disabling Story Playback in Settings)
+guide_deployment-11010001,You may now <color=#00CCFF>construct a facility on the Radar node</color> with the materials you gathered in Stage 2.
+guide_deployment-11010002,<color=#00CCFF>Once the construction is complete</color>//c you can upgrade the facilities with construction materials through the <color=#00CCFF>Facility Central Terminal</color> at the <color=#00CCFF>Command Post</color>. You can also view the skill values on the skill interface.
+guide_deployment-11010003,You gain 20000 points at the start of each round that the <color=#00CCFF>Control Panel</color> is switched on to green and defended by your forces.
+guide_deployment-11010004,Repair Points allow you to make repairs that do not deduct points//c while resupplying once awards 5000 points. When the final score is calculated//c each helipad that you control will award 2000 points. (This advice can be turned off by disabling Story Playback in Settings)
+guide_deployment-11022001,The Central Mainframe in this stage is locked by 4 Passcode Panels.
+guide_deployment-11022002,Make sure Control Panels bearing the same name are showing the same passcode to unlock the Central Mainframe.
+guide_deployment-11033001,The Central Mainframe in this stage is locked by 6 Passcode Panels.
+guide_deployment-11099001,All friendly units can set off fireworks in this stage.
+guide_deployment-11099002,Nodes illuminated by fireworks are indicated with red arrows. Illumination diminishes with each round. Echelons standing on nodes marked by red arrows gain a vision buff.
+guide_deployment-11138001,For this mission//c you must prevent the enemy from accessing this control panel while it is <color=#00ff00>green</color> (Note: You must not engage the enemy on this node either). The control panel changes color every two turns.
+guide_deployment-11138002,Enemies with a bonus AP buff marker can move more than once.
+guide_deployment-11153001,Acceleration Towers grant passing enemy units a bonus AP buff.
+guide_deployment-11141001,You are on the defensive for this mission. Enemy reinforcements will keep spawning around the boss//c whose power will diminish with every turn until a certain level.
+guide_deployment-11117001,You may assist allies in completing their mission. Allies you assist can assist you in your next battle (you can complete this stage again to select the allied squad you want as support for your next battle).
+guide_deployment-11117002,During result settlement//c you get 10//c000/2//c000/5//c000 points for every occupied Command Post/Heliport/Heavy Heliport//c and every surviving friendly echelon gives 10//c000 points.
+guide_deployment-11118001,In this stage//c support allies carry sticky bombs that are effective in the first three rounds. Blowing up an enemy facility gives 80//c000 points. Getting support from an allied squad gives 60//c000; you can only obtain support from each squad once. Echelons can be repaired for free at Repair Points. Re-supply to gain 20//c000 points.
+guide_deployment-11118002,During result settlement//c you get 10//c000/2//c000/5//c000 points for every occupied Command Post/Heliport/Heavy Heliport//c and every surviving friendly echelon gives 10//c000 points. <color=#00CCFF>Note: Enemies defeated by allies yield only half the points in this stage.</color>
+guide_deployment-11118003,During result settlement//c you get 1//c000/4//c500/12//c000/27//c500 points for every Corporal/Sergeant/Senior Sergeant/Sergeant Major on the field//c and every Warrant Officer/Junior Lieutenant/Lieutenant/Captain on the field gives 1//c000/6//c000/24//c000/88//c000 points.
+guide_deployment-11234001,Nodes with markers are targeted by Autocannons. Echelons that pass through these nodes will take damage that equals 10% of their current HP.
+guide_deployment-11234002,At the start of your turn//c Autocannons will fire at your echelons within a 1-node distance//c dealing damage that equals 10% of the echelons' current HP. Make sure your units stay out of their range before ending a turn.
+guide_deployment-11321001,In this stage//c you can select battlefield effects after killing enemies to further boost your combat strength.
+guide_deployment-11321002,You can obtain drone support upon reaching the Workbench node.
+guide_deployment-10921001,Select an echelon.
+guide_deployment-10921002,Proceed to the designated position.
+guide_deployment-10921003,Activate skill to obtain battlefield effect.
+guide_deployment-10921004,Enemies bearing special markers also gain the battlefield effect in certain maps.
+guide_deployment-10933001,Nodes with this icon are repair points.
+guide_deployment-10933002,If there is a "+" on the left//c the node is also a re-supply point.
+guide_deployment-10933003,You have been ambushed. Head towards the repair point.
+guide_deployment-10933004,Tap the selected echelon.
+guide_deployment-10933005,Select the T-Doll(s) to be repaired.
+guide_deployment-10933006,Confirm to activate quick-repair.
+guide_deployment-10933007,Close the echelon interface.
+guide_deployment-11353001,Talk to AN-94.
+guide_deployment-11359001,Select Angelia.
+guide_deployment-11359002,In this stage//c you can change the connection by adjusting the numbers on each passcode panel. A unit's heart rate decreases by 10 BPM every time they use a passcode panel. Each echelon can transport themselves to the radar node//c which reduces their heart rate by 20 BPM. 
+guide_deployment-11402001,In this stage//c you can select a battlefield buff at the command post in each turn. Taking a buff will deduct 10//c000 points from your score. Echelons that fight consecutive battles in a turn will suffer from exhaustion. This is reset on the next turn.
+guide_deployment-11402002,Logistics teams can repel the debuff placed by Evangel Axes and destroy them with plastic explosives. They can also load more shells into batteries. Each reload yields 5//c000 points.
+guide_deployment-11402003,Once a battery has been loaded//c your echelon has the option of activating it to provide support. Each battery can support battles that take place within a 4-node distance.
+guide_deployment-11402004,Weapon Supply Points will blow up if an enemy steps on the node. After that//c they can no longer be refilled. Only logistics teams can carry ammo.
+guide_deployment-11402005,Enemy reinforcements will keep coming onto the battlefield! Please strategize accordingly.
+guide_deployment-11402006,Tap the button.
+guide_deployment-11364001,Select Aliana.
+guide_deployment-11364002,In stages featuring a signal-to-noise ratio//c your echelons have the ability to adjust the S/N. Tap and activate the skill to bring the S/N down to a safer level.
+guide_deployment-11364003,The following stage features a brand new building type known as the <color=#00CCFF>Evangel Axis</color>. These axes will cause serious interference for your forces. Long-press to view a more detailed description. Tap the building to proceed.
+guide_deployment-11364004,Select Aliana again.
+guide_deployment-11364005,On top of adjusting the signal//c you can also select friendly units to undergo enhancements so that they will not be affected by the interference from the <color=#00CCFF>Evangel Axes</color>.
+guide_deployment-11437001,Tap to move.
+guide_deployment-11437002,Pick up Doll Lubricating Oil.
+guide_deployment-11437003,Pick up Liquefied Interference Spray.
+guide_deployment-11437004,Add Doll Lubricating Oil.
+guide_deployment-11437005,Add Liquefied Interference Spray.
+guide_deployment-11437006,Tap the production button to start mixing.
+guide_deployment-11437007,Tap the button.
+guide_deployment-11437008,Cross the one-way line using Doll Jumping Oil.
+guide_deployment-11484001,The Tactical Mech can engage enemies in direct combat. Operate the Tactical Mech and attack the enemy.
+guide_deployment-11484002,Select the Tactical Mech.
+guide_deployment-11484003,Operate the Tactical Mech and take over the Command Post.
+guide_deployment-11484004,Tap to end the turn.
+guide_deployment-11485001,The Main Battle Tank can engage enemies in direct combat. Operate the Main Battle Tank and attack the enemy.
+guide_deployment-11485002,Select the Main Battle Tank.
+guide_deployment-11485003,Operate the Main Battle Tank and take over the Command Post.
+guide_deployment-11485004,Tap to end the turn.
+guide_deployment-11486001,Mobile Armor forces can be repaired during missions.
+guide_deployment-11486002,Tap here to perform repairs.
+guide_deployment-11486003,Select the Tactical Mech.
+guide_deployment-11486004,Attack the enemy.
+guide_deployment-11486005,Tap to confirm.
+guide_deployment-11486006,Move towards this node.
+guide_deployment-11486007,Head towards the Repair Point.
+guide_deployment-11487001,The Main Battle Tank can attack facilities from a distance during missions.
+guide_deployment-11487002,Select ranged attack target.
+guide_deployment-11487003,Head to the next node to re-supply.
+guide_deployment-11487004,Re-supply Ammo//c Rations//c and Energy here.
+guide_deployment-11487005,Launch ranged attack at an enemy unit.
+guide_deployment-11487006,Select target of attack.
+guide_deployment-11487007,End the turn so that the T-Doll echelons can make their moves.
+guide_deployment-11487008,Head to the next node.
+guide_deployment-11487009,Tap to confirm.
+guide_deployment-11487010,Tap anywhere.
+guide_deployment-11487011,Tap the Main Battle Tank.
+guide_deployment-11480001,The enemy has discovered your forces and blown up the bridge.
+guide_deployment-11480002,Deploy a Mobile Armor unit to intercept the enemy target.
+guide_deployment-11481001,Your echelon is trapped//c please send reinforcement. (Note: Mobile Armors cannot switch positions with T-Doll echelons.)
+guide_deployment-11481002,Mobile Armors cannot access narrow paths to help Griffin echelons eliminate enemies.

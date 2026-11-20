@@ -1,0 +1,15 @@
+vehicle_crew-10001001,Tank Commander
+vehicle_crew-20001001,Assign any T-Doll
+vehicle_crew-30001001,Increase attack speed and accuracy based on crew member's level and number of Dummy-Links
+vehicle_crew-10001002,Gunner
+vehicle_crew-20001002,Fire Support Unit only
+vehicle_crew-30001002,Increase damage based on crew member's level and star level
+vehicle_crew-10001003,Loader
+vehicle_crew-20001003,Fire Support Unit only
+vehicle_crew-30001003,Increase precision and reload speed based on crew member's level and star level
+vehicle_crew-10001004,Driver
+vehicle_crew-20001004,Assign any unit
+vehicle_crew-30001004,Increase armor and evasion based on crew member's level
+vehicle_crew-10002001,Driver
+vehicle_crew-20002001,Assign any T-Doll
+vehicle_crew-30002001,Increase reload speed//c precision//c attack speed//c and accuracy based on crew member's level and number of Dummy-Links

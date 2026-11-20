@@ -1,0 +1,122 @@
+present-11500009,
+present-11500010,
+present-11500011,
+present-11500012,
+present-11500013,
+present-11500014,
+present-11500015,
+present-11500016,
+present-11500017,
+present-11500018,
+present-11500019,
+present-11500020,
+present-11500021,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500022,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500023,
+present-11500024,
+present-11500025,
+present-11500026,
+present-11500027,
+present-11500028,
+present-11500029,
+present-11500030,
+present-11500031,
+present-11500032,
+present-11500033,
+present-11500034,
+present-11500035,
+present-11500036,
+present-11500037,
+present-11500038,
+present-11500039,
+present-11500040,
+present-11500041,
+present-11500042,
+present-11500043,
+present-11500044,
+present-11500045,
+present-11500046,
+present-11500047,
+present-11500048,
+present-11500049,
+present-11500050,
+present-11500051,
+present-11500059,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500060,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500061,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500062,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500052,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500053,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500054,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500055,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500063,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500056,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500057,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500058,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500064,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500071,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500072,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500073,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500074,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500075,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500076,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500077,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500078,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500079,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500080,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500081,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500082,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500083,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500084,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500085,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500086,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500087,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500088,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500089,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500090,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500091,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500092,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500093,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500094,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500095,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500096,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500097,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500098,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500099,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500100,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500101,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500102,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500149,A "AG Costume Ticket Ⅰ" allows you to obtain a random unobtained costume from APC556-Magnolia's Ballad//c APC556-Blue Moon Wisteria and SPAS-12-Midsummer Fruit. You will receive a random costume from that range instead if you possess all corresponding costumes.
+present-11500150,A "AG Costume Ticket Ⅱ" allows you to obtain a random unobtained costume from AR-18-Fishing Lure//c 416-White Negroni//c 416-Midnight Evangelion//c 416-Percussive Bolero//c 416-Herbal-Flavored Hard Candy//c SPAS-12-Golden Fortune and SPAS-12-Goblin Huntress. You will receive a random costume from that range instead if you possess all corresponding costumes.
+present-11500151,A "AG Costume Ticket Ⅲ" allows you to obtain a random unobtained costume from 416-Black Kitty's Gift and 416-Starry Cocoon. You will receive a random costume from that range instead if you possess all corresponding costumes.
+present-11500172,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500173,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11500174,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11500175,Activate an Indicator that calls for an air delivery across regions and obtain a random item from the air delivery list.
+present-11700001,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11700002,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11700003,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11700004,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11700005,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11700006,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11700037,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11700038,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-11700039,Activate an Indicator that specifies the delivery coordinates//c then select an item from the delivery list.
+present-19000001,A "1st Anniversary Exclusive Costume Ticket" allows you to obtain a random unobtained costume from the available list below. You will receive a random costume from that range instead if you possess all corresponding costumes. //nCostumes Available: Lee Enfield-Lifelong Protector, FAL-The Big Day, Type95-Narcissus, Suomi-Korvatunturi Pixie, Gr MG5-Crimson Guardian, M99-Cyclamen, Five-seveN-Cruise Queen, Vector-Kitty Paws, WA2000-Haunted Castle, Gr G36C-Ode to Summer//n*Expires after Jul. 3rd, 2024.
+present-19000002,A "2nd Anniversary Exclusive Costume Ticket" allows you to obtain a random unobtained costume from the available list below. You will receive a random costume from that range instead if you possess all corresponding costumes. //nCostumes Available: SPAS-12-Goblin Huntress, Type79-Nine-Tail Fox, NTW-20-The Aristocrat Experience, 416-Starry Cocoon, Springfield-Classic Witch, OTs-14-Flurry of Petals, WA2000-Date in the Snow, Thompson-Demon Hunter, Gr G41-Beach Punk 2064, Gd DSR-50-Highest Bid//n*Expires after Jul. 3rd, 2024.
+present-19000003,A "3rd Anniversary Exclusive Costume Ticket" allows you to obtain a random unobtained costume from the available list below. You will receive a random costume from that range instead if you possess all corresponding costumes. //nCostumes Available: OTs-14-Sangria Succulent, AN-94-Silent Rouge, MDR-Cocktail Observer, Five-seveN-Adventures of Little Finn, R93-Holiday Lucky Star, PA-15-High School Thrills, Carcano M91/38-Miss Pinocchio, AUG-Requiem Array, Five-seveN-Blue Christmas, SPAS-12-Midsummer Fruit//n*Expires after Jul. 3rd, 2024.
+present-19000004,A "4th Anniversary Exclusive Costume Ticket" allows you to obtain a random unobtained costume from the available list below. You will receive a random costume from that range instead if you possess all corresponding costumes. //nCostumes Available: 416-Black Kitty's Gift, R5-Pas de Deux, Gr G36c-Red Beret, ZB-26-Nook of Ephemeral Dreams, UMP9-Bolero Dance Bird, Type 95-White Lotus in Limpid Waters, AK-Alfa-Cat Snatcher Beneath the Stars, Saiga-12-Crimson Navigator//n*Expires after Jul. 3rd, 2024.
+present-19000005,A "5th Anniversary Exclusive Costume Ticket" allows you to obtain a random unobtained costume from the available list below. You will receive a random costume from that range instead if you possess all corresponding costumes. //nCostumes Available: Type88-White Comet, Bearer of Wishes, General Liu-Willow Foxfire, PA-15-Dance in the Ice Sea, DP-12-Morning Fable, OTs-14-Destined Love, R5-Pas de Deux, ZB-26-The 1000th Paper Crane, Lewis-Warmth of the Wintersweet, M4 SOPMODII-Birdsong in the Woods, Type 97S-Drunken Petals//n*Expires after Jul. 3rd, 2024.
+present-19000006,A "Collection Costume Ticket" allows you to obtain a random unobtained costume from PPsh-41-Moment of Vows//c Tokarev-A Couple's Journey//c STEN MkⅡ-Reciprocated Love//c SV-98-Pierce Your Heart!//c Gr Mk23-Conveyed Feelings//c T-5000-Oath of Transformation//c Gepard M1-Exciting Future//c RMB-93-Moonlit Lover Beyond Reach//c Makarov-A Certain Unscientific Sunflower//c Stechkin-Miss Camellia's Special Service//c FF FNC-Strawberry Cake & Garden Cosmos//c Type81R-Peony Companion//c Type64-Phoenix Melody//c T77-Starlight across the Shore//c M1 Garand-Letter from the Winter Cypress//c Falcon-Song of the Morning Dew and LWMMG-Knight and Protector. You will receive a random costume from that range instead if you possess all corresponding costumes.
+present-19000007,A "Luxury Costume Ticket" allows you to obtain a random unobtained costume from "FAL-The Big Day//c PK-By Your Side//c P7-Pinky Swear//c Type56-1-'Til Death Do Us Part//c Gr MP5-A Small Step//c Five-seven-Smile of Acceptance//c Gr G36-Pure White Cornflower//c PKP-Silver Star//c Gr G36C-You Who Steps Up//c Zas M21-Affections Behind the Bouquet//c M1014-Heartbeat Before the Angel Statue//c Grizzly-Rain on a Starry Night//c M37-A Long Vacation with Ithaca//c XM8-The Rose Chess Player's Confession//c Webley-Before Sunset//c Type95-Prairie Gentian and Her Season//c P22-Waltz of Fantasy//c Type 79-Gazing from the Dust//c Type 97-Prayers in the Wind and K5-Array of Venus. You will receive a random costume from that range instead if you possess all corresponding costumes.
+present-19000008,A "Exclusive Costume Ticket" allows you to select a costume from Lee-Enfield-Lifelong Protector//c Vector-Ardent Devotion//c Suomi-Blissful Mission//c Kar98k-Purity in Vermilion//c M950A-The Warbler and the Rose//c OTs-14-Destined Love//c ZB-26-The 1000th Paper Crane and Lewis-Purple Iris//c Drunken Butterfly.
+present-19000019,A "Collection Costume Ticket" allows you to obtain a random unobtained costume from M1 Garand - Beach Princess, SPAS-12 - Midsummer Fruit, P38 - Apprentice Witch, Gr G36 - 50 Days with Gr G36, Ameli - Ameli's Receive, 4 Shiki - Cape No. 4, Z-62 - Swimming Lesson, Serdyukov - Crow Lifeguard, PP-19 - Icy Summer, FF FN-49 - Daydream Under the Parasol, Astra - Astra's Pool Adventures,PPK - Foliage Romance, QSB-91- Floating Mint Tea, PM5 – Soaring Starfish, AK-74M - Trident and Fish Slicer, EVO 3 - Apricot Summer, CF05 - Floating Melody.
+present-19000020,A "Luxury Costume Ticket" allows you to obtain a random unobtained costume from Five-seven - Cruise Queen,Gr G28 - Tropical Storm, Springfield - Stirring Mermaid, NTW-20 - Op. Blazing Sun, Type95 - Summer Cicada, WA2000 - Op. Manta Ray, M37 - Summer Parader, AK-12 - Age of Slushies, AA-12 - The Sun Never Rises, AN-94 - The Diving Bell and the Doll, Gr MP7 - Lollipop Ammo, FAL- FAL's Summer, CMS - Flying Fish Assault, QJY-88 - Anti-Drowning Accessories, Lewis - Sunscreen Battle, JS 9 - Orca's Journey, Ak 5 - Southern Wind, Gr SL8 - Wave Crest, K-PDW - Sweetheart in Love, LTLX7000 - Night-Tide Invitation, Px4 Storm - Seaside Paradigm, UKM-2000 - Soda Tale, PPD-40 - Pink Coral, Model 99 - Savage's Fry Craving, M6 ASW - Survival on the Wild Seas, IWS 2000 - Sand Castle Terminator, HS.50 - Honey-Colored Ocean Heart.
+present-19000021,An "Exclusive Costume Ticket" allows you to select a costume from Suomi - Midsummer Pixie, Gr G41 - Beach Punk 2064, R93 - Holiday Lucky Star, ZB-26 - Nook of Ephemeral Dreams, DP-12 - Morning Fable, Sterling - Melting in the Summer Heat.
+present-19000045, A "4-Star Doll Transfer Letter" allows you to select and obtain any one 4-Star Doll of your choice that was released before 22nd July 2025 (22nd July not included). Since there are many Dolls to choose from//c you will need to scroll the selection bar to the left or right to view the full range of choices. *M16A1//c M4A1//c M4 SOPMOD-II//c ST AR-15//c and Type 97S not included.
+present-19000046,A "5-Star Doll Transfer Letter" allows you to select and obtain any one 5-Star Doll of your choice that was released before 22nd July 2025 (22nd July not included). Since there are many Dolls to choose from//c you will need to scroll the selection bar to the left or right to view the full range of choices. * RO635 not included.//n
+present-19000047,A "Coalition Unit Specified Capture Commission" allows you to select and obtain any one 3-Star Coalition Unit of your choice that was released before 29th April 2025 (29th April not included). Use this commission in the armory to select from a specified range of Protocol Assimilation units with base three star rarity. Scroll to browse all eligible Coalition Units.
+present-19000048,A "5-Star Equipment Selection Voucher" allows you to select and obtain any one 5-Star equipment of your choice that was released before 11th Oct. 2024 (11th Oct. not included). Use this voucher in the armory to select from a specified range of non-exclusive five star equipment. Scroll to browse all eligible equipment.
+present-19000054,A "Collection Costume Ticket" allows you to obtain a random unobtained costume from the reward list.
+present-19000055,A "Luxury Costume Ticket" allows you to obtain a random unobtained costume from the reward list.
+present-19000056,An "Exclusive Costume Ticket" allows you to select a costume from the reward list.

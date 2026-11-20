@@ -1,0 +1,24 @@
+vehicle-10000001,Main Battle Tank
+vehicle-20000001,tank
+vehicle-30000001,An armored unit with powerful heavy weapon firepower that can attack enemies from long range with heavy weaponry as well as engage enemies at close range using a variety of light weapons. Its versatility//c combined with its armor and high maneuverability//c give it supreme control over the battlefield in ground warfare.
+vehicle-40000001,Heavy Weapon Slot
+vehicle-50000001,Defense/Function Slot
+vehicle-60000001,Heavy/Light Weapon Slot
+vehicle-70000001,Light Weapon Slot
+vehicle-80000001,Function Slot
+vehicle-10000002,Tactical Mech
+vehicle-20000002,Warjack
+vehicle-30000002,The Tactical Mech project has carried out several prototype trials with investment from IOP. Hoping to abandon the cumbersome layout of the original military mech//c IOP designed this new version with high mobility in mind and outfitted it with powerful weaponry and equipment. Its ability to strike from different distances through the use of light and heavy weapons enables it to fill a niche of armored vehicles that can fight in complex combat environments such as in urban settings and on mountainous terrain.
+vehicle-40000002,Heavy/Light Weapon Slot
+vehicle-50000002,Light Weapon Slot
+vehicle-60000002,Light Weapon Slot
+vehicle-70000002,Defense/Function Slot
+vehicle-80000002,Function Slot
+vehicle-10001001,Tachikoma
+vehicle-20001001,Tachikoma
+vehicle-30001001,
+vehicle-40001001,Heavy/Light Weapon Slot
+vehicle-50001001,Light Weapon Slot
+vehicle-60001001,Light Weapon Slot
+vehicle-70001001,Defense/Function Slot
+vehicle-80001001,Function Slot

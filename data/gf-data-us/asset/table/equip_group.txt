@@ -1,0 +1,144 @@
+equip_group-10000001,SHD Bespoke "V"
+equip_group-20000001,When using the complete set of SHD special equipment//c Agent Vector gains the ability to significantly increase her echelon's overall survivability.
+equip_group-10000002,SHD Bespoke "416"
+equip_group-20000002,When using the complete set of SHD special equipment//c Agent 416 gains the new ability to effectively weaken her enemies.
+equip_group-10000003,Khorosho
+equip_group-20000003,With a full set of gear//c Mosin-Nagant can maximize her performance on the battlefield. Everything's gonna be fine.
+equip_group-10000004,16LAB Custom "ST AR-15"
+equip_group-20000004,With a full set of 16LAB special equipment//c ST AR-15 receives a powerful boost to her combat performance//c and her secondary weapon also becomes more wieldy.
+equip_group-10000005,Stechkin Bash
+equip_group-20000005,With a full set of 16LAB special equipment//c Stechkin receives a powerful boost to her ability to support her echelon and boost its overall combat performance.
+equip_group-10000006,Rainforest Adventure
+equip_group-20000006,With a full set of camouflage equipment//c Type 64 can blend in better in forested combat environment and perform unexpected attacks on enemies.
+equip_group-10000007,Petite Courier
+equip_group-20000007,Wearing her complete set//c Gr MP5 is much more agile on the battlefield and can deliver information and supplies much more quickly.
+equip_group-10000008,Silent One
+equip_group-20000008,Decked out in the full set of custom-made equipment//c Gr MG4 can take out her targets with great accuracy even on chaotic battlefields.
+equip_group-10000009,Makarova
+equip_group-20000009,Decked out in the full set of custom-made items//c Makarov can command T-Dolls with greater effectiveness on the battlefield.
+equip_group-10000010,Tovarisch
+equip_group-20000010,Wearing her complete set//c PPSh-41 can now work more seamlessly with other T-Dolls and is always ready to achieve personal glory.
+equip_group-10000011,Dark Queen
+equip_group-20000011,Wearing her complete set//c PPK can now inflict exquisite pain on others to her heart's content.
+equip_group-10000012,404 Custom 416
+equip_group-20000012,Squad 404's custom set for 416 can greatly improves her combat performance.
+equip_group-10000013,404 Custom UMP45
+equip_group-20000013,A new type of hollow-point rounds custom made for UMP45 with greatly reduced sonic boom.
+equip_group-10000014,404 Custom UMP9
+equip_group-20000014,Squad 404's custom set for UMP9 can greatly improves her combat performance.
+equip_group-10000015,Jump to the Future
+equip_group-20000015,Wearing her complete set//c Type 88 now subverts people's understanding of modern combat mechanics.
+equip_group-10000016,Candy Tin
+equip_group-20000016,Wearing her complete set//c M1919A4 is now packed with explosive power and will never be taken lightly by her enemies again.
+equip_group-10000017,Red Star
+equip_group-20000017,Wearing her complete set//c Type 56-1 now benefits from powerful combat buffs and will resolutely carry out her orders even if it is at the cost of her life.
+equip_group-10000018,Model Worker
+equip_group-20000018,Wearing her complete set//c MG3 can now strike with greater efficacy in mobile warfare. As a result//c she is receiving a lot more combat assignments.
+equip_group-10000019,Jungle Operation
+equip_group-20000019,NTW-20's custom set is outstanding for both fighting and motorbiking.
+equip_group-10000020,Captain Hawk
+equip_group-20000020,Type 97S's custom set is imbued with the power of justice to expel all evil.
+equip_group-10000021,For Everyone
+equip_group-20000021,Gr G3's custom set reflects her determination to help others.
+equip_group-10000022,Darling
+equip_group-20000022,M1911's custom set is named thus at the Doll's personal behest.
+equip_group-10000023,Traveling Light
+equip_group-20000023,This set tailor-made for LWMMG utilizes highly cost-effective materials//c so no money is wasted.
+equip_group-10000024,Walking With You
+equip_group-20000024,This set tailor-made for M950A is a symbol of friendship and her wish to keep moving forward side-by-side with her friends.
+equip_group-10000025,The Maid's Code
+equip_group-20000025,This set tailor-made for Gr G36 helps her maintain her poise as a maid while working.
+equip_group-10000026,16LAB Custom "RO635"
+equip_group-20000026,This set tailor-made for RO635 gives her command ability a boost and allows her to live up to her full potential.
+equip_group-10000027,Peak of Perfection
+equip_group-20000027,This set tailor-made for Bren helps her reach new heights.
+equip_group-10000028,Sugar-Coated Bullets
+equip_group-20000028,This set tailor-made for AA-12 helps her solve problems in a more civilized and effective manner.
+equip_group-10000029,Operation Pin
+equip_group-20000029,A set custom-made for SV-98 that facilitates more effective computation.
+equip_group-10000030,Perfect Battle
+equip_group-20000030,A set custom-made for PKP. She will not be at a disadvantage even when vastly outnumbered by enemies.
+equip_group-10000031,Blade of the Night
+equip_group-20000031,A set custom-made for Welrod MkII. She shall continue to honor her pledge to live in the shadows and put all evil six feet under.
+equip_group-10000032,Queen of Unintentional Discharge
+equip_group-20000032,A set custom-made for STEN MkII. Now that she faces up to her flaws//c she can finally stand on her own.
+equip_group-10000033,Tiny Whirlwind
+equip_group-20000033,SR-3MP's custom set enables her to become even more agile//c allowing her to strike deep into enemy forces and weave between enemies at will.
+equip_group-10000034,Unwavering Purpose
+equip_group-20000034,StG44's custom set enables her to fulfil her purpose and accomplish entrusted tasks; to achieve that//c equipment upgrades are inevitable.
+equip_group-10000035,White Memory
+equip_group-20000035,WA2000's custom set improves her combat abilities. One's combat techniques often employed during battle shall become second nature.
+equip_group-10000036,Collector
+equip_group-20000036,M1895's custom set helps her shine in missions such as cleaning up battlefields and sorting through salvage. Perhaps at some point it will even help her obtain important information.
+equip_group-10000037,Fox-Eared Little One
+equip_group-20000037,Gr G41's custom set. So long as it's the Commander's order//c tasks will be accomplished with the fullest effort!
+equip_group-10000038,We're up//c Dowel
+equip_group-20000038,M500's custom set. Nothing is too much to face up against if you have a trusted partner by your side!
+equip_group-10000039,Top Player
+equip_group-20000039,Am RFB's custom set. Why is she playing games if this set is supposed to be made for combat?!
+equip_group-10000040,Western Cola
+equip_group-20000040,SAA's custom set. One can only have the strength for a duel after a cola!
+equip_group-10000041,Death from a Distance
+equip_group-20000041,This set tailor-made for M82A1 greatly enhances her combat performance and even records combat data for future reference.
+equip_group-10000042,Meowww
+equip_group-20000042,This set tailor-made for IDW boosts her performance in combat when the battery is sufficiently charged!
+equip_group-10000043,Ethereal Morpho
+equip_group-20000043,This set tailor-made for ZB-26 with dreamy specs will make her even better at completing her tasks.
+equip_group-10000044,Defense to Offense
+equip_group-20000044,This set tailor-made for Defender embodies the adage//c "the best defense is a good offense."
+equip_group-10000045,BOSS
+equip_group-20000045,A bespoke outfit made to measure for Thompson. It helps her stick to the organization's rules and complete the Boss' orders.
+equip_group-10000046,Economic Simplicity
+equip_group-20000046,A made-to-measure outfit for Type 92. The best defense is an attack!
+equip_group-10000047,Surfing Expert
+equip_group-20000047,A made-to-measure outfit for MDR. Hopefully//c it helps relieve the irritability caused by high-intensity surfing every day.
+equip_group-10000048,Wargod's True Colors
+equip_group-20000048,A made-to-measure outfit for M14. Her strength is on par with those of military-grade weapons.
+equip_group-10000049,Sinner's Judgement
+equip_group-20000049,A made-to-measure outfit for FP-6. Features plenty of anti-riot equipment to subdue more evildoers.
+equip_group-10000050,Bubble Phantom
+equip_group-20000050,A made-to-measure outfit for Type 80. One must thoroughly prepare even for leisure time.
+equip_group-10000051,Athletics Ace
+equip_group-20000051,A made-to-measure outfit for Grizzly Mk V. Convenience and practicality are its greatest selling points.
+equip_group-10000052,Red Collar Daisy
+equip_group-20000052,A made-to-measure outfit for Beretta Model 38. Once she puts it on//c she'll never lose her way again in battle.
+equip_group-10000053,Midnight Angel
+equip_group-20000053,A made-to-measure outfit for DSR-50. Supposedly//c it has unexpected uses at night.
+equip_group-10000054,Desert Tiger
+equip_group-20000054,A made-to-measure outfit for Galil. Able to bring out incredible performance even in extreme environments.
+equip_group-10000055,Heart of Performance
+equip_group-20000055,A made-to-measure outfit for Gr MG5. Allows her to carry more items on missions and fulfil more requirements.
+equip_group-10000056,Fair Terms
+equip_group-20000056,A made-to-measure outfit for RMB-93. It makes unruly people obey the rules.
+equip_group-10000057,Formless Evanescence
+equip_group-20000057,A made-to-measure outfit for P90. It greatly improves her mobility//c which better suits her adaptive style
+equip_group-10000058,Destiny Divined
+equip_group-20000058,A made-to-measure outfit for K5. Destiny is unpredictable//c but with high-performance gear//c you might be able to get an idea of what's in store for you.
+equip_group-10000059,Precious Memories
+equip_group-20000059,A made-to-measure outfit for AUG. It grants her enemies a beautiful burial.
+equip_group-10000060,Service With A Smile
+equip_group-20000060,A made-to-measure outfit for Springfield. It allows her to better serve everyone in Griffin.
+equip_group-10000061,Hygiene Inspection
+equip_group-20000061,An equipment set tailor-made for Saiga-12//c because battlefield cleanup is part of a Doll's job!
+equip_group-10000062,Bonechilling Cold
+equip_group-20000062,An equipment set tailor-made for PK//c it will show her enemies the agony of the cold.
+equip_group-10000063,Winter Has Come
+equip_group-20000063,An equipment set tailor-made for CZ75//c it's perfect for dealing with enemies who come looking for trouble.
+equip_group-10000064,Jungle Poet
+equip_group-20000064,An equipment set tailor-made for F1//c it's great for outdoor excursions and adventures.
+equip_group-10000065,Cool Justice
+equip_group-20000065,An equipment set tailor-made for VSK-94//c no criminal is beyond the reach of the law.
+equip_group-10000066,Lightward Heart
+equip_group-20000066,An equipment set tailor-made for Ribeyrolles//c may she walk out of the darkness and into the light.
+equip_group-10000067,Power
+equip_group-20000067,An equipment set tailor-made for Lewis. You can instantly tell it's filled with might.
+equip_group-10000068,Trench Sweeper
+equip_group-20000068,An equipment set tailor-made for M1897//c allowing her to effectively clean up all unnecessary trash on the battlefield.
+equip_group-10000069,Core Crisis
+equip_group-20000069,An equipment set tailor-made for C96//c it brings out tremendous fighting power from her team at night.
+equip_group-10000070,Misha
+equip_group-20000070,An equipment set tailor-made for AS Val//c it's perfect for night battles.
+equip_group-10000071,Royal Glory
+equip_group-20000071,An equipment set tailor-made for Lee Enfield//c it constantly reminds her to hold glory in her heart and never bend the knee even to the mightiest foes.
+equip_group-10000072,Noble Chariot
+equip_group-20000072,An equipment set tailor-made for Kar98k//c it's perfect for Dolls who value honor above all else when carrying out combat missions.

@@ -1,0 +1,6 @@
+mission_skip-10000001,Operation Grade//n<size=40><color=#787878FF>Special Support Services</color></size>
+mission_skip-20000001,Obtaining Operation Grade special support services will unlock the <color=#333333FF>Equipment and Fairy</color> systems.
+mission_skip-10000002,Planning Grade//n<size=40><color=#787878FF>Special Support Services</color></size>
+mission_skip-20000002,Obtaining Planning Grade special support services will unlock the <color=#333333FF>Protocol Assimilation and Fire Support</color> systems.
+mission_skip-10000003,Strategic Grade//n<size=40><color=#787878FF>Special Support Services</color></size>
+mission_skip-20000003,Obtaining Strategic Grade special support services will unlock the <color=#333333FF>Gray Zone Exploration and Mobile Armor</color> systems.

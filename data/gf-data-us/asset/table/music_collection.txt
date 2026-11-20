@@ -1,0 +1,418 @@
+music_collection-10000001,What am I Fighting for
+music_collection-20000001,"Singularity" Event Ending Song
+music_collection-10000002,Shirakaba no Hikari
+music_collection-20000002,"Isomer" Event Ending Song
+music_collection-10000003,Connexion
+music_collection-20000003,"Shattered Connexion" Event Ending Song
+music_collection-10000004,Polaris
+music_collection-20000004,"Polarized Light" Event Ending Song
+music_collection-10000005,Rainfall
+music_collection-20000005,"Dual Randomness" Event Ending Song
+music_collection-10000006,A Moment of My Nightmare
+music_collection-20000006,"Mirror Stage" Event Ending Song
+music_collection-10000007,Schicksal
+music_collection-20000007,"Poincarre Recurrence" Event Ending Song
+music_collection-10000008,Solar Sea
+music_collection-20000008,"Fixed Point" Event Ending Song
+music_collection-10000009,Twilight
+music_collection-20000009,"Longitudinal Strain" Event Ending Song
+music_collection-10000010,Anna
+music_collection-20000010,"Slow Shock" Event Ending Song
+music_collection-10000011,Ice & Blood
+music_collection-20000011,"Zero Charge" Event Ending Song
+music_collection-10000012,What I Have Known
+music_collection-20000012,"Convolutional Kernel" Event Ending Song
+music_collection-10000013,Title
+music_collection-20000013,Standard Base Theme: Login Screen
+music_collection-10000014,Lobby
+music_collection-20000014,Standard Base Theme: Main Screen
+music_collection-10000015,Factory
+music_collection-20000015,Standard Base Theme: Factory/Development
+music_collection-10000016,Combat Mission
+music_collection-20000016,Standard Base Theme: Combat Mission
+music_collection-10000017,Combat Simulation
+music_collection-20000017,Standard Base Theme: Combat Simulation
+music_collection-10000018,Gray Area
+music_collection-20000018,Standard Base Theme: Gray Zone
+music_collection-10000019,Strong Hold+
+music_collection-20000019,Standard Base Theme: 3D Base Map
+music_collection-10000020,Exploration Room
+music_collection-20000020,Standard Base Theme: Forward Basecamp
+music_collection-10000021,Garage
+music_collection-20000021,Standard Base Theme: Garage
+music_collection-10000022,Intel
+music_collection-20000022,Standard Base Theme: Intelligence Center
+music_collection-10000023,Protocol Control Center
+music_collection-20000023,Standard Base Theme: Protocol Control Center
+music_collection-10000024,Capture
+music_collection-20000024,Standard Base Theme: Capture Operation
+music_collection-10000025,Dorm
+music_collection-20000025,Standard Base Theme: Dorms
+music_collection-10000026,Cafe
+music_collection-20000026,Standard Base Theme: Cafe
+music_collection-10000027,Shop
+music_collection-20000027,Standard Base Theme: Shop
+music_collection-10000028,Luffberrty Chess
+music_collection-20000028,Standard Base Theme: Luffberry Chess
+music_collection-10000029,Gun Oath
+music_collection-20000029,Standard Base Theme: Oath
+music_collection-10000030,SF Oath
+music_collection-20000030,Standard Base Theme: Coalition Oath
+music_collection-10000031,Theater
+music_collection-20000031,Standard Base Theme: Theater
+music_collection-10000032,Index
+music_collection-20000032,Standard Base Theme: Index
+music_collection-10000033,Bond
+music_collection-20000033,Standard Base Theme: Memory Logs
+music_collection-10000034,0. The Seed
+music_collection-20000034,Main Campaign Battle Theme: Chapter 0 - The Seed
+music_collection-10000035,I. Wake Up
+music_collection-20000035,Main Campaign Battle Theme: Chapter 1 - Awakening
+music_collection-10000036,II. The Echo
+music_collection-20000036,Main Campaign Battle Theme: Chapter 2 - Echo
+music_collection-10000037,III. Silence
+music_collection-20000037,Main Campaign Battle Theme: Chapter 3 - Silence
+music_collection-10000038,IV. The Message
+music_collection-20000038,Main Campaign Battle Theme: Chapter 4 - Message
+music_collection-10000039,V. The Kindling
+music_collection-20000039,Main Campaign Battle Theme: Chapter 5 - Kindling
+music_collection-10000040,VI. Comet
+music_collection-20000040,Main Campaign Battle Theme: Chapter 6 - Comet
+music_collection-10000041,VII. Partner
+music_collection-20000041,Main Campaign Battle Theme: Chapter 7 - Partner
+music_collection-10000042,VIII. Spark
+music_collection-20000042,Main Campaign Battle Theme: Chapter 8 - Spark
+music_collection-10000043,IX. Lost
+music_collection-20000043,Main Campaign Battle Theme: Chapter 9 - Lost
+music_collection-10000044,X. Purgatory
+music_collection-20000044,Main Campaign Battle Theme: Chapter 10 - Purgatory
+music_collection-10000045,XI. The Hunt
+music_collection-20000045,Main Campaign Battle Theme: Chapter 11 - The Hunt
+music_collection-10000046,XII. Gasp
+music_collection-20000046,Main Campaign Battle Theme: Chapter 12 - Gasp
+music_collection-10000047,XIII. The Oblivione
+music_collection-20000047,Main Campaign Battle Theme: Chapter 13 - The Oblivione
+music_collection-10000048,Room
+music_collection-20000048,Main Campaign Battle Theme: Indoors
+music_collection-10000049,Training
+music_collection-20000049,Main Campaign Battle Theme: Drill
+music_collection-10000050,Elite
+music_collection-20000050,Main Campaign Battle Theme: Elite Battle
+music_collection-10000051,After Fighting
+music_collection-20000051,Main Campaign Battle Theme: After An Intense Battle
+music_collection-10000052,Sadness
+music_collection-20000052,Main Campaign Battle Theme: Sadness
+music_collection-10000053,Night
+music_collection-20000053,Main Campaign Battle Theme: Night Mission
+music_collection-10000054,Sneak
+music_collection-20000054,Main Campaign Battle Theme: Infiltration
+music_collection-10000055,Into The Fray
+music_collection-20000055,Main Campaign Battle Theme: To The Battlefield
+music_collection-10000056,Danger
+music_collection-20000056,Main Campaign Battle Theme: Tense Situation
+music_collection-10000057,Victory
+music_collection-20000057,Main Campaign Battle Theme: Welcoming Victory
+music_collection-10000058,Truth
+music_collection-20000058,Main Campaign Battle Theme: Answer Me...
+music_collection-10000059,Outwit
+music_collection-20000059,Main Campaign Battle Theme: Triumph of Wit
+music_collection-10000060,Melancholy (With Chorus)
+music_collection-20000060,Main Campaign Battle Theme: But I... (with vocals)
+music_collection-10000061,Melancholy
+music_collection-20000061,Main Campaign Battle Theme: But I... 
+music_collection-10000062,Moon
+music_collection-20000062,Main Campaign Battle Theme: Under The Moonlight
+music_collection-10000063,Hello
+music_collection-20000063,Main Campaign Battle Theme: Hello
+music_collection-10000064,Memorial
+music_collection-20000064,Main Campaign Battle Theme: Memorial
+music_collection-10000065,Stage
+music_collection-20000065,Operation Cube: Event Theme BGM
+music_collection-10000066,Boss
+music_collection-20000066,Operation Cube: Boss Battle
+music_collection-10000067,Stage
+music_collection-20000067,Arctic Warfare: Event Theme BGM
+music_collection-10000068,Stage (Night)
+music_collection-20000068,Arctic Warfare: Event Theme BGM (Night)
+music_collection-10000069,Boss
+music_collection-20000069,Arctic Warfare: Boss Battle
+music_collection-10000070,Stage I
+music_collection-20000070,Deep Dive: Event Theme BGM - I
+music_collection-10000071,Stage II
+music_collection-20000071,Deep Dive: Event Theme BGM - II
+music_collection-10000072,Stage III
+music_collection-20000072,Deep Dive: Event Theme BGM - III
+music_collection-10000073,StageEX
+music_collection-20000073,Deep Dive: Event Theme BGM - EX
+music_collection-10000074,Boss
+music_collection-20000074,Deep Dive: Boss Battle
+music_collection-10000075,Boss (With Chorus)
+music_collection-20000075,Deep Dive: Boss Battle (with vocals)
+music_collection-10000076,Theme
+music_collection-20000076,Singularity: Event Scene BGM
+music_collection-10000077,Stage I
+music_collection-20000077,Singularity: Event Theme BGM - I
+music_collection-10000078,Stage II
+music_collection-20000078,Singularity: Event Theme BGM - II
+music_collection-10000079,Stage III
+music_collection-20000079,Singularity: Event Theme BGM - II
+music_collection-10000080,Boss I
+music_collection-20000080,Singularity: Boss Battle - I
+music_collection-10000081,Boss II
+music_collection-20000081,Singularity: Boss Battle - II
+music_collection-10000082,Theme
+music_collection-20000082,Continuum Turbulence: Event Theme BGM
+music_collection-10000083,Battle I
+music_collection-20000083,Continuum Turbulence: Battle - I
+music_collection-10000084,Battle II
+music_collection-20000084,Continuum Turbulence: Battle - II
+music_collection-10000085,Battle III
+music_collection-20000085,Continuum Turbulence: Battle - III
+music_collection-10000086,Boss
+music_collection-20000086,Continuum Turbulence: Boss Battle - III
+music_collection-10000087,G&K Part I
+music_collection-20000087,Isomer: G&K - Part I
+music_collection-10000088,G&K Part II
+music_collection-20000088,Isomer: G&K - Part II
+music_collection-10000089,G&K Part III
+music_collection-20000089,Isomer: G&K - Part III
+music_collection-10000090,90wish Part I
+music_collection-20000090,Isomer: 90wish - Part I
+music_collection-10000091,90wish Part II
+music_collection-20000091,Isomer: 90wish - Part II
+music_collection-10000092,90wish Part III
+music_collection-20000092,Isomer: 90wish - Part III
+music_collection-10000093,SF Part I
+music_collection-20000093,Isomer: SF - Part I
+music_collection-10000094,SF Part II
+music_collection-20000094,Isomer: SF - Part II
+music_collection-10000095,SF Part III
+music_collection-20000095,Isomer: SF - Part III
+music_collection-10000096,Chase
+music_collection-20000096,Isomer: Pursuit Battle
+music_collection-10000097,Theme
+music_collection-20000097,Shattered Connexion: Event Theme BGM
+music_collection-10000098,Hope
+music_collection-20000098,Shattered Connexion: Grasping Hope
+music_collection-10000099,Labyrinth
+music_collection-20000099,Shattered Connexion: Electronic Mirage
+music_collection-10000100,Casual
+music_collection-20000100,Shattered Connexion: Casual Ease
+music_collection-10000101,Tension
+music_collection-20000101,Shattered Connexion: Tense Circumstances
+music_collection-10000102,Battle I
+music_collection-20000102,Shattered Connexion: Battle - I
+music_collection-10000103,Battle II
+music_collection-20000103,Shattered Connexion: Battle - II
+music_collection-10000104,Battle III
+music_collection-20000104,Shattered Connexion: Battle - III
+music_collection-10000105,Theme
+music_collection-20000105,Polarized Light: Event Theme BGM
+music_collection-10000106,Battle I
+music_collection-20000106,Polarized Light: Battle - I
+music_collection-10000107,Battle II
+music_collection-20000107,Polarized Light: Battle - II
+music_collection-10000108,Theme
+music_collection-20000108,Dual Randomness: Event Theme BGM
+music_collection-10000109,City
+music_collection-20000109,Dual Randomness: Urban Concealment
+music_collection-10000110,Battle I
+music_collection-20000110,Dual Randomness: Battle - I
+music_collection-10000111,Battle II
+music_collection-20000111,Dual Randomness: Battle - II
+music_collection-10000112,Battle III
+music_collection-20000112,Dual Randomness: Battle - III
+music_collection-10000113,Theme
+music_collection-20000113,Mirror Stage: Event Theme BGM
+music_collection-10000114,Mahaline
+music_collection-20000114,Mirror Stage: Machlian's World
+music_collection-10000115,Betray
+music_collection-20000115,Mirror Stage: Moment of Betrayal
+music_collection-10000116,Nightbar
+music_collection-20000116,Mirror Stage: Night Bar
+music_collection-10000117,Battle I
+music_collection-20000117,Mirror Stage: Battle - I
+music_collection-10000118,Battle II
+music_collection-20000118,Mirror Stage: Battle - II
+music_collection-10000119,Battle III
+music_collection-20000119,Mirror Stage: Battle - III
+music_collection-10000120,Theme (Var.Demon)
+music_collection-20000120,Poincarre Recurrence: Event Theme BGM (Anonymous Demon King variation) 
+music_collection-10000121,Demon
+music_collection-20000121,Poincarre Recurrence: Anonymous Demon King
+music_collection-10000122,Reunion
+music_collection-20000122,Poincarre Recurrence: Surprising Reunion
+music_collection-10000123,Funeral
+music_collection-20000123,Poincarre Recurrence: Funeral
+music_collection-10000124,Secret Agent
+music_collection-20000124,Poincarre Recurrence: Lost Warrior (J's Theme) 
+music_collection-10000125,Crisis
+music_collection-20000125,Poincarre Recurrence: Moment of Crisis
+music_collection-10000126,Battle I
+music_collection-20000126,Poincarre Recurrence: Battle - I
+music_collection-10000127,Battle II
+music_collection-20000127,Poincarre Recurrence: Battle - II
+music_collection-10000128,Theme (Var.RoundTable)
+music_collection-20000128,Fixed Point: Event Theme BGM (Round Table Protector variation) 
+music_collection-10000129,Witch's Song
+music_collection-20000129,Fixed Point: Witch's Song
+music_collection-10000130,Round Table
+music_collection-20000130,Fixed Point: Round Table Protector
+music_collection-10000131,Satan's Paradise
+music_collection-20000131,Fixed Point: Satan's Paradise
+music_collection-10000132,Dawn
+music_collection-20000132,Fixed Point: Moment of Dawn
+music_collection-10000133,Chant
+music_collection-20000133,Fixed Point: Ritual Chant
+music_collection-10000134,Theme
+music_collection-20000134,Longitudinal Strain: Event Theme BGM
+music_collection-10000135,Maggie Ponzi
+music_collection-20000135,Longitudinal Strain: Iris-Colored Pentagram
+music_collection-10000136,Erma Hume
+music_collection-20000136,Longitudinal Strain: Stork's Heartstrings
+music_collection-10000137,Lyudmila Pavlichenko
+music_collection-20000137,Longitudinal Strain: Marshfire
+music_collection-10000138,Ticket Please
+music_collection-20000138,Longitudinal Strain: "Ticket Please"
+music_collection-10000139,Battle I
+music_collection-20000139,Longitudinal Strain: Battle - I
+music_collection-10000140,Battle II
+music_collection-20000140,Longitudinal Strain: Battle - II
+music_collection-10000141,Battle III
+music_collection-20000141,Longitudinal Strain: Battle - III
+music_collection-10000142,Theme
+music_collection-20000142,Eclipses and Saros: Event Theme BGM
+music_collection-10000143,Reencounter
+music_collection-20000143,Eclipses and Saros: Doomsday Reunion
+music_collection-10000144,Divine Child
+music_collection-20000144,Eclipses and Saros: Child of God
+music_collection-10000145,Battle I
+music_collection-20000145,Eclipses and Saros: Battle - I
+music_collection-10000146,Battle II
+music_collection-20000146,Eclipses and Saros: Battle - II
+music_collection-10000147,Theme (Var.WinterNight)
+music_collection-20000147,Slow Shock: Event Theme BGM (Winter Night variation) 
+music_collection-10000148,Winter Night
+music_collection-20000148,Slow Shock: Winter Night (Ange [Girl] Memory Theme) 
+music_collection-10000149,War Sacrifice
+music_collection-20000149,Slow Shock: Sacrifice of War (Ange [Cadet] Memory Theme) 
+music_collection-10000150,Crossroads Warrior
+music_collection-20000150,Slow Shock: Crossroads Hero (Ange [Griffin] Memory Theme) 
+music_collection-10000151,Expedition Story
+music_collection-20000151,Slow Shock: Expedition Log (Ange [Unbound] Memory Theme) 
+music_collection-10000152,Battle (Var.WinterNight)
+music_collection-20000152,Slow Shock: Battle (Winter Night variation) 
+music_collection-10000153,Tower Battle
+music_collection-20000153,Slow Shock: Battle In The Tower
+music_collection-10000154,Theme (Var.WinterNight)
+music_collection-20000154,Summer Garden of Forking Paths: Event Theme BGM (Circular Ruins variation) 
+music_collection-10000155,The Circular Ruins
+music_collection-20000155,Summer Garden of Forking Paths: Circular Ruins
+music_collection-10000156,Four Adventures
+music_collection-20000156,Summer Garden of Forking Paths: Four Adventures
+music_collection-10000157,Library Adventure
+music_collection-20000157,Summer Garden of Forking Paths: Exploration In The Summer Library
+music_collection-10000158,Im Futue
+music_collection-20000158,Summer Garden of Forking Paths: I Am The Future
+music_collection-10000159,Auguries of Innocence
+music_collection-20000159,Cartesian Theater: Innocent Augury
+music_collection-10000160,Descartes In The Theatre
+music_collection-20000160,Cartesian Theater: Descartes' Theater
+music_collection-10000161,The Wheel of Fortune
+music_collection-20000161,Cartesian Theater: World - Wheel of Fortune
+music_collection-10000162,Tales of the Black Freighter
+music_collection-20000162,Zero Charge: Tales of the Black Freighter (AK-12's Character Theme) 
+music_collection-10000163,Si
+music_collection-20000163,Zero Charge: Silicon-Si (Shaw's Character Theme) 
+music_collection-10000164,Pharos
+music_collection-20000164,Zero Charge: Pharos (AK-15's Character Theme) 
+music_collection-10000165,Stung to the Morrow
+music_collection-20000165,Angular Gyrus: Stung To The Marrow (Beesting System Theme) 
+music_collection-10000166,Love Story
+music_collection-20000166,Angular Gyrus: Story of Love (Commander and Lunasia Alone) 
+music_collection-10000167,Bee Catcher
+music_collection-20000167,Angular Gyrus: Beecatcher (Nele's Personal Theme) 
+music_collection-10000168,Dance With Death
+music_collection-20000168,Angular Gyrus: Dance With Death (Nemhran's Battlefield) 
+music_collection-10000169,Respected Gray
+music_collection-20000169,Isolated Forest: Respect For A Teacher I Have Never Met
+music_collection-10000170,Mare Lunaris
+music_collection-20000170,Isolated Forest: Lunar Sea
+music_collection-10000171,La Nuit
+music_collection-20000171,Isolated Forest: Night Meeting
+music_collection-10000172,The Year 2064
+music_collection-20000172,Convolutional Kernel: 2064 Overture
+music_collection-10000173,Tranquility
+music_collection-20000173,Convolutional Kernel: Tranquility
+music_collection-10000174,PrinceIgor
+music_collection-20000174,Convolutional Kernel: Igor
+music_collection-10000175,Yaroslavna
+music_collection-20000175,Convolutional Kernel: Yaroslavna
+music_collection-10000176,Go Time
+music_collection-20000176,Convolutional Kernel: The Moment Death Comes
+music_collection-10000177,Theme
+music_collection-20000177,Freaky Pandemic: Event Theme BGM
+music_collection-10000178,Made In Heaven
+music_collection-20000178,Freaky Pandemic: Made In Heaven
+music_collection-10000179,Theme
+music_collection-20000179,A Snowy Night Capriccio: Event Theme BGM
+music_collection-10000180,Ode To Gifts
+music_collection-20000180,A Snowy Night Capriccio: Ode To Gifts
+music_collection-10000181,Battle
+music_collection-20000181,A Snowy Night Capriccio: Battle
+music_collection-10000182,Theme
+music_collection-20000182,Photo Studio Mystery: Event Theme BGM
+music_collection-10000183,As Time Glides Past
+music_collection-20000183,Photo Studio Mystery: Time Flies//c But You Are As Beautiful As Ever
+music_collection-10000184,Battle
+music_collection-20000184,Photo Studio Mystery: Battle
+music_collection-10000185,Theme
+music_collection-20000185,Far Side Of The Sea: Event Theme BGM
+music_collection-10000186,Battle
+music_collection-20000186,Far Side Of The Sea: Battle
+music_collection-10000187,Theme
+music_collection-20000187,Butterfly In A Cocoon: Event Theme BGM
+music_collection-10000188,Please...
+music_collection-20000188,Butterfly In A Cocoon: That's Enough Messing Around//c Come Out Already...
+music_collection-10000189,Breaking
+music_collection-20000189,Butterfly In A Cocoon: Emergence
+music_collection-10000190,Battle I
+music_collection-20000190,Butterfly In A Cocoon: Battle I
+music_collection-10000191,Battle II
+music_collection-20000191,Butterfly In A Cocoon: Battle II
+music_collection-10000192,Theme
+music_collection-20000192,The Waves Wrangler: Event Theme BGM
+music_collection-10000193,Battle
+music_collection-20000193,The Waves Wrangler: Battle
+music_collection-10000194,Theme
+music_collection-20000194,One Coin Short: Event Theme BGM
+music_collection-10000195,Death Metal
+music_collection-20000195,One Coin Short: Death Metal
+music_collection-10000196,Battle
+music_collection-20000196,One Coin Short: Battle
+music_collection-10000197,Theme
+music_collection-20000197,Love Bakery: Event Theme BGM
+music_collection-10000198,White Festival
+music_collection-20000198,Love Bakery: White Festival
+music_collection-10000199,Theme
+music_collection-20000199,Lycan Sanctuary: Event Theme BGM
+music_collection-10000200,Labyrinth
+music_collection-20000200,Lycan Sanctuary: Sunset Labyrinth
+music_collection-10000201,Battle
+music_collection-20000201,Lycan Sanctuary: Battle
+music_collection-10000202,Theme
+music_collection-20000202,Maze Guess: Event Theme BGM
+music_collection-10000203,Battle I
+music_collection-20000203,Maze Guess: Battle I
+music_collection-10000204,Battle II
+music_collection-20000204,Maze Guess: Battle II
+music_collection-10000205,Battle III
+music_collection-20000205,Maze Guess: Battle III
+music_collection-10000206,Challenge I
+music_collection-20000206,Maze Guess: Combined Challenge I
+music_collection-10000207,Challenge II
+music_collection-20000207,Maze Guess: Combined Challenge II
+music_collection-10000208,Challenge III
+music_collection-20000208,Maze Guess: Combined Challenge III
+music_collection-10000209,No Why
+music_collection-20000209,"Quantum Fluctuations" Event Ending Song

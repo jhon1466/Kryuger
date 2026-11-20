@@ -1,0 +1,18 @@
+auto_formation-10000001,Basic General-Use Formation
+auto_formation-20000001,A standard <color=#ff7f00>AR</color>+<color=#ff7f00>SMG</color> formation with decent movement speed. This formation has steady damage output//c and normal attacks prioritize targeting enemy units on the front row.
+auto_formation-10000002,Basic Sniping Formation
+auto_formation-20000002,A basic formation for early game//c featuring <color=#ff7f00>RFs</color> with <color=#ff7f00>armor-piercing equipment</color>+ <color=#ff7f00>HGs</color>+<color=#ff7f00>SMGs</color>. Movement speed is a bit slow//c but this formation has excellent armor-piercing capability and steady damage output. Normal attacks prioritize targeting enemy units on the back row.
+auto_formation-10000003,Basic High-Burst Formation
+auto_formation-20000003,A basic formation for early game//c featuring <color=#ff7f00>MGs</color> with <color=#ff7f00>armor-piercing equipment</color>+ <color=#ff7f00>HGs</color>+<color=#ff7f00>SMGs</color>. Movement speed is a bit slow//c but this formation has excellent burst damage at the beginning of battles. Normal attacks target random enemy units.
+auto_formation-10000004,Specialized Armor-Piercing Formation
+auto_formation-20000004,A standard formation featuring <color=#ff7f00>RFs</color> with <color=#ff7f00>armor-piercing equipment</color>+ <color=#ff7f00>HGs</color>. This formation has excellent armor-piercing capability and steady damage output//c but relatively poor survivability and slow movement speed. Normal attacks prioritize targeting enemy units on the back row.
+auto_formation-10000005,Early High-Burst Formation
+auto_formation-20000005,A standard formation featuring <color=#ff7f00>MGs</color> with <color=#ff7f00>armor-piercing equipment</color>+ <color=#ff7f00>SGs</color>. This formation has excellent burst damage at the beginning of battles//c but eats up quite a lot of resources and can be quite slow. Normal attacks target random enemy units.
+auto_formation-10000006,Wide-Area Assault Formation
+auto_formation-20000006,A formation built around <color=#ff7f00>grenadier ARs</color> whose skills are effective against enemies that appear in <color=#ff7f00>large packs</color>. This formation has decent movement speed; normal attacks prioritize targeting enemy units on the front row.
+auto_formation-10000007,Specialized Night Battle Formation
+auto_formation-20000007,In this formation//c <color=#ff7f00>ARs</color> equipped with <color=#ff7f00>night vision equipment</color> serve as the main source of damage output//c while <color=#ff7f00>HGs</color> provide <color=#ff7f00>vision in night battles</color>. This formation//c when equipped with <color=#ff7f00>night vision goggles</color>//c is suited to most generic night battles. It has decent movement speed and steady damage output. Normal attacks prioritize targeting enemy units on the front row.
+auto_formation-10000008,Single-Target Burst Formation
+auto_formation-20000008,A formation built around <color=#ff7f00>RFs with high burst damage</color> and <color=#ff7f00>armor-piercing equipment</color>. With relatively slow movement speed but excellent armor-piercing capability and burst damage//c this formation is most effective against a <color=#ff7f00>single powerful elite</color> unit. Normal attacks prioritize targetting enemy units on the back row.
+auto_formation-10000009,Protracted Battle Formation
+auto_formation-20000009,A standard formation featuring <color=#ff7f00>MGs</color> with <color=#ff7f00>armor-piercing equipment</color>+ <color=#ff7f00>SGs</color> with armor and shield-type skills. This formation has slow movement speed//c but is suitable for protracted battles thanks to the front row units' great defensive capabilities. Normal attacks target random enemy units.

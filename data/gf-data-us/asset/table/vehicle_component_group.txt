@@ -1,0 +1,47 @@
+vehicle_component_group-10000129,Reload Chip
+vehicle_component_group-10000130,Attack Speed Chip
+vehicle_component_group-10000131,Precision Chip
+vehicle_component_group-10000132,Accuracy Chip
+vehicle_component_group-10000133,Armor-Piercing Chip
+vehicle_component_group-10000134,Evasion Chip
+vehicle_component_group-10000135,Firepower Chip
+vehicle_component_group-10000136,Full-Speed Chip
+vehicle_component_group-10000137,Eagle-Eyes Chip
+vehicle_component_group-10000138,Crit Chip
+vehicle_component_group-10000139,Defense Chip
+vehicle_component_group-10000127,Heavy Weapon Chip
+vehicle_component_group-10000128,Light Weapon Chip
+vehicle_component_group-10000101,Universal Machine Gun MK-I
+vehicle_component_group-10000102,Anti-Armor Sniper Rifle
+vehicle_component_group-10000103,Machine Gun Team
+vehicle_component_group-10000104,Heavy Machine Gun
+vehicle_component_group-10000105,Automotive Night Vision
+vehicle_component_group-10000106,Flamethrower
+vehicle_component_group-10000107,Shell Launcher
+vehicle_component_group-10000108,Grenade Launcher
+vehicle_component_group-10000109,Laser Weapon
+vehicle_component_group-10000110,Cannon
+vehicle_component_group-10000111,Anti-Aircraft Cannon
+vehicle_component_group-10000112,Impulse Cannon
+vehicle_component_group-10000113,Armored Cannon
+vehicle_component_group-10000114,Jammer Gun
+vehicle_component_group-10000115,Jammer
+vehicle_component_group-10000116,Signal Transceiver
+vehicle_component_group-10000117,Smoke Grenade Launcher
+vehicle_component_group-10000118,Missile Launcher MK1
+vehicle_component_group-10000119,Missile Launcher MK2
+vehicle_component_group-10000120,Railgun
+vehicle_component_group-10000121,Explosive Reactive Armor
+vehicle_component_group-10000122,Rotating Turret
+vehicle_component_group-10000123,Drone Compartment
+vehicle_component_group-10000124,Shield Generator
+vehicle_component_group-10000125,Phased-Array Radar
+vehicle_component_group-10000140,Light Machine Gun
+vehicle_component_group-10000141,Automated Defense System
+vehicle_component_group-10000142,Lightweight Rapid-Fire Railgun
+vehicle_component_group-10000143,Laser Suppression System
+vehicle_component_group-10000144,Vehicle-Mounted Shotgun
+vehicle_component_group-10000145,Small Mortar
+vehicle_component_group-10000146,Laser rangefinder
+vehicle_component_group-10000147,Camouflage Netting
+vehicle_component_group-10000148,Slat Armor

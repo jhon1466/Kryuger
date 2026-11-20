@@ -1,0 +1,14 @@
+auto_formation_sangvis-10000001,Basic General-Use Formation
+auto_formation_sangvis-20000001,A formation comprising versatile units to assist the boss unit. It performs well in most situations.
+auto_formation_sangvis-10000002,Wide-Area Assault Formation
+auto_formation_sangvis-20000002,A formation centered around a boss unit with powerful AoE damage output. This formation is effective against enemies that appear in <color=#ff7f00>large packs</color>.
+auto_formation_sangvis-10000003,Single-Target Burst Formation
+auto_formation_sangvis-20000003,A formation centered around a boss unit with powerful burst damage against a single target. This formation is effective against <color=#ff7f00>powerful elite</color> units.
+auto_formation_sangvis-10000004,Specialized Armor-Piercing Formation
+auto_formation_sangvis-20000004,A formation with a boss unit that has great armor-piercing capability and back-row damage output. It performs well against enemies with strong armor.
+auto_formation_sangvis-10000005,Protracted Battle Formation
+auto_formation_sangvis-20000005,A formation centered around a boss unit that can summon reinforcements or has great endurance. This formation is highly suited to protracted battles.
+auto_formation_sangvis-10000006,Early High-Burst Formation
+auto_formation_sangvis-20000006,A formation that pairs a boss unit with high damage output in the early phase of a battle with other similar units.
+auto_formation_sangvis-10000007,Melee Charge Formation
+auto_formation_sangvis-20000007,A formation centered around a boss unit with powerful AoE damage output. This formation can wreck havoc against enemy echelons with low defensive capability.

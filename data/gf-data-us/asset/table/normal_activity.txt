@@ -1,0 +1,251 @@
+normal_activity-10000001,EP.|7.5
+normal_activity-20000001,Arctic Warfare
+normal_activity-30000001,The Wolves Gather
+normal_activity-40000001,Active Time：2019.01.22～02.18
+normal_activity-10000002,EP.|7.5
+normal_activity-20000002,Arctic Warfare
+normal_activity-30000002,Lighting Curfew
+normal_activity-40000002,Active Time：2019.01.22～02.18
+normal_activity-10000003,EP.|7.5
+normal_activity-20000003,Arctic Warfare
+normal_activity-30000003,Operation Homecoming
+normal_activity-40000003,Active Time：2019.01.22～02.18
+normal_activity-10000004,EP.|7.5
+normal_activity-20000004,Arctic Warfare
+normal_activity-30000004,Down the Rabbit Hole+
+normal_activity-40000004,
+normal_activity-10000005,EP.|5.5
+normal_activity-20000005,Operation Cube+
+normal_activity-30000005,Operation Cube
+normal_activity-40000005,Active Time：2018.07.17-08.13
+normal_activity-10000006,EP.|5.5
+normal_activity-20000006,Operation Cube+
+normal_activity-30000006,Blindfold Theorem
+normal_activity-40000006,Active Time：2019.07.02-07.29
+normal_activity-10000007,EP.|8.5
+normal_activity-20000007,Deep Dive
+normal_activity-30000007,Cognitive Conundrum
+normal_activity-40000007,Active Time：2019.04.30-05.27
+normal_activity-10000008,EP.|8.5
+normal_activity-20000008,Deep Dive
+normal_activity-30000008,Hyperbolic Function
+normal_activity-40000008,Active Time：2019.04.30-05.27
+normal_activity-10000009,EP.|8.5
+normal_activity-20000009,Deep Dive
+normal_activity-30000009,Relative Behavior
+normal_activity-40000009,Active Time：2019.04.30-05.27
+normal_activity-10000010,EP.|8.5
+normal_activity-20000010,Deep Dive
+normal_activity-30000010,Imaginary Maze+
+normal_activity-40000010,
+normal_activity-10000011,EP.|10.5
+normal_activity-20000011,Singularity
+normal_activity-30000011,Great Retreat
+normal_activity-40000011,Active Time：2019.11.19-12.16
+normal_activity-10000012,EP.|10.5
+normal_activity-20000012,Singularity
+normal_activity-30000012,Second Moon
+normal_activity-40000012,Active Time：2019.11.19-12.16
+normal_activity-10000013,EP.|10.5
+normal_activity-20000013,Singularity
+normal_activity-30000013,Endgame
+normal_activity-40000013,Active Time：2019.11.19-12.16
+normal_activity-10000014,EP.|10.75
+normal_activity-20000014,Continuum Turbulence
+normal_activity-30000014,Daybreak
+normal_activity-40000014,Active Time：2020.02.18-03.16
+normal_activity-10000015,EP.|10.75
+normal_activity-20000015,Continuum Turbulence
+normal_activity-30000015,Convergence
+normal_activity-40000015,Active Time：2020.02.18-03.16
+normal_activity-10000016,EP.|10.75
+normal_activity-20000016,Continuum Turbulence
+normal_activity-30000016,Surviving Doomsday
+normal_activity-40000016,Active Time：2020.02.18-03.16
+normal_activity-10000017,EP.|10.75
+normal_activity-20000017,Continuum Turbulence
+normal_activity-30000017,Hidden Story
+normal_activity-40000017,Active Time：2020.02.18-03.16
+normal_activity-10000018,EP.|11.5
+normal_activity-20000018,Isomer
+normal_activity-30000018,Isomer
+normal_activity-40000018,Active Time: 2020.07.07-08.03
+normal_activity-10000019,EP.|11.75
+normal_activity-20000019,Shattered Connexion
+normal_activity-30000019,Shattered Connexion
+normal_activity-40000019,Active Time: 2020.11.24-12.21
+normal_activity-10000020,EP.|12.5
+normal_activity-20000020,Polarized Light
+normal_activity-30000020,Polarized Light
+normal_activity-40000020,Active Time: 2021.04.27-05.24
+normal_activity-10000021,EP.|13.25
+normal_activity-20000021,Dual Randomness
+normal_activity-30000021,Dual Randomness
+normal_activity-40000021,Active Time: 2022.01.25-02.21
+normal_activity-10000022,EP.|13.5
+normal_activity-20000022,Mirror Stage
+normal_activity-30000022,Mirror Stage
+normal_activity-40000022,Active Time: 2022.07.26-08.22
+normal_activity-10000023,EP.|13.75
+normal_activity-20000023,Poincaré Recurrence
+normal_activity-30000023,Poincaré Recurrence
+normal_activity-40000023,Active Time: 2022.11.01-11.28
+normal_activity-10000024,C.E.|2020
+normal_activity-20000024,Festival ActivityⅠ
+normal_activity-30000024,Freaky Pandemic
+normal_activity-40000024,Active Time: 2020.11.03-11.23
+normal_activity-10000025,C.E.|2020
+normal_activity-20000025,Festival ActivityⅠ
+normal_activity-30000025,A Snowy Night Capriccio
+normal_activity-40000025,Active Time: 2020.12.22-01.11
+normal_activity-10000026,C.E.|2021
+normal_activity-20000026,Festival Activity Ⅱ
+normal_activity-30000026,The Photo Studio Mystery
+normal_activity-40000026,Active Time: 2021.03.16-04.05
+normal_activity-10000027,C.E.|2020
+normal_activity-20000027,Festival ActivityⅠ
+normal_activity-30000027,Far Side of the Sea
+normal_activity-40000027,Active Time: 2020.08.11-08.31
+normal_activity-10000028,C.E.|2022
+normal_activity-20000028,Festival Activity Ⅲ
+normal_activity-30000028,Waves Wrangler
+normal_activity-40000028,Active Time: 2022.07.02-07.25
+normal_activity-10000029,EP.|10.5
+normal_activity-20000029,Singularity
+normal_activity-30000029,Hornet's Nest+
+normal_activity-40000029,
+normal_activity-10000030,C.E.|2021
+normal_activity-20000030,Festival Activity Ⅱ
+normal_activity-30000030,Butterfly in a Cocoon
+normal_activity-40000030,Active Time: 2021.10.12-11.01
+normal_activity-10000031,C.E.|2023
+normal_activity-20000031,Festival Activity Ⅳ
+normal_activity-30000031,Love Bakery
+normal_activity-40000031,Active Time: 2023.03.13-04.03
+normal_activity-10000032,EP.|10.75
+normal_activity-20000032,Continuum Turbulence
+normal_activity-30000032,Hurricane Rescue+
+normal_activity-40000032,
+normal_activity-10000033,EP.|11.5
+normal_activity-20000033,Isomer
+normal_activity-30000033,Reign of Chaos+
+normal_activity-40000033,
+normal_activity-10000034,C.E.|2024
+normal_activity-20000034,Festival Activity Ⅴ
+normal_activity-30000034,Maze Guess
+normal_activity-40000034,Active Time: 2024.07.02-07.22
+normal_activity-10000035,EP.|11.75
+normal_activity-20000035,Shattered Connexion
+normal_activity-30000035,Flowers of the End+
+normal_activity-40000035,
+normal_activity-10000036,EP.|12.5
+normal_activity-20000036,Polarized Light
+normal_activity-30000036,Labyrinthine Defense+
+normal_activity-40000036,
+normal_activity-10000037,EP.|13.8
+normal_activity-20000037,Fixed Point
+normal_activity-30000037,Fixed Point
+normal_activity-40000037,Active Time: 2023.01.17-02.13
+normal_activity-10000038,C.E.|2023
+normal_activity-20000038,Festival Activity Ⅳ
+normal_activity-30000038,Lycan Sanctuary
+normal_activity-40000038,Active Time: 2023.08.29-09.18
+normal_activity-10000039,EP.|13.95
+normal_activity-20000039,Eclipses & Saros
+normal_activity-30000039,Eclipses & Saros
+normal_activity-40000039,Active Time: 2023.06.13-07.03
+normal_activity-10000040,EP.|13.25
+normal_activity-20000040,Dual Randomness
+normal_activity-30000040,Vortex of Secrets+
+normal_activity-40000040,
+normal_activity-10000041,EP.|13.5
+normal_activity-20000041,Mirror Stage
+normal_activity-30000041,Operation Mistbuster+
+normal_activity-40000041,
+normal_activity-10000042,EP.|13.75
+normal_activity-20000042,Poincaré Recurrence
+normal_activity-30000042,City of Nightmares+
+normal_activity-10000043,EP.|13.8
+normal_activity-20000043,Fixed Point
+normal_activity-30000043,Betti number
+normal_activity-40000043,
+normal_activity-10000044,EP.|13.9
+normal_activity-20000044,Longitudinal Strain
+normal_activity-30000044,Longitudinal Strain
+normal_activity-40000044,Active Time: 2023.08.01-08.28
+normal_activity-10000045,C.E.|2024
+normal_activity-20000045,Festival Activity Ⅴ
+normal_activity-30000045,Lost in Thoughts
+normal_activity-40000045,Active Time: 2024.09.24-10.14
+normal_activity-10000046,EP.|13.9
+normal_activity-20000046,Longitudinal Strain
+normal_activity-30000046,Waterfall
+normal_activity-40000046,
+normal_activity-10000047,C.E.|2025
+normal_activity-20000047,Festival Activity ⅤI
+normal_activity-30000047,Permitted! Reloading...
+normal_activity-40000047,Active Time: 2025.07.22-08.04
+normal_activity-10000048,EP.|14
+normal_activity-20000048,Slow Shock
+normal_activity-30000048,Slow Shock
+normal_activity-40000048,Active Time: 2023.12.26-2024.01.22
+normal_activity-10000049,EP.|14
+normal_activity-20000049,Slow Shock
+normal_activity-30000049,Slow Shock
+normal_activity-40000049,
+normal_activity-10000050,EP.|15.1
+normal_activity-20000050,The Summer Garden of Forking Paths
+normal_activity-30000050,The Summer Garden of Forking Paths
+normal_activity-40000050,Active Time: 2024.08.06-08.26
+normal_activity-10000051,EP.|15.2
+normal_activity-20000051,Cartesian Theater
+normal_activity-30000051,Cartesian Theater
+normal_activity-40000051,Active Time: 2024.10.29-11.18
+normal_activity-10000052,EP.|15.3
+normal_activity-20000052,Zero Charge
+normal_activity-30000052,Zero Charge
+normal_activity-40000052,Active Time: 2024.12.24-2025.01.13
+normal_activity-10000053,EP.|15.4
+normal_activity-20000053,Angular Gyrus
+normal_activity-30000053,Angular Gyrus
+normal_activity-40000053,Active Time: 2025.02.18-03.10
+normal_activity-10000054,EP.|15.5
+normal_activity-20000054,Isolation Forest
+normal_activity-30000054,Isolation Forest
+normal_activity-40000054,Active Time: 2024.10.17-11.07
+normal_activity-10000055,C.E.|2022
+normal_activity-20000055,Festival Activity Ⅲ
+normal_activity-30000055,One Coin Short
+normal_activity-40000055,Active Time: 2022.01.04-01.24
+normal_activity-10000056,EP.|15.6
+normal_activity-20000056,Convolutional Kernel
+normal_activity-30000056,Convolutional Kernel
+normal_activity-40000056,Active Time: 2025.09.02-09.22
+normal_activity-10000057,EP.|15.6
+normal_activity-20000057,Convolutional Kernel
+normal_activity-30000057,Leaping from the Penrose Stairs
+normal_activity-40000057,
+normal_activity-10000058,EP.|15.7
+normal_activity-20000058,Roche Limit
+normal_activity-30000058,Roche Limit
+normal_activity-40000058,Active Time: 2026.01.13-02.02
+normal_activity-10000059,EP.|15.8
+normal_activity-20000059,Virtual Pair
+normal_activity-30000059,Virtual Pair
+normal_activity-40000059,Active Time: 2026.03.10-03.30
+normal_activity-10000060,EP.|15.9
+normal_activity-20000060,Quantum Fluctuations
+normal_activity-30000060,Quantum Fluctuations
+normal_activity-40000060,Active Time: 2026.03.06-03.27
+normal_activity-10000061,EP.|15.9
+normal_activity-20000061,Quantum Fluctuations
+normal_activity-30000061,Silent Sandtable
+normal_activity-40000061,
+normal_activity-10000062,C.E.|2026
+normal_activity-20000062,Festival Activity Ⅶ
+normal_activity-30000062,Steel Rain Salute
+normal_activity-40000062,Active Time: 2026.04.21-05.11
+normal_activity-10000063,C.E.|2026
+normal_activity-20000063,Festival Activity Ⅶ
+normal_activity-30000063,Steel Rain Salute
+normal_activity-40000063,
