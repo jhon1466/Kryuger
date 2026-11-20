@@ -706,7 +706,7 @@ namespace Kryuger.Server.Controllers
                     ["spend_point"] = 0,
                     ["gem_mall_ids"] = "",
                     ["product_type21_ids"] = "",
-                    ["seven_type"] = SevenType(player),
+                    ["seven_type"] = 3,
                     ["seven_start_time"] = GetSevenStartTime(player),
                     ["seven_attendance_days"] = GetSevenAttendanceDays(player),
                     ["seven_spend_point"] = 0,
@@ -1258,10 +1258,6 @@ namespace Kryuger.Server.Controllers
             return ts;
         }
 
-        /// <summary>Seven-day check-in table: type 1 is the newcomer track (rewards on all 7 days) used by accounts
-        /// created with the official start; older accounts keep type 3, as captured from the official server.</summary>
-        private static int SevenType(PlayerAccount player) => player.Extra.ContainsKey("official_start") ? 1 : 3;
-
         private static string GetSevenAttendanceDays(PlayerAccount player)
         {
             int count = int.TryParse(player.Extra.GetValueOrDefault("seven_att_count"), out int c) ? Math.Clamp(c, 0, 7) : 0;
@@ -1287,7 +1283,7 @@ namespace Kryuger.Server.Controllers
                 {
                     days++;
                     var rewardRow = _sevenAttendanceCache.FirstOrDefault(r =>
-                        r["type"]?.ToString() == SevenType(player).ToString() && r["day"]?.ToString() == days.ToString());
+                        r["type"]?.ToString() == "3" && r["day"]?.ToString() == days.ToString());
                     if (rewardRow != null) GrantRow(player, rewardRow);
                 }
                 player.Extra["seven_att_count"] = days.ToString();
@@ -1295,8 +1291,9 @@ namespace Kryuger.Server.Controllers
                 _db.SavePlayer(player);
             }
             int count = Math.Clamp(int.TryParse(player.Extra.GetValueOrDefault("seven_att_count"), out int c) ? c : 1, 1, 7);
-            string list = string.Join(",", Enumerable.Range(1, count));
-            return EncryptedResponse(new { seven_attendant = list }, player.SignKey);
+            // Official format (captured): the first day is the number 1, later days a list such as "1,2".
+            object attendant = count == 1 ? 1 : string.Join(",", Enumerable.Range(1, count));
+            return EncryptedResponse(new { seven_attendant = attendant }, player.SignKey);
         }
 
         private IActionResult HandleAttendance(PlayerAccount? player)
@@ -1363,10 +1360,15 @@ namespace Kryuger.Server.Controllers
                 _db.SavePlayer(player);
             }
 
+            // Official format (captured): attendant1 carries the claimed day and the next reset time; attendant2 is an
+            // empty list while there is no type 2 (returning player) calendar.
+            int claimedDay = int.TryParse(player.Extra.GetValueOrDefault("att_count"), out int cd) ? cd : 0;
             return EncryptedResponse(new
             {
                 attendance_type1 = type1,
-                attendance_type2 = type2
+                attendance_type2 = type2,
+                attendant1 = new { attendance_type1_day = claimedDay, attendance_type1_time = GetAttendanceNextTime(player) },
+                attendant2 = new List<object>()
             }, player.SignKey);
         }
 

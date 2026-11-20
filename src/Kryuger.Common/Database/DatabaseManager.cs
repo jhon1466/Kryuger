@@ -36,7 +36,8 @@ namespace Kryuger.Common.Database
                 return player;
             }
 
-            // New commanders start like on the official server: level 1, base resources, no free dolls.
+            // New commanders start like on the official server (captured new account): level 1, 2000 of each
+            // resource, 100 dolls / 200 equipment / 4 echelons, no gems and no free dolls.
             // The three starter handguns are handed out by the game server on the first user info request.
             long newId = _players.Count() > 0 ? (_players.Max(x => x.Id) + 1) : 100001;
             if (newId < 100001) newId = 100001;
@@ -52,13 +53,13 @@ namespace Kryuger.Common.Database
                 Experience = 0,
                 Gem = 0,
                 GemPay = 0,
-                Ammo = 5000,
-                Mre = 5000,
-                Part = 5000,
-                Mp = 5000,
+                Ammo = 2000,
+                Mre = 2000,
+                Part = 2000,
+                Mp = 2000,
                 Bp = 0,
                 MaxGun = 100,
-                MaxEquip = 100,
+                MaxEquip = 200,
                 MaxTeam = 4,
                 CollectionSeeded = true
             };
