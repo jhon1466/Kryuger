@@ -1893,8 +1893,8 @@ namespace Kryuger.Server.Controllers
             var gun = player.Guns.FirstOrDefault(g => g.Id == gunInstId);
             if (gun != null)
             {
+                // Neural upgrade only raises the level cap (110 / 115 / 120); the level itself is kept.
                 gun.IfModification = Math.Min(3, gun.IfModification + 1);
-                gun.GunLevel = Math.Max(gun.GunLevel, gun.IfModification >= 3 ? 120 : 115);
                 _db.SavePlayer(player);
             }
             return PlainSuccess();

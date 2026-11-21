@@ -634,22 +634,7 @@ namespace Kryuger.Server.Controllers
                         giftSkinId = row.Int("skin");
                         if (giftSkinId > 0 && !p.Skins.Contains(giftSkinId)) p.Skins.Add(giftSkinId);
                         expAdd = (long)row.Int("exp") * num;
-                        if (expAdd > 0)
-                        {
-                            g.GunExp += expAdd;
-                            int cap = g.IfModification >= 3 ? 120 : 100;
-                            if (g.GunLevel < cap)
-                            {
-                                var expTable = Tables.Get("exp");
-                                while (g.GunLevel < cap && expTable.TryGetValue(g.GunLevel, out var er))
-                                {
-                                    long need = er.Int("exp", 99999999);
-                                    if (need <= 0 || g.GunExp < need) break;
-                                    g.GunExp -= need;
-                                    g.GunLevel++;
-                                }
-                            }
-                        }
+                        if (expAdd > 0) AddGunExp(g, expAdd);
                         string gk = itemId.ToString();
                         if (p.Gifts.TryGetValue(gk, out int cur))
                             p.Gifts[gk] = Math.Max(0, cur - num);

@@ -305,8 +305,7 @@ app.Use(async (context, next) =>
             LogLine($"[UserProtocol OK] Responded 0 to {context.Request.Path}");
         }
         else if (context.Response.StatusCode == StatusCodes.Status404NotFound &&
-            (host.Equals("gfus-cdn.sunborngame.com", StringComparison.OrdinalIgnoreCase) ||
-             host.Equals("gf-passport.sunborngame.com", StringComparison.OrdinalIgnoreCase)))
+            IsUpstreamAsset(host))
         {
             buffer.SetLength(0);
             context.Response.Headers.Clear();
@@ -439,3 +438,12 @@ Console.WriteLine("=================================================");
 if (!testMode) app.Lifetime.ApplicationStopping.Register(RemoveHook);
 app.Run();
 if (!testMode) RemoveHook();
+
+// Any redirected SunBorn host other than the game API itself (CDNs, passport, the alternative resource packs the
+// client switches to after the factory "naive" recipe, etc.) is forwarded upstream when the server has no route.
+static bool IsUpstreamAsset(string host)
+{
+    string h = host.ToLowerInvariant();
+    if (h is "127.0.0.1" or "localhost" || h.StartsWith("gf-game.") || h.StartsWith("gfus-game.")) return false;
+    return h.Contains("sunborngame.com") || h.Contains("girlfrontline") || h.Contains("micateam");
+}

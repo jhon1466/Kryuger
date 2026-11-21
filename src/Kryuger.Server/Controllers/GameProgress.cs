@@ -110,9 +110,12 @@ namespace Kryuger.Server.Controllers
             return total + Math.Max(0, g.GunExp);
         }
 
-        private static void AddGunExp(PlayerGun g, long exp)
+        /// <summary>Level cap: 100, raised by each neural upgrade stage to 110, 115 and 120.</summary>
+        internal static int GunLevelCap(PlayerGun g) => g.IfModification switch { <= 0 => 100, 1 => 110, 2 => 115, _ => 120 };
+
+        internal static void AddGunExp(PlayerGun g, long exp)
         {
-            int cap = g.IfModification > 0 ? 120 : 100;
+            int cap = GunLevelCap(g);
             g.GunExp += exp;
             while (g.GunLevel < cap)
             {
@@ -232,7 +235,7 @@ namespace Kryuger.Server.Controllers
                     if (spot != null && spot.EnemyInstanceId > 0 && enemyDied)
                     {
                         RecordKill(p, spot.EnemyTeamId);
-                        died.Add(spot.EnemyInstanceId.ToString()); spot.EnemyTeamId = 0; spot.EnemyInstanceId = 0; spot.Belong = 1;
+                        died.Add(spot.EnemyInstanceId.ToString()); spot.EnemyTeamId = 0; spot.EnemyInstanceId = 0; // captured at endTurn (official battleFinish change_belong is empty)
                     }
                     bool hostageDied = spot != null && AfterBattle(spot, b, enemyDied);
                     AddAllyChanges(p, m, section0: null);
@@ -290,8 +293,8 @@ namespace Kryuger.Server.Controllers
                         var from = p.ActiveMission.Spots.FirstOrDefault(s => s.SpotId == L(b, "from_spot_id"));
                         if (to == null || from == null) return null;
                         to.TeamId = from.TeamId; from.TeamId = 0;
-                        if (to.EnemyTeamId == 0) to.Belong = 1;
-                        else { enemyTeamOnDest = to.EnemyTeamId; enemyInstOnDest = to.EnemyInstanceId; }
+                        // Official: the node is captured when the player turn ends (endTurn change_belong1), not on arrival.
+                        if (to.EnemyTeamId != 0) { enemyTeamOnDest = to.EnemyTeamId; enemyInstOnDest = to.EnemyInstanceId; }
                         MoveHostage(p, from, to);
                         if (p.ActiveMission.Ap > 0) p.ActiveMission.Ap--;
                     }
@@ -299,6 +302,13 @@ namespace Kryuger.Server.Controllers
                     AddAllyChanges(p, p.ActiveMission, section);
                     if (o == "mission/endturn")
                     {
+                        var captured = new Dictionary<string, int>();
+                        foreach (var sp in p.ActiveMission.Spots.Where(sp => sp.TeamId > 0 && sp.EnemyTeamId == 0 && sp.Belong != 1))
+                        {
+                            sp.Belong = 1;
+                            captured[sp.SpotId.ToString()] = 1;
+                        }
+                        section["change_belong1"] = captured.Count > 0 ? captured : (object)new List<object>();
                         var bchg1 = UpdateBuildings(p.ActiveMission, enemyTurn: false);
                         if (bchg1.Count > 0) section["building_change_belong1"] = bchg1;
                         AddBuildingDefenders(p.ActiveMission, bchg1, section);
@@ -354,9 +364,16 @@ namespace Kryuger.Server.Controllers
                     var m = p.ActiveMission;
                     if (m == null) return null;
                     m.Turn += 1;
-                    foreach (var sp in m.Spots.Where(sp => sp.TeamId > 0)) sp.Belong = 1;
+                    var turnCaptured = new Dictionary<string, int>();
+                    foreach (var sp in m.Spots.Where(sp => sp.TeamId > 0 && sp.EnemyTeamId == 0 && sp.Belong != 1))
+                    {
+                        sp.Belong = 1;
+                        turnCaptured[sp.SpotId.ToString()] = 1;
+                    }
                     m.Ap = ComputeTurnAp(m);
                     var section = BuildMissionSectionPayload(m);
+                    // Official startTurn reports captured nodes as change_belong {"spot":1}.
+                    section["change_belong"] = turnCaptured.Count > 0 ? turnCaptured : (object)new List<object>();
                     AddAllyChanges(p, m, section);
                     if (MissionWon(p, m)) section["mission_win_result"] = CompleteMission(p);
                     return Enc(p, section);
