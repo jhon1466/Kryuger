@@ -18,8 +18,21 @@
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square)
 
 <a href="https://github.com/jhon1466/Kryuger/releases/latest"><img src="https://img.shields.io/badge/Download%20Kryuger%20GM%20Tools-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Download Kryuger GM Tools" /></a>
+<a href="https://discord.gg/sfPVdxpv98"><img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 [Español](README.md) · **English** · [中文](README.zh.md) · [日本語](README.ja.md)
+
+</div>
+
+---
+
+## 💬 Community
+
+<div align="center">
+
+<a href="https://discord.gg/sfPVdxpv98"><img src="https://img.shields.io/badge/Discord-Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED" alt="Discord" height="40" /></a>
+
+Questions, bugs or ideas? Join the **Discord server**: news are announced there, bugs get reported and you can get help with the setup.
 
 </div>
 
