@@ -287,6 +287,25 @@ namespace Kryuger.Server.Controllers
                     p.Extra["auto_missions"] = new JArray(acts).ToString(Formatting.None);
                     return Ok1(p);
                 }
+                case "automission/quickautomission":
+                {
+                    // Instant finish: costs quick_auto_mission_item (525) by remaining time, per
+                    // quick_auto_mission_num "60:1;120:2;9999:3" (minutes:items), then resolves like a normal finish.
+                    int qid = (int)L(b, "auto_mission_id", "mission_id");
+                    var qacts = AutoMissions(p);
+                    var qact = qacts.FirstOrDefault(a => a.Value<int>("auto_mission_id") == qid);
+                    if (qact == null) return Enc(p, new { add_gun_exp = new List<object>(), free_exp = 0, add_user_exp = "0", add_prize = new List<object>(), favor_change = new Dictionary<string, int>(), success_number = 0 });
+                    long minutesLeft = Math.Max(0, (qact.Value<long>("end_time") - Now + 59) / 60);
+                    int cost = minutesLeft <= 0 ? 0 : minutesLeft <= 60 ? 1 : minutesLeft <= 120 ? 2 : 3;
+                    if (cost > 0)
+                    {
+                        if (p.Items.GetValueOrDefault("525") < cost) return Enc(p, new { error = "not enough quick tickets" });
+                        AddItem(p, 525, -cost);
+                    }
+                    qact["end_time"] = Now.ToString();
+                    p.Extra["auto_missions"] = new JArray(qacts).ToString(Formatting.None);
+                    goto case "automission/finishautomission";
+                }
                 case "automission/finishautomission":
                 case "automission/stopautomission":
                 {
