@@ -188,16 +188,58 @@ class Program
                 // 7. Battlepass/getBonus
                 ctrl.DispatchOpForTest("Battlepass/getBonus", JObject.Parse("{\"battlepass_id\":42,\"type\":1,\"param\":1}"), p).Wait();
 
-                // 8. Mall/gemToGiftbag (mall_id=340 -> Thompson gun_id=16)
+                // 8. Mall/gemToGiftbag (mall_id=340 -> Thompson gun_id=16) + Gun/eatGun with Enhancement Capsules (item9_num)
                 var buyResp = DecodeResp(ctrl.DispatchOpForTest("Mall/gemToGiftbag", JObject.Parse("{\"mall_id\":340,\"num\":1}"), p).Result, signKey);
+                Assert(buyResp["status"]?.Value<int>() == 1, "Mall/gemToGiftbag must return status=1");
                 Assert(buyResp["prize"]?["gun_id"]?.ToString() == "16", "Mall/gemToGiftbag prize gun_id=16");
                 Assert(buyResp["gun_with_user_add"]?["gun_id"]?.ToString() == "16", "Mall/gemToGiftbag gun_with_user_add object");
+                long thompsonInstId = long.Parse(buyResp["gun_with_user_add"]!["gun_with_user_id"]!.ToString());
+                p.Guns.First(g => g.Id == thompsonInstId).GunLevel = 30;
+                db.SavePlayer(p);
+                var eatResp = DecodeResp(ctrl.DispatchOpForTest("Gun/eatGun", JObject.Parse($"{{\"gun_with_user_id\":{thompsonInstId},\"item9_num\":2,\"food\":[]}}"), p).Result, signKey);
+                Assert(eatResp["pow"]?.Value<int>() == 2 && eatResp["dodge"]?.Value<int>() == 2 && eatResp["hit"]?.Value<int>() == 2 && eatResp["rate"]?.Value<int>() == 2, $"Gun/eatGun item9_num=2 unexpected: {eatResp}");
 
                 // 9. Active Gun/developGun, Operation/startOperation, and Automission start+abort
                 ctrl.DispatchOpForTest("Gun/developGun", JObject.Parse("{\"mp\":522,\"ammo\":320,\"mre\":404,\"part\":137,\"build_slot\":1,\"input_level\":0}"), p).Wait();
                 ctrl.DispatchOpForTest("Operation/startOperation", JObject.Parse("{\"operation_id\":5,\"team_id\":1}"), p).Wait();
                 ctrl.DispatchOpForTest("Automission/startAutomission", JObject.Parse("{\"team_ids\":[1],\"auto_mission_id\":6,\"number\":3,\"is_quick\":0}"), p).Wait();
                 Assert(ExtractContent(ctrl.DispatchOpForTest("Automission/abortAutomission", JObject.Parse("{\"auto_mission_id\":6}"), p).Result) == "1", "Automission/abortAutomission failed");
+
+                // 10. Clearing Chapter 1-6 (mission_id=10) unlocks Chapter 2-1 (15), 1-1E (11), 1-1N (90001)
+                ctrl.DispatchOpForTest("Mission/startMission", JObject.Parse("{\"mission_id\":10,\"spots\":[{\"spot_id\":133,\"team_id\":1}]}"), p).Wait();
+                ctrl.DispatchOpForTest("Mission/teamMove", JObject.Parse("{\"person_type\":1,\"person_id\":1,\"from_spot_id\":133,\"to_spot_id\":147,\"move_type\":1}"), p).Wait();
+                var winResp = DecodeResp(ctrl.DispatchOpForTest("Mission/battleFinish", JObject.Parse("{\"spot_id\":147,\"if_enemy_die\":true}"), p).Result, signKey);
+                var openObj = winResp["mission_win_result"]?["open"] as JObject;
+                Assert(openObj?["15"]?.Value<int>() == 1 && openObj?["11"]?.Value<int>() == 1 && openObj?["90001"]?.Value<int>() == 1,
+                    $"Clearing 1-6 must unlock 2-1 (15), 1-1E (11), 1-1N (90001); got {openObj}");
+
+                // 11. Mission/skip (Special Support Operation Grade: mission_skip_ids="1")
+                Assert(ExtractContent(ctrl.DispatchOpForTest("Mission/skip", JObject.Parse("{\"mission_skip_ids\":\"1\"}"), p).Result) == "1", "Mission/skip failed");
+
+                // 12. Mall/buyUniform (commander outfits 6331, 2611 -> 400+400 gems) & Mall/buyVehicleSkin & quota rest_num
+                int gemsBeforeUniform = p.Gem;
+                var uniResp = DecodeResp(ctrl.DispatchOpForTest("Mall/buyUniform", JObject.Parse("{\"mall_ids\":[\"6331\",\"2611\"]}"), p).Result, signKey);
+                Assert(uniResp["status"]?.Value<int>() == 1, "Mall/buyUniform must return status=1");
+                Assert((uniResp["commander_uniform"] as JArray)?.Count == 2, "Mall/buyUniform should return 2 uniforms");
+                Assert(p.Gem == gemsBeforeUniform - 800, "Mall/buyUniform must deduct 800 gems");
+
+                var vehResp = DecodeResp(ctrl.DispatchOpForTest("Mall/buyVehicleSkin", JObject.Parse("{\"mall_ids\":[11632]}"), p).Result, signKey);
+                Assert(vehResp["status"]?.Value<int>() == 1, "Mall/buyVehicleSkin must return status=1");
+                Assert(p.Items.GetValueOrDefault("133088") == 1, "Mall/buyVehicleSkin must grant item 133088");
+
+                // 13. Mall quota limit (mall_id=163 has daily_quota=50 -> rest_num drops 50 -> 49 -> 0)
+                var qResp = DecodeResp(ctrl.DispatchOpForTest("Mall/gemToGiftbag", JObject.Parse("{\"mall_id\":163,\"num\":1}"), p).Result, signKey);
+                Assert(qResp["status"]?.Value<int>() == 1, "Mall/gemToGiftbag mall_id=163 must return status=1");
+
+                // 14. Commander/changeDressed (dressed_info), Vehicle/taskInfo, Daily/index, Dorm/coffeeshop_unlock
+                Assert(ExtractContent(ctrl.DispatchOpForTest("Commander/changeDressed", JObject.Parse("{\"dressed_info\":\"1912:,5020:,5732:,5040:,5552:,0\"}"), p).Result) == "1", "Commander/changeDressed failed");
+                Assert(ExtractContent(ctrl.DispatchOpForTest("Vehicle/taskInfo", new JObject(), p).Result).StartsWith("#"), "Vehicle/taskInfo must return encrypted JSON array");
+                Assert(ExtractContent(ctrl.DispatchOpForTest("Daily/index", new JObject(), p).Result).StartsWith("#"), "Daily/index must return encrypted JSON object");
+                var letterResp = DecodeResp(ctrl.DispatchOpForTest("Event/letterIndex", new JObject(), p).Result, signKey);
+                Assert(letterResp["letter_list"] != null, "Event/letterIndex must return letter_list dictionary");
+                int batBefore = p.Items.GetValueOrDefault("506");
+                Assert(ExtractContent(ctrl.DispatchOpForTest("Dorm/coffeeshop_unlock", JObject.Parse($"{{\"user_id\":\"{playerId}\",\"id\":1,\"type\":1}}"), p).Result) == "1", "Dorm/coffeeshop_unlock failed");
+                Assert(p.Items.GetValueOrDefault("506") == batBefore - 1000, "Dorm/coffeeshop_unlock did not deduct 1000 batteries (item 506)");
             }
 
             // Reopen DB and verify everything persisted through Index/index!
@@ -215,8 +257,11 @@ class Program
                 Assert(gunToken["can_click"]?.ToString() == "0", "CanClick (dorm heart) did not persist");
                 var repairedGun = p2.Guns.First(g => g.Id == firstGunId);
                 Assert(gunToken["life"]?.ToString() == Kryuger.Server.Controllers.GameController.MaxLife(repairedGun).ToString(), "Repaired Life is not the real max HP");
-                Assert(p2.Guns.Count == initialGunCount + 1, "Mall purchase Thompson gun did not persist");
+                Assert(p2.Guns.Count >= initialGunCount + 1, "Mall purchase Thompson gun did not persist");
                 Assert(p2.Items["100010"] == 9998, "Mall purchase itemprice 100010 did not deduct");
+                Assert(p2.Items["9"] == 9997, "Gun/eatGun item 9 (Enhancement Capsules) did not deduct");
+                var thompson = p2.Guns.First(g => g.GunId == 16 && g.GunLevel == 30);
+                Assert(thompson.Pow == 2 && thompson.Hit == 2 && thompson.Dodge == 2 && thompson.Rate == 2, "Gun/eatGun capsule enhancement did not persist");
 
                 var devArr = reloadedIndex["develop_act_info"] as JArray;
                 Assert(devArr != null && devArr.Count == 1, "develop_act_info should persist");
@@ -231,6 +276,25 @@ class Program
                     Assert(opObj[k] != null && int.TryParse(opObj[k]!.ToString(), out _), $"operation_act_info missing/invalid int field {k}");
 
                 Assert(reloadedIndex["auto_mission_act_info"] == null || reloadedIndex["auto_mission_act_info"]!.Type == JTokenType.Null, "Aborted automission should not stay active");
+
+                Assert(reloadedIndex["user_record"]?["mission_campaign"]?.Value<int>() == 7, "mission_campaign should advance to 7 after Mission/skip grade 1");
+                var openMissions = (reloadedIndex["mission_with_user_info"] as JArray)!.Select(m => m["mission_id"]?.ToString()).ToHashSet();
+                Assert(openMissions.Contains("15") && openMissions.Contains("60") && openMissions.Contains("61") && openMissions.Contains("65") && openMissions.Contains("90013"),
+                    "Mission/skip grade 1 must clear up to 6-6 (60) and open 7-1 (61), 6-1E (65), 5-1N (90013)");
+
+                var ownedUniforms = (reloadedIndex["commander_uniform_info"] as JArray)!.Select(u => u["commander_uniform_id"]?.ToString()).ToHashSet();
+                Assert(ownedUniforms.Contains("6331") && ownedUniforms.Contains("2611"), "Purchased commander uniforms did not persist in Index/index");
+                Assert(reloadedIndex["commander_with_user_info"]?["dressed"]?.ToString() == "1912:,5020:,5732:,5040:,5552:,0", "Commander dressed_info did not persist in Index/index");
+
+                string csRaw = AuthCode.Decode(ExtractContent(ctrl2.DispatchOpForTest("Dorm/coffeeshop_unlock_list", JObject.Parse($"{{\"user_id\":\"{playerId}\",\"id\":1,\"type\":1}}"), p2).Result), signKey);
+                var csObj = JObject.Parse(csRaw);
+                Assert(csObj["pv"]?[0]?.ToString() == "1", $"Dorm/coffeeshop_unlock_list did not persist official pv schema: {csRaw}");
+
+                var staticTables = DecodeResp(ctrl2.DispatchOpForTest("Mall/staticTables", new JObject(), p2).Result, signKey);
+                var m163 = staticTables["mall_list"]!.Values().First(v => v["id"]?.ToString() == "163");
+                Assert(m163["rest_num"]?.Value<int>() == 49, $"Mall/staticTables mall_id=163 rest_num should be 49, got {m163["rest_num"]}");
+                var m340 = staticTables["mall_list"]!.Values().First(v => v["id"]?.ToString() == "340");
+                Assert(m340["rest_num"]?.Value<int>() == 0, $"Mall/staticTables mall_id=340 rest_num should be 0 after 1/1 buy, got {m340["rest_num"]}");
 
                 var bpJson = DecodeResp(ctrl2.DispatchOpForTest("Battlepass/index", new JObject(), p2).Result, signKey);
                 Assert(bpJson["battlepass_with_user"]![0]!["free_bonus"]?.ToString() == "1", "Battlepass claim did not persist");

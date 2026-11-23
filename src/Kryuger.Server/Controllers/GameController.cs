@@ -350,7 +350,7 @@ namespace Kryuger.Server.Controllers
                 "dorm/kalinafavoruplevel" => HandleKalinaFavorUpLevel(player, body),
                 "dorm/share" => PlainSuccess(),
                 "dorm/skinread" => PlainSuccess(),
-                "event/letterindex" => EncryptedResponse(new Dictionary<string, object>(), player?.SignKey ?? AuthCode.DefaultKey),
+                "event/letterindex" => EncryptedResponse(new { letter_list = new Dictionary<string, object>() }, player?.SignKey ?? AuthCode.DefaultKey),
                 "explore/getmalllist" => EncryptedResponse(BuildExploreMallList(), player?.SignKey ?? AuthCode.DefaultKey),
                 "giftbox/checkovertime" => EncryptedResponse(new List<object>(), player?.SignKey ?? AuthCode.DefaultKey),
                 "manual/readlist" => EncryptedResponse(new { user_id = player?.Id ?? 0, tutorial_manual_id = new List<object>(), tutorial_guide_id = new List<object>() }, player?.SignKey ?? AuthCode.DefaultKey),
@@ -856,14 +856,17 @@ namespace Kryuger.Server.Controllers
                     ["is_init_effect"] = "1",
                     ["gender"] = string.IsNullOrEmpty(player.Gender) ? "0" : player.Gender
                 },
-                ["commander_uniform_info"] = new[] { "1010", "1020", "1030", "1040", "1050" }.Select(uid => new Dictionary<string, object>
-                {
-                    ["user_id"] = player.Id,
-                    ["commander_uniform_id"] = uid,
-                    ["color_get"] = new List<object>(),
-                    ["get_color_num"] = 0,
-                    ["create_time"] = now
-                }).ToList(),
+                ["commander_uniform_info"] = new[] { "1010", "1020", "1030", "1040", "1050" }
+                    .Concat((player.Extra.GetValueOrDefault("commander_uniforms") ?? "").Split(',', StringSplitOptions.RemoveEmptyEntries))
+                    .Distinct()
+                    .Select(uid => new Dictionary<string, object>
+                    {
+                        ["user_id"] = player.Id,
+                        ["commander_uniform_id"] = uid,
+                        ["color_get"] = new List<object>(),
+                        ["get_color_num"] = 0,
+                        ["create_time"] = now
+                    }).ToList(),
                 ["sangvis_with_user_info"] = new List<object>(),
                 ["sangvis_chip_with_user_info"] = new List<object>(),
                 ["sangvis_team_with_user_info"] = new List<object>(),
@@ -1026,31 +1029,9 @@ namespace Kryuger.Server.Controllers
             foreach (var rec in player.Missions.Values)
             {
                 openIds.Add(rec.MissionId);
-                bool cleared = rec.WinCounter > 0;
-                if (!cleared) continue;
-
-                var row = Tables.Row("mission", rec.MissionId);
-                if (row == null) continue;
-                int c = row.Int("campaign");
-                int sub = row.Int("sub");
-                int emerg = row.Int("if_emergency");
-
-                var nextInChapter = allMissions.FirstOrDefault(r =>
-                    r.Int("campaign") == c && r.Int("if_emergency") == emerg && r.Int("sub") == sub + 1);
-                if (nextInChapter != null)
-                {
-                    openIds.Add(nextInChapter.Int("id"));
-                }
-                else if (emerg == 0 && c >= 0)
-                {
-                    // Chapter normal cleared: unlock next chapter normal + current chapter emergency & night
-                    var nextChap = allMissions.FirstOrDefault(r => r.Int("campaign") == c + 1 && r.Int("if_emergency") == 0 && r.Int("sub") == 1);
-                    if (nextChap != null) openIds.Add(nextChap.Int("id"));
-                    var emergChap = allMissions.FirstOrDefault(r => r.Int("campaign") == c && r.Int("if_emergency") == 1 && r.Int("sub") == 1);
-                    if (emergChap != null) openIds.Add(emergChap.Int("id"));
-                    var nightChap = allMissions.FirstOrDefault(r => r.Int("campaign") == c && r.Int("if_emergency") == 3 && r.Int("sub") == 1);
-                    if (nightChap != null) openIds.Add(nightChap.Int("id"));
-                }
+                if (rec.WinCounter <= 0) continue;
+                foreach (int nextId in NextMissionsAfterClear(rec.MissionId))
+                    openIds.Add(nextId);
             }
 
             var result = new List<Dictionary<string, object>>();
@@ -1088,13 +1069,45 @@ namespace Kryuger.Server.Controllers
             return result;
         }
 
-        private static Dictionary<string, object>? _cachedMallList;
+        private static List<(string key, JObject row, Dictionary<string, object> fields)>? _cachedMallEntries;
+
+        private static string MallQuotaKey(JObject row)
+        {
+            int id = row.Int("id");
+            return row.Int("daily_quota") > 0
+                ? $"mall_d_{DateTime.UtcNow:yyyyMMdd}_{id}"
+                : $"mall_t_{id}";
+        }
+
+        private static int MallLimit(JObject row)
+        {
+            int daily = row.Int("daily_quota");
+            if (daily > 0) return daily;
+            int quota = row.Int("quota");
+            return quota > 2000 ? quota - 2000 : quota;
+        }
+
+        private static int MallRestNum(PlayerAccount? player, JObject row)
+        {
+            int limit = MallLimit(row);
+            if (limit <= 0) return -1;
+            int bought = player != null && int.TryParse(player.Extra.GetValueOrDefault(MallQuotaKey(row)), out int b) ? b : 0;
+            return Math.Max(0, limit - bought);
+        }
+
+        private static void RecordMallPurchase(PlayerAccount player, JObject row, int num)
+        {
+            if (MallLimit(row) <= 0) return;
+            string k = MallQuotaKey(row);
+            int cur = int.TryParse(player.Extra.GetValueOrDefault(k), out int b) ? b : 0;
+            player.Extra[k] = (cur + Math.Max(1, num)).ToString();
+        }
 
         private static Dictionary<string, object> BuildMallStaticTablesPayload(PlayerAccount? player)
         {
-            if (_cachedMallList == null)
+            if (_cachedMallEntries == null)
             {
-                var dict = new Dictionary<string, object>();
+                var list = new List<(string, JObject, Dictionary<string, object>)>();
                 int idx = 0;
                 foreach (var kv in Tables.Get("mall").OrderBy(x => x.Key))
                 {
@@ -1139,14 +1152,24 @@ namespace Kryuger.Server.Controllers
                         ["end_time"] = -1,
                         ["rest_num"] = -1
                     };
-                    dict[(idx++).ToString()] = entry;
+                    list.Add(((idx++).ToString(), r, entry));
                 }
-                _cachedMallList = dict;
+                _cachedMallEntries = list;
+            }
+
+            var mallDict = new Dictionary<string, object>(_cachedMallEntries.Count);
+            foreach (var (key, row, fields) in _cachedMallEntries)
+            {
+                var copy = new Dictionary<string, object>(fields)
+                {
+                    ["rest_num"] = MallRestNum(player, row)
+                };
+                mallDict[key] = copy;
             }
 
             return new Dictionary<string, object>
             {
-                ["mall_list"] = _cachedMallList,
+                ["mall_list"] = mallDict,
                 ["increase_gem_order"] = new Dictionary<string, object>(),
                 ["max_cost_list"] = new Dictionary<string, object>(),
                 ["max_limit"] = new Dictionary<string, object>(),
@@ -1237,6 +1260,7 @@ namespace Kryuger.Server.Controllers
 
             foreach (var rec in player.Missions.Values)
             {
+                if (rec.WinCounter <= 0) continue;
                 var row = Tables.Row("mission", rec.MissionId);
                 if (row == null) continue;
                 if (row.Int("duplicate_type") != 0 || row.Int("if_emergency") != 0 || row.Int("endless_mode") != 0) continue;

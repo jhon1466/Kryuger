@@ -451,9 +451,11 @@ namespace Kryuger.Server.Controllers
                 case "gun/eatgun":
                 {
                     long target = L(b, "gun_with_user_id");
+                    int item9 = Math.Max(0, (int)L(b, "item9_num", "item_num"));
                     var food = Ids(b?["food"] ?? b?["guns"]).ToHashSet();
                     var gun = p.Guns.FirstOrDefault(g => g.Id == target);
-                    int dp = 0, dh = 0, dd = 0, dr = 0;
+                    int dp = item9, dh = item9, dd = item9, dr = item9;
+                    if (item9 > 0) AddItem(p, 9, -item9);
                     if (gun != null)
                     {
                         foreach (var f in p.Guns.Where(g => food.Contains(g.Id)))
@@ -463,8 +465,10 @@ namespace Kryuger.Server.Controllers
                             dp += rank * 2 * f.Number; dh += rank * f.Number; dd += rank * f.Number; dr += rank * f.Number;
                         }
                         var (maxP, maxH, maxD, maxR) = Tables.GetMaxEnhancement(gun.GunId, gun.GunLevel);
+                        int oldP = gun.Pow, oldH = gun.Hit, oldD = gun.Dodge, oldR = gun.Rate;
                         gun.Pow = Math.Min(maxP, gun.Pow + dp); gun.Hit = Math.Min(maxH, gun.Hit + dh);
                         gun.Dodge = Math.Min(maxD, gun.Dodge + dd); gun.Rate = Math.Min(maxR, gun.Rate + dr);
+                        dp = gun.Pow - oldP; dh = gun.Hit - oldH; dd = gun.Dodge - oldD; dr = gun.Rate - oldR;
                     }
                     p.Guns.RemoveAll(g => food.Contains(g.Id));
                     Count(p, "eat");
@@ -768,8 +772,42 @@ namespace Kryuger.Server.Controllers
                     }
                     return Enc(p, new { all_favorup_gun = new List<object>(), all_favorup_sangvis = new List<object>(), last_favor_recover_time = Now.ToString(), score = 3200 });
                 }
+                case "dorm/coffeeshop_unlock":
+                {
+                    int cid = (int)L(b, "id");
+                    int ctype = (int)L(b, "type");
+                    string key = $"coffeeshop_{ctype}";
+                    var unlocked = (p.Extra.GetValueOrDefault(key) ?? "").Split(',', StringSplitOptions.RemoveEmptyEntries).ToHashSet();
+                    if (cid > 0 && unlocked.Add(cid.ToString()))
+                    {
+                        var row = Tables.Row(ctype == 2 ? "coffeeshop_comic" : "coffeeshop_pv", cid);
+                        if (row != null)
+                        {
+                            foreach (var pair in (row["cost"]?.ToString() ?? "").Split(',', StringSplitOptions.RemoveEmptyEntries))
+                            {
+                                var kv = pair.Split('-');
+                                if (kv.Length == 2 && int.TryParse(kv[0], out int itemId) && int.TryParse(kv[1], out int cnt) && itemId > 0 && cnt > 0)
+                                    AddItem(p, itemId, -cnt);
+                            }
+                            GrantRow(p, row);
+                        }
+                    }
+                    p.Extra[key] = string.Join(',', unlocked);
+                    return Ok1(p);
+                }
                 case "dorm/coffeeshop_unlock_list":
-                    return Enc(p, new List<object>());
+                {
+                    var pv = (p.Extra.GetValueOrDefault("coffeeshop_1") ?? "")
+                        .Split(',', StringSplitOptions.RemoveEmptyEntries).ToList();
+                    var comic = (p.Extra.GetValueOrDefault("coffeeshop_2") ?? "")
+                        .Split(',', StringSplitOptions.RemoveEmptyEntries).ToList();
+                    if (pv.Count == 0 && comic.Count == 0)
+                        return Enc(p, new List<object>());
+                    var res = new Dictionary<string, object>();
+                    if (pv.Count > 0) res["pv"] = pv;
+                    if (comic.Count > 0) res["comic"] = comic;
+                    return Enc(p, res);
+                }
                 case "dorm/gasha_draw":
                 {
                     int drawType = (int)L(b, "draw_type");
@@ -929,6 +967,54 @@ namespace Kryuger.Server.Controllers
                         extra_bonus = p.Extra.GetValueOrDefault($"bp_{bpId}_3", "")
                     });
                 }
+                case "mall/buyvehicleskin":
+                {
+                    foreach (long mid in Ids(b?["mall_ids"] ?? b?["id"]))
+                    {
+                        var row = Tables.Row("mall", (int)mid);
+                        if (row == null) continue;
+                        if (MallRestNum(p, row) == 0) continue;
+                        int gemCost = row.Int("gemprice");
+                        if (gemCost > 0) p.Gem = Math.Max(0, p.Gem - gemCost);
+                        GrantRow(p, row);
+                        RecordMallPurchase(p, row, 1);
+                    }
+                    return Enc(p, new { status = 1 });
+                }
+                case "friend/cosmeticbuy":
+                {
+                    int cid = (int)L(b, "id");
+                    var owned = (p.Extra.GetValueOrDefault("friend_cosmetics") ?? "").Split(',', StringSplitOptions.RemoveEmptyEntries).ToHashSet();
+                    if (cid > 0) owned.Add(cid.ToString());
+                    p.Extra["friend_cosmetics"] = string.Join(',', owned);
+                    return Ok1(p);
+                }
+                case "mall/buyuniform":
+                {
+                    var owned = (p.Extra.GetValueOrDefault("commander_uniforms") ?? "").Split(',', StringSplitOptions.RemoveEmptyEntries).ToHashSet();
+                    var added = new List<object>();
+                    foreach (long mid in Ids(b?["mall_ids"] ?? b?["id"]))
+                    {
+                        var row = Tables.Row("mall", (int)mid);
+                        if (row == null) continue;
+                        if (MallRestNum(p, row) == 0) continue;
+                        int gemCost = row.Int("gemprice");
+                        if (gemCost > 0) p.Gem = Math.Max(0, p.Gem - gemCost);
+                        var pr = row.Int("prize_id") > 0 ? Tables.Row("prize", row.Int("prize_id")) : null;
+                        string rawUniforms = pr?["commander_uniform"]?.ToString() ?? "";
+                        if (string.IsNullOrEmpty(rawUniforms) && Tables.Row("commander_uniform", (int)mid) != null) rawUniforms = mid.ToString();
+                        foreach (var uidStr in rawUniforms.Split(',', StringSplitOptions.RemoveEmptyEntries))
+                        {
+                            string u = uidStr.Trim();
+                            if (string.IsNullOrEmpty(u)) continue;
+                            owned.Add(u);
+                            added.Add(new { user_id = p.Id, commander_uniform_id = u, color_get = new List<object>(), get_color_num = 0, create_time = Now });
+                        }
+                        RecordMallPurchase(p, row, 1);
+                    }
+                    p.Extra["commander_uniforms"] = string.Join(',', owned);
+                    return Enc(p, new { status = 1, commander_uniform = added, commander_uniform_info = added });
+                }
                 case "mall/buy":
                 case "mall/gem":
                 case "mall/gemtogiftbag":
@@ -947,6 +1033,10 @@ namespace Kryuger.Server.Controllers
                     var gunAddList = new List<object>();
                     if (row != null)
                     {
+                        int restBefore = MallRestNum(p, row);
+                        if (restBefore == 0) return Enc(p, new { status = 0, rest_num = 0 });
+                        if (restBefore > 0) num = Math.Min(num, restBefore);
+
                         int gemCost = row.Int("gemprice") * num;
                         if (gemCost > 0) p.Gem = Math.Max(0, p.Gem - gemCost);
                         foreach (var costPart in (row["itemprice"]?.ToString() ?? "").Split(',', StringSplitOptions.RemoveEmptyEntries))
@@ -989,6 +1079,7 @@ namespace Kryuger.Server.Controllers
                                 }
                             }
                         }
+                        RecordMallPurchase(p, row, num);
                     }
                     var prizeObj = pr == null ? null : new
                     {
@@ -1004,7 +1095,8 @@ namespace Kryuger.Server.Controllers
                     };
                     var resp = new Dictionary<string, object?>
                     {
-                        ["rest_num"] = -1,
+                        ["status"] = 1,
+                        ["rest_num"] = row != null ? MallRestNum(p, row) : -1,
                         ["mall_score"] = 0,
                         ["prize_id"] = prizeId,
                         ["gun_with_user_add_list"] = gunAddList,
@@ -1018,10 +1110,9 @@ namespace Kryuger.Server.Controllers
                         resp["prize"] = prizeObj;
                         resp["package"] = prizeObj;
                     }
-                    // Official reply captured 2026-11-20 (Mall/gemToItem): encrypted {"status":1}. A bare "1" or the
-                    // invented object above made the client show "busy server... client will restart". Packages that
-                    // create new dolls also carry their instance ids.
-                    if (gunAddList.Count == 0) return Enc(p, new { status = 1 });
+                    // Official Mall/gemToItem (gfl_capture.log L940) returns {"status":1}; giftbag/other mall ops return
+                    // status=1 plus rest_num and prize/package/gun_with_user_add_list.
+                    if (op.Equals("mall/gemtoitem", StringComparison.OrdinalIgnoreCase)) return Enc(p, new { status = 1 });
                     resp["status"] = 1;
                     return Enc(p, resp);
                 }
@@ -1089,10 +1180,17 @@ namespace Kryuger.Server.Controllers
                     return Ok1(p);
                 }
 
+                case "vehicle/taskinfo":
+                    return Enc(p, new List<object>());
+                case "daily/index":
+                    return Enc(p, new Dictionary<string, object>());
+                case "dorm/medal":
+                    return Enc(p, new List<object>());
                 // ===== Profile / misc persistence =====
                 case "commander/changedressed":
                 {
-                    if (b?["dressed"] != null) p.Extra["commander_dressed"] = b["dressed"]!.ToString();
+                    var dressed = b?["dressed_info"] ?? b?["dressed"];
+                    if (dressed != null) p.Extra["commander_dressed"] = dressed.ToString();
                     return Ok1(p);
                 }
                 case "index/adjutant":

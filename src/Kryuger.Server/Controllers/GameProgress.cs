@@ -92,6 +92,33 @@ namespace Kryuger.Server.Controllers
             int skin = row.Int("skin");
             if (skin > 0 && !p.Skins.Contains(skin)) p.Skins.Add(skin);
 
+            foreach (var gPart in (row["gift"]?.ToString() ?? "").Split(',', StringSplitOptions.RemoveEmptyEntries))
+            {
+                var kv = gPart.Split('-', ':');
+                if (kv.Length == 2 && int.TryParse(kv[0], out int gid) && int.TryParse(kv[1], out int cnt) && gid > 0)
+                    p.Gifts[gid.ToString()] = (p.Gifts.TryGetValue(gid.ToString(), out int cur) ? cur : 0) + cnt;
+            }
+
+            foreach (var fPart in (row["fairy_ids"]?.ToString() ?? "").Split(',', StringSplitOptions.RemoveEmptyEntries))
+            {
+                var kv = fPart.Split('-');
+                if (int.TryParse(kv[0], out int fid) && fid > 0)
+                {
+                    int n = kv.Length > 1 && int.TryParse(kv[1], out int c) ? c : 1;
+                    for (int i = 0; i < n; i++)
+                        p.Fairies.Add(new PlayerFairy { Id = NextFairyId(p), FairyId = fid, PassiveSkill = 0 });
+                }
+            }
+
+            string rawUniform = row["commander_uniform"]?.ToString() ?? "";
+            if (!string.IsNullOrEmpty(rawUniform))
+            {
+                var ownedUni = (p.Extra.GetValueOrDefault("commander_uniforms") ?? "").Split(',', StringSplitOptions.RemoveEmptyEntries).ToHashSet();
+                foreach (var u in rawUniform.Split(',', StringSplitOptions.RemoveEmptyEntries))
+                    if (!string.IsNullOrWhiteSpace(u)) ownedUni.Add(u.Trim());
+                p.Extra["commander_uniforms"] = string.Join(',', ownedUni);
+            }
+
             int prizeId = row.Int("prize_id");
             if (prizeId > 0 && row != Tables.Row("prize", prizeId))
                 foreach (var kv in GrantRow(p, Tables.Row("prize", prizeId))) got["prize_" + kv.Key] = kv.Value;
@@ -126,6 +153,38 @@ namespace Kryuger.Server.Controllers
             if (g.GunLevel >= cap) g.GunExp = 0;
         }
 
+        /// <summary>Missions unlocked when `missionId` is cleared (next sub-mission, or next chapter + emergency/night on chapter clear).</summary>
+        private static List<int> NextMissionsAfterClear(int missionId)
+        {
+            var unlocked = new List<int>();
+            var row = Tables.Row("mission", missionId);
+            if (row == null) return unlocked;
+
+            int c = row.Int("campaign"), sub = row.Int("sub"), emerg = row.Int("if_emergency"), dup = row.Int("duplicate_type");
+            var pool = Tables.Get("mission").Values
+                .Where(r => r.Int("endless_mode") == 0 && r.Int("is_hide") == 0)
+                .ToList();
+
+            var nextSub = pool.FirstOrDefault(r =>
+                r.Int("campaign") == c && r.Int("if_emergency") == emerg && r.Int("duplicate_type") == dup && r.Int("sub") == sub + 1);
+            if (nextSub != null)
+            {
+                unlocked.Add(nextSub.Int("id"));
+                return unlocked;
+            }
+
+            if (emerg == 0 && dup == 0 && c >= 0)
+            {
+                var nextChap = pool.FirstOrDefault(r => r.Int("campaign") == c + 1 && r.Int("if_emergency") == 0 && r.Int("duplicate_type") == 0 && r.Int("sub") == 1);
+                if (nextChap != null) unlocked.Add(nextChap.Int("id"));
+                var emergChap = pool.FirstOrDefault(r => r.Int("campaign") == c && r.Int("if_emergency") == 1 && r.Int("duplicate_type") == 0 && r.Int("sub") == 1);
+                if (emergChap != null) unlocked.Add(emergChap.Int("id"));
+                var nightChap = pool.FirstOrDefault(r => r.Int("campaign") == c && r.Int("if_emergency") == 3 && r.Int("duplicate_type") == 0 && r.Int("sub") == 1);
+                if (nightChap != null) unlocked.Add(nightChap.Int("id"));
+            }
+            return unlocked;
+        }
+
         // ---------- mission victory ----------
         private Dictionary<string, object> CompleteMission(PlayerAccount p)
         {
@@ -158,13 +217,13 @@ namespace Kryuger.Server.Controllers
             int turn = m.Turn;
             int kills = int.TryParse(p.Extra.GetValueOrDefault("mission_kills"), out int k) ? k : 0;
             ResetMissionCounters(p);
-            // unlock the next mission(s) of the campaign
+            // unlock the next mission(s) of the campaign (next sub-mission, or next chapter + emergency/night)
             var open = new Dictionary<string, int>();
-            foreach (var r in Tables.Get("mission").Values.Where(r => r.Int("id") == m.MissionId + 1))
+            foreach (int nextId in NextMissionsAfterClear(m.MissionId))
             {
-                open[r.Int("id").ToString()] = 1;
-                if (!p.Missions.ContainsKey(r.Int("id").ToString()))
-                    p.Missions[r.Int("id").ToString()] = new MissionRecord { MissionId = r.Int("id"), BestRank = 0, Medal4 = 0 };
+                open[nextId.ToString()] = 1;
+                if (!p.Missions.ContainsKey(nextId.ToString()))
+                    p.Missions[nextId.ToString()] = new MissionRecord { MissionId = nextId, BestRank = 0, Medal4 = 0 };
             }
             p.ActiveMission = null;
 
@@ -217,6 +276,33 @@ namespace Kryuger.Server.Controllers
                 }
 
                 // ===== Missions =====
+                case "mission/skip":
+                {
+                    foreach (int skipId in Ids(b?["mission_skip_ids"] ?? b?["id"]))
+                    {
+                        var row = Tables.Row("mission_skip", skipId);
+                        if (row == null) continue;
+                        int price = row.Int("price");
+                        if (price > 0) p.Gem = Math.Max(0, p.Gem - price);
+                        foreach (long mid in Ids(row["mission"]))
+                        {
+                            string k = mid.ToString();
+                            if (!p.Missions.TryGetValue(k, out var rec))
+                                p.Missions[k] = rec = new MissionRecord { MissionId = (int)mid };
+                            rec.BestRank = Math.Max(rec.BestRank, 5);
+                            rec.Medal4 = 1;
+                            rec.Counter = Math.Max(rec.Counter, 1);
+                            rec.WinCounter = Math.Max(rec.WinCounter, 1);
+                        }
+                        foreach (long mid in Ids(row["mission_unlock"]))
+                        {
+                            string k = mid.ToString();
+                            if (!p.Missions.ContainsKey(k))
+                                p.Missions[k] = new MissionRecord { MissionId = (int)mid, BestRank = 0, Medal4 = 0 };
+                        }
+                    }
+                    return Ok1(p);
+                }
                 case "mission/battlefinish":
                 {
                     // persist hp the client reports for the battle
