@@ -192,6 +192,12 @@ class Program
                 var buyResp = DecodeResp(ctrl.DispatchOpForTest("Mall/gemToGiftbag", JObject.Parse("{\"mall_id\":340,\"num\":1}"), p).Result, signKey);
                 Assert(buyResp["prize"]?["gun_id"]?.ToString() == "16", "Mall/gemToGiftbag prize gun_id=16");
                 Assert(buyResp["gun_with_user_add"]?["gun_id"]?.ToString() == "16", "Mall/gemToGiftbag gun_with_user_add object");
+
+                // 9. Active Gun/developGun, Operation/startOperation, and Automission start+abort
+                ctrl.DispatchOpForTest("Gun/developGun", JObject.Parse("{\"mp\":522,\"ammo\":320,\"mre\":404,\"part\":137,\"build_slot\":1,\"input_level\":0}"), p).Wait();
+                ctrl.DispatchOpForTest("Operation/startOperation", JObject.Parse("{\"operation_id\":5,\"team_id\":1}"), p).Wait();
+                ctrl.DispatchOpForTest("Automission/startAutomission", JObject.Parse("{\"team_ids\":[1],\"auto_mission_id\":6,\"number\":3,\"is_quick\":0}"), p).Wait();
+                Assert(ExtractContent(ctrl.DispatchOpForTest("Automission/abortAutomission", JObject.Parse("{\"auto_mission_id\":6}"), p).Result) == "1", "Automission/abortAutomission failed");
             }
 
             // Reopen DB and verify everything persisted through Index/index!
@@ -212,8 +218,23 @@ class Program
                 Assert(p2.Guns.Count == initialGunCount + 1, "Mall purchase Thompson gun did not persist");
                 Assert(p2.Items["100010"] == 9998, "Mall purchase itemprice 100010 did not deduct");
 
+                var devArr = reloadedIndex["develop_act_info"] as JArray;
+                Assert(devArr != null && devArr.Count == 1, "develop_act_info should persist");
+                var dev = (JObject)devArr![0];
+                foreach (var k in new[] { "id", "build_slot", "user_id", "gun_id", "equip_id", "start_time", "mp", "ammo", "mre", "part", "input_level", "core", "item1_num", "wish_gun" })
+                    Assert(dev[k] != null && int.TryParse(dev[k]!.ToString(), out _), $"develop_act_info missing/invalid int field {k}");
+
+                var opArr = reloadedIndex["operation_act_info"] as JArray;
+                Assert(opArr != null && opArr.Count == 1, "operation_act_info should persist");
+                var opObj = (JObject)opArr![0];
+                foreach (var k in new[] { "id", "operation_id", "user_id", "team_id", "start_time", "exec_num" })
+                    Assert(opObj[k] != null && int.TryParse(opObj[k]!.ToString(), out _), $"operation_act_info missing/invalid int field {k}");
+
+                Assert(reloadedIndex["auto_mission_act_info"] == null || reloadedIndex["auto_mission_act_info"]!.Type == JTokenType.Null, "Aborted automission should not stay active");
+
                 var bpJson = DecodeResp(ctrl2.DispatchOpForTest("Battlepass/index", new JObject(), p2).Result, signKey);
                 Assert(bpJson["battlepass_with_user"]![0]!["free_bonus"]?.ToString() == "1", "Battlepass claim did not persist");
+                Assert(int.TryParse(bpJson["battlepass_with_user"]![0]!["extra_bonus"]?.ToString(), out _), "Battlepass extra_bonus must parse as int");
             }
 
             Console.WriteLine("E2E server handlers + persistence across restart: PASS");

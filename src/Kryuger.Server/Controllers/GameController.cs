@@ -672,17 +672,29 @@ namespace Kryuger.Server.Controllers
                 ["mission_with_user_info"] = BuildMissionWithUserInfo(player),
                 ["operation_act_info"] = player.ActiveOperations.Select(o => new Dictionary<string, object>
                 {
+                    ["id"] = ((o.StartTime % 10_000_000) * 10 + o.TeamId).ToString(),
                     ["operation_id"] = o.OperationId.ToString(),
+                    ["user_id"] = player.Id.ToString(),
                     ["team_id"] = o.TeamId.ToString(),
                     ["start_time"] = o.StartTime.ToString(),
-                    ["duration"] = o.Duration.ToString()
+                    ["exec_num"] = "1"
                 }).ToList(),
                 ["develop_act_info"] = player.DevelopSlots.Select(s => new Dictionary<string, object>
                 {
+                    ["id"] = ((s.StartTime % 10_000_000) * 10 + s.Slot).ToString(),
                     ["build_slot"] = s.Slot.ToString(),
+                    ["user_id"] = player.Id.ToString(),
                     ["gun_id"] = s.GunId.ToString(),
+                    ["equip_id"] = "0",
                     ["start_time"] = s.StartTime.ToString(),
-                    ["duration"] = s.Duration.ToString()
+                    ["mp"] = s.Mp.ToString(),
+                    ["ammo"] = s.Ammo.ToString(),
+                    ["mre"] = s.Mre.ToString(),
+                    ["part"] = s.Part.ToString(),
+                    ["input_level"] = s.InputLevel.ToString(),
+                    ["core"] = "0",
+                    ["item1_num"] = (s.InputLevel switch { 1 => 20, 2 => 50, 3 => 100, _ => 1 }).ToString(),
+                    ["wish_gun"] = "0"
                 }).ToList(),
                 ["fix_act_info"] = player.FixSlots.Select(f => new Dictionary<string, object>
                 {
@@ -758,8 +770,12 @@ namespace Kryuger.Server.Controllers
                 ["fairy_with_user_info"] = player.Fairies.Select(f => FairyJson(player, f)).ToList(),
                 ["develop_equip_act_info"] = player.EquipDevelopSlots.Select(s => new Dictionary<string, object>
                 {
-                    ["build_slot"] = s.Slot.ToString(), ["equip_id"] = s.EquipId.ToString(), ["fairy_id"] = s.FairyId.ToString(),
-                    ["start_time"] = s.StartTime.ToString(), ["duration"] = s.Duration.ToString(), ["user_id"] = player.Id.ToString()
+                    ["id"] = ((s.StartTime % 10_000_000) * 10 + s.Slot).ToString(),
+                    ["build_slot"] = s.Slot.ToString(), ["user_id"] = player.Id.ToString(),
+                    ["gun_id"] = "0", ["equip_id"] = s.EquipId.ToString(), ["fairy_id"] = s.FairyId.ToString(),
+                    ["start_time"] = s.StartTime.ToString(), ["duration"] = s.Duration.ToString(),
+                    ["mp"] = s.Mp.ToString(), ["ammo"] = s.Ammo.ToString(), ["mre"] = s.Mre.ToString(), ["part"] = s.Part.ToString(),
+                    ["input_level"] = s.InputLevel.ToString(), ["core"] = "0", ["item1_num"] = "1", ["wish_gun"] = "0"
                 }).ToList(),
                 ["develop_fairy_act_info"] = new List<object>(),
                 ["team_in_coin_mission_info"] = new Dictionary<string, object>(),
@@ -1159,7 +1175,7 @@ namespace Kryuger.Server.Controllers
                         battlepass_id = "42",
                         free_bonus = player?.Extra.GetValueOrDefault("bp_42_1", "") ?? "",
                         paid_bonus = player?.Extra.GetValueOrDefault("bp_42_2", "") ?? "",
-                        extra_bonus = player?.Extra.GetValueOrDefault("bp_42_3", "") ?? "",
+                        extra_bonus = player?.Extra.GetValueOrDefault("bp_42_3") is { Length: > 0 } eb ? eb : "0",
                         is_expired = "0",
                         start_time = "1794211200"
                     }

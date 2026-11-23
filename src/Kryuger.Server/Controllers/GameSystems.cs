@@ -287,6 +287,14 @@ namespace Kryuger.Server.Controllers
                     p.Extra["auto_missions"] = new JArray(acts).ToString(Formatting.None);
                     return Ok1(p);
                 }
+                case "automission/abortautomission":
+                {
+                    int abortId = (int)L(b, "auto_mission_id", "mission_id");
+                    var acts = AutoMissions(p);
+                    acts.RemoveAll(a => a.Value<int>("auto_mission_id") == abortId);
+                    p.Extra["auto_missions"] = new JArray(acts).ToString(Formatting.None);
+                    return Ok1(p);
+                }
                 case "automission/quickautomission":
                 {
                     // Instant finish: costs quick_auto_mission_item (525) by remaining time, per
